@@ -280,6 +280,34 @@ table.plain td.num { font-family: var(--f-mono); font-variant-numeric: tabular-n
 .primer h4 { margin: 0 0 4px; font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .primer .now { background: var(--accent-soft); border-radius: 8px; padding: 10px 12px; }
 
+
+/* Home link, Edit link and editor */
+.homelink { font-size: 0.82rem; color: var(--muted); text-decoration: none; display: inline-block; margin-bottom: 2px; }
+.homelink:hover { color: var(--ink); text-decoration: underline; }
+.brandr { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.editlink { border: 1px solid var(--line); border-radius: 999px; padding: 3px 12px; font-size: 0.85rem; font-weight: 600; text-decoration: none; color: var(--ink); background: var(--surface); }
+.editlink:hover { border-color: var(--accent); }
+.btn.small { padding: 3px 10px; font-size: 0.82rem; }
+.fl { font-size: 0.8rem; font-weight: 700; color: var(--muted); }
+.ff { display: grid; gap: 4px; margin-bottom: 10px; min-width: 0; }
+.ff input, .ff textarea, .tokpanel input[type="password"], #eFile { background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; width: 100%; font: inherit; color: inherit; }
+.ff textarea { resize: vertical; line-height: 1.5; }
+.hint { font-size: 0.8rem; color: var(--muted); }
+.arr { display: grid; gap: 6px; }
+.ai { border: 1px solid var(--line); border-radius: 8px; background: var(--surface); min-width: 0; }
+.aih { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 6px 8px; flex-wrap: wrap; }
+.aibtn { background: none; border: 0; text-align: left; cursor: pointer; font-weight: 600; padding: 2px 4px; flex: 1 1 200px; min-width: 0; overflow-wrap: anywhere; }
+.aib { padding: 4px 12px 8px; border-top: 1px solid var(--line); }
+.fs { border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px 10px; margin: 0 0 10px; min-width: 0; }
+.fs legend { font-size: 0.8rem; font-weight: 700; color: var(--muted); padding: 0 4px; }
+.editform { min-width: 0; }
+.savebar { position: sticky; bottom: calc(8px + env(safe-area-inset-bottom, 0px)); background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.tokpanel { display: grid; gap: 8px; border-color: var(--accent); }
+.tokpanel p { margin: 0; }
+.tokpanel code { font-family: var(--f-mono); overflow-wrap: anywhere; }
+.chk2 { display: inline-flex; gap: 8px; align-items: center; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
+.chk2 input { width: 18px; height: 18px; }
+.err { color: var(--bad); font-size: 0.85rem; }
 .toast { position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--surface); border-radius: 999px; padding: 8px 16px; font-size: 0.88rem; z-index: 20; }
 @media (max-width: 560px) {
   .datebar .when { font-size: 1.5rem; }
@@ -300,8 +328,8 @@ table.plain td.num { font-family: var(--f-mono); font-variant-numeric: tabular-n
 <header class="top">
   <div class="top-inner">
     <div class="brand">
-      <h1><span class="panes" aria-hidden="true"><i></i><i></i><i></i></span>Three-Country Window</h1>
-      <span class="today" id="todayLabel"></span>
+      <div><a class="homelink" href="./">← Home</a><h1><span class="panes" aria-hidden="true"><i></i><i></i><i></i></span><span id="siteTitle">Three-Country Window</span></h1></div>
+      <div class="brandr"><span class="today" id="todayLabel"></span><a class="editlink" href="#edit">Edit</a></div>
     </div>
     <nav class="tabs" id="tabs" aria-label="Views">
       <a href="#today">Today</a>
@@ -341,7 +369,7 @@ const STAGES = ["Proposed", "Open for comment", "Passed / final", "Signed / publ
 const SIDE_STAGES = ["Challenged in court", "Struck down / withdrawn"];
 const WATCH_STATUS = ["Happened as expected", "Partly", "Did not happen", "Postponed"];
 const AREAS = ["US", "Poland", "Kraków", "India", "Relations"];
-const VIEWS = ["today", "lessons", "timeline", "rules", "watch", "reading", "sunday", "coverage", "library", "how"];
+const VIEWS = ["edit", "today", "lessons", "timeline", "rules", "watch", "reading", "sunday", "coverage", "library", "how"];
 
 /* ---------- State ---------- */
 const S = {
@@ -410,7 +438,7 @@ function write(path, fn) {
 }
 const upsert = (path, patch) => write(path, r => r.update(patch));
 function overlay(coll, items) { return items.map(x => { x = Object.assign({}, x); x._id = x.id != null ? String(x.id) : x._id; const p = S.my.docs[coll + "/" + x._id]; return p ? Object.assign(x, p) : x; }); }
-async function getJson(p) { const r = await fetch(BASE + p + "?t=" + Math.floor(Date.now() / 60000), { cache: "no-store" }); if (!r.ok) throw new Error(String(r.status)); return r.json(); }
+async function getJson(p) { const rc = recentGet(p); if (rc) return JSON.parse(JSON.stringify(rc)); const r = await fetch(BASE + p + "?t=" + Math.floor(Date.now() / 60000), { cache: "no-store" }); if (!r.ok) throw new Error(String(r.status)); return r.json(); }
 const itemsOf = j => Array.isArray(j) ? j : (j && Array.isArray(j.items) ? j.items : []);
 function mergeBy(a, b, key) {
   const m = new Map(); a.concat(b).forEach(x => { if (x && !m.has(x[key])) m.set(x[key], x); });
@@ -423,6 +451,8 @@ async function boot() {
   S.my = loadMine(); S.mine = Object.assign({}, S.my.mine);
   S.canWrite = true;
   S.dl = { save: async ({ filename, data }) => { const url = URL.createObjectURL(new Blob([data], { type: "text/csv;charset=utf-8" })); const a = document.createElement("a"); a.href = url; a.download = filename; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 2000); return { status: "saved" }; } };
+  try { S.site = mergeSite(await getJson("site.json")); } catch (e) { S.site = mergeSite(null); }
+  applySite();
   let man = null;
   try { man = await getJson("manifest.json"); } catch (e) { showStatus("Nothing published yet. The first daily run fills this page."); render(); return; }
   S.man = man; S.db = {};
@@ -486,7 +516,7 @@ function route() {
 function render() {
   const app = $("#app");
   const keepFocus = document.activeElement && document.activeElement.id;
-  const fn = { today: vToday, lessons: vLessons, timeline: vTimeline, rules: vRules, watch: vWatch, reading: vReading, sunday: vSunday, coverage: vCoverage, library: vLibrary, how: vHow }[S.view];
+  const fn = { edit: vEdit, today: vToday, lessons: vLessons, timeline: vTimeline, rules: vRules, watch: vWatch, reading: vReading, sunday: vSunday, coverage: vCoverage, library: vLibrary, how: vHow }[S.view];
   // Don't clobber text the person is typing
   if (document.activeElement && /TEXTAREA|INPUT/.test(document.activeElement.tagName) && document.activeElement.dataset.keep && app.contains(document.activeElement)) return;
   app.innerHTML = `<div class="view">${fn()}</div>`;
@@ -575,13 +605,13 @@ function vToday() {
   const selItems = arr(places[sel]);
 
   if (arr(b.top5).length) {
-    h += `<section class="sec"><h2>Top 5</h2><div class="panel"><ol class="top5">${arr(b.top5).map(t => {
+    h += `<section class="sec"><h2>${esc(H("top5", "Top 5"))}</h2><div class="panel"><ol class="top5">${arr(b.top5).map(t => {
       const o = typeof t === "string" ? { text: t } : t;
       return `<li><div class="txt"><div>${inline(o.text)}</div><div class="meta">${pchip(o.place)}${arr(o.links).map(linkHtml).join(" ")}</div></div></li>`;
     }).join("")}</ol></div></section>`;
   }
 
-  h += `<section class="sec"><h2>By place</h2>
+  h += `<section class="sec"><h2>${esc(H("byPlace", "By place"))}</h2>
     <div class="ptabs" role="tablist">${PLACES.map((p, k) => `<button class="ptab" role="tab" data-pc="${pc(p)}" aria-selected="${p === sel}" data-act="place" data-place="${esc(p)}"><span class="dot"></span>${esc(p)} <span class="n">${counts[k]}</span></button>`).join("")}</div>
     <div class="panel">
       ${sel === "Kraków" && arr(b.city).length ? `<div class="city" style="margin-bottom:10px"><b>Today in the city</b><ul>${arr(b.city).map(c => { const o = typeof c === "string" ? { text: c } : c; return `<li>${o.kind ? `<strong>${esc(o.kind)}:</strong> ` : ""}${inline(o.text)} ${linkHtml(o.link || (o.links && o.links[0]), 0)}</li>`; }).join("")}</ul></div>` : ""}
@@ -590,10 +620,10 @@ function vToday() {
 
   const relations = b.relations || {};
   const relHas = RELS.some(r => arr(relations[r]).length);
-  h += `<section class="sec"><h2>Relations</h2>${relHas ? `<div class="relgrid">${RELS.filter(r => arr(relations[r]).length).map(r => `<div class="panel" data-pc="rel"><h3><span class="pchip" data-pc="rel">${esc(r)}</span></h3>${arr(relations[r]).map(i => itemHtml(i)).join("")}</div>`).join("")}</div>` : `<p class="muted small" style="margin:0">No new developments between the three countries in this brief.</p>`}</section>`;
+  h += `<section class="sec"><h2>${esc(H("relations", "Relations"))}</h2>${relHas ? `<div class="relgrid">${RELS.filter(r => arr(relations[r]).length).map(r => `<div class="panel" data-pc="rel"><h3><span class="pchip" data-pc="rel">${esc(r)}</span></h3>${arr(relations[r]).map(i => itemHtml(i)).join("")}</div>`).join("")}</div>` : `<p class="muted small" style="margin:0">No new developments between the three countries in this brief.</p>`}</section>`;
 
   if (arr(b.rules).length) {
-    h += `<section class="sec"><h2>Rules &amp; laws <span class="count">${arr(b.rules).length}</span></h2><div class="rules">${arr(b.rules).map(r => {
+    h += `<section class="sec"><h2>${esc(H("rules", "Rules & laws"))} <span class="count">${arr(b.rules).length}</span></h2><div class="rules">${arr(b.rules).map(r => {
       const full = r.id ? S.rules.find(x => x._id === r.id || x.id === r.id) : null;
       return ruleCard(Object.assign({}, r, full || {}), true);
     }).join("")}</div></section>`;
@@ -601,26 +631,26 @@ function vToday() {
 
   if (b.deepDive && (b.deepDive.body || b.deepDive.title)) {
     const dd = b.deepDive;
-    h += `<section class="sec"><h2>Deep dive</h2><article class="deep"><div class="eyebrow">${esc(dd.domain || "")}</div><h3>${esc(dd.title || "")}</h3><div class="prose">${md(dd.body)}</div>${arr(dd.links).length ? `<div class="meta">${arr(dd.links).map(linkHtml).join(" ")}</div>` : ""}</article></section>`;
+    h += `<section class="sec"><h2>${esc(H("deepDive", "Deep dive"))}</h2><article class="deep"><div class="eyebrow">${esc(dd.domain || "")}</div><h3>${esc(dd.title || "")}</h3><div class="prose">${md(dd.body)}</div>${arr(dd.links).length ? `<div class="meta">${arr(dd.links).map(linkHtml).join(" ")}</div>` : ""}</article></section>`;
   }
 
   if (arr(b.readInFull).length) {
-    h += `<section class="sec"><h2>Read in full</h2><div class="cards">${arr(b.readInFull).map(r => {
+    h += `<section class="sec"><h2>${esc(H("readInFull", "Read in full"))}</h2><div class="cards">${arr(b.readInFull).map(r => {
       const doc = r.readingId ? S.reading.find(x => x._id === r.readingId) : null;
       return readingCard(Object.assign({}, r, doc || {}), doc ? doc._id : null);
     }).join("")}</div></section>`;
   }
 
   if (arr(b.comingUp).length) {
-    h += `<section class="sec"><h2>Coming up</h2><div class="panel uplist">${arr(b.comingUp).sort((x, y) => String(x.date).localeCompare(String(y.date))).map(c => `<div class="up"><div class="d">${fmtD(c.date, { day: "numeric", month: "short" })}<small>${rel(daysFrom(c.date))}</small></div><div>${inline(c.text)} <span class="meta" style="display:inline-flex">${pchip(c.place)}</span></div></div>`).join("")}</div></section>`;
+    h += `<section class="sec"><h2>${esc(H("comingUp", "Coming up"))}</h2><div class="panel uplist">${arr(b.comingUp).sort((x, y) => String(x.date).localeCompare(String(y.date))).map(c => `<div class="up"><div class="d">${fmtD(c.date, { day: "numeric", month: "short" })}<small>${rel(daysFrom(c.date))}</small></div><div>${inline(c.text)} <span class="meta" style="display:inline-flex">${pchip(c.place)}</span></div></div>`).join("")}</div></section>`;
   }
 
   if (arr(b.gaps).length) {
-    h += `<section class="sec"><h2>Coverage gaps</h2><div class="gaps">${arr(b.gaps).map(g => `<span class="gap ${/no source/i.test(g.status || "") ? "ns" : ""}" title="${esc(g.status || "")}">${esc(g.place)} · ${esc(g.domain)} — ${esc(g.status || "quiet")}</span>`).join("")}</div><div class="small muted">Red means nothing was found because sources were missing, not because it was quiet.</div></section>`;
+    h += `<section class="sec"><h2>${esc(H("gaps", "Coverage gaps"))}</h2><div class="gaps">${arr(b.gaps).map(g => `<span class="gap ${/no source/i.test(g.status || "") ? "ns" : ""}" title="${esc(g.status || "")}">${esc(g.place)} · ${esc(g.domain)} — ${esc(g.status || "quiet")}</span>`).join("")}</div><div class="small muted">Red means nothing was found because sources were missing, not because it was quiet.</div></section>`;
   }
 
   if (arr(b.sources).length) {
-    h += `<section class="sec"><h2>Sources <span class="count">${arr(b.sources).length}</span></h2><div class="panel"><ul class="srcs">${arr(b.sources).map((s, k) => `<li>${linkHtml(typeof s === "string" ? s : { url: s.url, label: s.title || s.label }, k)}${s.paywalled ? ' <span class="muted">(paywall)</span>' : ""}</li>`).join("")}</ul></div></section>`;
+    h += `<section class="sec"><h2>${esc(H("sources", "Sources"))} <span class="count">${arr(b.sources).length}</span></h2><div class="panel"><ul class="srcs">${arr(b.sources).map((s, k) => `<li>${linkHtml(typeof s === "string" ? s : { url: s.url, label: s.title || s.label }, k)}${s.paywalled ? ' <span class="muted">(paywall)</span>' : ""}</li>`).join("")}</ul></div></section>`;
   }
 
   if (S.canWrite) {
@@ -893,12 +923,12 @@ function vLibrary() {
 
 /* ---------- How it works ---------- */
 function vHow() {
-  return `<div class="col"><section class="sec"><h2>How it works</h2><div class="panel prose">
+  return `<div class="col"><section class="sec"><h2>How it works</h2><div class="panel prose">${customHow() || `
     <p><strong>Every morning two scheduled runs fill this page.</strong> The news run researches the US, Poland, Kraków and India across thirteen domains, from politics and courts to health rules, tech, transport and culture, plus the relationships between the three countries. The lesson run follows it and teaches one civics or history lesson, linked to that morning's news. On Sundays the lesson is a review of the week.</p>
     <p><strong>Today</strong> opens with the lesson, then the Top 5, each place, relations, new rules and laws, a deep dive, reading picks, what's coming up, and any coverage gaps.</p>
     <p><strong>Everything is kept.</strong> Events go to the Timeline, rules to Rules &amp; laws, upcoming items to Watch, reading picks to Reading, and background to the Library.</p>
     <p><strong>Your part</strong>, about 15 minutes a day: read the lesson and the Top 5, read at least one "Read in full" piece, mark lessons Got it or Revisit, and give your verdict on Watch items once their date passes. On Sundays, take the quiz and write your synthesis. The writing is the part that builds understanding.</p>
-  </div></section>
+  `}</div></section>
   <section class="sec"><h2>Labels</h2><div class="panel"><dl class="kv">
     <dt>${tierTag(1)}</dt><dd>Affects a whole country, changes one of the relationships, or directly affects daily life in Kraków.</dd>
     <dt>${tierTag(2)}</dt><dd>Significant for a sector, region or group.</dd>
@@ -907,8 +937,235 @@ function vHow() {
     <dt>${verTag("Reported")}</dt><dd>Reported by credible outlets, not yet officially confirmed.</dd>
     <dt>${verTag("Claimed")}</dt><dd>Claimed by a party with a stake: a government, a company, a campaign.</dd>
     <dt>${verTag("Single-source")}</dt><dd>Only one outlet has it so far.</dd>
-  </dl></div></section></div>`;
+  </dl></div></section>${deepDiveTable()}</div>`;
 }
+
+/* ---------- Site settings for the editor ---------- */
+const SITE_ID = "window";
+const DEFAULT_SITE = {
+  title: "Three-Country Window",
+  tabs: { today: "Today", lessons: "Lessons", timeline: "Timeline", rules: "Rules & laws", watch: "Watch", reading: "Reading", sunday: "Sunday", coverage: "Coverage", library: "Library", how: "How it works" },
+  headings: { top5: "Top 5", byPlace: "By place", relations: "Relations", rules: "Rules & laws", deepDive: "Deep dive", readInFull: "Read in full", comingUp: "Coming up", gaps: "Coverage gaps", sources: "Sources" },
+  howItWorks: "",
+  domains: DOMAINS.slice(),
+  deepDiveRotation: [
+    { weekday: "Monday", topic: "Law, courts & regulation" },
+    { weekday: "Tuesday", topic: "Economy, business & markets + Trade & tariffs" },
+    { weekday: "Wednesday", topic: "Health, medicine & food safety + Science & space" },
+    { weekday: "Thursday", topic: "Technology, AI & cyber" },
+    { weekday: "Friday", topic: "Foreign relations + Defense, security & crime (the three relationships)" },
+    { weekday: "Saturday", topic: "Society + Environment + Infrastructure" },
+    { weekday: "Sunday", topic: "Kraków deep dive + Culture, media & sport" }
+  ]
+};
+const SETUP_HINT = "Leave \"How it works\" empty to keep the standard text. The topics (domains) and the deep-dive plan are also read by the daily news run, so changes there take effect from the next run.";
+const EDIT_FILES = [["lessons.json", "Lessons"], ["curriculum.json", "Lesson plan"], ["rules.json", "Rules & laws"], ["watch.json", "Watch list"], ["reading.json", "Reading list"], ["threads.json", "Threads"], ["sources.json", "Sources"], ["primers.json", "Primers"]];
+const ITEM_T = { id: "", domain: "", text: "", tier: 2, verification: "Reported", thread: "", links: [] };
+const ADD_TEMPLATES = { links: { label: "", url: "" }, top5: { text: "", place: "", links: [] }, comparison: { aspect: "", US: "", Poland: "", India: "" }, keyTerms: { term: "", meaning: "" },
+  check: { q: "", options: ["", "", "", ""], answer: 0, explain: "" }, quiz: { q: "", options: ["", "", "", ""], answer: 0, explain: "", from: "news" }, lessonQuiz: { q: "", options: ["", "", "", ""], answer: 0, explain: "" },
+  readMore: { title: "", url: "", why: "" }, deepDiveRotation: { weekday: "", topic: "" }, gaps: { place: "", domain: "", status: "quiet" }, sources: { title: "", url: "", paywalled: false },
+  city: { kind: "", text: "", link: "" }, comingUp: { date: "", text: "", place: "" }, readInFull: { readingId: "", title: "", reporter: "", outlet: "", url: "", why: "" },
+  rules: { id: "", name: "", place: "", stage: "", changes: "", affects: "", effectiveDate: "", officialLink: "" },
+  US: ITEM_T, Poland: ITEM_T, "Kraków": ITEM_T, India: ITEM_T, "US–Poland": ITEM_T, "US–India": ITEM_T, "Poland–India": ITEM_T, "US–Poland–India": ITEM_T,
+  items: {}, units: { name: "", lessons: [] }, lessons: { num: 0, title: "" }, domains: "", newsEvents: "" };
+function applySetup(s) { if (Array.isArray(s.domains) && s.domains.length) DOMAINS.splice(0, DOMAINS.length, ...s.domains); }
+function deepDiveTable() {
+  const r = S.site && Array.isArray(S.site.deepDiveRotation) ? S.site.deepDiveRotation : [];
+  return r.length ? `<section class="sec"><h2>Deep-dive plan</h2><div class="panel"><dl class="kv">${r.map(x => `<dt>${esc(x.weekday)}</dt><dd>${esc(x.topic)}</dd>`).join("")}</dl></div></section>` : "";
+}
+/* ---------- Editor: page text, setup and daily content, saved to GitHub ---------- */
+const GH = (() => {
+  const h = location.hostname, seg = location.pathname.split("/").filter(Boolean)[0];
+  if (/\.github\.io$/i.test(h)) { const owner = h.split(".")[0]; return { owner, repo: seg && !/\.html$/i.test(seg) ? seg : owner + ".github.io" }; }
+  return { owner: "conrad194", repo: "world-desk" };
+})();
+const TOK_KEY = "worlddesk:token", BRANCH = "main", RECENT_KEY = SITE_ID + ":recent";
+function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function lsSet(k, v) { try { if (v == null) localStorage.removeItem(k); else localStorage.setItem(k, v); return true; } catch (e) { return false; } }
+function recentGet(p) { try { const m = JSON.parse(sessionStorage.getItem(RECENT_KEY) || "{}"); const r = m[p]; return r && Date.now() - r.t < 15 * 60000 ? r.obj : null; } catch (e) { return null; } }
+function recentSet(p, obj) { try { const m = JSON.parse(sessionStorage.getItem(RECENT_KEY) || "{}"); m[p] = { t: Date.now(), obj }; sessionStorage.setItem(RECENT_KEY, JSON.stringify(m)); } catch (e) {} }
+const b64 = str => { const bytes = new TextEncoder().encode(str); let bin = ""; for (let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]); return btoa(bin); };
+const ghHeaders = t => ({ "Authorization": "Bearer " + t, "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28" });
+const repoPath = p => BASE + p;
+async function ghRead(p) {
+  const t = lsGet(TOK_KEY);
+  if (t) {
+    const r = await fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${repoPath(p)}?ref=${BRANCH}&t=${Date.now()}`, { headers: Object.assign(ghHeaders(t), { "Accept": "application/vnd.github.raw+json" }), cache: "no-store" });
+    if (r.status === 404) return null;
+    if (r.ok) return JSON.parse(await r.text());
+  }
+  try { return await getJson(p); } catch (e) { return null; }
+}
+async function ghWrite(token, p, obj, message) {
+  const api = `https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${repoPath(p)}`;
+  let sha;
+  const g = await fetch(api + "?ref=" + BRANCH + "&t=" + Date.now(), { headers: ghHeaders(token), cache: "no-store" });
+  if (g.status === 200) sha = (await g.json()).sha; else if (g.status !== 404) throw { status: g.status };
+  const body = { message, content: b64(JSON.stringify(obj, null, 2) + "\n"), branch: BRANCH };
+  if (sha) body.sha = sha;
+  const r = await fetch(api, { method: "PUT", headers: Object.assign({ "Content-Type": "application/json" }, ghHeaders(token)), body: JSON.stringify(body) });
+  if (!r.ok) throw { status: r.status };
+}
+function H(k, d) { return (S.site && S.site.headings && S.site.headings[k]) || d; }
+function mergeSite(x) {
+  const d = JSON.parse(JSON.stringify(DEFAULT_SITE));
+  if (!x || typeof x !== "object") return d;
+  Object.keys(d).forEach(k => { if (x[k] == null) return; if (d[k] && typeof d[k] === "object" && !Array.isArray(d[k])) d[k] = Object.assign(d[k], x[k]); else d[k] = x[k]; });
+  return d;
+}
+function applySite() {
+  const s = S.site;
+  document.title = s.title || DEFAULT_SITE.title;
+  const t = document.getElementById("siteTitle"); if (t) t.textContent = s.title || DEFAULT_SITE.title;
+  document.querySelectorAll("#tabs a").forEach(a => { const k = (a.getAttribute("href") || "").slice(1); if (s.tabs && s.tabs[k]) a.textContent = s.tabs[k]; });
+  applySetup(s);
+}
+function customHow() { return S.site && S.site.howItWorks && String(S.site.howItWorks).trim() ? md(S.site.howItWorks) : ""; }
+
+const E = { file: "", doc: null, loading: false, dirty: false, err: null, open: {}, needToken: false, tokErr: null, saving: false, savedMsg: "" };
+const human = k => String(k).replace(/([a-z])([A-Z0-9])/g, "$1 $2").replace(/([0-9])([A-Z])/g, "$1 $2").replace(/[_]/g, " ").replace(/^./, c => c.toUpperCase());
+const getAt = (o, p) => p.reduce((a, k) => a == null ? a : a[k], o);
+function setAt(o, p, v) { const parent = getAt(o, p.slice(0, -1)); parent[p[p.length - 1]] = v; }
+function preview(o) {
+  if (o == null) return "";
+  if (typeof o !== "object") return String(o).slice(0, 90);
+  for (const k of ["title", "name", "text", "q", "what", "term", "aspect", "when", "side", "weekday", "segment", "area", "date", "id"]) if (o[k]) return String(o[k]).slice(0, 90);
+  return "";
+}
+function blankLike(x) {
+  if (Array.isArray(x)) return [];
+  if (x && typeof x === "object") { const o = {}; for (const k in x) o[k] = blankLike(x[k]); return o; }
+  if (typeof x === "number") return 0; if (typeof x === "boolean") return false; return "";
+}
+const LONG_KEY = /body|text|summary|why|explain|current|timeline|actors|issues|disputes|how|hook|matters|example|changes|affects|expected|happened|notes|desc|covers|answer|trackRecord|slant|focus|lean|view|meaning/i;
+function fieldHtml(v, path, key) {
+  const p = esc(JSON.stringify(path));
+  const label = key != null && typeof key !== "number" ? `<label class="fl">${esc(human(key))}</label>` : "";
+  if (v === null || v === undefined) v = "";
+  if (typeof v === "string") {
+    const long = v.length > 70 || v.includes("\n") || (LONG_KEY.test(String(key || "")) && (v.length === 0 || v.length > 40));
+    const rows = Math.min(16, Math.max(2, Math.ceil(v.length / 85) + (v.match(/\n/g) || []).length));
+    return `<div class="ff">${label}${long ? `<textarea data-epath="${p}" rows="${rows}">${esc(v)}</textarea>` : `<input data-epath="${p}" value="${esc(v)}">`}</div>`;
+  }
+  if (typeof v === "number") return `<div class="ff">${label}<input type="number" data-epath="${p}" data-num="1" value="${esc(v)}"></div>`;
+  if (typeof v === "boolean") return `<div class="ff"><label class="chk2"><input type="checkbox" data-epath="${p}" ${v ? "checked" : ""}> ${esc(human(key))}</label></div>`;
+  if (Array.isArray(v)) {
+    if (v.length && v.every(x => typeof x === "string" || typeof x === "number")) return `<div class="ff">${label}<textarea data-epath="${p}" data-lines="1" rows="${Math.min(12, v.length + 1)}">${esc(v.join("\n"))}</textarea><div class="hint">One per line</div></div>`;
+    return `<div class="ff">${label}<div class="arr">${v.map((it, i) => {
+      const pp = path.concat(i), k = JSON.stringify(pp), open = !!E.open[k];
+      return `<div class="ai"><div class="aih"><button class="aibtn" data-act="eToggle" data-k="${esc(k)}" aria-expanded="${open}">${open ? "▾" : "▸"} ${esc(preview(it) || ((key != null && typeof key !== "number" ? human(key) : "Item") + " " + (i + 1)))}</button>
+        <span class="btnrow"><button class="btn small" data-act="eMove" data-epath="${p}" data-i="${i}" data-d="-1" ${i === 0 ? "disabled" : ""} aria-label="Move up">↑</button><button class="btn small" data-act="eMove" data-epath="${p}" data-i="${i}" data-d="1" ${i === v.length - 1 ? "disabled" : ""} aria-label="Move down">↓</button><button class="btn small" data-act="eDel" data-epath="${p}" data-i="${i}">Remove</button></span></div>
+        ${open ? `<div class="aib">${typeof it === "object" && it !== null ? fieldHtml(it, pp, null) : fieldHtml(it, pp, "value")}</div>` : ""}</div>`;
+    }).join("")}<div><button class="btn small" data-act="eAdd" data-epath="${p}" data-key="${esc(key == null ? "" : key)}">+ Add</button></div></div></div>`;
+  }
+  const inner = Object.keys(v).map(k => fieldHtml(v[k], path.concat(k), k)).join("");
+  return key != null && typeof key !== "number" ? `<fieldset class="fs"><legend>${esc(human(key))}</legend>${inner}<div><button class="btn small" data-act="eAddField" data-epath="${p}">+ Add a field</button></div></fieldset>` : inner;
+}
+function editFiles() {
+  const f = [["site.json", "Page text & setup"]];
+  S.briefs.forEach(b => f.push(["briefs/" + b.date + ".json", "Brief · " + fmtD(b.date)]));
+  S.eventDays.slice(0, 21).forEach(d => f.push(["events/" + d.date + ".json", "Event log · " + fmtD(d.date)]));
+  EDIT_FILES.forEach(x => f.push(x));
+  S.weekly.forEach(w => f.push(["weekly/" + w.weekStart + ".json", "Sunday · week of " + fmtD(w.weekStart)]));
+  return f;
+}
+function vEdit() {
+  const files = editFiles();
+  let h = `<div class="col"><div class="datebar"><div><p class="when">Edit</p><div class="small muted">Changes are published to your site on GitHub for everyone. They appear about a minute after saving.</div></div>
+    ${lsGet(TOK_KEY) ? `<button class="btn" data-act="forgetTok">Forget my GitHub key on this device</button>` : ""}</div>
+    <div class="panel" style="display:grid;gap:10px"><label class="fl" for="eFile">What do you want to edit?</label>
+      <select id="eFile" data-act="eFile"><option value="">Choose…</option>${files.map(([p, l]) => `<option value="${esc(p)}" ${E.file === p ? "selected" : ""}>${esc(l)}</option>`).join("")}</select>
+      ${E.file && /^(briefs|events)\//.test(E.file) ? `<div class="hint">Briefs and event logs are separate files. To correct an event everywhere, edit it in both.</div>` : ""}
+      ${E.file === "site.json" ? `<div class="hint">${esc(SETUP_HINT)}</div>` : ""}
+    </div>`;
+  if (E.needToken) h += tokenPanel();
+  if (E.loading) h += `<p class="muted">Loading…</p>`;
+  else if (E.err) h += `<div class="banner">${esc(E.err)}</div>`;
+  else if (E.doc) {
+    h += `<div class="panel editform">${fieldHtml(E.doc, [], null)}</div>
+      <div class="savebar"><span class="small muted">${E.dirty ? "Unsaved changes" : (E.savedMsg || "No changes yet")}</span><span class="btnrow"><button class="btn" data-act="eDiscard" ${E.dirty ? "" : "disabled"}>Discard changes</button><button class="btn primary" data-act="eSave" ${E.dirty && !E.saving ? "" : "disabled"}>${E.saving ? "Publishing…" : "Save and publish"}</button></span></div>`;
+  }
+  return h + `</div>`;
+}
+function tokenPanel() {
+  return `<div class="panel tokpanel"><strong>Connect GitHub to publish</strong>
+    <p class="small">Saving writes to <code>${esc(GH.owner)}/${esc(GH.repo)}</code> on GitHub. Paste your GitHub key (a fine-grained personal access token with Contents: Read and write on this repository). It's the same key World Desk uses. <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create one on GitHub</a></p>
+    <label class="fl" for="tok">GitHub key</label><input id="tok" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…">
+    <label class="chk2"><input type="checkbox" id="tokRemember" checked> Remember on this device</label>
+    ${E.tokErr ? `<div class="err">${esc(E.tokErr)}</div>` : ""}
+    <div class="btnrow"><button class="btn primary" data-act="tokSave">Save and publish</button><button class="btn" data-act="tokCancel">Not now</button></div></div>`;
+}
+async function eLoad(p) {
+  E.file = p; E.doc = null; E.err = null; E.dirty = false; E.open = {}; E.savedMsg = "";
+  if (!p) { render(); return; }
+  E.loading = true; render();
+  let obj = await ghRead(p);
+  if (obj == null) obj = p === "site.json" ? JSON.parse(JSON.stringify(DEFAULT_SITE)) : null;
+  else if (p === "site.json") obj = mergeSite(obj);
+  E.loading = false;
+  if (obj == null) E.err = "This file doesn't exist yet. The daily runs create it the first time they have something to put in it.";
+  else E.doc = obj;
+  render();
+}
+async function eSave(token) {
+  token = token || lsGet(TOK_KEY);
+  if (!token) { E.needToken = true; render(); const t = document.getElementById("tok"); if (t) t.focus(); return; }
+  E.saving = true; render();
+  try {
+    await ghWrite(token, E.file, E.doc, "Edit " + repoPath(E.file) + " from the page");
+    if (E.remember) lsSet(TOK_KEY, token);
+    recentSet(E.file, JSON.parse(JSON.stringify(E.doc)));
+    applyFile(E.file, JSON.parse(JSON.stringify(E.doc)));
+    E.dirty = false; E.needToken = false; E.tokErr = null; E.savedMsg = "Published. Everyone sees it within a minute or two."; toast("Published");
+  } catch (e) {
+    const st = e && e.status;
+    E.tokErr = st === 401 ? "GitHub didn't accept that key. Check that it was copied in full and hasn't expired."
+      : (st === 403 || st === 404) ? `That key can't change this site. It needs "Contents: Read and write" on ${GH.owner}/${GH.repo}.`
+      : st === 409 ? "The file changed on GitHub at the same moment, probably a daily run. Discard, reopen the file and make your change again."
+      : "Couldn't reach GitHub. Check your connection and try again.";
+    if (st === 401 || st === 403 || st === 404) { lsSet(TOK_KEY, null); E.needToken = true; }
+    if (!E.needToken) E.err = null;
+    toast("Not saved yet");
+  }
+  E.saving = false; render();
+}
+function applyFile(p, obj) {
+  if (p === "site.json") { S.site = mergeSite(obj); applySite(); }
+  else if (p.startsWith("briefs/")) S.briefs = mergeBy([obj], S.briefs.filter(b => b.date !== obj.date), "date");
+  else if (p.startsWith("events/")) S.eventDays = mergeBy([obj], S.eventDays.filter(b => b.date !== obj.date), "date");
+  else if (p.startsWith("weekly/")) S.weekly = [obj].concat(S.weekly.filter(w => w.weekStart !== obj.weekStart)).sort((a, b) => String(b.weekStart).localeCompare(String(a.weekStart)));
+  else if (p === "curriculum.json") S.curriculum = obj;
+  else { const c = p.replace(/\.json$/, ""); if (Array.isArray(S[c])) { S[c] = overlay(c, itemsOf(obj)); if (typeof afterSingles === "function") afterSingles(); } }
+}
+document.addEventListener("click", e => {
+  const el = e.target.closest("[data-act]"); if (!el) return;
+  const a = el.dataset.act;
+  if (a === "eToggle") { E.open[el.dataset.k] = !E.open[el.dataset.k]; render(); }
+  else if (a === "eDel" || a === "eMove" || a === "eAdd" || a === "eAddField") {
+    const path = JSON.parse(el.dataset.epath), arr = getAt(E.doc, path), i = +el.dataset.i;
+    if (a === "eDel") arr.splice(i, 1);
+    else if (a === "eMove") { const j = i + (+el.dataset.d); [arr[i], arr[j]] = [arr[j], arr[i]]; }
+    else if (a === "eAdd") { const tpl = arr.length ? blankLike(arr[0]) : (ADD_TEMPLATES[el.dataset.key] ? JSON.parse(JSON.stringify(ADD_TEMPLATES[el.dataset.key])) : ""); arr.push(tpl); E.open[JSON.stringify(path.concat(arr.length - 1))] = true; }
+    else if (a === "eAddField") { let n = Object.keys(arr).length + 1; while (("newField" + n) in arr) n++; arr["newField" + n] = ""; }
+    E.dirty = true; render();
+  }
+  else if (a === "eDiscard") eLoad(E.file);
+  else if (a === "eSave") { E.remember = true; eSave(); }
+  else if (a === "tokSave") { const t = document.getElementById("tok"), v = t ? t.value.trim() : ""; const r = document.getElementById("tokRemember"); E.remember = !r || r.checked; if (!v) { E.tokErr = "Paste your GitHub key first."; render(); return; } E.tokErr = null; eSave(v); }
+  else if (a === "tokCancel") { E.needToken = false; E.tokErr = null; render(); }
+  else if (a === "forgetTok") { lsSet(TOK_KEY, null); toast("GitHub key removed from this device"); render(); }
+});
+document.addEventListener("change", e => { const el = e.target; if (el.dataset && el.dataset.act === "eFile") { if (E.dirty && !el.dataset.confirmed) { /* switching discards unsaved edits */ } eLoad(el.value); } });
+document.addEventListener("input", e => {
+  const el = e.target; if (!el.dataset || !el.dataset.epath || !E.doc) return;
+  const path = JSON.parse(el.dataset.epath);
+  let v = el.type === "checkbox" ? el.checked : el.value;
+  if (el.dataset.num) v = el.value === "" ? 0 : Number(el.value);
+  if (el.dataset.lines) v = el.value.split("\n").map(x => x.trim()).filter(Boolean);
+  if (path.length === 0) return;
+  setAt(E.doc, path, v);
+  if (!E.dirty) { E.dirty = true; const sb = document.querySelector(".savebar"); if (sb) { const m = sb.querySelector(".small"); if (m) m.textContent = "Unsaved changes"; sb.querySelectorAll("button").forEach(b => b.disabled = false); } }
+});
 
 /* ---------- Events ---------- */
 document.addEventListener("click", async e => {
