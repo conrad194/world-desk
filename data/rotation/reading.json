@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "RL-261025-01",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "title": "EU vies to expand role in Ukraine-Russia peace talks to influence US thinking",
+   "reporter": "Jorge Liboreiro",
+   "outlet": "Euronews",
+   "language": "English",
+   "url": "https://www.euronews.com/2026/10/23/eu-vies-to-expand-role-in-ukraine-russia-peace-talks-to-influence-us-thinking",
+   "why": "Shows how Brussels is trying to stop a US–Russia deal being made over its head, with the Abu Dhabi timing and Moscow's conditions."
+  },
+  {
+   "id": "RL-261025-02",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "title": "Von der Leyen: a magyar változásokkal Európa is erősebb lett",
+   "reporter": "Nora Shenouda",
+   "outlet": "Euronews Magyar",
+   "language": "Hungarian",
+   "url": "https://hu.euronews.com/2026/10/23/von-der-leyen-a-magyar-valtozasokkal-europa-is-erosebb-lett",
+   "why": "Shows how the EU is rewarding [[p:Péter Magyar]]'s reforms with funds, in the same week Budapest held back Ukraine's next clusters."
+  }
+ ]
+}

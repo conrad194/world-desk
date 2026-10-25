@@ -1,0 +1,224 @@
+{
+ "items": [
+  {
+   "id": "W-261025-01",
+   "dateAdded": "2026-10-25",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Oleshky local ceasefire takes effect (03:00 Kyiv / 04:00 Moscow); main aid and evacuation mission on 29 Oct.",
+   "expected": "Ukrainian and Russian General Staffs; the White House",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261025-02"
+  },
+  {
+   "id": "W-261025-02",
+   "dateAdded": "2026-10-25",
+   "segment": "Middle East",
+   "what": "Israeli Knesset election ([[e:2026 Israeli legislative election]]).",
+   "expected": "Israel's Central Elections Committee; polls show neither bloc at 61 seats (Al Jazeera)",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261025-13"
+  },
+  {
+   "id": "W-261025-03",
+   "dateAdded": "2026-10-25",
+   "segment": "Middle East",
+   "what": "Pezeshkian meets Putin at the gas exporters' (GECF) summit in Moscow.",
+   "expected": "Iranian FM Araghchi and Iranian media (via AFP)",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-04",
+   "dateAdded": "2026-10-25",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Trilateral US–Russia–Ukraine talks in Abu Dhabi, first half of November.",
+   "expected": "Kremlin spokesman Peskov; Zelensky confirmed technical talks",
+   "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": "E-261025-01"
+  },
+  {
+   "id": "W-261025-05",
+   "dateAdded": "2026-10-25",
+   "segment": "The Americas",
+   "what": "Brazil runoff result: Lula vs Flávio Bolsonaro.",
+   "expected": "Brazil's electoral court (TSE) releases results overnight; final Datafolha poll 51–49 for Flávio",
+   "checkDate": "2026-10-26",
+   "happened": "",
+   "eventId": "E-261025-22"
+  },
+  {
+   "id": "W-261025-06",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "Serbia snap election results.",
+   "expected": "Serbia's electoral commission (RIK); Euronews says the outcome will be clear next week",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261025-48"
+  },
+  {
+   "id": "W-261025-07",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "Bulgaria presidential runoff, expected to be Iotova vs Gyurov.",
+   "expected": "Trend polling agency (via euronews.bg); Sega",
+   "checkDate": "2026-11-01",
+   "happened": "",
+   "eventId": "E-261025-46"
+  },
+  {
+   "id": "W-261025-08",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "ECB rate decision; deposit rate widely expected to stay at 2.5%, with possible signals on France.",
+   "expected": "ING's Carsten Brzeski (via Euronews)",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-09",
+   "dateAdded": "2026-10-25",
+   "segment": "The Americas",
+   "what": "US Federal Reserve rate decision.",
+   "expected": "Prediction markets price about a 94% chance of a hold (DeFi Rate)",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-10",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "Sweden: Elisabeth Thand Ringqvist reports to the Speaker; a new PM vote is possible late in the week.",
+   "expected": "Fokus (Cecilia Garme)",
+   "checkDate": "2026-10-26",
+   "happened": "",
+   "eventId": "E-261025-47"
+  },
+  {
+   "id": "W-261025-11",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "EU gas storage reference date for the relaxed 80% fill target.",
+   "expected": "EU gas storage regulation; IEEFA says the target is borderline",
+   "checkDate": "2026-11-01",
+   "happened": "",
+   "eventId": "E-261025-54"
+  },
+  {
+   "id": "W-261025-12",
+   "dateAdded": "2026-10-25",
+   "segment": "Middle East",
+   "what": "Possible new US strikes on Iran.",
+   "expected": "WSJ report; envoy Tom Barrack said 'this weekend', SBS reports Trump said not before 3 Nov",
+   "checkDate": "2026-11-04",
+   "happened": "",
+   "eventId": "E-261025-09"
+  },
+  {
+   "id": "W-261025-13",
+   "dateAdded": "2026-10-25",
+   "segment": "The Americas",
+   "what": "US midterm elections.",
+   "expected": "Scheduled; forecasts favour Democrats in the House (Silver Bulletin average D+8.9)",
+   "checkDate": "2026-11-03",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-14",
+   "dateAdded": "2026-10-25",
+   "segment": "Africa",
+   "what": "UN Security Council vote on renewing the MINURSO mission in Western Sahara (mandate expires 31 Oct).",
+   "expected": "Morocco World News",
+   "checkDate": "2026-10-31",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-15",
+   "dateAdded": "2026-10-25",
+   "segment": "Africa",
+   "what": "Third Russia–Africa Summit in Moscow; Putin and AU chair Ndayishimiye co-chair the plenary on 29 Oct.",
+   "expected": "TASS; Modern Diplomacy",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-16",
+   "dateAdded": "2026-10-25",
+   "segment": "East & Southeast Asia",
+   "what": "Fifth Plenum of the CCP Central Committee, Beijing, 26–29 Oct.",
+   "expected": "Tencent News; Newsquawk (no official Xinhua notice seen)",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-17",
+   "dateAdded": "2026-10-25",
+   "segment": "East & Southeast Asia",
+   "what": "Thai no-confidence debate on PM Anutin; the government proposes a vote on 30 Oct, the opposition wants November.",
+   "expected": "Thai PBS World",
+   "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-18",
+   "dateAdded": "2026-10-25",
+   "segment": "East & Southeast Asia",
+   "what": "German President Steinmeier's state visit to China, 27–31 Oct.",
+   "expected": "Chinese foreign ministry",
+   "checkDate": "2026-10-31",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261025-19",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "French union national mobilisation day.",
+   "expected": "French unions (via Euronews)",
+   "checkDate": "2026-11-05",
+   "happened": "",
+   "eventId": "E-261025-36"
+  },
+  {
+   "id": "W-261025-20",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "APEC in Shenzhen; possible Trump–Xi–Putin meeting on nuclear arms and Ukraine.",
+   "expected": "Reuters (via RTÉ); the Kremlin",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": "E-261025-55"
+  },
+  {
+   "id": "W-261025-21",
+   "dateAdded": "2026-10-25",
+   "segment": "EU politics + cross-cutting",
+   "what": "European Council budget summit on the 2028–34 MFF.",
+   "expected": "Agence Europe (26–27 Nov); Euronews (26 Nov)",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261025-33"
+  },
+  {
+   "id": "W-261025-22",
+   "dateAdded": "2026-10-25",
+   "segment": "Russia–Ukraine & European security",
+   "what": "First Russian diesel cargo under the US–Russia deal due in New York.",
+   "expected": "Kpler (via Euronews)",
+   "checkDate": "2026-11-07",
+   "happened": "",
+   "eventId": "E-261025-53"
+  }
+ ]
+}
