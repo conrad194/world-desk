@@ -1,0 +1,103 @@
+{
+ "weekStart": "2026-10-19",
+ "keyEvents": {
+  "Russia–Ukraine & European security": [
+   "E-261025-01",
+   "E-261025-02",
+   "E-261025-04",
+   "E-261025-05"
+  ],
+  "Middle East": [
+   "E-261025-07",
+   "E-261025-08",
+   "E-261025-09",
+   "E-261025-11",
+   "E-261025-13"
+  ],
+  "East & Southeast Asia": [
+   "E-261025-16",
+   "E-261025-17",
+   "E-261025-18",
+   "E-261025-19"
+  ],
+  "The Americas": [
+   "E-261025-22",
+   "E-261025-23",
+   "E-261025-27",
+   "E-261025-28"
+  ],
+  "Africa": [
+   "E-261025-25",
+   "E-261025-24",
+   "E-261025-26"
+  ],
+  "South & Central Asia": [
+   "E-261025-20",
+   "E-261025-21"
+  ],
+  "EU politics + cross-cutting": [
+   "E-261025-31",
+   "E-261025-53",
+   "E-261025-36",
+   "E-261025-48",
+   "E-261025-54"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Why does Hungary's 20 Oct refusal on Ukraine's clusters 4 and 5 matter, even though clusters 2 and 3 had just opened?",
+   "options": [
+    "It formally ends Ukraine's candidate status",
+    "It moves Ukraine's talks from the Council to the European Parliament",
+    "It shows that unanimity lets a single member slow accession at every step, even after a deal",
+    "It means Moldova must now negotiate separately from Ukraine"
+   ],
+   "answer": 2,
+   "explain": "EU accession needs unanimous approval at each stage. [[p:Péter Magyar]]'s government lifted one veto after a minority-rights deal, then held back the next step, so every cluster can become a new bargaining point."
+  },
+  {
+   "q": "Why are European capitals uneasy about Trump's Russian diesel deal?",
+   "options": [
+    "It forces EU states to buy Russian diesel",
+    "It eases US sanctions pressure on Moscow while the EU is still tightening its own",
+    "It cancels the EU's latest sanctions listings",
+    "It moves Ukraine peace talks to Moscow"
+   ],
+   "answer": 1,
+   "explain": "The deal and the 16 Oct waiver of Graham Act sanctions open a gap between US and EU policy, which weakens the shared pressure on Russia. [[p:Kaja Kallas]] said the EU would keep sanctioning Russia."
+  },
+  {
+   "q": "What links the Iran war to France's protests and bond yields?",
+   "options": [
+    "Iran directly funds French protest groups",
+    "The ECB raised rates to punish France",
+    "France is a party to the Iran war",
+    "The Hormuz closure pushed up oil and gas prices, feeding cost-of-living anger and straining budgets"
+   ],
+   "answer": 3,
+   "explain": "With Hormuz closed, Brent passed $117 and TTF gas €90. Higher energy costs fuel protests, and they also squeeze governments such as France's that are already struggling to pass budgets, which pushes up borrowing costs."
+  },
+  {
+   "q": "Why is the Oleshky ceasefire seen as significant despite being local?",
+   "options": [
+    "Both general staffs agreed to the same start time, a rare joint step ahead of wider talks",
+    "It ends fighting along the whole Kherson front",
+    "It returns Oleshky to Ukrainian control",
+    "It was negotiated by the UN Security Council"
+   ],
+   "answer": 0,
+   "explain": "Russia's and Ukraine's general staffs both committed to 27 Oct. It is a small, testable agreement before trilateral talks expected in Abu Dhabi in November. Its scope and end date remain unclear."
+  },
+  {
+   "q": "Why does the UN Secretary-General race look stuck, even though Rebeca Grynspan leads the straw polls?",
+   "options": [
+    "The General Assembly must approve each straw poll",
+    "Candidates must come from the Security Council's members",
+    "Every candidate has drawn a 'discourage' vote from at least one veto-holding member",
+    "The current Secretary-General can veto successors"
+   ],
+   "answer": 2,
+   "explain": "The Council recommends a candidate, and any of the five permanent members can block one. With objections against all candidates, new entrants such as the UAE's Lana Nusseibeh are still joining the race."
+  }
+ ]
+}
