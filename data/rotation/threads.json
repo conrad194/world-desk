@@ -1,0 +1,214 @@
+{
+ "items": [
+  {
+   "id": "russia-ukraine-peace-talks",
+   "name": "Russia–Ukraine peace talks",
+   "segment": "Russia–Ukraine & European security",
+   "status": "Active",
+   "summary": "US-brokered diplomacy on ending the war: trilateral talks planned for Abu Dhabi in the first half of November, local ceasefires such as Oleshky, prisoner swaps, and Europe's push for a seat at the table."
+  },
+  {
+   "id": "russia-ukraine-front-and-strikes",
+   "name": "Russia–Ukraine front line and long-range strikes",
+   "segment": "Russia–Ukraine & European security",
+   "status": "Active",
+   "summary": "Ground fighting in Donetsk and other fronts, Russian drone and missile barrages on Ukraine, and Ukrainian strikes on Russian energy sites."
+  },
+  {
+   "id": "us-russia-diesel-deal-and-sanctions",
+   "name": "US–Russia diesel deal and sanctions",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "Trump's 9 Oct deal to import Russian diesel and the 16 Oct waiver of Graham Act sanctions, the split it caused with the EU, and the EU's own sanctions listings."
+  },
+  {
+   "id": "us-iran-war-and-hormuz",
+   "name": "US–Iran war and Hormuz",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "The war that began with US–Israeli strikes on 28 Feb 2026: Iran's closure of the Strait of Hormuz, the US naval blockade, tanker attacks, possible new US strikes, and Iran's nuclear stockpile."
+  },
+  {
+   "id": "saudi-houthi-war",
+   "name": "Saudi–Houthi war",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "Houthi missile and drone attacks on Saudi cities and Saudi strikes in Yemen, part of the wider Iran war."
+  },
+  {
+   "id": "west-bank",
+   "name": "West Bank",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "Israeli military operations, settler violence and displacement in the West Bank, and relations with the Palestinian Authority."
+  },
+  {
+   "id": "israeli-election-2026",
+   "name": "Israeli election 2026",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "The 27 Oct Knesset election and the coalition-building that follows."
+  },
+  {
+   "id": "korean-peninsula-tensions",
+   "name": "Korean peninsula tensions",
+   "segment": "East & Southeast Asia",
+   "status": "Active",
+   "summary": "North Korean weapons tests, the DMZ landmine dispute, Kim Jong Un's diplomacy with China and a possible Trump–Kim meeting."
+  },
+  {
+   "id": "south-china-sea",
+   "name": "South China Sea",
+   "segment": "East & Southeast Asia",
+   "status": "Active",
+   "summary": "Philippine–Chinese confrontations at Second Thomas Shoal, Scarborough Shoal and elsewhere."
+  },
+  {
+   "id": "taiwan-strait",
+   "name": "Taiwan Strait",
+   "segment": "East & Southeast Asia",
+   "status": "Active",
+   "summary": "PLA and China Coast Guard pressure around Taiwan, and Taiwan's politics and defence."
+  },
+  {
+   "id": "myanmar-civil-war",
+   "name": "Myanmar civil war",
+   "segment": "East & Southeast Asia",
+   "status": "Active",
+   "summary": "The war between the military and resistance forces, including the Arakan Army's advance on Sittwe."
+  },
+  {
+   "id": "apec-2026-and-great-power-summitry",
+   "name": "APEC 2026 and great-power summitry",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "The run-up to APEC in Shenzhen on 18–19 Nov: a possible Trump–Xi–Putin meeting, nuclear 'denuclearisation' talks, and US–China trade."
+  },
+  {
+   "id": "brazil-election-2026",
+   "name": "Brazil election 2026",
+   "segment": "The Americas",
+   "status": "Active",
+   "summary": "The Lula vs Flávio Bolsonaro presidential race and its aftermath."
+  },
+  {
+   "id": "us-pressure-on-cuba",
+   "name": "US pressure on Cuba",
+   "segment": "The Americas",
+   "status": "Active",
+   "summary": "The US energy blockade on Cuba since January 2026 and calls for regime change."
+  },
+  {
+   "id": "venezuela-transition",
+   "name": "Venezuela transition",
+   "segment": "The Americas",
+   "status": "Active",
+   "summary": "Venezuela after Maduro's capture: US-supervised talks between the Rodríguez interim government and the opposition over an election date."
+  },
+  {
+   "id": "us-tariffs-and-trade-deals",
+   "name": "US tariffs and trade deals",
+   "segment": "The Americas",
+   "status": "Active",
+   "summary": "US tariffs on Canada, Mexico and others, the USMCA review and bilateral deals."
+  },
+  {
+   "id": "sudan-war",
+   "name": "Sudan war",
+   "segment": "Africa",
+   "status": "Active",
+   "summary": "The army–RSF war: drone strikes, Kordofan and Darfur fronts, famine risk."
+  },
+  {
+   "id": "ethiopia-tigray-war",
+   "name": "Ethiopia–Tigray war",
+   "segment": "Africa",
+   "status": "Active",
+   "summary": "Renewed war with TPLF-led forces since 23 Sep 2026, and the Ethiopia–Eritrea standoff."
+  },
+  {
+   "id": "ebola-epidemic-2026",
+   "name": "Ebola epidemic 2026",
+   "segment": "Africa",
+   "status": "Active",
+   "summary": "The Bundibugyo-strain Ebola epidemic centred on DRC, with spread to Kenya, Nigeria and Uganda."
+  },
+  {
+   "id": "eastern-drc-conflict",
+   "name": "Eastern DRC conflict",
+   "segment": "Africa",
+   "status": "Active",
+   "summary": "The M23-derived rebellion, now the Kabila-led FRN, fighting the army and Wazalendo militias, and the stalled Doha talks."
+  },
+  {
+   "id": "pakistan-taliban-war",
+   "name": "Pakistan–Taliban war",
+   "segment": "South & Central Asia",
+   "status": "Active",
+   "summary": "The conflict between Pakistan and Afghanistan's Taliban government since Feb 2026, the TTP, and failed mediation."
+  },
+  {
+   "id": "georgia-democratic-backsliding",
+   "name": "Georgia democratic backsliding",
+   "segment": "South & Central Asia",
+   "status": "Active",
+   "summary": "Georgian Dream's crackdown, the bid to ban opposition parties, and continuous protests."
+  },
+  {
+   "id": "eu-enlargement-ukraine-moldova",
+   "name": "EU enlargement: Ukraine and Moldova",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "Ukraine's and Moldova's accession negotiations, cluster openings and Hungarian vetoes."
+  },
+  {
+   "id": "eu-budget-2028-34",
+   "name": "EU budget 2028–34",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "Negotiations on the next long-term EU budget (MFF) and Ukraine financing."
+  },
+  {
+   "id": "european-energy-security",
+   "name": "European energy security",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "EU gas storage, prices, the Russian LNG phase-out and the impact of the Iran war on energy supplies."
+  },
+  {
+   "id": "european-cost-of-living-protests",
+   "name": "European cost-of-living protests",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "The wave of protests and unrest across France, Italy, Belgium, Spain, Portugal and Albania in autumn 2026."
+  },
+  {
+   "id": "france-fiscal-and-political-crisis",
+   "name": "France fiscal and political crisis",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "France's budget deadlock, rising bond yields, the Lecornu government's survival, and the road to the 2027 presidential election."
+  },
+  {
+   "id": "serbia-protests-and-election",
+   "name": "Serbia protests and election",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "The student-led protest movement and the 25 Oct 2026 snap parliamentary election."
+  },
+  {
+   "id": "nuclear-arms-control",
+   "name": "Nuclear arms control",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "The post-New START landscape, proposed US–Russia–China 'denuclearisation' talks, and the IAEA and non-proliferation."
+  },
+  {
+   "id": "un-secretary-general-selection-2026",
+   "name": "UN Secretary-General selection 2026",
+   "segment": "EU politics + cross-cutting",
+   "status": "Active",
+   "summary": "Security Council straw polls and candidates to succeed Guterres."
+  }
+ ]
+}
