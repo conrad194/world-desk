@@ -117,6 +117,13 @@ ul.has li { border: 1px solid var(--line); border-radius: 999px; padding: 2px 10
 .addcard { border: 1px dashed var(--line); border-radius: 14px; background: transparent; padding: 22px; cursor: pointer; color: var(--muted); font-weight: 600; min-height: 120px; }
 .addcard:hover { border-color: var(--focus); color: var(--ink); }
 .toast { position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--surface); border-radius: 999px; padding: 8px 16px; font-size: 0.9rem; z-index: 20; }
+.tokpanel { background: var(--surface); border: 1px solid var(--focus); border-radius: 12px; padding: 14px 16px; display: grid; gap: 10px; }
+.tokpanel p { margin: 0; }
+.small { font-size: 0.88rem; color: var(--muted); }
+.tokpanel code { font-family: var(--f-mono); font-size: 0.85rem; overflow-wrap: anywhere; }
+.chk { display: inline-flex; gap: 8px; align-items: center; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
+.chk input { width: 18px; height: 18px; }
+.linkbtn { background: none; border: 0; padding: 0; color: var(--focus); text-decoration: underline; cursor: pointer; font-size: inherit; }
 .confirm { background: var(--surface-2); border: 1px solid var(--danger); border-radius: 8px; padding: 10px 12px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: 0.9rem; }
 </style>
 </head>
@@ -125,7 +132,7 @@ ul.has li { border: 1px solid var(--line); border-radius: 999px; padding: 2px 10
   WORLD DESK, standalone copy for GitHub Pages.
   To change the title, cards, links or routine, edit the DEFAULT block
   in the script near the bottom of this file (search for "const DEFAULT").
-  The Edit button only appears in the Claude version of this page.
+  The Edit page button saves changes to data/desk.json in this repository.
 -->
 
 
@@ -197,9 +204,17 @@ function viewHtml(d) {
 /* ---------- Edit mode ---------- */
 function editHtml(d) {
   const sel = (id, opts, v) => `<select id="${id}">${Object.entries(opts).map(([k, l]) => `<option value="${k}" ${v === k ? "selected" : ""}>${esc(l)}</option>`).join("")}</select>`;
-  return `<div class="editbar"><span class="msg">Editing. Changes are saved for every device when you press Save.</span>
+  return `<div class="editbar"><span class="msg">Editing. Save publishes your changes to the site for everyone.${lsGet(TOK_KEY) ? ` <button class="linkbtn" data-act="forgetTok">Forget my GitHub key on this device</button>` : ""}</span>
     <span class="btnrow">${S.confirmReset ? `<span class="confirm">Put everything back to the original layout? <button class="btn small danger" data-act="resetYes">Reset</button><button class="btn small" data-act="resetNo">Keep my changes</button></span>` : `<button class="btn" data-act="reset">Reset to original</button>`}
     <button class="btn" data-act="cancel">Cancel</button><button class="btn primary" data-act="save" ${S.saving ? "disabled" : ""}>${S.saving ? "Saving…" : "Save"}</button></span></div>
+  ${S.needToken ? `<div class="tokpanel">
+    <strong>Connect GitHub to publish</strong>
+    <p class="small">Saving writes your changes to <code>${esc(REPO.owner)}/${esc(REPO.repo)}</code> on GitHub. Paste a GitHub key (a "fine-grained personal access token") that can change this repository. <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create one on GitHub</a></p>
+    <div class="field"><label for="tok">GitHub key</label><input id="tok" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></div>
+    <label class="chk"><input type="checkbox" id="tokRemember" checked> Remember on this device</label>
+    ${S.tokErr ? `<div class="err">${esc(S.tokErr)}</div>` : ""}
+    <div class="btnrow"><button class="btn primary" data-act="tokSave" ${S.saving ? "disabled" : ""}>${S.saving ? "Publishing…" : "Save and publish"}</button><button class="btn" data-act="tokCancel">Not now</button></div>
+  </div>` : ""}
   <header class="grid2" style="grid-template-columns:1fr">
     <div class="field"><label for="f-title">Page title</label><input id="f-title" data-k="title" value="${esc(d.title)}" maxlength="80"></div>
     <div class="field"><label for="f-lede">Intro line</label><textarea id="f-lede" data-k="lede" maxlength="300">${esc(d.lede)}</textarea></div>
@@ -249,27 +264,59 @@ function normalize(x) {
   d.routine = Array.isArray(d.routine) ? d.routine.map(r => ({ text: String(r.text || ""), when: String(r.when || "") })) : clone(DEFAULT.routine);
   return d;
 }
+const REPO = (() => {
+  const h = location.hostname, seg = location.pathname.split("/").filter(Boolean)[0];
+  if (/\.github\.io$/i.test(h)) { const owner = h.split(".")[0]; return { owner, repo: seg && !/\.html$/i.test(seg) ? seg : owner + ".github.io" }; }
+  return { owner: "conrad194", repo: "world-desk" };
+})();
+const CFG_PATH = "data/desk.json", BRANCH = "main", TOK_KEY = "worlddesk:token", CACHE_KEY = "worlddesk:desk";
+function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function lsSet(k, v) { try { if (v == null) localStorage.removeItem(k); else localStorage.setItem(k, v); return true; } catch (e) { return false; } }
 async function boot() {
   render();
-  let db = null; try { db = await window.claude?.use?.("db"); } catch (e) {}
-  if (!db) { S.canWrite = false; render(); return; }
-  S.db = db;
-  try { const u = await window.claude.use("user"); if (u) { const c = await u.can("data.write"); if (c === false) S.canWrite = false; } } catch (e) {}
-  db.doc("config/desk").onSnapshot(s => { if (s.exists) S.data = normalize(s.data()); S.loaded = true; if (!S.editing) render(); }, () => {});
-  render();
+  let fromFile = null;
+  try { const r = await fetch(CFG_PATH + "?t=" + Date.now(), { cache: "no-store" }); if (r.ok) fromFile = await r.json(); } catch (e) {}
+  let cached = null; try { cached = JSON.parse(lsGet(CACHE_KEY) || "null"); } catch (e) {}
+  const pick = cached && (!fromFile || (cached.savedAt || 0) > (fromFile.savedAt || 0)) ? cached : fromFile;
+  if (pick) S.data = normalize(pick);
+  S.loaded = true;
+  if (!S.editing) render();
 }
-async function save() {
+const b64 = str => { const bytes = new TextEncoder().encode(str); let bin = ""; for (let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]); return btoa(bin); };
+async function ghPut(token, obj) {
+  const api = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${CFG_PATH}`;
+  const h = { "Authorization": "Bearer " + token, "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28" };
+  let sha;
+  const g = await fetch(api + "?ref=" + BRANCH + "&t=" + Date.now(), { headers: h, cache: "no-store" });
+  if (g.status === 200) sha = (await g.json()).sha; else if (g.status !== 404) throw { status: g.status };
+  const body = { message: "Update World Desk from the page", content: b64(JSON.stringify(obj, null, 2) + "\n"), branch: BRANCH };
+  if (sha) body.sha = sha;
+  const r = await fetch(api, { method: "PUT", headers: Object.assign({ "Content-Type": "application/json" }, h), body: JSON.stringify(body) });
+  if (!r.ok) throw { status: r.status };
+}
+async function save(tokenOverride) {
   const d = S.draft;
   d.title = d.title.trim() || "World Desk";
   d.cards = d.cards.filter(c => c.name.trim() || c.url.trim());
   d.routine = d.routine.filter(r => r.text.trim());
+  const token = tokenOverride || lsGet(TOK_KEY);
+  if (!token) { S.needToken = true; render(); const t = document.getElementById("tok"); if (t) t.focus(); return; }
+  const obj = Object.assign(clone(d), { savedAt: Date.now() });
   S.saving = true; render();
   try {
-    await S.db.doc("config/desk").set(Object.assign(clone(d), { savedAt: Date.now() }));
-    S.data = normalize(d); S.editing = false; S.draft = null; toast("Saved");
+    await ghPut(token, obj);
+    if (tokenOverride && S.rememberTok) lsSet(TOK_KEY, tokenOverride);
+    lsSet(CACHE_KEY, JSON.stringify(obj));
+    S.data = normalize(obj); S.editing = false; S.draft = null; S.needToken = false; S.tokErr = null;
+    toast("Published. Everyone sees it within a minute or two.");
   } catch (e) {
-    if (e && e.code === "invalid_argument") { S.canWrite = false; S.editing = false; toast("You can view this page but not change it."); }
-    else toast("Couldn't save. Try again in a moment.");
+    const st = e && e.status;
+    S.tokErr = st === 401 ? "GitHub didn't accept that key. Check that it was copied in full and hasn't expired."
+      : (st === 403 || st === 404) ? `That key can't change this site. It needs "Contents: Read and write" on ${REPO.owner}/${REPO.repo}.`
+      : st === 409 ? "The file changed on GitHub at the same moment. Press Save again."
+      : "Couldn't reach GitHub. Check your connection and try again.";
+    if (st === 401 || st === 403 || st === 404) { lsSet(TOK_KEY, null); S.needToken = true; }
+    toast("Not saved yet");
   }
   S.saving = false; render();
 }
@@ -278,10 +325,13 @@ async function save() {
 document.addEventListener("click", e => {
   const el = e.target.closest("[data-act]"); if (!el) return;
   const a = el.dataset.act, d = S.draft, i = +el.dataset.c, r = +el.dataset.r;
-  if (a === "edit") { if (!S.db) { toast("Editing works when this page is open in Claude."); return; } S.draft = clone(S.data); S.editing = true; S.confirmDel = null; S.confirmReset = false; render(); window.scrollTo(0, 0); return; }
+  if (a === "edit") { S.draft = clone(S.data); S.editing = true; S.confirmDel = null; S.confirmReset = false; render(); window.scrollTo(0, 0); return; }
   if (!S.editing) return;
   if (a === "cancel") { S.editing = false; S.draft = null; render(); }
   else if (a === "save") save();
+  else if (a === "tokSave") { const t = document.getElementById("tok"), v = t ? t.value.trim() : ""; const rem = document.getElementById("tokRemember"); S.rememberTok = !rem || rem.checked; if (!v) { S.tokErr = "Paste your GitHub key first."; render(); return; } S.tokErr = null; save(v); }
+  else if (a === "tokCancel") { S.needToken = false; S.tokErr = null; render(); }
+  else if (a === "forgetTok") { lsSet(TOK_KEY, null); toast("GitHub key removed from this device"); render(); }
   else if (a === "reset") { S.confirmReset = true; render(); }
   else if (a === "resetNo") { S.confirmReset = false; render(); }
   else if (a === "resetYes") { S.draft = clone(DEFAULT); S.confirmReset = false; render(); toast("Original layout restored. Press Save to keep it."); }
