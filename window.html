@@ -54,6 +54,7 @@
   --info: #9DB8DE; --info-soft: #1E2B3D; --heat: 76, 194, 166;
   color-scheme: dark;
 }
+:root { --wk-p: var(--rel); --wk-e: var(--in); }
 *, *::before, *::after { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
@@ -308,6 +309,13 @@ table.plain td.num { font-family: var(--f-mono); font-variant-numeric: tabular-n
 .chk2 { display: inline-flex; gap: 8px; align-items: center; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
 .chk2 input { width: 18px; height: 18px; }
 .err { color: var(--bad); font-size: 0.85rem; }
+
+/* Wikipedia names (p) and events (e), and side notes */
+.wk { text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+.wk-p { color: var(--wk-p); }
+.wk-e { color: var(--wk-e); text-decoration-style: dotted; }
+.snote { font-size: 0.86em; color: var(--muted); background: var(--surface-2); border-radius: 4px; padding: 1px 6px; margin: 0 2px; }
+.snote-p { font-size: 0.9em; color: var(--muted); background: var(--surface-2); border-left: 3px solid var(--line); border-radius: 4px; padding: 6px 10px; }
 .toast { position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--surface); border-radius: 999px; padding: 8px 16px; font-size: 0.88rem; z-index: 20; }
 @media (max-width: 560px) {
   .datebar .when { font-size: 1.5rem; }
@@ -387,15 +395,27 @@ const $ = s => document.querySelector(s);
 const esc = v => String(v == null ? "" : v).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const safeUrl = u => (typeof u === "string" && /^https?:\/\//i.test(u.trim())) ? u.trim() : "";
 const arr = v => Array.isArray(v) ? v : [];
+function decodeEnt(s) { return s.replace(/&amp;/g, "&").replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">"); }
+function wikiUrl(title) { return "https://en.wikipedia.org/wiki/" + encodeURIComponent(decodeEnt(title).trim().replace(/ /g, "_")).replace(/%2F/g, "/").replace(/%3A/g, ":").replace(/%2C/g, ",").replace(/%28/g, "(").replace(/%29/g, ")"); }
 function inline(t) {
   let s = esc(t);
-  s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (m, a, u) => `<a href="${u}" target="_blank" rel="noopener">${a}</a>`);
+  // Wikipedia names and events: [[p:Shown|Title]] / [[e:Shown|Title]]
+  s = s.replace(/\[\[([pe]):([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, k, shown, title) => `<a class="wk wk-${k}" href="${esc(wikiUrl(title || shown))}" target="_blank" rel="noopener">${shown}</a>`);
+  // Wikipedia names and events: [@Name](url) / [#Event](url)
+  s = s.replace(/\[([@#])([^\]]+)\]\((https?:\/\/[^\s()]*(?:\([^\s()]*\)[^\s()]*)*)\)/g, (m, k, a, u) => `<a class="wk wk-${k === "@" ? "p" : "e"}" href="${u}" target="_blank" rel="noopener">${a}</a>`);
+  s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s()]*(?:\([^\s()]*\)[^\s()]*)*)\)/g, (m, a, u) => `<a href="${u}" target="_blank" rel="noopener">${a}</a>`);
+  // Side notes: {{note: ...}}
+  s = s.replace(/\{\{\s*note:\s*([\s\S]*?)\}\}/g, (m, n) => `<span class="snote">${n.trim()}</span>`);
   s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>").replace(/(^|[^*])\*([^*\n]+)\*/g, "$1<em>$2</em>");
   return s;
 }
 function md(t) {
   if (!t) return "";
-  return String(t).split(/\n\s*\n/).map(p => `<p>${inline(p).replace(/\n/g, "<br>")}</p>`).join("");
+  return String(t).split(/\n\s*\n/).map(p => {
+    const q = p.trim();
+    if (q.startsWith(">")) return `<p class="snote-p">${inline(q.replace(/^>\s?/gm, "")).replace(/\n/g, "<br>")}</p>`;
+    return `<p>${inline(p).replace(/\n/g, "<br>")}</p>`;
+  }).join("");
 }
 function linkHtml(l, i) {
   if (!l) return "";
