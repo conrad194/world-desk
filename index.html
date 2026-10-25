@@ -190,7 +190,7 @@ function viewHtml(d) {
     return url ? `<a class="door ${c.font === "alt" ? "alt" : ""}" style="${colorVars(c.color)}" href="${esc(url)}" target="_blank" rel="noopener">${inner}</a>`
                : `<div class="door ${c.font === "alt" ? "alt" : ""}" style="${colorVars(c.color)}">${inner}</div>`;
   }).join("")}</div>` : `<p class="lede">No cards yet. Use Edit page to add one.</p>`}
-  ${d.routine.length ? `<section class="routine"><h3>${esc(d.routineTitle || "Your daily routine")}</h3><ol>${d.routine.map(r => `<li>${esc(r.text)}${r.when ? ` <span class="when">${esc(r.when)}</span>` : ""}</li>`).join("")}</ol></section>` : ""}`;
+  ${d.routine.length ? `<section class="routine"><h3>${esc(d.routineTitle || "Purpose/Tasks")}</h3><ol>${d.routine.map(r => `<li>${esc(r.text)}${r.when ? ` <span class="when">${esc(r.when)}</span>` : ""}</li>`).join("")}</ol></section>` : ""}`;
 }
 
 /* ---------- Edit mode ---------- */
