@@ -1,0 +1,902 @@
+{
+ "date": "2026-10-25",
+ "segment": "EU politics + cross-cutting",
+ "windowFrom": "2026-10-18",
+ "tier1Summary": "Pressure is building on several fronts at once. Iran keeps the Strait of Hormuz closed: the [[p:Islamic Revolutionary Guard Corps|IRGC]] {{note: Iran's ideological armed force, set up in 1979 after the revolution on Ruhollah Khomeini's orders.}} claims two more supertankers hit mines, Brent passed $117, and the WSJ reports a US carrier rearming for possible new strikes. [[p:Houthis|Houthi]] {{note: Zaydi Shia movement that began in northern Yemen in the 1990s under Hussein al-Houthi.}} missiles targeted Riyadh, Taif and Yanbu.\n\nDiplomacy on Ukraine is reviving. The Kremlin says trilateral talks will be held in Abu Dhabi in the first half of November, and a local ceasefire in Oleshky starts on 27 Oct. The EU wants a seat at the table but is divided: Hungary blocked Ukraine's next accession clusters, and Trump's Russian diesel deal is moving its first cargo.\n\nIn Europe, cost-of-living protests brought 410,000 people onto French streets and French 10-year bond yields passed 5%. Serbia, Bulgaria and Brazil vote today.",
+ "segmentItems": [
+  {
+   "id": "E-261025-31",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Hungary / Ukraine",
+   "text": "A week after unblocking clusters 2 and 3, Hungary blocked the screening reports for Ukraine's clusters 4 and 5 without explanation. Officials now expect them to open in December.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Yuliia Zavadska",
+   "outlet": "Kyiv Post (citing European Pravda)",
+   "opinion": "",
+   "thread": "EU enlargement: Ukraine and Moldova",
+   "links": [
+    {
+     "label": "Kyiv Post (citing European Pravda)",
+     "url": "https://www.kyivpost.com/post/87644"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://english.nv.ua/nation/hungary-blocks-ukraine-s-final-eu-negotiating-clusters-50651868.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-34",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Ukraine",
+   "text": "The EU is pressing for a seat in the Ukraine talks. Moscow says the Abu Dhabi round stays trilateral.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Jorge Liboreiro",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/10/23/eu-vies-to-expand-role-in-ukraine-russia-peace-talks-to-influence-us-thinking"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/10/23/a-budapest-reset-and-a-scramble-to-get-ukraine-peace-talks-back-on-track"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-53",
+   "segment": "EU politics + cross-cutting",
+   "country": "United States / Russia",
+   "text": "The first Russian diesel cargo bound for the US since 2023 left Primorsk under Trump's deal with Moscow. [[p:Kaja Kallas]] says EU sanctions stay.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Doloresz Katanich",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "US–Russia diesel deal and sanctions",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/10/23/first-russian-diesel-shipment-is-heading-to-us-under-trump-putin-deal"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cfr.org/articles/trumps-russian-diesel-deal-explained"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-54",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU",
+   "text": "EU gas storage is about 75%, roughly 15 points below normal (Germany about 61%), and TTF gas is above €93/MWh. IEEFA says winter demand may need to fall 7%.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Ana Maria Jaller-Makarewicz",
+   "outlet": "IEEFA / Euronews",
+   "opinion": "analysis",
+   "thread": "European energy security",
+   "links": [
+    {
+     "label": "IEEFA / Euronews",
+     "url": "https://ieefa.org/resources/eu-may-need-cut-winter-gas-demand-7-gas-storage-record-seasonal-low"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-55",
+   "segment": "EU politics + cross-cutting",
+   "country": "Global",
+   "text": "Trump says he is open to three-way 'denuclearisation' talks with [[p:Xi Jinping]] and [[p:Vladimir Putin]], possibly at APEC on 18–19 Nov.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "RTÉ (Reuters)",
+   "opinion": "",
+   "thread": "Nuclear arms control",
+   "links": [
+    {
+     "label": "RTÉ (Reuters)",
+     "url": "https://www.rte.ie/news/world/2026/1020/1596050-us-russia-china/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-37",
+   "segment": "EU politics + cross-cutting",
+   "country": "France",
+   "text": "France's 10-year bond yield passed 5% for the first time since 2002. PM [[p:Sébastien Lecornu]] has no majority for the 2027 budget.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Quirino Mealha",
+   "outlet": "Euronews",
+   "opinion": "analysis",
+   "thread": "France fiscal and political crisis",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/10/23/frances-bond-drama-takes-centre-stage-ahead-of-ecb-rate-decision"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-36",
+   "segment": "EU politics + cross-cutting",
+   "country": "France",
+   "text": "France's second Saturday of cost-of-living protests drew 410,000 people (Interior Ministry; the CGT says 800,000), with nearly 1,000 arrests.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Mickaël Cléraux",
+   "outlet": "Le JDD",
+   "opinion": "",
+   "thread": "European cost-of-living protests",
+   "links": [
+    {
+     "label": "Le JDD",
+     "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-interpellations-nombre-de-manifestants-le-bilan-des-autorites-186957"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.csmonitor.com/World/Europe/2026/1024/Police-and-protesters-clash-in-Paris-as-demonstrations-break-out-across-Europe"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-48",
+   "segment": "EU politics + cross-cutting",
+   "country": "Serbia",
+   "text": "Serbia held a [[e:2026 Serbian parliamentary election|snap election]]: [[p:Aleksandar Vučić]]'s list against the student movement, with turnout well above 2023.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Kurir",
+   "opinion": "",
+   "thread": "Serbia protests and election",
+   "links": [
+    {
+     "label": "Kurir",
+     "url": "https://www.kurir.rs/vesti/politika/10143524/izbori-u-srbiji-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-32",
+   "segment": "EU politics + cross-cutting",
+   "country": "Hungary / EU",
+   "text": "In Budapest, [[p:Ursula von der Leyen]] said 'European funding has returned' to Hungary, crediting [[p:Péter Magyar]]'s reforms (translated from Hungarian).",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Nora Shenouda",
+   "outlet": "Euronews Magyar",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Euronews Magyar",
+     "url": "https://hu.euronews.com/2026/10/23/von-der-leyen-a-magyar-valtozasokkal-europa-is-erosebb-lett"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://piacesprofit.hu/cikkek/gazdasag/von-der-leyen-megszolalt-a-befagyasztott-magyar-unios-forrasokrol.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-33",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU",
+   "text": "[[p:António Costa]] will table figures for the 2028–34 budget before a summit on 26–27 Nov.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "Clément Solal",
+   "outlet": "Agence Europe",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "Agence Europe",
+     "url": "https://agenceurope.eu/en/bulletin/article/13965/17/mff-2028-2034-antonio-costa-confirms-he-will-present-his-proposal-with-figures-ahead-of-late-november-summit"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
+    }
+   ],
+   "paywalled": true
+  },
+  {
+   "id": "E-261025-58",
+   "segment": "EU politics + cross-cutting",
+   "country": "Global",
+   "text": "UN Secretary-General race: [[p:Rebeca Grynspan]] leads the straw polls, but every candidate faces a permanent-member objection.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Adla Massoud",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "UN Secretary-General selection 2026",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/16/un-secretary-general-race-grynspan/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261025-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Ukraine",
+   "text": "[[p:Dmitry Peskov]] says trilateral US–Russia–Ukraine talks are planned in Abu Dhabi in the first half of November. Kyiv confirms technical talks.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Interfax-Ukraine",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1225198.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-02",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "A local ceasefire in occupied Oleshky (Kherson oblast), brokered by the White House, begins on 27 Oct. Aid deliveries and evacuations follow on 29 Oct.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Nikita Khaindrava",
+   "outlet": "Hromadske",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Hromadske",
+     "url": "https://hromadske.ua/en/amp/war/273075-ukraine-russia-agree-to-ceasefire-in-occupied-oleshky-for-humanitarian-mission-starting-oct-27"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.radiosvoboda.org/a/news-henshtab-zsu-oleshky-rezhym-tyshi/33883200.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-07",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "Saudi Arabia says it intercepted [[p:Houthis|Houthi]] missiles aimed at Riyadh, Taif and Yanbu on 24–25 Oct. The Houthis claim hits on airports and oil sites, and say Saudi strikes killed 9–11 people in Yemen.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Asharq Al-Awsat",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/gulf/5333054-saudi-arabia-intercepts-three-missiles-targeting-riyadh-taif-and-yanbu"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://emirates24.net/saudi/2510/121112/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-09",
+   "segment": "Middle East",
+   "country": "United States / Iran",
+   "text": "The WSJ reports that a US carrier is rearming for possible new strikes on Iran. Trump says he is weighing a deal against action, and US officials disagree on timing.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Yu Deok-gi",
+   "outlet": "SBS News (relaying WSJ)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "SBS News (relaying WSJ)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008813877"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-08",
+   "segment": "Middle East",
+   "country": "Iran",
+   "text": "The [[p:Islamic Revolutionary Guard Corps|IRGC]] says two supertankers hit mines near Hormuz. There is no independent confirmation.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Iran International",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Iran International",
+     "url": "https://www.iranintl.com/en/202610233119"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-16",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea / China",
+   "text": "[[p:Kim Jong Un]] made a one-day trip to Dandong in China, hosted by [[p:Wang Huning]], weeks before Trump visits China for APEC.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (wires)",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "Al Jazeera (wires)",
+     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.nknews.org/2026/10/kim-jong-un-says-north-korea-inspired-by-chinas-success-in-border-city-visit/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-22",
+   "segment": "The Americas",
+   "country": "Brazil",
+   "text": "Brazil holds its [[e:2026 Brazilian general election|presidential runoff]] today. The final Datafolha poll shows [[p:Flávio Bolsonaro]] at 51% and Lula at 49%, a statistical tie.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Diógenes Freire Feitosa, Gustavo Ribeiro",
+   "outlet": "Gazeta do Povo",
+   "opinion": "",
+   "thread": "Brazil election 2026",
+   "links": [
+    {
+     "label": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-vespera-segundo-turno/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-23",
+   "segment": "The Americas",
+   "country": "Cuba / United States",
+   "text": "[[p:Marco Rubio]] urged Cubans to work with the [[p:Central Intelligence Agency|CIA]], and Trump floated sending warships off Cuba. Havana called it desperation.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "US pressure on Cuba",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.jornada.com.mx/2026/10/24/mundo/020n1mun?partner=rss"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-25",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "UN rights chief [[p:Volker Türk]] says drones killed at least 306 people in Sudan this month. 32 governments warn of famine.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Sudan Tribune",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Sudan Tribune",
+     "url": "https://sudantribune.com/article/320387"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/dichiarazione-congiunta-sul-rischio-di-carestia-in-sudan/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261025-24",
+   "segment": "Africa",
+   "country": "DRC / Kenya / Nigeria",
+   "text": "WHO counts 9,704 confirmed Ebola cases and 4,687 deaths in DRC. Kenya has 9 cases and Nigeria one.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "World Health Organization",
+   "opinion": "",
+   "thread": "Ebola epidemic 2026",
+   "links": [
+    {
+     "label": "World Health Organization",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.the-star.co.ke/news/2026-10-24-kenya-records-second-ebola-death"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261025-01",
+   "title": "EU vies to expand role in Ukraine-Russia peace talks to influence US thinking",
+   "reporter": "Jorge Liboreiro",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/23/eu-vies-to-expand-role-in-ukraine-russia-peace-talks-to-influence-us-thinking",
+   "why": "Shows how Brussels is trying to stop a US–Russia deal being made over its head, with the Abu Dhabi timing and Moscow's conditions.",
+   "segment": "EU politics + cross-cutting",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261025-02",
+   "title": "Von der Leyen: a magyar változásokkal Európa is erősebb lett",
+   "reporter": "Nora Shenouda",
+   "outlet": "Euronews Magyar",
+   "url": "https://hu.euronews.com/2026/10/23/von-der-leyen-a-magyar-valtozasokkal-europa-is-erosebb-lett",
+   "why": "Shows how the EU is rewarding [[p:Péter Magyar]]'s reforms with funds, in the same week Budapest held back Ukraine's next clusters.",
+   "segment": "EU politics + cross-cutting",
+   "language": "Hungarian"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-10-26",
+   "text": "Brazil runoff result: Lula vs Flávio Bolsonaro.",
+   "segment": "The Americas",
+   "watchId": "W-261025-05"
+  },
+  {
+   "date": "2026-10-26",
+   "text": "Sweden: Elisabeth Thand Ringqvist reports to the Speaker; a new PM vote is possible late in the week.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-10"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Oleshky local ceasefire takes effect (03:00 Kyiv / 04:00 Moscow); main aid and evacuation mission on 29 Oct.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-01"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Israeli Knesset election ([[e:2026 Israeli legislative election]]).",
+   "segment": "Middle East",
+   "watchId": "W-261025-02"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Pezeshkian meets Putin at the gas exporters' (GECF) summit in Moscow.",
+   "segment": "Middle East",
+   "watchId": "W-261025-03"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Serbia snap election results.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-06"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "US Federal Reserve rate decision.",
+   "segment": "The Americas",
+   "watchId": "W-261025-09"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "ECB rate decision; deposit rate widely expected to stay at 2.5%, with possible signals on France.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-08"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Third Russia–Africa Summit in Moscow; Putin and AU chair Ndayishimiye co-chair the plenary on 29 Oct.",
+   "segment": "Africa",
+   "watchId": "W-261025-15"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Fifth Plenum of the CCP Central Committee, Beijing, 26–29 Oct.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-16"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Thai no-confidence debate on PM Anutin; the government proposes a vote on 30 Oct, the opposition wants November.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-17"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "UN Security Council vote on renewing the MINURSO mission in Western Sahara (mandate expires 31 Oct).",
+   "segment": "Africa",
+   "watchId": "W-261025-14"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "German President Steinmeier's state visit to China, 27–31 Oct.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-18"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "Bulgaria presidential runoff, expected to be Iotova vs Gyurov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-07"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "EU gas storage reference date for the relaxed 80% fill target.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-11"
+  },
+  {
+   "date": "",
+   "text": "Possible new US strikes on Iran; officials give conflicting timing.",
+   "segment": "Middle East",
+   "watchId": "W-261025-12"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Netherlands",
+   "status": "quiet"
+  },
+  {
+   "country": "Belgium",
+   "status": "quiet"
+  },
+  {
+   "country": "Slovakia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Austria",
+   "status": "no sources found"
+  },
+  {
+   "country": "Estonia, Latvia, Lithuania",
+   "status": "no sources found"
+  },
+  {
+   "country": "Greece",
+   "status": "no sources found"
+  },
+  {
+   "country": "Cyprus",
+   "status": "no sources found"
+  },
+  {
+   "country": "Portugal",
+   "status": "quiet"
+  },
+  {
+   "country": "Ireland",
+   "status": "no sources found"
+  },
+  {
+   "country": "Denmark",
+   "status": "quiet"
+  },
+  {
+   "country": "Finland",
+   "status": "quiet"
+  },
+  {
+   "country": "Norway",
+   "status": "quiet"
+  },
+  {
+   "country": "Moldova",
+   "status": "no sources found"
+  },
+  {
+   "country": "North Macedonia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Montenegro",
+   "status": "quiet"
+  },
+  {
+   "country": "Kosovo",
+   "status": "quiet"
+  },
+  {
+   "country": "Turkey",
+   "status": "quiet"
+  },
+  {
+   "country": "Georgia (EU accession)",
+   "status": "no sources found"
+  },
+  {
+   "country": "ECB",
+   "status": "quiet"
+  },
+  {
+   "country": "OPEC+",
+   "status": "quiet"
+  },
+  {
+   "country": "New START / nuclear testing",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kyiv Post (citing European Pravda) · EU / Hungary / Ukraine",
+   "url": "https://www.kyivpost.com/post/87644",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · EU / Hungary / Ukraine",
+   "url": "https://english.nv.ua/nation/hungary-blocks-ukraine-s-final-eu-negotiating-clusters-50651868.html",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews · EU / Ukraine",
+   "url": "https://www.euronews.com/2026/10/23/eu-vies-to-expand-role-in-ukraine-russia-peace-talks-to-influence-us-thinking",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · EU / Ukraine",
+   "url": "https://www.euronews.com/2026/10/23/a-budapest-reset-and-a-scramble-to-get-ukraine-peace-talks-back-on-track",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews · United States / Russia",
+   "url": "https://www.euronews.com/2026/10/23/first-russian-diesel-shipment-is-heading-to-us-under-trump-putin-deal",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · United States / Russia",
+   "url": "https://www.cfr.org/articles/trumps-russian-diesel-deal-explained",
+   "paywalled": false
+  },
+  {
+   "title": "IEEFA / Euronews · EU",
+   "url": "https://ieefa.org/resources/eu-may-need-cut-winter-gas-demand-7-gas-storage-record-seasonal-low",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · EU",
+   "url": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds",
+   "paywalled": false
+  },
+  {
+   "title": "RTÉ (Reuters) · Global",
+   "url": "https://www.rte.ie/news/world/2026/1020/1596050-us-russia-china/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Global",
+   "url": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews · France",
+   "url": "https://www.euronews.com/2026/10/23/frances-bond-drama-takes-centre-stage-ahead-of-ecb-rate-decision",
+   "paywalled": false
+  },
+  {
+   "title": "Le JDD · France",
+   "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-interpellations-nombre-de-manifestants-le-bilan-des-autorites-186957",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · France",
+   "url": "https://www.csmonitor.com/World/Europe/2026/1024/Police-and-protesters-clash-in-Paris-as-demonstrations-break-out-across-Europe",
+   "paywalled": false
+  },
+  {
+   "title": "Kurir · Serbia",
+   "url": "https://www.kurir.rs/vesti/politika/10143524/izbori-u-srbiji-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Serbia",
+   "url": "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews Magyar · Hungary / EU",
+   "url": "https://hu.euronews.com/2026/10/23/von-der-leyen-a-magyar-valtozasokkal-europa-is-erosebb-lett",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Hungary / EU",
+   "url": "https://piacesprofit.hu/cikkek/gazdasag/von-der-leyen-megszolalt-a-befagyasztott-magyar-unios-forrasokrol.html",
+   "paywalled": false
+  },
+  {
+   "title": "Agence Europe · EU",
+   "url": "https://agenceurope.eu/en/bulletin/article/13965/17/mff-2028-2034-antonio-costa-confirms-he-will-present-his-proposal-with-figures-ahead-of-late-november-summit",
+   "paywalled": true
+  },
+  {
+   "title": "Cross-check · EU",
+   "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+   "paywalled": false
+  },
+  {
+   "title": "The National · Global",
+   "url": "https://www.thenationalnews.com/news/us/2026/10/16/un-secretary-general-race-grynspan/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Global",
+   "url": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives",
+   "paywalled": false
+  },
+  {
+   "title": "Interfax-Ukraine · Russia / Ukraine",
+   "url": "https://en.interfax.com.ua/news/general/1225198.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Russia / Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin",
+   "paywalled": false
+  },
+  {
+   "title": "Hromadske · Ukraine",
+   "url": "https://hromadske.ua/en/amp/war/273075-ukraine-russia-agree-to-ceasefire-in-occupied-oleshky-for-humanitarian-mission-starting-oct-27",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine",
+   "url": "https://www.radiosvoboda.org/a/news-henshtab-zsu-oleshky-rezhym-tyshi/33883200.html",
+   "paywalled": false
+  },
+  {
+   "title": "Asharq Al-Awsat · Saudi Arabia / Yemen",
+   "url": "https://english.aawsat.com/gulf/5333054-saudi-arabia-intercepts-three-missiles-targeting-riyadh-taif-and-yanbu",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Saudi Arabia / Yemen",
+   "url": "https://emirates24.net/saudi/2510/121112/",
+   "paywalled": false
+  },
+  {
+   "title": "SBS News (relaying WSJ) · United States / Iran",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008813877",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · United States / Iran",
+   "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804",
+   "paywalled": false
+  },
+  {
+   "title": "Iran International · Iran",
+   "url": "https://www.iranintl.com/en/202610233119",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Iran",
+   "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (wires) · North Korea / China",
+   "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · North Korea / China",
+   "url": "https://www.nknews.org/2026/10/kim-jong-un-says-north-korea-inspired-by-chinas-success-in-border-city-visit/",
+   "paywalled": false
+  },
+  {
+   "title": "Gazeta do Povo · Brazil",
+   "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-vespera-segundo-turno/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Brazil",
+   "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera · Cuba / United States",
+   "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Cuba / United States",
+   "url": "https://www.jornada.com.mx/2026/10/24/mundo/020n1mun?partner=rss",
+   "paywalled": false
+  },
+  {
+   "title": "Sudan Tribune · Sudan",
+   "url": "https://sudantribune.com/article/320387",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Sudan",
+   "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/dichiarazione-congiunta-sul-rischio-di-carestia-in-sudan/",
+   "paywalled": false
+  },
+  {
+   "title": "World Health Organization · DRC / Kenya / Nigeria",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · DRC / Kenya / Nigeria",
+   "url": "https://www.the-star.co.ke/news/2026-10-24-kenya-records-second-ebola-death",
+   "paywalled": false
+  }
+ ]
+}
