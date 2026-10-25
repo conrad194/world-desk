@@ -1,6 +1,6 @@
 {
   "title": "World Desk",
-  "lede": "Two daily briefings in one place: the countries closest to you every day, and the whole world one region at a time.",
+  "lede": "Two daily briefings in one place: USA, Poland + Krk and India, and the whole world, one region at a time.",
   "cards": [
     {
       "id": "c1",
@@ -46,5 +46,5 @@
       "when": ""
     }
   ],
-  "savedAt": 1792937653957
+  "savedAt": 1792938041487
 }
