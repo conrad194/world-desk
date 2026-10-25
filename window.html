@@ -394,7 +394,7 @@ const threadTag = t => t ? `<button class="thread" data-act="thread" data-thread
 const empty = (title, body) => `<div class="empty"><strong>${esc(title)}</strong>${body}</div>`;
 
 /* ---------- Static data layer: files published by the daily runs, personal state in this browser ---------- */
-const BASE = "data/";
+const BASE = "data/window/";
 const LS_KEY = "window:mine";
 function loadMine() { try { const v = JSON.parse(localStorage.getItem(LS_KEY) || "null"); if (v && typeof v === "object") return { docs: v.docs || {}, mine: v.mine || {} }; } catch (e) {} return { docs: {}, mine: {} }; }
 function saveMine() { try { localStorage.setItem(LS_KEY, JSON.stringify(S.my)); return true; } catch (e) { return false; } }

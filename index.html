@@ -144,8 +144,8 @@ const DEFAULT = {
   title: "World Desk",
   lede: "Two daily briefings in one place: the countries closest to you every day, and the whole world one region at a time.",
   cards: [
-    { id: "c1", name: "Three-Country Window", url: "window/", desc: "The US, Poland, Kraków and India: every topic, every day, from politics and courts to FDA rules, tech and transport, plus how the three countries relate.", color: "teal", font: "display", mark: "countries", todayType: "window", todayText: "", note: "Opens with a civics lesson on how the three countries work.", chips: "Lessons, Rules & laws, Timeline, Coverage map, Sunday quiz", cta: "Open the Window" },
-    { id: "c2", name: "Geopolitics Rotation", url: "rotation/", desc: "The world in seven regions, one in depth each day, plus a daily check for anything major everywhere else.", color: "wine", font: "alt", mark: "regions", todayType: "rotation", todayText: "", note: "With the history behind one of the day's biggest stories.", chips: "History, Timeline, Watch list, Reporters, Sunday quiz", cta: "Open the Rotation" }
+    { id: "c1", name: "Three-Country Window", url: "window.html", desc: "The US, Poland, Kraków and India: every topic, every day, from politics and courts to FDA rules, tech and transport, plus how the three countries relate.", color: "teal", font: "display", mark: "countries", todayType: "window", todayText: "", note: "Opens with a civics lesson on how the three countries work.", chips: "Lessons, Rules & laws, Timeline, Coverage map, Sunday quiz", cta: "Open the Window" },
+    { id: "c2", name: "Geopolitics Rotation", url: "rotation.html", desc: "The world in seven regions, one in depth each day, plus a daily check for anything major everywhere else.", color: "wine", font: "alt", mark: "regions", todayType: "rotation", todayText: "", note: "With the history behind one of the day's biggest stories.", chips: "History, Timeline, Watch list, Reporters, Sunday quiz", cta: "Open the Rotation" }
   ],
   routineTitle: "Your daily routine",
   routine: [
@@ -207,7 +207,7 @@ function editHtml(d) {
   <div class="doors">${d.cards.map((c, i) => `<div class="door ${c.font === "alt" ? "alt" : ""}" style="${colorVars(c.color)}">
       ${markHtml(c.mark)}
       <div class="field"><label for="n-${i}">Name</label><input id="n-${i}" data-c="${i}" data-f="name" value="${esc(c.name)}" maxlength="60"></div>
-      <div class="field"><label for="u-${i}">Link (https://… or a page on this site, e.g. window/)</label><input id="u-${i}" data-c="${i}" data-f="url" value="${esc(c.url)}" inputmode="url">${c.url && !safeUrl(c.url) ? `<span class="err">Use a full https:// link or a page on this site</span>` : ""}</div>
+      <div class="field"><label for="u-${i}">Link (https://… or a page on this site, e.g. window.html)</label><input id="u-${i}" data-c="${i}" data-f="url" value="${esc(c.url)}" inputmode="url">${c.url && !safeUrl(c.url) ? `<span class="err">Use a full https:// link or a page on this site</span>` : ""}</div>
       <div class="field"><label for="d-${i}">Description</label><textarea id="d-${i}" data-c="${i}" data-f="desc" maxlength="300">${esc(c.desc)}</textarea></div>
       <div class="grid2">
         <div class="field"><label for="t-${i}">"Today" line shows</label>${sel("t-" + i, TODAY_TYPES, c.todayType).replace("<select", `<select data-c="${i}" data-f="todayType"`)}</div>
