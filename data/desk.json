@@ -1,0 +1,50 @@
+{
+  "title": "World Desk",
+  "lede": "Two daily briefings in one place: the countries closest to you every day, and the whole world one region at a time.",
+  "cards": [
+    {
+      "id": "c1",
+      "name": "Three-Country Window",
+      "url": "window.html",
+      "desc": "The US, Poland, Kraków and India: every topic, every day, from politics and courts to FDA rules, tech and transport, plus how the three countries relate.",
+      "color": "teal",
+      "font": "display",
+      "mark": "countries",
+      "todayType": "window",
+      "todayText": "",
+      "note": "Opens with a civics lesson on how the three countries work.",
+      "chips": "Lessons, Rules & laws, Timeline, Coverage map, Sunday quiz",
+      "cta": "Open the Window"
+    },
+    {
+      "id": "c2",
+      "name": "Geopolitics Rotation",
+      "url": "rotation.html",
+      "desc": "The world in seven regions, one in depth each day, plus a daily check for anything major everywhere else.",
+      "color": "wine",
+      "font": "alt",
+      "mark": "regions",
+      "todayType": "rotation",
+      "todayText": "",
+      "note": "With the history behind one of the day's biggest stories.",
+      "chips": "History, Timeline, Watch list, Reporters, Sunday quiz",
+      "cta": "Open the Rotation"
+    }
+  ],
+  "routineTitle": "Tasks/Purpose",
+  "routine": [
+    {
+      "text": "Window's lesson and Top 5.",
+      "when": "about 8 min"
+    },
+    {
+      "text": "Rotation's Tier 1 summary and history behind it.",
+      "when": "about 7 min"
+    },
+    {
+      "text": "\"Read in full\" piece, and give verdicts on Watch items.",
+      "when": ""
+    }
+  ],
+  "savedAt": 1792937653957
+}
