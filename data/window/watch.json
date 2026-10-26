@@ -285,6 +285,61 @@
    "checkDate": "2026-11-02",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261026-27",
+   "dateAdded": "2026-10-26",
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "what": "Jaishankar at the G20 FMM in Atlanta and a possible Quad foreign ministers' meeting; any Rubio–Jaishankar bilateral or trade-deal signal",
+   "expected": "NewsBytes / New Indian Express; meeting 30–31 Oct",
+   "checkDate": "2026-10-31",
+   "happened": "",
+   "eventId": "E-261026-55"
+  },
+  {
+   "id": "W-261026-28",
+   "dateAdded": "2026-10-26",
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "what": "Whether the India–US trade deal is signed, possibly at a Modi–Trump meeting during the ASEAN summit in Manila, alongside a Quad leaders' summit",
+   "expected": "Trump/Rubio say deal is close; Manila meetings 15–18 Nov",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": "E-261026-56"
+  },
+  {
+   "id": "W-261026-29",
+   "dateAdded": "2026-10-26",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "US Europe force-posture review: report to Hegseth around 1 Nov, to Trump around 1 Dec; decision on a permanent US base and its location",
+   "expected": "Polish MoD (Kosiniak-Kamysz, Sobkowiak-Czarnecka)",
+   "checkDate": "2026-11-02",
+   "happened": "",
+   "eventId": "E-261026-52"
+  },
+  {
+   "id": "W-261026-30",
+   "dateAdded": "2026-10-26",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "Rescheduled Kosiniak-Kamysz–Hegseth Pentagon meeting (postponed in September at US request)",
+   "expected": "WP sources: October or November",
+   "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-31",
+   "dateAdded": "2026-10-26",
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "what": "Signing of the Poland–India Agreement on Mutual Protection and Exchange of Classified Information, and confirmation of WB Group's India investment",
+   "expected": "Joint statement of 22 Oct says 'soon'",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261026-59"
   }
  ]
 }
