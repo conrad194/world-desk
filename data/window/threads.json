@@ -1,0 +1,212 @@
+{
+ "items": [
+  {
+   "id": "2026-us-midterms",
+   "name": "2026 US midterms",
+   "place": "US",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "Campaign for the 3 Nov 2026 midterms, with the House (218–214 R) and Senate (53–47 R) at stake, including the administration's lawsuits over ballots and certification in California and Alaska."
+  },
+  {
+   "id": "usiran-war-and-negotiations",
+   "name": "US–Iran war and negotiations",
+   "place": "US",
+   "domain": "Foreign relations",
+   "status": "Active",
+   "summary": "The US–Iran conflict, the US blockade of Iranian ports, stalled talks, threat reporting and spillover across the Gulf."
+  },
+  {
+   "id": "us-tariffs-and-trade-deals",
+   "name": "US tariffs and trade deals",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "Active",
+   "summary": "US tariff actions (Section 232/338 proclamations, the Canada tariff war) and bilateral trade deals after the Supreme Court struck down the emergency-power tariffs."
+  },
+  {
+   "id": "aca-marketplace-eligibility-tightening",
+   "name": "ACA marketplace eligibility tightening",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "Active",
+   "summary": "CMS rules tightening eligibility verification for ACA marketplace subsidies."
+  },
+  {
+   "id": "fda-closer-to-zero",
+   "name": "FDA Closer to Zero",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "Active",
+   "summary": "FDA programme setting action levels for lead, arsenic, cadmium and mercury in baby food."
+  },
+  {
+   "id": "polish-coalition-stability-and-polska-2050",
+   "name": "Polish coalition stability and Polska 2050",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "Strains in Donald Tusk's governing coalition, including the split in Polska 2050 and the fight over the funds ministry."
+  },
+  {
+   "id": "poland-2027-tax-reform",
+   "name": "Poland 2027 tax reform",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "Active",
+   "summary": "The government's PIT/CIT reform for 2027, Sejm amendments and the Senate's attempt to reverse them."
+  },
+  {
+   "id": "poland-abortion-law",
+   "name": "Poland abortion law",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "Active",
+   "summary": "Bills liberalising Poland's abortion rules, their path through the Senate and the expected presidential veto."
+  },
+  {
+   "id": "presidentgovernment-conflict-in-poland",
+   "name": "President–government conflict in Poland",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "Clashes between President Karol Nawrocki and the Tusk government: vetoes, appointments, foreign policy and judicial reform including the Constitutional Tribunal dispute."
+  },
+  {
+   "id": "poland-digital-services-tax",
+   "name": "Poland digital services tax",
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "Active",
+   "summary": "Plans for a 3% tax on the revenue of large global tech firms in Poland, and the US reaction."
+  },
+  {
+   "id": "polish-nuclear-power-programme",
+   "name": "Polish nuclear power programme",
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "Active",
+   "summary": "The large AP1000 plant in Pomerania and small modular reactor (SMR) projects."
+  },
+  {
+   "id": "local-recall-referendums-in-poland",
+   "name": "Local recall referendums in Poland",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "Recall votes against mayors (Kraków in May, Częstochowa in October 2026) and the snap elections that follow."
+  },
+  {
+   "id": "ukraine-security-guarantees",
+   "name": "Ukraine security guarantees",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "Active",
+   "summary": "The 'coalition of the willing', European security guarantees for Ukraine and Poland's role."
+  },
+  {
+   "id": "gibaa-s-first-months-as-krakow-mayor",
+   "name": "Gibała's first months as Kraków mayor",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "Łukasz Gibała's reorganisation of City Hall, budget, fares and tourist fee after his October 2026 election."
+  },
+  {
+   "id": "krakow-transit-and-fares",
+   "name": "Kraków transit and fares",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "status": "Active",
+   "summary": "Kraków tram and bus changes, fare reform (20- and 40-minute tickets), rail works around the city and seasonal transit plans."
+  },
+  {
+   "id": "opposition-vs-election-commission-over-sir",
+   "name": "Opposition vs Election Commission over SIR",
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "The opposition's campaign against the Election Commission over the Special Intensive Revision of voter rolls."
+  },
+  {
+   "id": "gulf-conflict-and-indians-abroad",
+   "name": "Gulf conflict and Indians abroad",
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "Active",
+   "summary": "Impact of the Gulf war on Indian nationals, Umrah pilgrims, flights and remittances."
+  },
+  {
+   "id": "india-oil-shock-and-markets",
+   "name": "India oil shock and markets",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "status": "Active",
+   "summary": "Effect of high crude prices from the Gulf conflict on Indian markets, the rupee and inflation."
+  },
+  {
+   "id": "india-disinvestment",
+   "name": "India disinvestment",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "status": "Active",
+   "summary": "Government plans to list or sell stakes in state-owned firms."
+  },
+  {
+   "id": "karnataka-politics-and-governance",
+   "name": "Karnataka politics and governance",
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "Active",
+   "summary": "Karnataka state government: drought relief row with the Centre, the KPSC exam scam and governance disputes."
+  },
+  {
+   "id": "indiaus-trade-deal",
+   "name": "India–US trade deal",
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "Active",
+   "summary": "Negotiations on the first tranche of a US–India trade agreement and tariffs linked to Russian oil."
+  },
+  {
+   "id": "quad-and-indiaus-diplomacy",
+   "name": "Quad and India–US diplomacy",
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "Active",
+   "summary": "Quad meetings, the G20 foreign ministers' meeting in Atlanta and high-level India–US contacts."
+  },
+  {
+   "id": "us-visas-and-indian-workers",
+   "name": "US visas and Indian workers",
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "Active",
+   "summary": "The $100,000 H-1B fee and its litigation, state H-1B hiring bans and student visas."
+  },
+  {
+   "id": "permanent-us-base-in-poland",
+   "name": "Permanent US base in Poland",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "status": "Active",
+   "summary": "Poland's push for a permanent US Army base ('Fort Trump'), costs, candidate sites and the US force-posture review."
+  },
+  {
+   "id": "uspoland-and-ukraine-diplomacy",
+   "name": "US–Poland and Ukraine diplomacy",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "Active",
+   "summary": "US and Polish positions on the Russia–Ukraine peace process, including the US ambassador's public statements."
+  },
+  {
+   "id": "polandindia-strategic-partnership",
+   "name": "Poland–India strategic partnership",
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "Active",
+   "summary": "Follow-up to Tusk's October 2026 visit to India: trade, defence-industry dialogue and agreements."
+  }
+ ]
+}
