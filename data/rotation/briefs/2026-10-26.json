@@ -1,0 +1,875 @@
+{
+ "date": "2026-10-26",
+ "segment": "Russia–Ukraine & European security",
+ "windowFrom": "2026-10-19",
+ "tier1Summary": "Moscow has put a date on diplomacy: Kremlin aide Yuri Ushakov says trilateral talks can resume after 4 Nov, after [[p:Steve Witkoff]] met [[p:Vladimir Putin]] in St Petersburg. Zelensky rejects army limits and neutrality. The Oleshky ceasefire starts on 27 Oct. Strikes go on both ways, reaching Perm and Voronezh and forcing new power cuts in Ukraine.\n\nOn NATO's flank, the alliance is adding Black Sea surveillance, drones crashed in Lithuania, Latvia and Moldova, and Starlink sites face arson that Vilnius blames on Russia.\n\nElsewhere, Lula won Brazil's runoff but Flávio Bolsonaro refuses to concede, and Serbia's Student List beat Vučić's party. Gulf, Pakistani and Turkish envoys met in Tehran to head off new war, while CNN reports Trump asked Netanyahu to hold a strike until after Israel votes on 27 Oct.",
+ "segmentItems": [
+  {
+   "id": "E-261026-08",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Ukraine",
+   "text": "Kremlin aide [[p:Yuri Ushakov]] says Moscow is ready to resume trilateral talks after 4 Nov, calling the first round a 'trial run' and saying Europe must be involved.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Kateryna Hodunova",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/feature/2026/10/25/voyna"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-09",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "[[p:Volodymyr Zelenskyy]] rules out army limits and neutrality, seeks Article 5-style guarantees, and proposes an energy ceasefire and a Black Sea deal.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Lachlan Hyatt",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/zelensky-details-expectations-for-upcoming-trilateral-peace-talks-with-russia-us/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-26-october-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-12",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Ukraine / NATO",
+   "text": "The Telegraph reports Moscow will press NATO to roll back to its 1997 posture, including from Poland, the Baltics and Finland.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "",
+   "outlet": "Novaya Gazeta Europe (citing The Telegraph)",
+   "opinion": "anonymous-source report",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Novaya Gazeta Europe (citing The Telegraph)",
+     "url": "https://novayagazeta.eu/articles/2026/10/26/the-telegraph-rossiia-khochet-ispolzovat-peregovory-o-voine-v-ukraine-chtoby-dobitsia-sokrashcheniia-voennogo-prisutstviia-nato-news"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-13",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Ukraine",
+   "text": "The Oleshky ceasefire starts at 04:00 Moscow time on 27 Oct on [[p:Valery Gerasimov]]'s order; ombudsman [[p:Dmytro Lubinets]] leads Ukraine's team.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Natalka Lototska",
+   "outlet": "LB.ua",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "LB.ua",
+     "url": "https://lb.ua/society/2026/10/25/776086_lubinets_zaklikav_nadavati.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.holosameryky.com/a/8214568.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-28",
+   "segment": "Russia–Ukraine & European security",
+   "country": "NATO / Bulgaria / Romania",
+   "text": "The [[p:North Atlantic Council]] {{note: NATO's main political decision-making body, set up under the 1949 North Atlantic Treaty.}} agreed more patrol aircraft, radar and drones for the Black Sea after strikes on merchant ships. NATO has not attributed them; Russia denies involvement.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Maritime Executive",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "The Maritime Executive",
+     "url": "https://maritime-executive.com/article/nato-to-support-increased-black-sea-surveillance"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://thedefensepost.com/2026/10/21/nato-black-sea-presence/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-18",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia",
+   "text": "Ukrainian strikes reached a plant in Perm region named by monitors as titanium maker [[p:VSMPO-Avisma]], over 1,400 km from the border, and Yelets's Energiya plant.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Moscow Times (with Reuters)",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Moscow Times (with Reuters)",
+     "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-5-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/feature/2026/10/25/voyna"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-19",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia",
+   "text": "A drone attack on Voronezh killed two and injured 17, the governor says.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Novaya Gazeta Europe",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Novaya Gazeta Europe",
+     "url": "https://novayagazeta.eu/articles/2026/10/26/vo-vremia-ataki-ukrainskikh-dronov-na-voronezh-pogibli-dva-cheloveka-eshche-17-postradali-news"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/drone-reportedly-strikes-business-center-in-russias-voronezh-as-fires-break-out-across-city/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-20",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Russia launched 140 drones and four missiles overnight; [[p:Ukrenergo]] imposed hourly outages.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Interfax-Ukraine",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Interfax-Ukraine",
+     "url": "https://interfax.com.ua/news/general/1225766.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-26-october-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-15",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "ISW reports small Ukrainian gains on the Oleksandrivka axis and widening Russian infiltration in Dobropillia.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "ISW",
+   "opinion": "analysis",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "ISW",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-25-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://lb.ua/society/2026/10/25/775976_dobu_fronti_vidbulosya_193.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-21",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Zelensky asked the [[p:Verkhovna Rada]] to extend martial law and mobilisation to 29 Jan 2027.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Slovo i Dilo",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Slovo i Dilo",
+     "url": "https://www.slovoidilo.ua/2026/10/26/novyna/suspilstvo/zelenskyj-zaproponuvav-radi-prodovzhyty-voyennyj-stan-mobilizacziyu"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://ukranews.com/ua/news/1183339-zelenskyj-proponuye-radi-prodovzhyty-voyennyj-stan-i-mobilizatsiyu-do-29-sichnya-2027"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-22",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "[[p:National Anti-Corruption Bureau of Ukraine|NABU]] {{note: Ukraine's independent anti-graft agency, created in 2015 after the Revolution of Dignity under Western pressure.}} searched the National Bank, including Governor [[p:Andriy Pyshnyi]]'s office; no one was charged.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Iryna Dashkivska",
+   "outlet": "Censor.net",
+   "opinion": "",
+   "thread": "Ukraine anti-corruption cases",
+   "links": [
+    {
+     "label": "Censor.net",
+     "url": "https://censor.net/ua/news/4029558/obshuky-u-golovy-nbu-andriya-pyshnogo-nabu-ta-sap-provodyat-slidchi-diyi"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.slovoidilo.ua/2026/10/21/novyna/polityka/media-povidomyly-pro-vidstavku-pyshnoho-nbu-zaperechyly"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-14",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "[[p:Elon Musk]] claims Ukraine broke Starlink's terms; Kyiv denies it.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-starshield-operations-restored-to-normal-speed-zelensky-confirms-as-elon-musk-claims-ukraine-violated-starlink-terms/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-25-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-26",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / United States",
+   "text": "[[p:Alexander Novak]] says three Russian diesel tankers are heading to the US.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Moika78 (citing Vesti)",
+   "opinion": "",
+   "thread": "US–Russia diesel deal and sanctions",
+   "links": [
+    {
+     "label": "Moika78 (citing Vesti)",
+     "url": "https://moika78.ru/news/2026-10-25/1370737-novak-rasskazal-skolko-dizelya-rossiya-gotova-postavit-ssha"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-36",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Moldova / Russia",
+   "text": "Moldova will expel a Russian diplomat after an explosive-laden drone crashed near a house in Telenești.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Ana-Maria Dolghii",
+   "outlet": "NewsMaker",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "NewsMaker",
+     "url": "https://newsmaker.md/ro/mae-un-angajat-al-ambasadei-rusiei-la-chi%C8%99in%C4%83u-va-fi-declarat-persona-non-grata-dup%C4%83-pr%C4%83bu%C8%99i-dronei-%C3%AEn-raionul-telene%C8%99ti"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://ipn.md/en/an-employee-of-the-russian-embassy-will-be-declared-persona-non-grata-following-the-drone-incident-at-telenesti/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-29",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Lithuania / Poland",
+   "text": "A stray Ukrainian drone crashed in Lithuania; PM [[p:Mindaugas Sinkevičius]] wants NATO rules allowing shoot-downs without visual identification.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "LRT (BNS)",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "LRT (BNS)",
+     "url": "https://www.lrt.lt/en/news-in-english/19/3088084/lithuania-seeks-nato-talks-on-shooting-down-drones-without-visual-confirmation"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.stripes.com/theaters/europe/2026-10-20/lithuania-nato-drone-rules-sinkevicius-23207193.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-30",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Lithuania / Poland / Bulgaria",
+   "text": "Arsonists targeted a Starlink storage firm in Lithuania; the PM blames Russia. Similar attacks hit Poland and Bulgaria.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "LRT (BNS/ELTA)",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "LRT (BNS/ELTA)",
+     "url": "https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://united24media.com/war-in-ukraine/someone-is-setting-starlink-infrastructure-on-fire-across-europe-23653"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-38",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Belarus",
+   "text": "73 freed Belarusian political prisoners, including [[p:Maria Kalesnikava]], urged Europe to negotiate for the roughly 900 still held.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Vera Koryavskaya",
+   "outlet": "Zerkalo",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Zerkalo",
+     "url": "https://news.zerkalo.io/economics/139219.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-24",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia",
+   "text": "The [[p:Central Bank of Russia|Bank of Russia]] held its rate at 14%.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Mikhail Belyaev",
+   "outlet": "Vedomosti",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Vedomosti",
+     "url": "https://www.vedomosti.ru/finance/articles/2026/10/23/1239661-kak-nabiullina-obyasnila"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.kommersant.ru/doc/9059054"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261026-01",
+   "segment": "The Americas",
+   "country": "Brazil",
+   "text": "[[p:Luiz Inácio Lula da Silva|Lula]] won Brazil's runoff with 51.8%. [[p:Flávio Bolsonaro]] refuses to concede and will seek annulment.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "TSE (official)",
+   "opinion": "",
+   "thread": "Brazil election 2026",
+   "links": [
+    {
+     "label": "TSE (official)",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-02",
+   "segment": "EU politics + cross-cutting",
+   "country": "Serbia",
+   "text": "Serbia's Student List won about 52.5%; [[p:Aleksandar Vučić]] conceded.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Kristina Bondžulić",
+   "outlet": "Danas",
+   "opinion": "",
+   "thread": "Serbia protests and election",
+   "links": [
+    {
+     "label": "Danas",
+     "url": "https://www.danas.rs/vesti/politika/izbori26/rik-rezultati-izbora-izlaznost/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-04",
+   "segment": "Middle East",
+   "country": "Iran / Saudi Arabia / Pakistan / Turkey",
+   "text": "Saudi, Pakistani and Turkish security chiefs held talks in Tehran to avert renewed war; no outcome yet.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Samy Magdy",
+   "outlet": "AP",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "AP",
+     "url": "https://www.ksat.com/news/world/2026/10/26/delegations-meet-in-iran-with-mideast-region-on-edge-over-potential-for-renewed-fighting/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.tribuneindia.com/news/world/iran-says-saudi-pakistani-turkish-officials-to-visit-tehran-for-regional-security-talks"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-05",
+   "segment": "Middle East",
+   "country": "Israel / United States / Iran",
+   "text": "CNN reports [[p:Benjamin Netanyahu]] sought a joint pre-election strike on Iran and Trump asked him to wait. Netanyahu's office denies it.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Times of Israel (relaying CNN and Channel 12)",
+   "opinion": "anonymous-source report",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "Times of Israel (relaying CNN and Channel 12)",
+     "url": "https://www.timesofisrael.com/liveblog-october-26-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ksat.com/news/world/2026/10/26/delegations-meet-in-iran-with-mideast-region-on-edge-over-potential-for-renewed-fighting/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261026-06",
+   "segment": "The Americas",
+   "country": "Venezuela",
+   "text": "[[p:María Corina Machado]] returned to Venezuela from exile.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (with AP)",
+   "opinion": "",
+   "thread": "Venezuela transition",
+   "links": [
+    {
+     "label": "Al Jazeera (with AP)",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.riotimesonline.com/venezuela-rubio-machado-return-us-talks-2026/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261026-01",
+   "title": "With Kyiv's air defense crews as they race to keep up with Russia's jet-powered drones",
+   "reporter": "Polina Moroziuk, Jakub Laichter",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/with-kyivs-air-defense-crews-as-they-race-to-keep-up-with-russias-jet-powered-drones/",
+   "why": "Ground-level reporting on why fast jet Shaheds beat Kyiv's layered air defence, and what interceptors are coming.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261026-02",
+   "title": "Can the US still deter Russia? Lithuania navigates an uneasy alliance",
+   "reporter": "Žygintas Abromaitis",
+   "outlet": "LRT",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3088315/can-the-us-still-deter-russia-lithuania-navigates-an-uneasy-alliance",
+   "why": "On-record views from Vilnius on hedging against Washington while seeking permanent US troops; analysis.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-10-26",
+   "text": "Sweden: Elisabeth Thand Ringqvist reports to the Speaker; a new PM vote is possible late in the week.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-10"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Oleshky local ceasefire takes effect (03:00 Kyiv / 04:00 Moscow); main aid and evacuation mission on 29 Oct.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-01"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Israeli Knesset election ([[e:2026 Israeli legislative election]]).",
+   "segment": "Middle East",
+   "watchId": "W-261025-02"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Pezeshkian meets Putin at the gas exporters' (GECF) summit in Moscow.",
+   "segment": "Middle East",
+   "watchId": "W-261025-03"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "US Federal Reserve rate decision.",
+   "segment": "The Americas",
+   "watchId": "W-261025-09"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "ECB rate decision; deposit rate widely expected to stay at 2.5%, with possible signals on France.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-08"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Third Russia–Africa Summit in Moscow; Putin and AU chair Ndayishimiye co-chair the plenary on 29 Oct.",
+   "segment": "Africa",
+   "watchId": "W-261025-15"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Fifth Plenum of the CCP Central Committee, Beijing, 26–29 Oct.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-16"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "State Duma first reading of Russia's 2027–29 federal budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-02"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Thai no-confidence debate on PM Anutin; the government proposes a vote on 30 Oct, the opposition wants November.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-17"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "UN Security Council vote on renewing the MINURSO mission in Western Sahara (mandate expires 31 Oct).",
+   "segment": "Africa",
+   "watchId": "W-261025-14"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "German President Steinmeier's state visit to China, 27–31 Oct.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-18"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "Rada vote on extending martial law and mobilisation to 29 Jan 2027 (bills 16182/16183).",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-01"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "Bulgaria presidential runoff, expected to be Iotova vs Gyurov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-07"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "EU gas storage reference date for the relaxed 80% fill target.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-11"
+  },
+  {
+   "date": "",
+   "text": "Trilateral US–Russia–Ukraine talks; Moscow says it is ready after 4 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Sweden (security)",
+   "status": "quiet"
+  },
+  {
+   "country": "Transnistria",
+   "status": "quiet"
+  },
+  {
+   "country": "EU sanctions (new packages, shadow fleet)",
+   "status": "quiet"
+  },
+  {
+   "country": "Undersea cables / GPS jamming",
+   "status": "quiet"
+  },
+  {
+   "country": "Belarus (releases, US contacts)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kyiv Independent · Russia / Ukraine",
+   "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Russia / Ukraine",
+   "url": "https://meduza.io/feature/2026/10/25/voyna",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent · Ukraine",
+   "url": "https://kyivindependent.com/zelensky-details-expectations-for-upcoming-trilateral-peace-talks-with-russia-us/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine",
+   "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-26-october-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Novaya Gazeta Europe (citing The Telegraph) · Russia / Ukraine / NATO",
+   "url": "https://novayagazeta.eu/articles/2026/10/26/the-telegraph-rossiia-khochet-ispolzovat-peregovory-o-voine-v-ukraine-chtoby-dobitsia-sokrashcheniia-voennogo-prisutstviia-nato-news",
+   "paywalled": false
+  },
+  {
+   "title": "LB.ua · Russia / Ukraine",
+   "url": "https://lb.ua/society/2026/10/25/776086_lubinets_zaklikav_nadavati.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Russia / Ukraine",
+   "url": "https://www.holosameryky.com/a/8214568.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Maritime Executive · NATO / Bulgaria / Romania",
+   "url": "https://maritime-executive.com/article/nato-to-support-increased-black-sea-surveillance",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · NATO / Bulgaria / Romania",
+   "url": "https://thedefensepost.com/2026/10/21/nato-black-sea-presence/",
+   "paywalled": false
+  },
+  {
+   "title": "Moscow Times (with Reuters) · Russia",
+   "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-5-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077",
+   "paywalled": false
+  },
+  {
+   "title": "Novaya Gazeta Europe · Russia",
+   "url": "https://novayagazeta.eu/articles/2026/10/26/vo-vremia-ataki-ukrainskikh-dronov-na-voronezh-pogibli-dva-cheloveka-eshche-17-postradali-news",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Russia",
+   "url": "https://kyivindependent.com/drone-reportedly-strikes-business-center-in-russias-voronezh-as-fires-break-out-across-city/",
+   "paywalled": false
+  },
+  {
+   "title": "Interfax-Ukraine · Ukraine",
+   "url": "https://interfax.com.ua/news/general/1225766.html",
+   "paywalled": false
+  },
+  {
+   "title": "ISW · Ukraine / Russia",
+   "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-25-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine / Russia",
+   "url": "https://lb.ua/society/2026/10/25/775976_dobu_fronti_vidbulosya_193.html",
+   "paywalled": false
+  },
+  {
+   "title": "Slovo i Dilo · Ukraine",
+   "url": "https://www.slovoidilo.ua/2026/10/26/novyna/suspilstvo/zelenskyj-zaproponuvav-radi-prodovzhyty-voyennyj-stan-mobilizacziyu",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine",
+   "url": "https://ukranews.com/ua/news/1183339-zelenskyj-proponuye-radi-prodovzhyty-voyennyj-stan-i-mobilizatsiyu-do-29-sichnya-2027",
+   "paywalled": false
+  },
+  {
+   "title": "Censor.net · Ukraine",
+   "url": "https://censor.net/ua/news/4029558/obshuky-u-golovy-nbu-andriya-pyshnogo-nabu-ta-sap-provodyat-slidchi-diyi",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine",
+   "url": "https://www.slovoidilo.ua/2026/10/21/novyna/polityka/media-povidomyly-pro-vidstavku-pyshnoho-nbu-zaperechyly",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent · Ukraine",
+   "url": "https://kyivindependent.com/ukraine-war-latest-starshield-operations-restored-to-normal-speed-zelensky-confirms-as-elon-musk-claims-ukraine-violated-starlink-terms/",
+   "paywalled": false
+  },
+  {
+   "title": "Moika78 (citing Vesti) · Russia / United States",
+   "url": "https://moika78.ru/news/2026-10-25/1370737-novak-rasskazal-skolko-dizelya-rossiya-gotova-postavit-ssha",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Russia / United States",
+   "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/",
+   "paywalled": false
+  },
+  {
+   "title": "NewsMaker · Moldova / Russia",
+   "url": "https://newsmaker.md/ro/mae-un-angajat-al-ambasadei-rusiei-la-chi%C8%99in%C4%83u-va-fi-declarat-persona-non-grata-dup%C4%83-pr%C4%83bu%C8%99i-dronei-%C3%AEn-raionul-telene%C8%99ti",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Moldova / Russia",
+   "url": "https://ipn.md/en/an-employee-of-the-russian-embassy-will-be-declared-persona-non-grata-following-the-drone-incident-at-telenesti/",
+   "paywalled": false
+  },
+  {
+   "title": "LRT (BNS) · Lithuania / Poland",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3088084/lithuania-seeks-nato-talks-on-shooting-down-drones-without-visual-confirmation",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Lithuania / Poland",
+   "url": "https://www.stripes.com/theaters/europe/2026-10-20/lithuania-nato-drone-rules-sinkevicius-23207193.html",
+   "paywalled": false
+  },
+  {
+   "title": "LRT (BNS/ELTA) · Lithuania / Poland / Bulgaria",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Lithuania / Poland / Bulgaria",
+   "url": "https://united24media.com/war-in-ukraine/someone-is-setting-starlink-infrastructure-on-fire-across-europe-23653",
+   "paywalled": false
+  },
+  {
+   "title": "Zerkalo · Belarus",
+   "url": "https://news.zerkalo.io/economics/139219.html",
+   "paywalled": false
+  },
+  {
+   "title": "Vedomosti · Russia",
+   "url": "https://www.vedomosti.ru/finance/articles/2026/10/23/1239661-kak-nabiullina-obyasnila",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Russia",
+   "url": "https://www.kommersant.ru/doc/9059054",
+   "paywalled": false
+  },
+  {
+   "title": "TSE (official) · Brazil",
+   "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Brazil",
+   "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win",
+   "paywalled": false
+  },
+  {
+   "title": "Danas · Serbia",
+   "url": "https://www.danas.rs/vesti/politika/izbori26/rik-rezultati-izbora-izlaznost/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Serbia",
+   "url": "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list",
+   "paywalled": false
+  },
+  {
+   "title": "AP · Iran / Saudi Arabia / Pakistan / Turkey",
+   "url": "https://www.ksat.com/news/world/2026/10/26/delegations-meet-in-iran-with-mideast-region-on-edge-over-potential-for-renewed-fighting/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Iran / Saudi Arabia / Pakistan / Turkey",
+   "url": "https://www.tribuneindia.com/news/world/iran-says-saudi-pakistani-turkish-officials-to-visit-tehran-for-regional-security-talks",
+   "paywalled": false
+  },
+  {
+   "title": "Times of Israel (relaying CNN and Channel 12) · Israel / United States / Iran",
+   "url": "https://www.timesofisrael.com/liveblog-october-26-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (with AP) · Venezuela",
+   "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Venezuela",
+   "url": "https://www.riotimesonline.com/venezuela-rubio-machado-return-us-talks-2026/",
+   "paywalled": false
+  }
+ ]
+}
