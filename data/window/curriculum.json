@@ -1,0 +1,276 @@
+{
+ "units": [
+  {
+   "name": "How each country is governed",
+   "lessons": [
+    {
+     "num": 1,
+     "title": "Three systems: presidential, mixed president/PM, parliamentary"
+    },
+    {
+     "num": 2,
+     "title": "The three constitutions and how each is amended"
+    },
+    {
+     "num": 3,
+     "title": "Head of state vs head of government"
+    },
+    {
+     "num": 4,
+     "title": "The executive in each country"
+    },
+    {
+     "num": 5,
+     "title": "The legislatures: Congress; Sejm and Senate; Lok Sabha and Rajya Sabha"
+    },
+    {
+     "num": 6,
+     "title": "How a bill becomes law in each country"
+    },
+    {
+     "num": 7,
+     "title": "Vetoes and overrides"
+    },
+    {
+     "num": 8,
+     "title": "Courts and judicial review: US Supreme Court; Constitutional Tribunal and Supreme Court of Poland; Supreme Court of India and the basic structure doctrine"
+    },
+    {
+     "num": 9,
+     "title": "Elections: Electoral College; Poland's proportional system; India's first-past-the-post"
+    },
+    {
+     "num": 10,
+     "title": "Federal vs unitary: US states; voivodeships, counties and municipalities; India's states and the three lists"
+    },
+    {
+     "num": 11,
+     "title": "Local government: how Kraków's mayor, council and districts decide"
+    }
+   ]
+  },
+  {
+   "name": "How rules get made",
+   "lessons": [
+    {
+     "num": 12,
+     "title": "US agencies and rulemaking: proposed rules, comment periods, Federal Register"
+    },
+    {
+     "num": 13,
+     "title": "The FDA: approvals, recalls, guidance vs binding rules"
+    },
+    {
+     "num": 14,
+     "title": "Executive orders and their limits"
+    },
+    {
+     "num": 15,
+     "title": "Polish law: acts vs ministerial regulations; Dziennik Ustaw"
+    },
+    {
+     "num": 16,
+     "title": "The EU: what Brussels decides vs Warsaw; regulations vs directives"
+    },
+    {
+     "num": 17,
+     "title": "India: ordinances, gazette notifications, regulators"
+    },
+    {
+     "num": 18,
+     "title": "Central banks: Fed, NBP, RBI"
+    },
+    {
+     "num": 19,
+     "title": "Budgets: US appropriations and shutdowns; Poland's budget; India's Union Budget"
+    }
+   ]
+  },
+  {
+   "name": "US history",
+   "lessons": [
+    {
+     "num": 20,
+     "title": "Founding and the Constitution"
+    },
+    {
+     "num": 21,
+     "title": "Civil War and Reconstruction"
+    },
+    {
+     "num": 22,
+     "title": "The New Deal and the modern federal state"
+    },
+    {
+     "num": 23,
+     "title": "The Cold War superpower"
+    },
+    {
+     "num": 24,
+     "title": "The civil rights era"
+    },
+    {
+     "num": 25,
+     "title": "From 9/11 to today's polarization"
+    }
+   ]
+  },
+  {
+   "name": "Polish history",
+   "lessons": [
+    {
+     "num": 26,
+     "title": "From the Piasts to the Polish–Lithuanian Commonwealth"
+    },
+    {
+     "num": 27,
+     "title": "The 1791 Constitution and the Partitions"
+    },
+    {
+     "num": 28,
+     "title": "Rebirth in 1918 and the war of 1920"
+    },
+    {
+     "num": 29,
+     "title": "World War II, occupation and the Holocaust"
+    },
+    {
+     "num": 30,
+     "title": "Communist Poland"
+    },
+    {
+     "num": 31,
+     "title": "Solidarity and 1989"
+    },
+    {
+     "num": 32,
+     "title": "The transition: shock therapy, NATO, the EU"
+    },
+    {
+     "num": 33,
+     "title": "How the PiS vs Civic Coalition divide formed"
+    }
+   ]
+  },
+  {
+   "name": "Kraków",
+   "lessons": [
+    {
+     "num": 34,
+     "title": "The royal capital and Wawel"
+    },
+    {
+     "num": 35,
+     "title": "Jagiellonian University and intellectual life"
+    },
+    {
+     "num": 36,
+     "title": "World War II and the building of Nowa Huta"
+    },
+    {
+     "num": 37,
+     "title": "Modern Kraków: tourism, outsourcing, smog, growth"
+    }
+   ]
+  },
+  {
+   "name": "Indian history",
+   "lessons": [
+    {
+     "num": 38,
+     "title": "Ancient and classical India"
+    },
+    {
+     "num": 39,
+     "title": "The Mughal era"
+    },
+    {
+     "num": 40,
+     "title": "The East India Company and the British Raj"
+    },
+    {
+     "num": 41,
+     "title": "The independence movement"
+    },
+    {
+     "num": 42,
+     "title": "Partition"
+    },
+    {
+     "num": 43,
+     "title": "The Nehru era and writing the Constitution"
+    },
+    {
+     "num": 44,
+     "title": "The Emergency of 1975–77"
+    },
+    {
+     "num": 45,
+     "title": "The 1991 reforms"
+    },
+    {
+     "num": 46,
+     "title": "The rise of the BJP and coalition politics"
+    }
+   ]
+  },
+  {
+   "name": "Politics today",
+   "lessons": [
+    {
+     "num": 47,
+     "title": "US parties and their coalitions"
+    },
+    {
+     "num": 48,
+     "title": "The Polish party landscape"
+    },
+    {
+     "num": 49,
+     "title": "Indian parties: national vs regional"
+    },
+    {
+     "num": 50,
+     "title": "The media landscape in each country"
+    },
+    {
+     "num": 51,
+     "title": "Caste, religion and region in Indian politics"
+    },
+    {
+     "num": 52,
+     "title": "Church, nation and Europe in Polish politics"
+    }
+   ]
+  },
+  {
+   "name": "The relationships",
+   "lessons": [
+    {
+     "num": 53,
+     "title": "US–Poland: from Solidarity to NATO's front line"
+    },
+    {
+     "num": 54,
+     "title": "US–India: from estrangement to partnership"
+    },
+    {
+     "num": 55,
+     "title": "Poland–India: the \"Good Maharaja\" to today"
+    },
+    {
+     "num": 56,
+     "title": "Where all three meet: NATO vs non-alignment, and Russia"
+    },
+    {
+     "num": 57,
+     "title": "The EU and India"
+    },
+    {
+     "num": 58,
+     "title": "Diasporas: Polish Americans, Indian Americans, Indians in Poland"
+    }
+   ]
+  }
+ ]
+}
