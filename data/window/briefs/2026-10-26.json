@@ -1,0 +1,1193 @@
+{
+ "date": "2026-10-26",
+ "top5": [
+  {
+   "text": "DOJ's election suits in California and Alaska meet judicial scepticism a week before the midterms.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Election Law Blog; JURIST; CNN; Fox News",
+     "url": "https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.jurist.org/news/2026/10/doj-appeals-to-ninth-circuit-as-california-says-judge-has-not-ruled-on-request-to-segregate-20000-mail-ballots/"
+    }
+   ]
+  },
+  {
+   "text": "Trump keeps both Iran strikes and a deal on the table before 3 Nov; a DNI memo warns of Iranian targeting of US officials.",
+   "place": "US",
+   "links": [
+    {
+     "label": "ABC News; New York Times (via Times of Israel)",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.timesofisrael.com/liveblog-october-25-2026/"
+    }
+   ]
+  },
+  {
+   "text": "Polska 2050's split tests Tusk's coalition this week as Hołownia fights to keep the funds ministry.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Polsat News",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/holownia-odpowiada-goracym-glowom-ws-peczynskiej-nalecz-siegna-po-biblie/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.rp.pl/polityka/art45392031-po-wyrzuceniu-pelczynskiej-nalecz-polske-2050-czeka-goracy-tydzien"
+    }
+   ]
+  },
+  {
+   "text": "Mayor Gibała abolishes all six Kraków City Hall departments; All Saints' transit changes are under way.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Dziennik Polski",
+     "url": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie"
+    },
+    {
+     "label": "Second source",
+     "url": "https://dziennikpolski24.pl/rewolucja-w-urzedzie-miasta-krakowa-prezydent-lukasz-gibala-zaczal-porzadki-w-magistracie-likwiduje-wszystkie-departamenty/ar/c1p2-29465711"
+    }
+   ]
+  },
+  {
+   "text": "Thousands of Indian pilgrims are stranded in Saudi Arabia as Houthi attacks ground flights.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Kashmir Observer; RT; ANI",
+     "url": "https://kashmirobserver.net/2026/10/24/india-extends-aid-to-stranded-nationals-umrah-pilgrims-in-saudi/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://rt-english.com/india/647579-indian-pilgrims-stranded-saudi/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261026-02",
+    "domain": "Law, courts & regulation",
+    "text": "A Ninth Circuit panel on 25 Oct appeared sceptical of DOJ's emergency bid to make California set aside about 20,000 mail ballots from voters federal agencies flagged as likely noncitizens; Judge Carter holds a hearing on 27 Oct.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Election Law Blog; JURIST; CNN; Fox News",
+      "url": "https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.jurist.org/news/2026/10/doj-appeals-to-ninth-circuit-as-california-says-judge-has-not-ruled-on-request-to-segregate-20000-mail-ballots/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-01",
+    "domain": "Law, courts & regulation",
+    "text": "DOJ is suing to bar Alaska from certifying a possible Peltola win over Sen. Dan Sullivan, citing a same-named candidate on the ballot; Trump says he ordered the suit. Election-law scholars doubt the statute allows it.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "AP via Alaska Public Media; ABC News",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-10-23/trumps-administration-sues-to-block-a-possible-democratic-win-in-the-alaska-u-s-senate-race"
+     },
+     {
+      "label": "Second source",
+      "url": "https://abcnews.com/US/doj-preemptively-sues-block-alaska-senate-results-republican/story?id=137512876"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-04",
+    "domain": "Foreign relations",
+    "text": "Trump said on 25 Oct there would be no strike on Iran that day, contradicting envoy Tom Barrack, but called both strikes and a deal possible before 3 Nov. Iran's president accuses Washington of disrupting talks. Sourcing is live blogs, not wires.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "TASS; Times of Israel; ABC News",
+      "url": "https://www.timesofisrael.com/liveblog-october-25-2026/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tass.com/world/2207591"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-05",
+    "domain": "Defense, security & crime",
+    "text": "A 23 Oct DNI memo says Iran has stepped up efforts to target US officials abroad; State is reportedly cutting embassy staff across the Gulf and Levant.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "ABC News; New York Times (via Times of Israel)",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.timesofisrael.com/liveblog-october-25-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-03",
+    "domain": "Politics & government",
+    "text": "With a week to go, Trump rallied in Michigan and Obama campaigned in Detroit. Republicans hold the House 218–214 and the Senate 53–47.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Fox News; Times of Israel",
+      "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.timesofisrael.com/liveblog-october-25-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-06",
+    "domain": "Trade & tariffs",
+    "text": "A 23 Oct proclamation reshuffles which Canadian goods face the 50% Section 338 duties, effective 30 Oct.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "White House; GHY International",
+      "url": "https://www.whitehouse.gov/presidential-actions"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.ghy.com/trade-compliance/us-imposes-50-section-338-tariffs-on-canadian-imports-dairy-alcoholic-beverages-and-motor-vehicles/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-07",
+    "domain": "Health, medicine & food safety",
+    "text": "CMS proposed pre-enrollment eligibility checks for ACA subsidies, which could delay subsidies for some enrollees; detail comes from a law-firm digest.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "ACA marketplace eligibility tightening",
+    "links": [
+     {
+      "label": "Alston & Bird Health Care Week in Review",
+      "url": "https://www.alston.com/en/insights/publications/2026/10/health-care-week-in-review-october-23-2026"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261026-12",
+    "domain": "Politics & government",
+    "text": "Polska 2050 expelled former funds minister Katarzyna Pełczyńska-Nałęcz on 24 Oct; she calls it punishment for a 'thoughtcrime'.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/kraj/news-dzialanie-na-szkode-partii-holownia-oglasza-w-sprawie-pelczy,nId,23563392"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/holownia-odpowiada-goracym-glowom-ws-peczynskiej-nalecz-siegna-po-biblie/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-13",
+    "domain": "Politics & government",
+    "text": "Hołownia demands the funds ministry stay with Polska 2050 and threatens to pull its ministers out of government otherwise; Tusk is expected to name a replacement this week.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/holownia-odpowiada-goracym-glowom-ws-peczynskiej-nalecz-siegna-po-biblie/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/polityka/art45392031-po-wyrzuceniu-pelczynskiej-nalecz-polske-2050-czeka-goracy-tydzien"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-14",
+    "domain": "Economy, business & markets",
+    "text": "The government will use the Senate to reverse Sejm amendments that scrapped the CIT rise to 22% and indexed PIT thresholds; the Senate budget committee meets 26 Oct.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "money.pl; Interia Biznes",
+      "url": "https://www.money.pl/podatki/zwrot-w-sejmie-w-glosowaniu-o-podatkach-rzad-chce-to-odkrecic-7343761044334688a.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://biznes.interia.pl/podatki/news-senat-ma-odwrocic-decyzje-sejmu-chodzi-o-cit-i-waloryzacje,nId,23562892"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-16",
+    "domain": "Law, courts & regulation",
+    "text": "The abortion bills passed on 20 Oct head to the Senate; KO's Dorota Łoboda expects a presidential veto, in line with Nawrocki's campaign pledge.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland abortion law",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/dorota-loboda-o-zmianach-w-prawie-aborcyjnym-to-krok-do-przodu/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/polska/ustawy-w-sprawie-aborcji-jest-decyzja-sejmu-st9297226"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-17",
+    "domain": "Politics & government",
+    "text": "Częstochowa voted on 25 Oct to recall Mayor Matyjaszczyk (about 97% in favour) and dissolve the council; a PM-appointed commissioner will run the city.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Local recall referendums in Poland",
+    "links": [
+     {
+      "label": "Polsat News / PAP",
+      "url": "https://polsatnews.pl/wiadomosc/2026-10-26/mieszkancy-czestochowy-zadecydowali-pkw-podala-wyniki"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-15",
+    "domain": "Trade & tariffs",
+    "text": "Polsat News reports the government is weighing a 3% tax on big tech revenue from 2027; PiS's Marcin Horała warns of US retaliation.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland digital services tax",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/rzad-rozwaza-nowy-podatek-spotka-sie-z-ostra-reakcja-usa/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-19",
+    "domain": "Defense, security & crime",
+    "text": "Germany confirmed it will join the first 'coalition of the willing' exercise in November, held partly in Poland.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Ukraine security guarantees",
+    "links": [
+     {
+      "label": "Polsat News (citing DW, The Times, dpa)",
+      "url": "https://polsatnews.pl/wiadomosc/2026-10-25/manewry-wojskowe-w-polsce-niemcy-potwierdzaja-udzial"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261026-26",
+    "domain": "Politics & government",
+    "text": "Mayor Gibała's order abolishing all six City Hall departments is due to be published on 26 Oct; their directors lose their posts, and who supervises transport, roads and schools is not yet clear.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "Dziennik Polski",
+      "url": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie"
+     },
+     {
+      "label": "Second source",
+      "url": "https://dziennikpolski24.pl/rewolucja-w-urzedzie-miasta-krakowa-prezydent-lukasz-gibala-zaczal-porzadki-w-magistracie-likwiduje-wszystkie-departamenty/ar/c1p2-29465711"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-27",
+    "domain": "Infrastructure, transport & housing",
+    "text": "The All Saints' Day transit plan runs until 2 Nov with 8 special tram and 26 special bus lines; ul. Rakowicka closes from 10:00 on 30 Oct.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "Gazeta Krakowska",
+      "url": "https://ztp.krakow.pl/kmk/komunikaty/2226-2026"
+     },
+     {
+      "label": "Second source",
+      "url": "https://gazetakrakowska.pl/wszystkich-swietych-w-krakowie-zmiany-w-komunikacji-miejskiej-i-przy-cmentarzach-pierwsze-juz-od-najblizszego-weekendu/ar/c1p2-29462771"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-28",
+    "domain": "Infrastructure, transport & housing",
+    "text": "No SKA1 airport trains on the nights of 27–28 and 28–29 Oct (buses replace them); Miechów-line trains run to a revised timetable until 12 Dec.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "miastoNS.pl",
+      "url": "https://miastons.pl/malopolska/koleje-malopolskie-zmiana-rozkladu-25-pazdziernika-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-29",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Works on ul. Nowohucka near Koszykarska begin 26 Oct; the bus stop moves.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Dziennik Polski",
+      "url": "https://dziennikpolski24.pl/rusza-przebudowa-ulicy-nowohuckiej-w-krakowie-powstanie-dodatkowy-pas-ruchu-w-rejonie-kluczowego-skrzyzowania/ar/c1p2-29462449"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-30",
+    "domain": "Economy, business & markets",
+    "text": "Galeria Krakowska reopens fully on 26 Oct after the 21 Oct car-park fire.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Gazeta Krakowska",
+      "url": "https://gazetakrakowska.pl/galeria-krakowska-zostanie-ponownie-otwarta-po-pozarze-podano-termin-wznowienia-dzialalnosci-w-pelnym-zakresie/ar/c1p2-29459815"
+     },
+     {
+      "label": "Second source",
+      "url": "https://gazetakrakowska.pl/pozar-na-parkingu-w-galerii-krakowskiej-ewakuowano-ludzi-sytuacja-jest-opanowana-ale-galeria-pozostaje-zamknieta/ar/c1p2-29457741"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261026-39",
+    "domain": "Foreign relations",
+    "text": "Thousands of Indian Umrah pilgrims are stranded in Saudi Arabia after Houthi attacks grounded flights; the Jeddah consulate runs control rooms, and IndiGo cancellations run to 27 Oct (Riyadh 31 Oct).",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Gulf conflict and Indians abroad",
+    "links": [
+     {
+      "label": "Kashmir Observer; RT; ANI",
+      "url": "https://kashmirobserver.net/2026/10/24/india-extends-aid-to-stranded-nationals-umrah-pilgrims-in-saudi/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://rt-english.com/india/647579-indian-pilgrims-stranded-saudi/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-37",
+    "domain": "Politics & government",
+    "text": "Kharge's 'even Modi's father will go' remark in Patna drew condemnation from Shah and Rajnath Singh; the BJP is protesting on 26 Oct and demanding an apology.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "PTI via ThePrint / The Tribune; Business Today",
+      "url": "https://theprint.in/india/kharge-sparks-row-with-modi-ka-baap-bhi-jayega-remark-at-patna-event/3081204/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.businesstoday.in/india/story/modi-ka-baap-bhi-jayega-kharges-retort-to-heckler-triggers-row-bjp-announces-protest-563531-2026-10-26"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-38",
+    "domain": "Politics & government",
+    "text": "Congress and INDIA bloc plan a symbolic 'impeachment' of the CEC on 30 Oct and a Delhi rally on 1 Nov over the voter-roll revision (SIR).",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "ANI",
+      "url": "https://www.aninews.in/news/national/politics/8220collusion-between-ec-and-bjp-exposed8221-congress-deepender-hooda-ahead-of-oppns-nov-1-delhi-chalo-rally20261026024154"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.aninews.in/news/national/politics/congress-mp-kc-venugopal-arrives-in-chandigarh-for-meeting-ahead-of-rahul-gandhi8217s-november-4-rally20261026054547"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-41",
+    "domain": "Economy, business & markets",
+    "text": "With Brent near $114, the Sensex fell about 600 points at Monday's open.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "Business Today",
+      "url": "https://businesstoday.in/markets/stocks/story/sensex-falls-600-pts-nifty-below-22500-key-triggers-behind-the-market-crash-today-563546-2026-10-26"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-42",
+    "domain": "Economy, business & markets",
+    "text": "DIPAM plans to list IIFCL, Mahanadi Coalfields and South Eastern Coalfields in FY27.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "India disinvestment",
+    "links": [
+     {
+      "label": "Business Today (citing Moneycontrol)",
+      "url": "https://www.businesstoday.in/markets/story/three-more-psus-headed-for-stock-market-govt-plans-iifcl-mahanadi-coalfields-secl-listing-in-fy27-563512-2026-10-25"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-46",
+    "domain": "Law, courts & regulation",
+    "text": "Karnataka's CM sanctioned prosecution of a suspended IAS officer in the KPSC exam-leak case.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "ANI",
+      "url": "https://www.aninews.in/news/national/general-news/karnataka-cm-shivakumar-vows-to-give-kpsc-a-8216new-form8217-says-permission-granted-to-interrogate-accused-in-irregularities-case20261026013758"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-45",
+    "domain": "Environment, energy & disasters",
+    "text": "Karnataka says drought crop losses reach 80% in places and accuses the Centre of withholding relief; the Centre has not responded in sources seen.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "ANI",
+      "url": "https://www.aninews.in/news/national/general-news/crop-losses-reach-80-due-to-drought-karnataka-dy-cm-urges-centre-to-release-relief-funds-to-farmers-without-delay20261026021909"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "All Saints' special trams (81, 83–89) and 8xx buses serve 25 cemeteries until 2 Nov; full special timetable 31 Oct–1 Nov.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty/2226-2026"
+  },
+  {
+   "kind": "Closure",
+   "text": "ul. Rakowicka closed between Olszańska and Grochowska from 10:00 on 30 Oct until 2 Nov.",
+   "link": "https://gazetakrakowska.pl/wszystkich-swietych-w-krakowie-zmiany-w-komunikacji-miejskiej-i-przy-cmentarzach-pierwsze-juz-od-najblizszego-weekendu/ar/c1p2-29462771"
+  },
+  {
+   "kind": "Transit",
+   "text": "No SKA1 airport trains on the nights of 27–28 and 28–29 Oct; replacement buses run.",
+   "link": "https://miastons.pl/malopolska/koleje-malopolskie-zmiana-rozkladu-25-pazdziernika-2026/"
+  },
+  {
+   "kind": "Closure",
+   "text": "Roadworks on ul. Nowohucka near Koszykarska from 26 Oct; the bus stop has moved.",
+   "link": "https://dziennikpolski24.pl/rusza-przebudowa-ulicy-nowohuckiej-w-krakowie-powstanie-dodatkowy-pas-ruchu-w-rejonie-kluczowego-skrzyzowania/ar/c1p2-29462449"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Today's readings could not be verified; smog season is starting, so check live data before evening exercise.",
+   "link": "https://aqicn.org/city/krakow/pl/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261026-52",
+    "domain": "Defense, security & crime",
+    "text": "Defence Minister Kosiniak-Kamysz put the cost of a permanent US base at about 15 bn zł, with Wrocław, Poznań, Bydgoszcz and Szczecin in play; a White House decision is expected in December, and nothing is final.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "WNP.pl",
+      "url": "https://www.wnp.pl/bezpieczenstwo/amerykanska-baza-w-polsce-za-15-mld-zl-wladyslaw-kosiniak-kamysz-ujawnia-szczegoly,1112013.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/wojsko/art45384141-stala-baza-wojsk-usa-w-polsce-za-15-mld-zl-sa-cztery-lokalizacje"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-51",
+    "domain": "Foreign relations",
+    "text": "US Ambassador Tom Rose praised Poland ('#belikePoland') while criticising other European leaders over Ukraine; no Polish official reaction was reported.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "Polsat News (PAP)",
+      "url": "https://polsatnews.pl/wiadomosc/2026-10-24/ambasador-usa-uderza-w-europejskich-liderow-jako-przyklad-wskazuje-polske"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45390341-spor-o-pokoj-w-ukrainie-ambasador-usa-w-polsce-uderza-w-europejskich-liderow"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261026-55",
+    "domain": "Foreign relations",
+    "text": "Jaishankar goes to the G20 foreign ministers' meeting in Atlanta on 30–31 Oct, with a Quad ministers' meeting expected on the margins.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "NewsBytes / New Indian Express",
+      "url": "https://www.newsbytesapp.com/news/india/s-jaishankar-to-visit-atlanta-for-g-20-and-quad-meetings/tldr"
+     },
+     {
+      "label": "Second source",
+      "url": "https://x.com/NewIndianXpress/status/2114046763866657270"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261026-43",
+    "domain": "Society: education, labor, immigration",
+    "text": "USCIS has begun approving some H-1B petitions without the $100,000 fee after courts blocked it; the government is appealing.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US visas and Indian workers",
+    "links": [
+     {
+      "label": "Business Today",
+      "url": "https://www.businesstoday.in/nri/visa/story/h-1b-100000-fee-update-us-approves-petitions-without-payment-heres-what-workers-and-employers-need-to-know-563498-2026-10-25"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [
+   {
+    "id": "E-261026-59",
+    "domain": "Defense, security & crime",
+    "text": "Aggregator reports say WB Group plans a $100m drone investment in India after Tusk's visit; not confirmed by the company.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Poland–India strategic partnership",
+    "links": [
+     {
+      "label": "NewsBytes / Whalesbook",
+      "url": "https://www.newsbytesapp.com/news/business/polands-wb-group-to-invest-100-million-in-indian-unmanned-systems/tldr"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.whalesbook.com/news/English/aerospace-defense/Polands-WB-Group-to-Set-Up-dollar100-Million-Drone-Hub-in-UP/6ade00af4fc30694db4baabb"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261026-01",
+   "name": "Proclamation further modifying scope of Canadian products subject to additional (Section 338) duties",
+   "place": "US",
+   "body": "President / USTR / CBP",
+   "stage": "Signed / published",
+   "changes": "Adds and removes Canadian products from the list facing the extra 50% duty.",
+   "affects": "US importers of affected Canadian goods.",
+   "effectiveDate": "2026-10-30",
+   "commentDeadline": "",
+   "officialLink": "https://www.whitehouse.gov/presidential-actions",
+   "newsLink": "https://www.ghy.com/trade-compliance/us-imposes-50-section-338-tariffs-on-canadian-imports-dairy-alcoholic-beverages-and-motor-vehicles/"
+  },
+  {
+   "id": "R-261026-03",
+   "name": "Draft guidance: Action Levels for Cadmium in Processed Food Intended for Babies and Young Children",
+   "place": "US",
+   "body": "FDA",
+   "stage": "Open for comment",
+   "changes": "Sets recommended maximum cadmium levels in baby and toddler foods.",
+   "affects": "Baby-food makers and parents.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://www.afdo.org/federal-register-update-october-23-2026/",
+   "newsLink": ""
+  },
+  {
+   "id": "R-261026-06",
+   "name": "Bill restoring abortion for severe foetal defects; Criminal Code amendment partially decriminalising abortion assistance",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Proposed",
+   "changes": "Restores legal abortion for severe foetal defects and partly decriminalises helping with an abortion.",
+   "affects": "Pregnant women, doctors and anyone helping a woman obtain an abortion.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/polska/ustawy-w-sprawie-aborcji-jest-decyzja-sejmu-st9297226"
+  },
+  {
+   "id": "R-261026-08",
+   "name": "Order abolishing six City Hall departments (zarządzenie Prezydenta Miasta Krakowa)",
+   "place": "Kraków",
+   "body": "Mayor of Kraków (Łukasz Gibała)",
+   "stage": "Signed / published",
+   "changes": "Abolishes six City Hall departments created in 2025, removing a management layer.",
+   "affects": "City Hall staff and the supervision of transport, roads, schools and social services.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie",
+   "newsLink": "https://dziennikpolski24.pl/rewolucja-w-urzedzie-miasta-krakowa-prezydent-lukasz-gibala-zaczal-porzadki-w-magistracie-likwiduje-wszystkie-departamenty/ar/c1p2-29465711"
+  },
+  {
+   "id": "R-261026-09",
+   "name": "Draft fare resolution: return of 20-minute (4 zł) and 40-minute tickets; annual 365 zł ticket for doctoral students",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "stage": "Proposed",
+   "changes": "Replaces 15- and 30-minute tickets with 20-minute (4 zł) and 40-minute tickets from 2027.",
+   "affects": "All Kraków public transport passengers.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "https://krknews.pl/slubowanie-nowej-radnej-wynagrodzenie-prezydenta-bilety-oplata-turystyczna-podsumowanie-63-sesji-rady-miasta-krakowa/",
+   "newsLink": "https://www.mjakmalopolska.pl/artykul/10236,krakow-przywroci-bilet-20-minutowy-lukasz-gibala-zapowiada-zmiany-od-2027-roku"
+  }
+ ],
+ "deepDive": {
+  "domain": "Law, courts & regulation",
+  "title": "Courts, vetoes and orders: who gets the last word",
+  "body": "**US.** The administration is using federal courts to shape how midterm votes are counted. In California, DOJ wants about 20,000 mail ballots from suspected noncitizens set aside; at the 25 Oct argument, Ninth Circuit judges doubted they had jurisdiction and suggested the Elections Clause leaves vote-counting to states ([Election Law Blog](https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/)). In Alaska, DOJ seeks to block certification if Sen. Sullivan narrowly loses ([AP via Alaska Public Media](https://alaskapublic.org/news/politics/elections/2026-10-23/trumps-administration-sues-to-block-a-possible-democratic-win-in-the-alaska-u-s-senate-race)). Experts quoted by AP doubt the statutes allow either remedy, and the Purcell principle makes courts wary of late changes.\n\n**Poland.** The abortion bills passed on 20 Oct (233–203 and 217–213) would restore termination for severe foetal defects, reversing the 2020 Constitutional Tribunal ruling, and partly decriminalise helping with an abortion ([Polsat News](https://www.polsatnews.pl/wiadomosc/2026-10-25/dorota-loboda-o-zmianach-w-prawie-aborcyjnym-to-krok-do-przodu/)). President Nawrocki pledged not to sign any liberalisation, and the coalition lacks the three-fifths Sejm majority to override a veto. Analysis: the current rules are likely to stand until at least the 2027 election.\n\n**Kraków.** Mayor Gibała's order scrapping six City Hall departments removes a management layer created in 2025, but no one has yet said who supervises transport, roads and schools ([Radio Kraków](https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie)). His fare resolution and a 5 zł tourist fee need the council, where KO and Nowa Lewica hold the majority.\n\n**India.** Karnataka's prosecution sanction in the KPSC exam-leak case is the gateway, under the Prevention of Corruption Act, for the CID and ED to take a public servant to trial ([ANI](https://www.aninews.in/news/national/general-news/karnataka-cm-shivakumar-vows-to-give-kpsc-a-8216new-form8217-says-permission-granted-to-interrogate-accused-in-irregularities-case20261026013758)). The Supreme Court and eGazette could not be checked this run.",
+  "links": [
+   {
+    "label": "Election Law Blog",
+    "url": "https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/"
+   },
+   {
+    "label": "Polsat News",
+    "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/dorota-loboda-o-zmianach-w-prawie-aborcyjnym-to-krok-do-przodu/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261026-01",
+   "title": "Ninth Circuit Panel Seems Skeptical of DOJ's Attempt to Force California to Segregate Ballots from Purported Noncitizens",
+   "reporter": "Rick Hasen",
+   "outlet": "Election Law Blog",
+   "url": "https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/",
+   "why": "A leading election-law expert's live read of the Oct 25 argument, covering jurisdiction, the Elections Clause and the equities.",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261026-05",
+   "title": "Po wyrzuceniu Pełczyńskiej-Nałęcz Polskę 2050 czeka gorący tydzień",
+   "reporter": "Michał Kolanko",
+   "outlet": "Rzeczpospolita",
+   "url": "https://www.rp.pl/polityka/art45392031-po-wyrzuceniu-pelczynskiej-nalecz-polske-2050-czeka-goracy-tydzien",
+   "why": "Lays out which decisions this week could test the coalition's Sejm majority (paywalled).",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-10-27",
+   "text": "Judge Carter's hearing on DOJ's bid to set aside about 20,000 California mail ballots.",
+   "place": "US"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Senate budget committee on the PIT/CIT reform (committee chair says it meets 26 Oct).",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "IndiGo and Akasa decide whether to resume Saudi flights; Modi meets Liechtenstein's Prince Alois.",
+   "place": "India"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "FOMC rate decision under Chair Warsh; a hold is expected.",
+   "place": "US"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Tusk expected to name a new minister of funds and regional policy.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Revised scope of 50% Section 338 duties on Canadian goods takes effect.",
+   "place": "US"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Opposition's symbolic 'impeachment' of the Chief Election Commissioner; 'Delhi Chalo' rally follows on 1 Nov.",
+   "place": "India"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "ul. Rakowicka closes from 10:00; full All Saints' timetable on 31 Oct–1 Nov.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Jaishankar at the G20 foreign ministers' meeting in Atlanta (30–31 Oct), possible Quad meeting.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-02",
+   "text": "US Europe force-posture review due to Hegseth around 1 Nov, relevant to a permanent base in Poland.",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-03",
+   "text": "US midterm elections.",
+   "place": "US"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Election Law Blog; JURIST; CNN; Fox News",
+   "url": "https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/",
+   "paywalled": false
+  },
+  {
+   "title": "AP via Alaska Public Media; ABC News",
+   "url": "https://alaskapublic.org/news/politics/elections/2026-10-23/trumps-administration-sues-to-block-a-possible-democratic-win-in-the-alaska-u-s-senate-race",
+   "paywalled": false
+  },
+  {
+   "title": "TASS; Times of Israel; ABC News",
+   "url": "https://www.timesofisrael.com/liveblog-october-25-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News; New York Times (via Times of Israel)",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News; Times of Israel",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-obama-michigan-alaska-october-25",
+   "paywalled": false
+  },
+  {
+   "title": "White House; GHY International",
+   "url": "https://www.whitehouse.gov/presidential-actions",
+   "paywalled": false
+  },
+  {
+   "title": "Alston & Bird Health Care Week in Review",
+   "url": "https://www.alston.com/en/insights/publications/2026/10/health-care-week-in-review-october-23-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-dzialanie-na-szkode-partii-holownia-oglasza-w-sprawie-pelczy,nId,23563392",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/holownia-odpowiada-goracym-glowom-ws-peczynskiej-nalecz-siegna-po-biblie/",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl; Interia Biznes",
+   "url": "https://www.money.pl/podatki/zwrot-w-sejmie-w-glosowaniu-o-podatkach-rzad-chce-to-odkrecic-7343761044334688a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/dorota-loboda-o-zmianach-w-prawie-aborcyjnym-to-krok-do-przodu/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News / PAP",
+   "url": "https://polsatnews.pl/wiadomosc/2026-10-26/mieszkancy-czestochowy-zadecydowali-pkw-podala-wyniki",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/rzad-rozwaza-nowy-podatek-spotka-sie-z-ostra-reakcja-usa/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News (citing DW, The Times, dpa)",
+   "url": "https://polsatnews.pl/wiadomosc/2026-10-25/manewry-wojskowe-w-polsce-niemcy-potwierdzaja-udzial",
+   "paywalled": false
+  },
+  {
+   "title": "Dziennik Polski",
+   "url": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie",
+   "paywalled": false
+  },
+  {
+   "title": "Gazeta Krakowska",
+   "url": "https://ztp.krakow.pl/kmk/komunikaty/2226-2026",
+   "paywalled": false
+  },
+  {
+   "title": "miastoNS.pl",
+   "url": "https://miastons.pl/malopolska/koleje-malopolskie-zmiana-rozkladu-25-pazdziernika-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Dziennik Polski",
+   "url": "https://dziennikpolski24.pl/rusza-przebudowa-ulicy-nowohuckiej-w-krakowie-powstanie-dodatkowy-pas-ruchu-w-rejonie-kluczowego-skrzyzowania/ar/c1p2-29462449",
+   "paywalled": false
+  },
+  {
+   "title": "Gazeta Krakowska",
+   "url": "https://gazetakrakowska.pl/galeria-krakowska-zostanie-ponownie-otwarta-po-pozarze-podano-termin-wznowienia-dzialalnosci-w-pelnym-zakresie/ar/c1p2-29459815",
+   "paywalled": false
+  },
+  {
+   "title": "Kashmir Observer; RT; ANI",
+   "url": "https://kashmirobserver.net/2026/10/24/india-extends-aid-to-stranded-nationals-umrah-pilgrims-in-saudi/",
+   "paywalled": false
+  },
+  {
+   "title": "PTI via ThePrint / The Tribune; Business Today",
+   "url": "https://theprint.in/india/kharge-sparks-row-with-modi-ka-baap-bhi-jayega-remark-at-patna-event/3081204/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://www.aninews.in/news/national/politics/8220collusion-between-ec-and-bjp-exposed8221-congress-deepender-hooda-ahead-of-oppns-nov-1-delhi-chalo-rally20261026024154",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://businesstoday.in/markets/stocks/story/sensex-falls-600-pts-nifty-below-22500-key-triggers-behind-the-market-crash-today-563546-2026-10-26",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today (citing Moneycontrol)",
+   "url": "https://www.businesstoday.in/markets/story/three-more-psus-headed-for-stock-market-govt-plans-iifcl-mahanadi-coalfields-secl-listing-in-fy27-563512-2026-10-25",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/karnataka-cm-shivakumar-vows-to-give-kpsc-a-8216new-form8217-says-permission-granted-to-interrogate-accused-in-irregularities-case20261026013758",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/crop-losses-reach-80-due-to-drought-karnataka-dy-cm-urges-centre-to-release-relief-funds-to-farmers-without-delay20261026021909",
+   "paywalled": false
+  },
+  {
+   "title": "WNP.pl",
+   "url": "https://www.wnp.pl/bezpieczenstwo/amerykanska-baza-w-polsce-za-15-mld-zl-wladyslaw-kosiniak-kamysz-ujawnia-szczegoly,1112013.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News (PAP)",
+   "url": "https://polsatnews.pl/wiadomosc/2026-10-24/ambasador-usa-uderza-w-europejskich-liderow-jako-przyklad-wskazuje-polske",
+   "paywalled": false
+  },
+  {
+   "title": "NewsBytes / New Indian Express",
+   "url": "https://www.newsbytesapp.com/news/india/s-jaishankar-to-visit-atlanta-for-g-20-and-quad-meetings/tldr",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://www.businesstoday.in/nri/visa/story/h-1b-100000-fee-update-us-approves-petitions-without-payment-heres-what-workers-and-employers-need-to-know-563498-2026-10-25",
+   "paywalled": false
+  },
+  {
+   "title": "NewsBytes / Whalesbook",
+   "url": "https://www.newsbytesapp.com/news/business/polands-wb-group-to-invest-100-million-in-indian-unmanned-systems/tldr",
+   "paywalled": false
+  }
+ ]
+}
