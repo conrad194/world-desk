@@ -1,0 +1,141 @@
+{
+ "items": [
+  {
+   "id": "L01",
+   "num": 1,
+   "unit": "How each country is governed",
+   "title": "Three systems: presidential, mixed president/PM, parliamentary",
+   "dateTaught": "2026-10-26",
+   "minutes": 6,
+   "pulledForward": false,
+   "prevQuestion": "",
+   "prevAnswer": "",
+   "body": "Every democracy has to answer one question: **where does the government's power to act come from, and who can take it away?** The US, Poland and India give three different answers, and those answers explain a good share of this week's news.\n\n**Presidential: the United States.** Americans elect the president separately from Congress, for a fixed four-year term. The president is both head of state and head of government and picks a cabinet whose members cannot sit in Congress and do not need its confidence. Congress cannot dismiss a president over policy. The only route is impeachment: the House accuses, and the Senate needs a two-thirds vote to convict. The two branches are elected on different calendars and can be held by rival parties. That is the **separation of powers** in its purest form.\n\n> The US Constitution was drafted at the [#Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)) in Philadelphia in 1787 and took effect in 1789.\n\n**Parliamentary: India.** Indians vote only for their member of the Lok Sabha, the lower house of Parliament. The prime minister is whoever can command a majority there, and the Council of Ministers is collectively responsible to it: if the Lok Sabha passes a no-confidence motion, the whole government falls. Ministers must be members of Parliament, or become one within six months. The president, currently [@Droupadi Murmu](https://en.wikipedia.org/wiki/Droupadi_Murmu), is chosen indirectly by an electoral college of MPs and state legislators and, under Article 74, acts on the ministers' advice. Executive power and the legislative majority are **fused**: a prime minister such as [@Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi) stays in office for as long as he keeps the House behind him.\n\n> India's Constitution was adopted on 26 November 1949 and came into force on 26 January 1950, the date now marked as Republic Day.\n\n**Mixed: Poland.** Poland sits in between. Its president is directly elected for five years and holds real tools: he can veto bills (the Sejm needs a three-fifths majority to override), send laws to the Constitutional Tribunal, and plays a leading role in defence and foreign policy. Day-to-day government, though, belongs to the prime minister and the Council of Ministers, who need the confidence of the Sejm. The Sejm can remove a government only by a **constructive vote of no confidence**, which must name a new prime minister in the same vote, so a majority cannot topple a cabinet without agreeing on a replacement. Political scientists disagree on the label: some call Poland semi-presidential, others a parliamentary system with an unusually strong president.\n\n> The current Constitution was approved by referendum in May 1997 and took effect on 17 October 1997.\n\nEach design has a typical weakness. A presidential system risks **gridlock**: when the president and Congress belong to rival parties, neither can remove the other, so they bargain or stall. A parliamentary system risks **instability**: lose your majority and you lose power, which makes coalition partners very important. Poland can face both at once. When the president and the prime minister come from rival camps, a situation called **cohabitation**, the president's veto can block laws even though the government controls the Sejm.\n\nThat is Poland's situation today. Prime Minister [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) depends on a four-party coalition in the Sejm, so a split inside one partner, Polska 2050, is a threat to his government. President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki), who won the [#2025 presidential election](https://en.wikipedia.org/wiki/2025_Polish_presidential_election) with the backing of the opposition Law and Justice party, decides whether to sign the coalition's bills. Compare the US: in the [#2026 midterm elections](https://en.wikipedia.org/wiki/2026_United_States_elections) on 3 November, voters choose the whole House and a third of the Senate, but whatever the result, [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) stays president until January 2029. In India or Poland, losing a parliamentary majority would mean a new government.\n\nLater lessons build on this one: who is head of state versus head of government (Lesson 3), how each legislature works (Lesson 5), and how vetoes and overrides play out (Lesson 7).",
+   "comparison": [
+    {
+     "aspect": "Who is head of government",
+     "US": "The President",
+     "Poland": "The Prime Minister (Prezes Rady Ministrów)",
+     "India": "The Prime Minister"
+    },
+    {
+     "aspect": "How the leader gets the job",
+     "US": "Elected via the Electoral College, separately from Congress",
+     "Poland": "Nominated by the President, then must win a confidence vote in the Sejm",
+     "India": "Appointed by the President as the leader who commands a Lok Sabha majority"
+    },
+    {
+     "aspect": "Head of state",
+     "US": "Same person as head of government",
+     "Poland": "President, directly elected for 5 years",
+     "India": "President, elected indirectly by MPs and state legislators for 5 years"
+    },
+    {
+     "aspect": "Can the legislature remove the government?",
+     "US": "Only by impeachment (House impeaches, Senate convicts by two-thirds)",
+     "Poland": "Yes, by a constructive vote of no confidence in the Sejm (Art. 158)",
+     "India": "Yes, by a no-confidence motion in the Lok Sabha"
+    },
+    {
+     "aspect": "Do ministers sit in the legislature?",
+     "US": "No, they may not",
+     "Poland": "Often, but it is not required",
+     "India": "Yes, they must become MPs within six months (Art. 75)"
+    },
+    {
+     "aspect": "Typical weak point",
+     "US": "Gridlock between President and Congress",
+     "Poland": "Cohabitation: a president vetoing a rival government's bills",
+     "India": "Fragile coalitions when no party has a majority"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Separation of powers",
+     "meaning": "Executive and legislature are elected separately and cannot dismiss each other over policy, as in the US."
+    },
+    {
+     "term": "Confidence (wotum zaufania; Hindi vishwas mat)",
+     "meaning": "The legislature's backing that a parliamentary government needs to stay in office."
+    },
+    {
+     "term": "Constructive vote of no confidence (konstruktywne wotum nieufności)",
+     "meaning": "Poland's rule that the Sejm can only remove a government by electing a new prime minister in the same vote."
+    },
+    {
+     "term": "No-confidence motion (avishwas prastav)",
+     "meaning": "A Lok Sabha vote that, if passed, forces India's whole Council of Ministers to resign."
+    },
+    {
+     "term": "Cohabitation (kohabitacja)",
+     "meaning": "When the president and the prime minister come from rival political camps."
+    },
+    {
+     "term": "Semi-presidential system",
+     "meaning": "A system with both a directly elected president holding real powers and a prime minister responsible to parliament."
+    }
+   ],
+   "example": "Two cases show what \"confidence\" means in practice. After the [#2023 Polish parliamentary election](https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election), President [@Andrzej Duda](https://en.wikipedia.org/wiki/Andrzej_Duda) first reappointed [@Mateusz Morawiecki](https://en.wikipedia.org/wiki/Mateusz_Morawiecki) of Law and Justice, the largest single party, even though it lacked a majority. His [#third cabinet](https://en.wikipedia.org/wiki/Third_Cabinet_of_Mateusz_Morawiecki), sworn in on 27 November, lost its confidence vote in the Sejm on 11 December 2023. That same day the Sejm elected [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk), whose government was sworn in two days later. In India, after the [#1996 general election](https://en.wikipedia.org/wiki/1996_Indian_general_election), [@Atal Bihari Vajpayee](https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee) became prime minister as leader of the largest party but resigned after 13 days, before a confidence vote he expected to lose. Nothing like this can happen in Washington: a president whose party loses Congress keeps the job.",
+   "inTheNews": "Polska 2050's split tests whether [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) keeps the Sejm majority his government depends on, the parliamentary half of Poland's system, while the abortion bills heading to President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) show the presidential half. In the US, the [#3 November midterms](https://en.wikipedia.org/wiki/2026_United_States_elections) will reshape Congress but cannot change who is president.",
+   "newsEvents": [
+    "E-261026-13",
+    "E-261026-16",
+    "E-261026-03"
+   ],
+   "check": [
+    {
+     "q": "Polish coalition partners fall out and a majority of the Sejm now dislikes the government, but they cannot agree on who should replace Tusk. What happens?",
+     "options": [
+      "The government falls automatically",
+      "The government stays, because a constructive no-confidence vote must name a successor",
+      "The President dismisses the Prime Minister",
+      "New elections are held at once"
+     ],
+     "answer": 1,
+     "explain": "Poland's no-confidence vote is constructive: the Sejm must elect a new prime minister in the same vote, so a majority that cannot agree on a replacement cannot remove the government."
+    },
+    {
+     "q": "Which change would end a sitting Indian government but not a sitting US administration?",
+     "options": [
+      "Losing a majority in the lower house",
+      "Losing a by-election",
+      "A court ruling against a law",
+      "A fall in opinion polls"
+     ],
+     "answer": 0,
+     "explain": "India's government must keep the Lok Sabha's confidence. A US president keeps office for a fixed term even if their party loses the House."
+    },
+    {
+     "q": "Why do some scholars call Poland semi-presidential rather than simply parliamentary?",
+     "options": [
+      "Its president appoints all judges alone",
+      "Its president is directly elected and has real powers such as a veto that needs three-fifths to override",
+      "Its prime minister is directly elected",
+      "It has no prime minister"
+     ],
+     "answer": 1,
+     "explain": "A directly elected president with a meaningful veto and a role in defence and foreign policy sits alongside a government responsible to the Sejm, which is the mark of a mixed system."
+    }
+   ],
+   "recallQ": "Why can a US president stay in office after his party loses the midterms, while a Polish or Indian prime minister who loses a parliamentary majority usually cannot?",
+   "recallA": "The US president is elected separately for a fixed term and does not need Congress's confidence; only impeachment can remove him. Polish and Indian governments are responsible to the lower house, so losing its support (through a no-confidence vote, constructive in Poland's case) brings the government down.",
+   "readMore": [
+    {
+     "title": "Parliamentary system (Encyclopaedia Britannica)",
+     "url": "https://www.britannica.com/topic/parliamentary-system",
+     "why": "A clear overview of how governments answer to parliament, useful for India and Poland."
+    },
+    {
+     "title": "Constitutions of the World: Poland (Sejm Library)",
+     "url": "https://biblioteka.sejm.gov.pl/konstytucje-swiata-polska/?lang=en",
+     "why": "The Sejm Library's page for Poland's constitutions, with the English text of the 1997 Constitution (see Articles 126–158)."
+    },
+    {
+     "title": "Read the Constitution of India (Constitution of India project)",
+     "url": "https://www.constitutionofindia.net/read/",
+     "why": "Article-by-article text; see Articles 74–75 on the Council of Ministers and its responsibility to the Lok Sabha."
+    }
+   ]
+  }
+ ]
+}
