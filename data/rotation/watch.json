@@ -35,7 +35,7 @@
    "dateAdded": "2026-10-25",
    "segment": "Russia–Ukraine & European security",
    "what": "Trilateral US–Russia–Ukraine talks in Abu Dhabi, first half of November.",
-   "expected": "Kremlin spokesman Peskov; Zelensky confirmed technical talks",
+   "expected": "Kremlin spokesman Peskov; Zelensky confirmed technical talks Update 26 Oct: Kremlin aide Yuri Ushakov says Moscow is ready to resume talks after 4 Nov.",
    "checkDate": "2026-11-15",
    "happened": "",
    "eventId": "E-261025-01"
@@ -219,6 +219,56 @@
    "checkDate": "2026-11-07",
    "happened": "",
    "eventId": "E-261025-53"
+  },
+  {
+   "id": "W-261026-01",
+   "dateAdded": "2026-10-26",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Rada vote on extending martial law and mobilisation to 29 Jan 2027 (bills 16182/16183).",
+   "expected": "Due before the current terms expire on 31 Oct (Slovo i Dilo).",
+   "checkDate": "2026-10-31",
+   "happened": "",
+   "eventId": "E-261026-21"
+  },
+  {
+   "id": "W-261026-02",
+   "dateAdded": "2026-10-26",
+   "segment": "Russia–Ukraine & European security",
+   "what": "State Duma first reading of Russia's 2027–29 federal budget.",
+   "expected": "Scheduled for 29 Oct; United Russia says it will back it (Vedomosti).",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": "E-261026-25"
+  },
+  {
+   "id": "W-261026-03",
+   "dateAdded": "2026-10-26",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Gagauzia People's Assembly and Bashkan elections in Moldova.",
+   "expected": "Set for 15 Nov (Moldovan media).",
+   "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-04",
+   "dateAdded": "2026-10-26",
+   "segment": "Russia–Ukraine & European security",
+   "what": "NATO consultations on letting pilots down radar-tracked drones without visual identification.",
+   "expected": "Lithuanian PM Sinkevičius expects a rule change 'probably within a month' (LRT).",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261026-29"
+  },
+  {
+   "id": "W-261026-05",
+   "dateAdded": "2026-10-26",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Pentagon recommendation on US force posture in Europe (possible drawdown of 25,000–40,000).",
+   "expected": "Final recommendation due in November, per NBC reporting in September.",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

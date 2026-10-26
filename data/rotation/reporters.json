@@ -419,6 +419,48 @@
    "trackRecord": "Covered von der Leyen's Budapest visit. Byline seen in this week's sweep; wider track record not yet verified.",
    "dateAdded": "2026-10-25",
    "status": "Watch"
+  },
+  {
+   "id": "ana-maria-dolghii",
+   "name": "Ana-Maria Dolghii",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Moldova",
+   "languages": "Romanian, Russian",
+   "outlets": "NewsMaker",
+   "basedIn": "Chișinău",
+   "slant": "Independent; critical of Russian interference",
+   "url": "https://newsmaker.md/ro/",
+   "trackRecord": "NewsMaker news reporter; fast, sourced reporting on the Telenești drone and Russian embassy expulsion (Oct 2026). Track record still being assessed.",
+   "dateAdded": "2026-10-26",
+   "status": "Watch"
+  },
+  {
+   "id": "sintija-ambote",
+   "name": "Sintija Ambote",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Latvia",
+   "languages": "Latvian",
+   "outlets": "Latvijas Radio / LSM.lv",
+   "basedIn": "Riga",
+   "slant": "Public broadcaster",
+   "url": "https://www.lsm.lv/",
+   "trackRecord": "Latvian public radio news reporter; covered the Alūksne drone crash with ministry quotes (Oct 2026). Track record still being assessed.",
+   "dateAdded": "2026-10-26",
+   "status": "Watch"
+  },
+  {
+   "id": "vahur-lauri",
+   "name": "Vahur Lauri",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Estonia",
+   "languages": "Estonian, English",
+   "outlets": "ERR",
+   "basedIn": "Tallinn",
+   "slant": "Public broadcaster",
+   "url": "https://news.err.ee/",
+   "trackRecord": "ERR defence reporting on allied reinforcement and procurement (Oct 2026). Track record still being assessed.",
+   "dateAdded": "2026-10-26",
+   "status": "Watch"
   }
  ]
 }
