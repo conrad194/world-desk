@@ -47,8 +47,8 @@
    "what": "Brazil runoff result: Lula vs Flávio Bolsonaro.",
    "expected": "Brazil's electoral court (TSE) releases results overnight; final Datafolha poll 51–49 for Flávio",
    "checkDate": "2026-10-26",
-   "happened": "",
-   "eventId": "E-261025-22"
+   "happened": "Lula won a fourth term with 51.79% to 48.21% (TSE official result); Flávio Bolsonaro refuses to concede and says he will seek annulment over a court-ordered voting extension. [TSE](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)",
+   "eventId": "E-261026-01"
   },
   {
    "id": "W-261025-06",
@@ -57,8 +57,8 @@
    "what": "Serbia snap election results.",
    "expected": "Serbia's electoral commission (RIK); Euronews says the outcome will be clear next week",
    "checkDate": "2026-10-27",
-   "happened": "",
-   "eventId": "E-261025-48"
+   "happened": "The Student List won about 52.5% with 96% counted (RIK preliminary), against 39.3% for Vučić's list, and Vučić conceded on election night. [Danas](https://www.danas.rs/vesti/politika/izbori26/rik-rezultati-izbora-izlaznost/)",
+   "eventId": "E-261026-02"
   },
   {
    "id": "W-261025-07",
