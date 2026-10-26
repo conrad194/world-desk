@@ -1,0 +1,68 @@
+{
+ "items": [
+  {
+   "id": "R-261026-01",
+   "dateLogged": "2026-10-26",
+   "place": "US",
+   "body": "President / USTR / CBP",
+   "name": "Proclamation further modifying scope of Canadian products subject to additional (Section 338) duties",
+   "changes": "Adds and removes products from the list of Canadian goods subject to the extra 50% duty.",
+   "affects": "US importers of Canadian valves, carpets, waste products, plywood, paper and machinery.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2026-10-30",
+   "officialLink": "https://www.whitehouse.gov/presidential-actions",
+   "newsLink": "https://www.ghy.com/trade-compliance/us-imposes-50-section-338-tariffs-on-canadian-imports-dairy-alcoholic-beverages-and-motor-vehicles/",
+   "eventId": "E-261026-06",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-02",
+   "dateLogged": "2026-10-26",
+   "place": "US",
+   "body": "CMS / HHS",
+   "name": "Exchange pre-eligibility verification (Working Families Tax Cut Act implementation)",
+   "changes": "Exchanges must verify eligibility before enrollment, and premium tax credits and cost-sharing reductions are generally withheld while data matches are unresolved.",
+   "affects": "ACA marketplace enrollees and Exchanges.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.alston.com/en/insights/publications/2026/10/health-care-week-in-review-october-23-2026",
+   "newsLink": "",
+   "eventId": "E-261026-07",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-03",
+   "dateLogged": "2026-10-26",
+   "place": "US",
+   "body": "FDA",
+   "name": "Draft guidance: Action Levels for Cadmium in Processed Food Intended for Babies and Young Children",
+   "changes": "Sets recommended maximum cadmium levels in baby and toddler foods.",
+   "affects": "Baby-food makers and parents.",
+   "stage": "Open for comment",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.afdo.org/federal-register-update-october-23-2026/",
+   "newsLink": "",
+   "eventId": "E-261026-08",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-04",
+   "dateLogged": "2026-10-26",
+   "place": "US",
+   "body": "President / Commerce",
+   "name": "Adjusting Imports of Wind Turbines and Their Parts and Components (Section 232)",
+   "changes": "Section 232 import adjustment (tariffs) on wind turbines and parts; details not verified.",
+   "affects": "Wind developers, turbine importers, utilities.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.whitehouse.gov/presidential-actions",
+   "newsLink": "",
+   "eventId": "E-261026-09",
+   "lastChecked": "2026-10-26"
+  }
+ ]
+}

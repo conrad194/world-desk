@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "id": "RL-261026-01",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "title": "Ninth Circuit Panel Seems Skeptical of DOJ's Attempt to Force California to Segregate Ballots from Purported Noncitizens",
+   "reporter": "Rick Hasen",
+   "outlet": "Election Law Blog",
+   "language": "English",
+   "url": "https://electionlawblog.org/2026/ninth-circuit-panel-seems-skeptical-of-dojs-attempt-to-force-california-to-segregate-ballots-from-purported-noncitizens/",
+   "why": "A leading election-law expert's live read of the Oct 25 argument, covering jurisdiction, the Elections Clause and the equities."
+  },
+  {
+   "id": "RL-261026-02",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "title": "Trump's administration sues to block a possible Democratic win in the Alaska U.S. Senate race",
+   "reporter": "Associated Press",
+   "outlet": "Alaska Public Media",
+   "language": "English",
+   "url": "https://alaskapublic.org/news/politics/elections/2026-10-23/trumps-administration-sues-to-block-a-possible-democratic-win-in-the-alaska-u-s-senate-race",
+   "why": "Clear account of the suit, with responses from both campaigns and an expert's view on whether it can succeed."
+  },
+  {
+   "id": "RL-261026-03",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Politics & government",
+   "title": "Dan Sullivan vs Dan Sullivan: Why is Trump's DOJ suing in Alaska?",
+   "reporter": "Elizabeth Melimopoulos",
+   "outlet": "Al Jazeera",
+   "language": "English",
+   "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska",
+   "why": "Explainer on the same-name ballot fight and the NVRA basis DOJ cites."
+  }
+ ]
+}

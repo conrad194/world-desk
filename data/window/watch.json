@@ -1,0 +1,92 @@
+{
+ "items": [
+  {
+   "id": "W-261026-01",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "FOMC rate decision under Chair Warsh. Economists expect a hold before the midterms, with a December hike possible to fight inflation.",
+   "expected": "Federal Reserve calendar: Oct 27-28 meeting, decision 2:00 pm and press conference 2:30 pm ET Oct 28 (Gray DC preview)",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-02",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "Judge Carter's TRO hearing on DOJ's request to set aside about 20,000 California mail ballots, and any Ninth Circuit order on jurisdiction",
+   "expected": "US District Court C.D. Cal., Tuesday Oct 27",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261026-02"
+  },
+  {
+   "id": "W-261026-03",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "First rulings or a schedule in DOJ's Alaska certification suit, and motions by Democrats or voting-rights groups",
+   "expected": "US District Court, Alaska; before or soon after Nov 3",
+   "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": "E-261026-01"
+  },
+  {
+   "id": "W-261026-04",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Midterm election day. Control of the House (218-214 R) and Senate (53-47 R) is at stake.",
+   "expected": "Nov 3",
+   "checkDate": "2026-11-03",
+   "happened": "",
+   "eventId": "E-261026-03"
+  },
+  {
+   "id": "W-261026-05",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Foreign relations",
+   "what": "Whether Trump orders new strikes on Iran before Nov 3 or revives the stalled MOU talks, and any further embassy drawdowns",
+   "expected": "Trump said both strikes and a deal are possible before the midterms",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": "E-261026-04"
+  },
+  {
+   "id": "W-261026-06",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "what": "Status conference for Cole Tomas Allen, accused of the White House Correspondents' Dinner shooting, to set a trial date",
+   "expected": "Thursday Oct 29 (Gray DC)",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-07",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "what": "Revised Canadian Section 338 tariff scope takes effect; CBP guidance; any Canadian retaliation",
+   "expected": "Oct 30",
+   "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": "E-261026-06"
+  },
+  {
+   "id": "W-261026-08",
+   "dateAdded": "2026-10-26",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "Supreme Court November argument session begins. The October sitting appears to be over, but I could not open the calendar PDFs.",
+   "expected": "supremecourt.gov lists a session starting Nov 2",
+   "checkDate": "2026-11-02",
+   "happened": "",
+   "eventId": ""
+  }
+ ]
+}
