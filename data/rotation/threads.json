@@ -209,6 +209,20 @@
    "segment": "EU politics + cross-cutting",
    "status": "Active",
    "summary": "Security Council straw polls and candidates to succeed Guterres."
+  },
+  {
+   "id": "russian-hybrid-attacks-on-europe",
+   "name": "Russian hybrid attacks on Europe",
+   "segment": "Russia–Ukraine & European security",
+   "status": "Active",
+   "summary": "Drone incursions, sabotage and arson, espionage, attacks on Black Sea shipping and other hybrid pressure on NATO and EU states that officials attribute to Russia."
+  },
+  {
+   "id": "ukraine-anti-corruption-cases",
+   "name": "Ukraine anti-corruption cases",
+   "segment": "Russia–Ukraine & European security",
+   "status": "Active",
+   "summary": "NABU and SAP investigations reaching senior Ukrainian officials and institutions, including the National Bank and the Prosecutor General's Office."
   }
  ]
 }
