@@ -111,6 +111,54 @@
    "newsLink": "https://www.polsatnews.pl/wiadomosc/2026-10-25/rzad-rozwaza-nowy-podatek-spotka-sie-z-ostra-reakcja-usa/",
    "eventId": "E-261026-15",
    "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-08",
+   "dateLogged": "2026-10-26",
+   "place": "Kraków",
+   "body": "Mayor of Kraków (Łukasz Gibała)",
+   "name": "Order abolishing six City Hall departments (zarządzenie Prezydenta Miasta Krakowa)",
+   "changes": "Abolishes the departments of Civic Affairs, Kraków Brand, Sustainable Development, Municipal Services, Social Policy and Education, which were a management layer between the mayor and city offices.",
+   "affects": "City Hall staff and directors, and the reporting lines for ZTP, ZDMK, schools and social services.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie",
+   "newsLink": "https://dziennikpolski24.pl/rewolucja-w-urzedzie-miasta-krakowa-prezydent-lukasz-gibala-zaczal-porzadki-w-magistracie-likwiduje-wszystkie-departamenty/ar/c1p2-29465711",
+   "eventId": "E-261026-26",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-09",
+   "dateLogged": "2026-10-26",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "name": "Draft fare resolution: return of 20-minute (4 zł) and 40-minute tickets; annual 365 zł ticket for doctoral students",
+   "changes": "Replaces the 15- and 30-minute tickets introduced in March 2026 with 20- and 40-minute tickets, and extends the annual student ticket to doctoral students. The city estimates about 20 million zł a year in lost revenue.",
+   "affects": "All KMK public transport passengers.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "https://krknews.pl/slubowanie-nowej-radnej-wynagrodzenie-prezydenta-bilety-oplata-turystyczna-podsumowanie-63-sesji-rady-miasta-krakowa/",
+   "newsLink": "https://www.mjakmalopolska.pl/artykul/10236,krakow-przywroci-bilet-20-minutowy-lukasz-gibala-zapowiada-zmiany-od-2027-roku",
+   "eventId": "E-261026-26",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-10",
+   "dateLogged": "2026-10-26",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (KO and Nowa Lewica clubs' draft)",
+   "name": "Tourist fee (opłata turystyczna) of 5 zł per night",
+   "changes": "Introduces a fee of 5 zł per night, the statutory maximum, payable when booking accommodation. The first reading took place on 21 October and the final vote is expected in December.",
+   "affects": "Overnight visitors and accommodation providers. Dziennik Polski estimates revenue of up to 50 million zł a year.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://krknews.pl/slubowanie-nowej-radnej-wynagrodzenie-prezydenta-bilety-oplata-turystyczna-podsumowanie-63-sesji-rady-miasta-krakowa/",
+   "newsLink": "https://dziennikpolski24.pl/krakow-wprowadza-oplate-turystyczna-najwyzsza-dopuszczalna-miasto-moze-zarobic-do-50-mln-zl-rocznie/ar/c1p2-29459351",
+   "eventId": "E-261026-26",
+   "lastChecked": "2026-10-26"
   }
  ]
 }

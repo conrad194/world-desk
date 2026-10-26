@@ -153,6 +153,61 @@
    "checkDate": "2026-11-09",
    "happened": "",
    "eventId": "E-261026-17"
+  },
+  {
+   "id": "W-261026-15",
+   "dateAdded": "2026-10-26",
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "what": "Whether Kraków suspends its partnership with Lviv. On 21 October, Mayor Gibała proposed suspending it after the Lviv Oblast Council declared 2027 the Year of the UPA and Shukhevych. The draft goes through two readings and will be withdrawn if the Ukrainian side reverses its decision. Przemyśl, Wrocław and Lublin have also protested.",
+   "expected": "Two readings at the City Council; next ordinary session on 18 November (KRKnews, PAP Samorząd).",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-16",
+   "dateAdded": "2026-10-26",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Second reading and vote on the 20- and 40-minute ticket resolution",
+   "expected": "City Council session on 18 November; changes would apply from January 2027 (M jak Małopolska).",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": "E-261026-26"
+  },
+  {
+   "id": "W-261026-17",
+   "dateAdded": "2026-10-26",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "What replaces the abolished departments and who takes over supervision of ZTP, ZDMK and education",
+   "expected": "Follows publication of the order on 26 October.",
+   "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": "E-261026-26"
+  },
+  {
+   "id": "W-261026-18",
+   "dateAdded": "2026-10-26",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "what": "Gibała's first draft budget for 2027",
+   "expected": "Draft due by 15 November and first reading by 2 December, per the timetable the council set on 21 October.",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-19",
+   "dateAdded": "2026-10-26",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "All Saints' Day peak: full special timetable and road closures around the cemeteries",
+   "expected": "ZTP: 30 October to 2 November.",
+   "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": "E-261026-27"
   }
  ]
 }
