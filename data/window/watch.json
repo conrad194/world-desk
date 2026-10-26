@@ -208,6 +208,83 @@
    "checkDate": "2026-10-30",
    "happened": "",
    "eventId": "E-261026-27"
+  },
+  {
+   "id": "W-261026-20",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Opposition 'public impeachment' of CEC Gyanesh Kumar (Oct 30) and INDIA bloc 'Delhi Chalo' rally at Ramlila Maidan (Nov 1); any EC response on SIR",
+   "expected": "Congress/INDIA bloc per ANI",
+   "checkDate": "2026-11-01",
+   "happened": "",
+   "eventId": "E-261026-38"
+  },
+  {
+   "id": "W-261026-21",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Whether Kharge or Congress apologises or clarifies; outcome of BJP protests and the Patna police complaint",
+   "expected": "BJP protests called for Oct 26",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261026-37"
+  },
+  {
+   "id": "W-261026-22",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Foreign relations",
+   "what": "Whether IndiGo and Akasa resume Saudi flights after Oct 27 (Riyadh Oct 31), and whether the Centre sends special flights for stranded pilgrims",
+   "expected": "Airline schedules per RT/Kashmir Observer",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261026-39"
+  },
+  {
+   "id": "W-261026-23",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Foreign relations",
+   "what": "Modi-Prince Alois talks at Hyderabad House; any agreements or TEPA investment announcements",
+   "expected": "MEA schedule, Oct 27",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261026-40"
+  },
+  {
+   "id": "W-261026-24",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Oil-driven market weakness: the Oct 26 close and the trend in Brent",
+   "expected": "Business Today market coverage",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261026-41"
+  },
+  {
+   "id": "W-261026-25",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "what": "Jamia: written timeline for the students' union constitution and elections",
+   "expected": "Students' demand per ANI",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": "E-261026-44"
+  },
+  {
+   "id": "W-261026-26",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "what": "Findings of the MeitY team probing the eMudhra certificate-key compromise (disclosed around Oct 21)",
+   "expected": "MeitY per ThePrint",
+   "checkDate": "2026-11-02",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

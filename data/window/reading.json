@@ -95,6 +95,42 @@
    "language": "Polish",
    "url": "https://samorzad.pap.pl/kategoria/aktualnosci/krakow-i-przemysl-rozwazaja-zawieszenie-partnerstwa-z-lwowem-po-uchwale-ws",
    "why": "A wire-service overview of how Polish cities are reacting to Lviv's Year of the UPA decision, with context on Ukrainian views."
+  },
+  {
+   "id": "RL-261026-09",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "title": "DH Deciphers | When police officers act as magistrates: Lessons from the CJP leaders' case",
+   "reporter": "",
+   "outlet": "Deccan Herald",
+   "language": "English",
+   "url": "https://www.deccanherald.com/india/dh-deciphers-when-police-officers-act-as-magistrates-lessons-from-the-cjp-leaders-case-4191670",
+   "why": "Explains the legal basis for preventive detention by police acting as executive magistrates, prompted by the detention of the CJP's Abhijit Dipke."
+  },
+  {
+   "id": "RL-261026-10",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "title": "What's the eMudhra security scare that has rattled the internet: All you need to know",
+   "reporter": "",
+   "outlet": "ThePrint",
+   "language": "English",
+   "url": "https://theprint.in/tech/whats-the-emudhra-security-scare-that-has-rattled-the-internet-all-you-need-to-know/3077744/",
+   "why": "Background on why Google, Apple and Mozilla moved to distrust certificates from an Indian certificate authority."
+  },
+  {
+   "id": "RL-261026-11",
+   "dateAdded": "2026-10-26",
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "title": "H-1B $100,000 fee update: US approves petitions without payment",
+   "reporter": "Business Today Desk",
+   "outlet": "Business Today",
+   "language": "English",
+   "url": "https://www.businesstoday.in/nri/visa/story/h-1b-100000-fee-update-us-approves-petitions-without-payment-heres-what-workers-and-employers-need-to-know-563498-2026-10-25",
+   "why": "A clear summary of where the H-1B fee litigation stands for Indian workers and employers."
   }
  ]
 }
