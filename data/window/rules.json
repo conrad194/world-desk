@@ -63,6 +63,54 @@
    "newsLink": "",
    "eventId": "E-261026-09",
    "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-05",
+   "dateLogged": "2026-10-26",
+   "place": "Poland",
+   "body": "Sejm / Senate",
+   "name": "PIT/CIT tax reform for 2027 (government bill as amended by the Sejm)",
+   "changes": "The bill raises the first PIT threshold from 120k to 130k zł and adds a 24% rate between 130k and 150k zł. It also raises the solidarity levy to 5% and lowers the lump-sum revenue limit. The Sejm added annual indexation of thresholds from 2028 and removed the planned CIT rise to 22% for the largest firms. The government wants the Senate to reverse both changes. The bill has passed the Sejm and sits with the Senate, which has 30 days.",
+   "affects": "About 3.5 million PIT payers earning more than 120k zł, the largest companies (revenue above €50m), and the public finances.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://xyz.pl/nanoanalizy/dwie-poprawki-miliardy-mniej-w-budzecie-sejm-zmienil-bilans-reformy-podatkowej-1409",
+   "eventId": "E-261026-14",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-06",
+   "dateLogged": "2026-10-26",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "name": "Bill restoring abortion for severe foetal defects; Criminal Code amendment partially decriminalising abortion assistance",
+   "changes": "The first bill restores legal abortion where tests show a severe, irreversible foetal defect or an incurable life-threatening disease, reversing the 2020 Constitutional Tribunal ruling. The second removes up to 3 years' prison for helping with or encouraging an abortion and protects medical staff in these cases. Both passed the Sejm on 20 October and await the Senate, then the President, who is widely expected to veto.",
+   "affects": "Pregnant women, doctors, nurses and midwives, and anyone helping a woman obtain an abortion.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/polska/ustawy-w-sprawie-aborcji-jest-decyzja-sejmu-st9297226",
+   "eventId": "E-261026-16",
+   "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261026-07",
+   "dateLogged": "2026-10-26",
+   "place": "Poland",
+   "body": "Ministry of Digital Affairs",
+   "name": "Draft digital tax on big tech (3% of revenue)",
+   "changes": "Introduces a 3% levy on the Polish revenue of large global tech companies.",
+   "affects": "Large international digital platforms operating in Poland, and possibly Poland–US trade relations.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://www.polsatnews.pl/wiadomosc/2026-10-25/rzad-rozwaza-nowy-podatek-spotka-sie-z-ostra-reakcja-usa/",
+   "eventId": "E-261026-15",
+   "lastChecked": "2026-10-26"
   }
  ]
 }

@@ -87,6 +87,72 @@
    "checkDate": "2026-11-02",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261026-09",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "The Senate budget committee takes up the tax reform. Watch whether it restores the CIT rise and removes PIT indexation, and the Sejm's later vote on any Senate amendments.",
+   "expected": "Committee chair Kleina (Interia) expects it on Monday 26 October. The full Senate has 30 days.",
+   "checkDate": "2026-10-27",
+   "happened": "",
+   "eventId": "E-261026-14"
+  },
+  {
+   "id": "W-261026-10",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Tusk names a new minister of funds and regional policy. Watch whether the post goes to Polska 2050 or Hołownia carries out his threat to withdraw the party's ministers, and a possible new vote on mayoral term limits.",
+   "expected": "Tusk said he would announce the choice after returning from India. Rzeczpospolita expects a decisive week.",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": "E-261026-13"
+  },
+  {
+   "id": "W-261026-11",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "NBP Monetary Policy Council (RPP) decision with its new inflation projection. Some economists (Pekao) and market pricing see a possible hike from 3.75%.",
+   "expected": "RPP meeting on 3–4 November 2026 (Bankier.pl, RPP calendar).",
+   "checkDate": "2026-11-04",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261026-12",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "The Senate votes on the two abortion bills, then the President decides whether to sign or veto.",
+   "expected": "The KO MP (Polsat) expects a veto. The Senate sitting date is not yet confirmed.",
+   "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": "E-261026-16"
+  },
+  {
+   "id": "W-261026-13",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "what": "The 'coalition of the willing' exercise takes place in Poland and the Black Sea region. Watch for exact dates and Polish participation.",
+   "expected": "November 2026, per Polsat citing DW and The Times.",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": "E-261026-19"
+  },
+  {
+   "id": "W-261026-14",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "The PM appoints a commissioner for Częstochowa and an early mayoral and council election is called.",
+   "expected": "Follows the 25 October recall (PKW).",
+   "checkDate": "2026-11-09",
+   "happened": "",
+   "eventId": "E-261026-17"
   }
  ]
 }

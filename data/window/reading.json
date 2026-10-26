@@ -35,6 +35,42 @@
    "language": "English",
    "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska",
    "why": "Explainer on the same-name ballot fight and the NVRA basis DOJ cites."
+  },
+  {
+   "id": "RL-261026-04",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "title": "Dwie poprawki, rachunek na miliardy. Sejm zmienił podatkową reformę nie do poznania",
+   "reporter": "Marek Skawiński",
+   "outlet": "XYZ",
+   "language": "Polish",
+   "url": "https://xyz.pl/nanoanalizy/dwie-poprawki-miliardy-mniej-w-budzecie-sejm-zmienil-bilans-reformy-podatkowej-1409",
+   "why": "Sets out year by year what the two surprise Sejm amendments would cost the budget, and why that matters for Poland's coming fiscal squeeze."
+  },
+  {
+   "id": "RL-261026-05",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "title": "Po wyrzuceniu Pełczyńskiej-Nałęcz Polskę 2050 czeka gorący tydzień",
+   "reporter": "Michał Kolanko",
+   "outlet": "Rzeczpospolita",
+   "language": "Polish",
+   "url": "https://www.rp.pl/polityka/art45392031-po-wyrzuceniu-pelczynskiej-nalecz-polske-2050-czeka-goracy-tydzien",
+   "why": "Lays out which decisions this week could test the coalition's Sejm majority (paywalled)."
+  },
+  {
+   "id": "RL-261026-06",
+   "dateAdded": "2026-10-26",
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "title": "Sztuka milczenia (Polsat News Ujawnia)",
+   "reporter": "Jacek Smaruj, Monika Gawrońska",
+   "outlet": "Polsat News",
+   "language": "Polish",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/sztuka-milczenia-sledztwo-polsat-news-ujawnia-i-lekarze-milionerzy/",
+   "why": "Polsat calls it the largest data-driven look yet at Polish hospital doctors' pay."
   }
  ]
 }
