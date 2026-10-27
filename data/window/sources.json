@@ -1127,6 +1127,18 @@
    "lean": "neutral / business",
    "status": "Watch",
    "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "rynek-zdrowia",
+   "name": "Rynek Zdrowia",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Health policy, NFZ, hospitals",
+   "language": "Polish",
+   "url": "https://www.rynekzdrowia.pl/",
+   "lean": "specialist, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
   }
  ]
 }

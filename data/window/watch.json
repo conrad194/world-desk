@@ -373,6 +373,50 @@
    "checkDate": "2026-10-28",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261027-04",
+   "dateAdded": "2026-10-27",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "Full Senate vote on the PIT/CIT reform with the Kleina amendments, then the Sejm vote on the Senate amendments (absolute majority needed to reject them).",
+   "expected": "LEX says the Senate plenary vote is on Tuesday 27 October; Senate sitting scheduled for 27 October (Portal Samorządowy). Sejm date not known.",
+   "checkDate": "2026-11-06",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-05",
+   "dateAdded": "2026-10-27",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "GUS flash CPI estimate for October 2026, ahead of the RPP decision.",
+   "expected": "Finwire economic calendar: 30 October 2026.",
+   "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-06",
+   "dateAdded": "2026-10-27",
+   "place": "EU (applies in Poland)",
+   "domain": "Law, courts & regulation",
+   "what": "CCD2 consumer-credit rules start to apply. Watch whether Poland adopts its implementing law or misses the date.",
+   "expected": "Directive 2023/2225 application date 20 November 2026; Wprost says Poland will not be ready.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-07",
+   "dateAdded": "2026-10-27",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "what": "First Polish arms contracts with Vietnam (Krab howitzers, Rosomak/Borsuk vehicles, ammunition).",
+   "expected": "Deputy minister Konrad Gołota (Notes from Poland); a Wprost headline says first contracts are possible this year.",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

@@ -191,6 +191,38 @@
    "newsLink": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/",
    "eventId": "E-261027-11",
    "lastChecked": "2026-10-27"
+  },
+  {
+   "id": "R-261027-03",
+   "dateLogged": "2026-10-27",
+   "place": "EU (applies in Poland)",
+   "body": "European Parliament and Council (Directive (EU) 2023/2225, CCD2); Polish implementing act not yet adopted",
+   "name": "Consumer Credit Directive 2 (CCD2)",
+   "changes": "Brings many buy-now-pay-later, interest-free and small loans under full consumer-credit rules. Adds stricter creditworthiness checks, mandatory warnings in credit adverts, rights to human review of automated credit decisions, and longer withdrawal periods where information is missing.",
+   "affects": "Borrowers, payday lenders, BNPL providers, online shops and banks in Poland.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-20",
+   "officialLink": "https://eur-lex.europa.eu/eli/dir/2023/2225/oj",
+   "newsLink": "https://biznes.wprost.pl/twoj-portfel/12481036/nowe-przepisy-unii-przeciwko-chwilowkom-od-20-listopada-dlaczego-polska-jest-w-tyle.html",
+   "eventId": "E-261027-30",
+   "lastChecked": "2026-10-27"
+  },
+  {
+   "id": "R-261027-04",
+   "dateLogged": "2026-10-27",
+   "place": "Poland",
+   "body": "Sejm / President / Minister of Energy",
+   "name": "Act on the tax on extraordinary profits of fuel companies ('Ceny Paliwa Niżej' package)",
+   "changes": "Allows temporary cuts to VAT and excise on fuels and daily maximum retail prices set by the energy minister. Funds this with a 60% tax on fuel companies' profits above their 2025 margin plus 20%, for profits earned 1 March 2026 to 31 March 2027.",
+   "affects": "All drivers and fuel buyers, fuel companies and stations, and the public finances (about 5bn zł).",
+   "stage": "In force",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.polsatnews.pl/wiadomosc/2026-10-26/maksymalne-ceny-paliwa-we-wtorek-minister-przekazal-ile-zaplacimy/",
+   "eventId": "E-261027-22",
+   "lastChecked": "2026-10-27"
   }
  ]
 }
