@@ -223,6 +223,34 @@
    "segment": "Russia–Ukraine & European security",
    "status": "Active",
    "summary": "NABU and SAP investigations reaching senior Ukrainian officials and institutions, including the National Bank and the Prosecutor General's Office."
+  },
+  {
+   "id": "iraq-faction-disarmament",
+   "name": "Iraq faction disarmament",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "PM Ali al-Zaidi's plan to put faction weapons under state control by June 2027. A 90-day de-escalation period runs until around year-end, Kataib Hezbollah and Nujaba are holding out, and Asaib Ahl al-Haq has joined the cabinet."
+  },
+  {
+   "id": "gaza-ceasefire-and-board-of-peace-plan",
+   "name": "Gaza ceasefire and Board of Peace plan",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "The stalled US 20-point plan: Hamas disarmament, the moving Yellow Line, ISF deployment and Israeli withdrawals, with strikes continuing a year after the October 2025 ceasefire."
+  },
+  {
+   "id": "lebanon-hezbollah-disarmament-and-israeli-occupation",
+   "name": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "Beirut's moves against Hezbollah arms (explosives seizures, judicial summonses), Israeli troops in the south, and reports that Hezbollah is rearming with Iranian money."
+  },
+  {
+   "id": "turkey-fund-crisis-and-opposition-crackdown",
+   "name": "Turkey fund crisis and opposition crackdown",
+   "segment": "Middle East",
+   "status": "Active",
+   "summary": "The investment-fund collapse and market-manipulation arrests (114 so far, including a former Erdoğan adviser), alongside the jailing of opposition mayors and journalists."
   }
  ]
 }

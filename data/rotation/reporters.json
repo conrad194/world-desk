@@ -461,6 +461,34 @@
    "trackRecord": "ERR defence reporting on allied reinforcement and procurement (Oct 2026). Track record still being assessed.",
    "dateAdded": "2026-10-26",
    "status": "Watch"
+  },
+  {
+   "id": "b-izzak",
+   "name": "B Izzak",
+   "segment": "Middle East",
+   "countries": "Kuwait",
+   "languages": "English, Arabic",
+   "outlets": "Kuwait Times",
+   "basedIn": "Kuwait City",
+   "slant": "Mainstream Kuwaiti daily; close to official court and parliamentary sources",
+   "url": "https://kuwaittimes.com/article/52455/kuwait/other-news/3-sentenced-to-death-for-spying-for-iran-hezbollah-plotting-to-assassinate-first-deputy-pm/",
+   "trackRecord": "Kuwait Times' long-serving political and courts reporter, covering parliament, security trials and Iran-linked cell cases for many years.",
+   "dateAdded": "2026-10-27",
+   "status": "Watch"
+  },
+  {
+   "id": "timour-azhari",
+   "name": "Timour Azhari",
+   "segment": "Middle East",
+   "countries": "Iraq, Gulf, Iran",
+   "languages": "English, Arabic",
+   "outlets": "Reuters",
+   "basedIn": "Middle East (Reuters regional bureaus)",
+   "slant": "Wire; neutral",
+   "url": "https://www.al-monitor.com/originals/2026/10/us-orders-departure-diplomats-saudi-arabia-amid-houthi-strikes",
+   "trackRecord": "Arabic-speaking Reuters correspondent who has reported from Beirut and Baghdad on armed factions and Iran-aligned groups. Co-wrote the 21 Oct exclusive on US ordered departures from the Gulf.",
+   "dateAdded": "2026-10-27",
+   "status": "Watch"
   }
  ]
 }

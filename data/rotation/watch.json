@@ -115,7 +115,7 @@
    "dateAdded": "2026-10-25",
    "segment": "Middle East",
    "what": "Possible new US strikes on Iran.",
-   "expected": "WSJ report; envoy Tom Barrack said 'this weekend', SBS reports Trump said not before 3 Nov",
+   "expected": "NIAC, CNN (US officials: operations possible within 96 hours of an order), Al Jazeera. A possible renewed US strike campaign on Iran after the 3 Nov US midterms. The White House has said there will be no attack before the vote, and a third carrier group is heading to the region.",
    "checkDate": "2026-11-04",
    "happened": "",
    "eventId": "E-261025-09"
@@ -297,6 +297,26 @@
    "what": "Brazil: watch for PL/Bolsonaro requests at the TSE seeking removal of Lula's ticket for alleged abuse of power, and for any US measures after Trump called the vote rigged.",
    "expected": "ND Mais citing CNN campaign sources",
    "checkDate": "2026-10-30",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-04",
+   "dateAdded": "2026-10-27",
+   "segment": "Middle East",
+   "what": "UN Security Council briefing on Iran non-proliferation, requested by Bahrain, Denmark, France, Latvia, the UK and the US, with [[p:Rafael Grossi]] briefing on Iran's denial of [[p:IAEA|International Atomic Energy Agency]] access since June. A procedural vote on the agenda may be held.",
+   "expected": "Security Council Report (What's In Blue)",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-05",
+   "dateAdded": "2026-10-27",
+   "segment": "Middle East",
+   "what": "Iran's Persian Gulf Strait Authority starts legal action against Sinokor vessels from 1 Nov. Watch for seizures or strikes on Korean-managed ships and Seoul's response.",
+   "expected": "Iran International (PGSA statement)",
+   "checkDate": "2026-11-02",
    "happened": "",
    "eventId": ""
   }
