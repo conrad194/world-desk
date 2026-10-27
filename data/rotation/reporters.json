@@ -489,6 +489,34 @@
    "trackRecord": "Arabic-speaking Reuters correspondent who has reported from Beirut and Baghdad on armed factions and Iran-aligned groups. Co-wrote the 21 Oct exclusive on US ordered departures from the Gulf.",
    "dateAdded": "2026-10-27",
    "status": "Watch"
+  },
+  {
+   "id": "dani-zaken",
+   "name": "Dani Zaken",
+   "segment": "Middle East",
+   "countries": "Israel, United States",
+   "languages": "Hebrew",
+   "outlets": "Israel Hayom (formerly Globes)",
+   "basedIn": "Washington / Israel",
+   "slant": "Israel Hayom is broadly pro-Netanyahu; his reporting is on US–Israel diplomacy",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21714982",
+   "trackRecord": "Long-time diplomatic and political correspondent; broke the 26 Oct report on a US-backed Netanyahu–Eisenkot unity plan",
+   "dateAdded": "2026-10-27",
+   "status": "Watch"
+  },
+  {
+   "id": "aysegul-basar",
+   "name": "Ayşegül Başar",
+   "segment": "Middle East",
+   "countries": "Turkey",
+   "languages": "Turkish, English",
+   "outlets": "bianet",
+   "basedIn": "Istanbul",
+   "slant": "independent rights-focused outlet",
+   "url": "https://bianet.org/haber/bianet-editor-aysegul-basar-receives-metin-goktepe-journalism-award-318205",
+   "trackRecord": "bianet human-rights editor; covers the İmamoğlu and political trials from Silivri; won the Metin Göktepe journalism award",
+   "dateAdded": "2026-10-27",
+   "status": "Watch"
   }
  ]
 }
