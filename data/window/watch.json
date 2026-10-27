@@ -417,6 +417,50 @@
    "checkDate": "2026-12-31",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261027-08",
+   "dateAdded": "2026-10-27",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Opening of the S7 viaducts through Nowa Huta (Mistrzejowice) to traffic",
+   "expected": "GDDKiA says end of October; LoveKraków estimates 30 or 31 October. The link to S52 is due in late November or early December.",
+   "checkDate": "2026-11-02",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-09",
+   "dateAdded": "2026-10-27",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "what": "Councillor Michał Starobrat's plan to close the roughly 390 million zł gap in this year's current spending without new debt",
+   "expected": "Gibała gave him two weeks from about 23 October (KRKnews, 23 October).",
+   "checkDate": "2026-11-06",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-10",
+   "dateAdded": "2026-10-27",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Residents' appeal against the permit for UKEN's shooting range at Fort Bronowice",
+   "expected": "Councillor Tomasz Pytko says residents will appeal within a week of the decision (Radio Kraków, 26 October).",
+   "checkDate": "2026-11-05",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-11",
+   "dateAdded": "2026-10-27",
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "what": "Launch of the City Hall Health Office and the competition to choose its head",
+   "expected": "The office starts on 1 December under order 2251/2026, according to deputy mayor Kois-Żurek (Radio Kraków).",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

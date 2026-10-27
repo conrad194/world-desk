@@ -1139,6 +1139,42 @@
    "lean": "specialist, neutral",
    "status": "Watch",
    "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "cowkrakowie-pl",
+   "name": "CowKrakowie.pl",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Kraków city news, transit and events",
+   "language": "Polish",
+   "url": "https://cowkrakowie.pl/",
+   "lean": "independent local",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "krak-w-nasze-miasto",
+   "name": "Kraków Nasze Miasto",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Kraków news, daily press reviews, air-quality and weather posts",
+   "language": "Polish",
+   "url": "https://krakow.naszemiasto.pl/",
+   "lean": "centrist regional (Polska Press)",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "policja-ma-opolska",
+   "name": "Policja Małopolska",
+   "type": "Official source",
+   "place": "Kraków",
+   "focus": "Police news for Kraków and Małopolska",
+   "language": "Polish",
+   "url": "https://malopolska.policja.gov.pl/krk/",
+   "lean": "official",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
   }
  ]
 }
