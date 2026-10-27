@@ -340,6 +340,39 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261026-59"
+  },
+  {
+   "id": "W-261027-01",
+   "dateAdded": "2026-10-27",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "what": "Anthropic IPO roadshow, price range and Nasdaq listing (ticker ANT)",
+   "expected": "WSJ sources via TNW: listing possibly the week of Nov 16",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-02",
+   "dateAdded": "2026-10-27",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "what": "CDC Ebola attestation requirement for all inbound international air passengers takes effect. Watch airline implementation and any expansion to more countries.",
+   "expected": "CDC order: flights departing at or after 11:59 pm EST Nov 3",
+   "checkDate": "2026-11-04",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-03",
+   "dateAdded": "2026-10-27",
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "what": "World Series Game 4. The Brewers lead 3-0 and can clinch their first title.",
+   "expected": "Oct 27, 8 pm ET, Tropicana Field (NBC/ESPN)",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

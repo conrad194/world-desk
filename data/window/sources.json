@@ -1079,6 +1079,54 @@
    "lean": "specialist, less established",
    "status": "Watch",
    "dateAdded": "2026-10-26"
+  },
+  {
+   "id": "mississippi-today",
+   "name": "Mississippi Today",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Mississippi politics and policy",
+   "language": "English",
+   "url": "https://mississippitoday.org/",
+   "lean": "nonprofit, centre-left/neutral",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "just-security-early-edition",
+   "name": "Just Security Early Edition",
+   "type": "Think tank",
+   "place": "US",
+   "focus": "Daily national-security and legal news roundup",
+   "language": "English",
+   "url": "https://www.justsecurity.org/",
+   "lean": "academic, centre-left",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "aip-fyi-science-policy",
+   "name": "AIP FYI (science policy)",
+   "type": "Think tank",
+   "place": "US",
+   "focus": "US federal science policy weekly",
+   "language": "English",
+   "url": "https://aip.org/fyi",
+   "lean": "neutral, professional society",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "thestreet-market-wrap",
+   "name": "TheStreet market wrap",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Daily US market closes",
+   "language": "English",
+   "url": "https://www.thestreet.com/",
+   "lean": "neutral / business",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
   }
  ]
 }

@@ -159,6 +159,38 @@
    "newsLink": "https://dziennikpolski24.pl/krakow-wprowadza-oplate-turystyczna-najwyzsza-dopuszczalna-miasto-moze-zarobic-do-50-mln-zl-rocznie/ar/c1p2-29459351",
    "eventId": "E-261026-26",
    "lastChecked": "2026-10-26"
+  },
+  {
+   "id": "R-261027-01",
+   "dateLogged": "2026-10-27",
+   "place": "US",
+   "body": "Treasury (Office of Investment Security)",
+   "name": "Outbound Investment Security Program regulations (COINS Act implementation)",
+   "changes": "Bans or requires notification of US investments in semiconductor, quantum, supercomputing, hypersonic, 'super intelligence' AI and biotechnology firms tied to China, Cuba, Iran, North Korea and Russia; penalties up to IEEPA maximums, including forced divestment.",
+   "affects": "US investors, venture and private-equity funds, and US biotech and tech companies with Chinese partners.",
+   "stage": "Open for comment",
+   "commentDeadline": "2026-12-07",
+   "effectiveDate": "",
+   "officialLink": "https://www.federalregister.gov/public-inspection/2026-21786/outbound-investment-security-program-regulations",
+   "newsLink": "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
+   "eventId": "E-261027-09",
+   "lastChecked": "2026-10-27"
+  },
+  {
+   "id": "R-261027-02",
+   "dateLogged": "2026-10-27",
+   "place": "US",
+   "body": "CDC / HHS",
+   "name": "Order: Requirement for Attestation for All Airline or Other Aircraft Passengers Arriving in the United States (Ebola, DRC)",
+   "changes": "Every international air passenger to or through the US must attest to no presence in DR Congo in the past 21 days; airlines must deny boarding without the attestation.",
+   "affects": "All international air travellers to the US, including from Poland and India, and airlines.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-03",
+   "officialLink": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html",
+   "newsLink": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/",
+   "eventId": "E-261027-11",
+   "lastChecked": "2026-10-27"
   }
  ]
 }
