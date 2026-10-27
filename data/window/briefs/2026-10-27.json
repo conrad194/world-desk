@@ -1,0 +1,1457 @@
+{
+ "date": "2026-10-27",
+ "top5": [
+  {
+   "text": "A Ninth Circuit panel split 2–1 to throw out DOJ's emergency bid over 20,000 California mail ballots; Judge Carter hears the case today.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Ninth Circuit (opinion); FOX 11 Los Angeles",
+     "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/26/26-7070.pdf"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.foxla.com/news/ninth-circuit-dismisses-trump-administrations-emergency-appeal-over-20000-california-mail-ballots"
+    }
+   ]
+  },
+  {
+   "text": "Reuters: Washington and Ottawa are negotiating a narrow steel-and-autos tariff deal, possibly before 3 Nov.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Reuters (via GV Wire); Packaging Dive",
+     "url": "https://gvwire.com/2026/10/26/us-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.packagingdive.com/news/trump-changes-canada-tariffs-sec338-october-2026/833916/"
+    }
+   ]
+  },
+  {
+   "text": "A Senate committee voted to restore Poland's CIT rise to 22% and drop PIT-threshold indexation; the full Senate votes today.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "WNP.pl (PAP) / money.pl",
+     "url": "https://www.wnp.pl/rynki/podatkowy-zwrot-akcji-senacka-komisja-zmienia-kurs-ws-pit-i-cit-chodzi-o-dwie-wazne-poprawki,1113016.html"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.money.pl/podatki/waloryzacja-progow-podatkowych-senacka-komisja-na-ratunek-rzadowi-7344214715439136a.html"
+    }
+   ]
+  },
+  {
+   "text": "Cyclone Arnab is due to hit the Andhra Pradesh coast by Oct 28; about 89,000 people are being evacuated.",
+   "place": "India",
+   "links": [
+    {
+     "label": "IANS / Punjab Kesari",
+     "url": "https://english.punjabkesari.com/india/liechtenstein-prince-arrives-in-delhi-set-to-hold-bilateral-talks-with-pm-modi-on-tuesday"
+    },
+    {
+     "label": "Second source",
+     "url": "https://ianslive.in/liechtenstein-prince-arrives-in-delhi-set-to-hold-bilateral-talks-with-pm-modi-on-tuesday--20261026182829"
+    }
+   ]
+  },
+  {
+   "text": "Goyal says the India–US trade deal is mostly concluded and being fine-tuned; no signing date yet.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "IANS / ANI (via The Tribune); Amar Ujala",
+     "url": "https://ianslive.in/white-house-calls-india-talks-productive-as-goyal-says-most-trade-discussions-concluded--20261027053902"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.amarujala.com/business/business-diary/india-us-trade-pact-nears-finalization-most-discussions-concluded-goyal-2026-10-26"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261027-01",
+    "domain": "Law, courts & regulation",
+    "text": "A Ninth Circuit panel split 2-1 to dismiss DOJ's emergency bid to block about 20,000 California mail ballots, ruling it was premature because Judge Carter had not yet ruled. Carter's hearing is Oct 27.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Ninth Circuit (opinion); FOX 11 Los Angeles",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/26/26-7070.pdf"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.foxla.com/news/ninth-circuit-dismisses-trump-administrations-emergency-appeal-over-20000-california-mail-ballots"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-02",
+    "domain": "Law, courts & regulation",
+    "text": "Peltola's campaign and Senate Democrats asked Judge Sharon Gleason to dismiss DOJ's Alaska certification suit this week, calling it an unconstitutional intrusion. Blanche says Trump is not trying to take over the election.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Reuters (via Spokesman-Review)",
+      "url": "https://www.spokesman.com/stories/2026/oct/26/alaska-democratic-senate-candidate-peltola-asks-ju/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.usnews.com/news/politics/articles/2026-10-26/alaska-democratic-senate-candidate-peltola-asks-judge-to-toss-us-lawsuit-over-certification"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-04",
+    "domain": "Foreign relations",
+    "text": "CNN reports US forces could hit Iran within 96 hours of an order and that Trump refused Netanyahu's push for a pre-election strike. Qatari mediators were in Tehran, and Iran says indirect talks continue.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "CNN via Times of Israel; CBS News",
+      "url": "https://www.timesofisrael.com/netanyahu-pushed-for-iran-strike-before-election-but-trump-refused-cnn-says/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-08",
+    "domain": "Trade & tariffs",
+    "text": "Reuters reports US and Canadian officials are negotiating a narrow deal to ease steel and auto tariffs, possibly before Nov 3, as Trump predicts the trade war will end 'soon'.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Reuters (via GV Wire); Packaging Dive",
+      "url": "https://gvwire.com/2026/10/26/us-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.packagingdive.com/news/trump-changes-canada-tariffs-sec338-october-2026/833916/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-11",
+    "domain": "Health, medicine & food safety",
+    "text": "From Nov 3 every international air traveller to the US must sign a CDC attestation that they have not been in DR Congo in the past 21 days, because of the Ebola epidemic.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "CDC; Federal Register",
+      "url": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-06",
+    "domain": "Technology, AI & cyber",
+    "text": "Anthropic filed publicly for a Nasdaq IPO, reporting $16.3bn first-half revenue. (This desk is produced with Anthropic's Claude.)",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Next Web; TheStreet",
+      "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261027-18",
+    "domain": "Politics & government",
+    "text": "Tusk, in Hanoi, said Pełczyńska-Nałęcz's exit was 'for the best' and that a trusted non-partisan expert will run the funds ministry, sidestepping Hołownia's demand to keep the post.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "Interia / Polsat News",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-wszyscy-wiedza-ze-dobrze-sie-stalo-zaskakujace-slowa-tuska-p,nId,23563908"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/czarzasty-o-rezygnacji-pelczynskiej-nalecz-wszyscy-musza-znac-swoje-miejsce/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-21",
+    "domain": "Economy, business & markets",
+    "text": "A Senate committee backed restoring the CIT rise to 22% for the largest firms and scrapping PIT-threshold indexation; the full Senate is expected to vote on Tuesday.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "WNP.pl (PAP) / money.pl",
+      "url": "https://www.wnp.pl/rynki/podatkowy-zwrot-akcji-senacka-komisja-zmienia-kurs-ws-pit-i-cit-chodzi-o-dwie-wazne-poprawki,1113016.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.money.pl/podatki/waloryzacja-progow-podatkowych-senacka-komisja-na-ratunek-rzadowi-7344214715439136a.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-22",
+    "domain": "Economy, business & markets",
+    "text": "Capped fuel prices rose for Tuesday, with diesel up 19 grosze to 8.18 zł/l under the government's 'Ceny Paliwa Niżej' package, which is expected to cost about 5bn zł through end-2026.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Poland fuel price caps",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/maksymalne-ceny-paliwa-we-wtorek-minister-przekazal-ile-zaplacimy/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-24",
+    "domain": "Foreign relations",
+    "text": "Poland and Vietnam upgraded ties to a strategic partnership in Hanoi, with a $6bn investment goal, talks on Krab and Rosomak arms sales, and LOT flights from 2027.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Notes from Poland / WNP.pl",
+      "url": "https://notesfrompoland.com/2026/10/26/poland-and-vietnam-announce-strategic-partnership-during-tusk-visit-to-hanoi/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.wnp.pl/rynki/polska-i-wietnam-zaciesniaja-wspolprace-tusk-oglosil-strategiczne-partnerstwo,1112873.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-27",
+    "domain": "Defense, security & crime",
+    "text": "Sikorski accused Nawrocki of downplaying the Russian threat after the President said it had not changed drastically and accused the government of spreading fear.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Goniec / Polsat News",
+      "url": "https://goniec.pl/kto-sufluje-prezydentowi-sikorski-ostro-o-nawrockim-i-rosji-ki-wkg-261026"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/nawrocki-o-wspolpracy-z-tuskiem-padly-zdumiewajace-slowa/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261027-32",
+    "domain": "Politics & government",
+    "text": "Gibała's City Hall reorganisation, published 26 Oct, splits supervision of transport, education and city companies among three deputy mayors; the city claims 2.3m zł a year in savings.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "Radio Kraków; KRKnews; PAP via Bankier",
+      "url": "https://www.radiokrakow.pl/wiadomosci/krakow/departamenty-znikaja-z-urzedu-miasta-krakowa-jest-zarzadzenie-prezydenta/186918"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krknews.pl/nowy-podzial-kompetencji-w-krakowie-gibala-rozdzielil-nadzor-nad-transportem-metrem-edukacja-i-spolkami/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-33",
+    "domain": "Foreign relations",
+    "text": "The Małopolska assembly unanimously urged Lviv Oblast to withdraw its 'Year of the UPA'; Lublin's assembly ended cooperation with Lviv Oblast.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków–Lviv partnership and the Year of the UPA",
+    "links": [
+     {
+      "label": "Portal Samorządowy; RMF24",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/malopolskie-sejmik-apeluje-do-lwowskiej-rady-obwodowej-o-wycofanie-uchwaly-ws-upa,681711.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-tu-zyja-rodziny-przechowujace-pamiec-malopolska-apeluje-do-l,nIdn,1023498"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261027-40",
+    "domain": "Law, courts & regulation",
+    "text": "EC told the Supreme Court all SIR orders were unanimous and Form 6 unchanged, defending CEC Gyanesh Kumar; the bench listed the plea for October 27.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "LiveLaw",
+      "url": "https://www.livelaw.in/top-stories/all-sir-decisions-unanimously-taken-form-6-not-amended-eci-tells-supreme-court-556046"
+     },
+     {
+      "label": "Second source",
+      "url": "https://scroll.in/latest/1096664/all-sir-decisions-were-taken-unanimously-ec-tells-supreme-court"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-46",
+    "domain": "Environment, energy & disasters",
+    "text": "Cyclone Arnab, set to become a very severe storm, should hit the Andhra coast by Oct 28 forenoon; about 89,000 are being evacuated and 16 districts are on alert.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ANI",
+      "url": "https://www.aninews.in/news/national/general-news/cyclone-arnab-intensifies-severe-storm-headed-for-andhra-coast-16-districts-on-high-alert-ahead-of160-landfall20261027083506"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.nationalheraldindia.com/national/cyclone-arnab-nears-andhra-coast-89000-people-being-evacuated"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261027-47",
+    "domain": "Foreign relations",
+    "text": "About 4,000 Indians remain stranded in Saudi Arabia as Air India extends Riyadh/Dammam suspensions to Nov 7; no special evacuation flights yet.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Gulf conflict and Indians abroad",
+    "links": [
+     {
+      "label": "ETV Bharat (Hindi)",
+      "url": "https://www.etvbharat.com/hi/state/indians-stranded-in-saudi-arabia-while-performing-umrah-due-to-flight-cancellations-mps26102603705"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kashmirlife.net/asaduddin-owaisi-urges-centre-to-rescue-4000-indian-umrah-pilgrims-stranded-in-saudi-arabia-457855/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "All Saints': extra trams 83/84 and bus 105 every 15 min on 30 Oct and 2 Nov; special lines to 25 cemeteries on 31 Oct–1 Nov, with 105, 128 and 184 suspended.",
+   "link": "https://krknews.pl/wszystkich-swietych-2026-w-krakowie-cmentarze-otwarte-dluzej-specjalne-linie-mpk-i-zmiany-w-ruchu/"
+  },
+  {
+   "kind": "Closure",
+   "text": "From 10:00 on 30 Oct ul. Rakowicka closes between Olszańska and Grochowska; closures also on Powstańców and Darwina.",
+   "link": "https://krknews.pl/wszystkich-swietych-2026-w-krakowie-cmentarze-otwarte-dluzej-specjalne-linie-mpk-i-zmiany-w-ruchu/"
+  },
+  {
+   "kind": "Transit",
+   "text": "S7 Mistrzejowice II roundabout opens about noon on 29 Oct; Nowa Huta viaducts expected 30–31 Oct.",
+   "link": "https://lovekrakow.pl/s7-w-krakowie-jeszcze-jedna-zmiana-i-wazne-otwarcie-zostana-dwa-dni"
+  },
+  {
+   "kind": "Air quality",
+   "text": "PM2.5 about 19 µg/m³ early on 27 Oct and rising; calm, frosty nights favour smog.",
+   "link": "https://krakow.naszemiasto.pl/smog-w-krakowie-jakie-jest-zanieczyszczenie-powietrza-26-10-2026/ar/c15p1-19969649"
+  },
+  {
+   "kind": "Weather",
+   "text": "Dry, about 11°C today; frost possible overnight; showers possible from 30 Oct. No IMGW warning found.",
+   "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wszystkich-swietych-2026-kto-powinien-zabrac-na-cmentarz-parasol-st9306005"
+  },
+  {
+   "kind": "Closure",
+   "text": "TAURON planned power cuts 27–29 Oct, mostly 08:00–17:00; check addresses.",
+   "link": "https://cowkrakowie.pl/2026/10/tauron-zapowiada-wylaczenia-pradu-w-krakowie-sprawdz-adresy"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261027-56",
+    "domain": "Defense, security & crime",
+    "text": "The Telegraph reports Russia may demand in US-brokered Ukraine talks that NATO roll back to its 1997 footprint, which would mean allied and US troops leaving Poland; no US or Polish response yet.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "Polskie Radio (citing The Telegraph); Ukrainska Pravda",
+      "url": "https://www.polskieradio.pl/395/9766/artykul/3745948,russia-may-seek-nato-troop-withdrawal-from-poland-in-ukraine-talks-report"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/26/8059710/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261027-54",
+    "domain": "Trade & tariffs",
+    "text": "Goyal says India and the US have concluded most trade-deal talks and are fine-tuning the text; the White House calls talks productive, but no signing date has been set.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "IANS / ANI (via The Tribune); Amar Ujala",
+      "url": "https://ianslive.in/white-house-calls-india-talks-productive-as-goyal-says-most-trade-discussions-concluded--20261027053902"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.amarujala.com/business/business-diary/india-us-trade-pact-nears-finalization-most-discussions-concluded-goyal-2026-10-26"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261026-02",
+   "name": "Exchange pre-eligibility verification (Working Families Tax Cut Act implementation)",
+   "place": "US",
+   "body": "CMS / HHS",
+   "stage": "Open for comment",
+   "changes": "Exchanges must verify eligibility before enrollment, and premium tax credits and cost-sharing reductions are generally withheld while data matches are unresolved.",
+   "affects": "ACA marketplace enrollees and Exchanges.",
+   "effectiveDate": "",
+   "commentDeadline": "2026-11-26",
+   "officialLink": "https://www.alston.com/en/insights/publications/2026/10/health-care-week-in-review-october-23-2026",
+   "newsLink": ""
+  },
+  {
+   "id": "R-261026-08",
+   "name": "Order abolishing six City Hall departments (zarządzenie Prezydenta Miasta Krakowa)",
+   "place": "Kraków",
+   "body": "Mayor of Kraków (Łukasz Gibała)",
+   "stage": "In force",
+   "changes": "Abolishes the departments of Civic Affairs, Kraków Brand, Sustainable Development, Municipal Services, Social Policy and Education, which were a management layer between the mayor and city offices.",
+   "affects": "City Hall staff and directors, and the reporting lines for ZTP, ZDMK, schools and social services.",
+   "effectiveDate": "2026-10-23",
+   "commentDeadline": "",
+   "officialLink": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie",
+   "newsLink": "https://dziennikpolski24.pl/rewolucja-w-urzedzie-miasta-krakowa-prezydent-lukasz-gibala-zaczal-porzadki-w-magistracie-likwiduje-wszystkie-departamenty/ar/c1p2-29465711"
+  },
+  {
+   "id": "R-261027-01",
+   "name": "Outbound Investment Security Program rules (COINS Act)",
+   "place": "US",
+   "body": "Treasury (Office of Investment Security)",
+   "stage": "Open for comment",
+   "changes": "Bans or requires notification of US investments in semiconductor, quantum, supercomputing, hypersonic, 'super intelligence' AI and biotechnology firms tied to China, Cuba, Iran, North Korea and Russia; penalties up to IEEPA maximums, including forced divestment.",
+   "affects": "US investors, venture and private-equity funds, and US biotech and tech companies with Chinese partners.",
+   "effectiveDate": "",
+   "commentDeadline": "2026-12-07",
+   "officialLink": "https://www.federalregister.gov/public-inspection/2026-21786/outbound-investment-security-program-regulations",
+   "newsLink": "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech"
+  },
+  {
+   "id": "R-261027-02",
+   "name": "CDC order: Ebola travel attestation for all air passengers arriving in the US",
+   "place": "US",
+   "body": "CDC / HHS",
+   "stage": "Signed / published",
+   "changes": "Every international air passenger to or through the US must attest to no presence in DR Congo in the past 21 days; airlines must deny boarding without the attestation.",
+   "affects": "All international air travellers to the US, including from Poland and India, and airlines.",
+   "effectiveDate": "2026-11-03",
+   "commentDeadline": "",
+   "officialLink": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html",
+   "newsLink": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/"
+  },
+  {
+   "id": "R-261027-03",
+   "name": "Consumer Credit Directive 2 (CCD2)",
+   "place": "EU (applies in Poland)",
+   "body": "European Parliament and Council (Directive (EU) 2023/2225, CCD2); Polish implementing act not yet adopted",
+   "stage": "Signed / published",
+   "changes": "Brings many buy-now-pay-later, interest-free and small loans under full consumer-credit rules.",
+   "affects": "Borrowers, payday lenders, BNPL providers, online shops and banks in Poland.",
+   "effectiveDate": "2026-11-20",
+   "commentDeadline": "",
+   "officialLink": "https://eur-lex.europa.eu/eli/dir/2023/2225/oj",
+   "newsLink": "https://biznes.wprost.pl/twoj-portfel/12481036/nowe-przepisy-unii-przeciwko-chwilowkom-od-20-listopada-dlaczego-polska-jest-w-tyle.html"
+  },
+  {
+   "id": "R-261027-04",
+   "name": "Act on the tax on extraordinary profits of fuel companies ('Ceny Paliwa Niżej' package)",
+   "place": "Poland",
+   "body": "Sejm / President / Minister of Energy",
+   "stage": "In force",
+   "changes": "Allows temporary cuts to VAT and excise on fuels and daily maximum retail prices set by the energy minister.",
+   "affects": "All drivers and fuel buyers, fuel companies and stations, and the public finances (about 5bn zł).",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.polsatnews.pl/wiadomosc/2026-10-26/maksymalne-ceny-paliwa-we-wtorek-minister-przekazal-ile-zaplacimy/"
+  }
+ ],
+ "deepDive": {
+  "domain": "Economy, business & markets + Trade & tariffs",
+  "title": "Expensive oil, tight money and tariff bargains",
+  "body": "The common thread across all three countries today is a Gulf-war oil price that is now feeding into budgets, rates and trade talks. Brent sat around $114–115 on 26 Oct (Confirmed), roughly double what it was before the Iran conflict.\n\n**US.** The Fed opens its two-day meeting today with the funds rate at 3.75–4.00%. Futures price a hold on 28 Oct but roughly three-in-four odds of a December hike after September CPI hit 3.7% (Reported, [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026)). On trade, the administration is fighting on two fronts. Reuters reports a possible narrow deal with Canada on Section 232 steel and auto tariffs, while the revised Section 338 list still takes effect 30 Oct.\n\n**Poland.** Warsaw is paying to shield drivers: fuel price caps funded by a 60% windfall tax on fuel companies, with diesel back above 8 zł/l. Meanwhile the Senate committee's move to restore the CIT rise and drop PIT indexation shows the finance ministry prioritising revenue. The RPP decision on 4 Nov will show whether oil-driven inflation delays rate cuts.\n\n**India.** The rupee at about 95 to the dollar and heavy foreign outflows are the oil shock's local face; the RBI is reportedly selling dollars (Reported). New Delhi is leaning on trade deals for a growth story: Goyal says the EU FTA could be signed by year-end and the US deal is in final fine-tuning.\n\n**What to watch:** the Fed on 28 Oct, Poland's flash CPI on 30 Oct, and whether either the US–Canada or US–India deal gets a date.",
+  "links": [
+   {
+    "label": "Reuters via GV Wire",
+    "url": "https://gvwire.com/2026/10/26/us-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say/"
+   },
+   {
+    "label": "WNP.pl",
+    "url": "https://www.wnp.pl/rynki/podatkowy-zwrot-akcji-senacka-komisja-zmienia-kurs-ws-pit-i-cit-chodzi-o-dwie-wazne-poprawki,1113016.html"
+   },
+   {
+    "label": "Business Standard",
+    "url": "https://www.business-standard.com/markets/news/stock-market-live-october-26-nse-bse-sensex-today-nifty50-gift-nifty-brent-crude-oil-prices-eaa-india-ipo-126102600053_1.html"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261027-03",
+   "title": "Katarzyna Pełczyńska-Nałęcz odeszła z rządu. Szymon Hołownia nie chce zrezygnować z resortu funduszy",
+   "reporter": "Michał Kolanko",
+   "outlet": "Rzeczpospolita",
+   "url": "https://www.rp.pl/kraj/art45385971-polska-2050-chce-utrzymac-resort-funduszy-czy-tusk-zaryzykuje-rzad-mniejszosciowy",
+   "why": "Experienced political reporter on whether Hołownia's threat could push Tusk toward a quasi-minority government.",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261027-07",
+   "title": "क्यों गिर रहा शेयर मार्केट, कहीं विदेशी रणनीति का शिकार तो नहीं?",
+   "reporter": "Himanshu Dwivedi",
+   "outlet": "Aaj Tak",
+   "url": "https://www.aajtak.in/business/news/story/why-indian-stock-market-sharp-fall-in-2026-real-reason-behind-crash-tutd-dskc-2680003-2026-10-26",
+   "why": "Month-by-month 2026 FPI outflows (about Rs 4.5 lakh crore), the tax and STT argument, and why crude now dominates. Useful for the economy deep-dive.",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "language": "Hindi"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-10-27",
+   "text": "Judge Carter's hearing on the 20,000 California mail ballots.",
+   "place": "US"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Full Senate vote on the PIT/CIT reform; amendments return to the Sejm.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Modi–Prince Alois talks at Hyderabad House.",
+   "place": "India"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "FOMC rate decision under Chair Warsh.",
+   "place": "US"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "Cyclone Arnab landfall on the Andhra coast; Jio Platforms lists.",
+   "place": "India"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "Supreme Court hears pleas against CEC Gyanesh Kumar.",
+   "place": "India"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Tusk expected to name a new funds and regional policy minister.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Revised Section 338 Canadian tariff list takes effect.",
+   "place": "US"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "GUS flash CPI for October.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Opposition 'public impeachment' of the CEC; ISRO NVS-03 launch.",
+   "place": "India"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "G20 foreign ministers meet in Atlanta (30–31 Oct); Sikorski and Jaishankar attend.",
+   "place": "US–Poland–India"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "INDIA bloc rally at Ramlila Maidan.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-03",
+   "text": "US midterms; CDC Ebola attestation for all inbound air travellers starts.",
+   "place": "US"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ninth Circuit opinion 26-7070",
+   "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/26/26-7070.pdf",
+   "paywalled": false
+  },
+  {
+   "title": "FOX 11: Ninth Circuit dismisses appeal",
+   "url": "https://www.foxla.com/news/ninth-circuit-dismisses-trump-administrations-emergency-appeal-over-20000-california-mail-ballots",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters/Spokesman: Peltola asks judge to toss suit",
+   "url": "https://www.spokesman.com/stories/2026/oct/26/alaska-democratic-senate-candidate-peltola-asks-ju/",
+   "paywalled": false
+  },
+  {
+   "title": "Mississippi Today: Trump rallies for Hyde-Smith",
+   "url": "https://mississippitoday.org/2026/10/26/trump-rallies-for-cindy-hyde-smith-in-mississippi-you-like-me/",
+   "paywalled": false
+  },
+  {
+   "title": "Newsweek: Trump Mississippi rally",
+   "url": "https://www.newsweek.com/donald-trump-holds-mississippi-rally-as-gop-anxiety-grows-in-deep-south-12620395",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News midterms live blog Oct 26",
+   "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-el-sayed-california-alaska-october-26",
+   "paywalled": false
+  },
+  {
+   "title": "Times of Israel: Netanyahu pushed for Iran strike (CNN)",
+   "url": "https://www.timesofisrael.com/netanyahu-pushed-for-iran-strike-before-election-but-trump-refused-cnn-says/",
+   "paywalled": false
+  },
+  {
+   "title": "IBTimes UK: post-election strike within 96 hours",
+   "url": "https://www.ibtimes.co.uk/trump-weighs-new-strikes-iran-after-midterms-1827941",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News Iran live updates",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+   "paywalled": false
+  },
+  {
+   "title": "Just Security Early Edition Oct 26",
+   "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "TheStreet: Stock market today Oct 26",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Kiplinger: Fed meeting live",
+   "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026",
+   "paywalled": false
+  },
+  {
+   "title": "TNW: Anthropic S-1",
+   "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1",
+   "paywalled": false
+  },
+  {
+   "title": "EQT 8-K press release",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters/GV Wire: US-Canada steel auto deal talks",
+   "url": "https://gvwire.com/2026/10/26/us-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say/",
+   "paywalled": false
+  },
+  {
+   "title": "Packaging Dive: Section 338 changes",
+   "url": "https://www.packagingdive.com/news/trump-changes-canada-tariffs-sec338-october-2026/833916/",
+   "paywalled": false
+  },
+  {
+   "title": "TNW: Treasury outbound investment rule",
+   "url": "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
+   "paywalled": false
+  },
+  {
+   "title": "CMS fact sheet CMS-9873-P",
+   "url": "https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+   "paywalled": false
+  },
+  {
+   "title": "Federal Register public inspection (current)",
+   "url": "https://www.federalregister.gov/public-inspection/current",
+   "paywalled": false
+  },
+  {
+   "title": "CDC attestation order",
+   "url": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html",
+   "paywalled": false
+  },
+  {
+   "title": "ClickOnDetroit: toothpaste recall",
+   "url": "https://clickondetroit.com/news/local/2026/10/26/more-than-4-million-tubes-of-kids-toothpaste-recalled-federal-regulators-warn",
+   "paywalled": false
+  },
+  {
+   "title": "Law Commentary: Fifth Circuit ICE bond",
+   "url": "https://www.lawcommentary.com/articles/fifth-circuit-ice-detention-without-bond-hearings",
+   "paywalled": false
+  },
+  {
+   "title": "AIP FYI week of Oct 26",
+   "url": "https://aip.org/newsletter/000001a1-6a85-d7c2-adfd-ff8d4a160000",
+   "paywalled": false
+  },
+  {
+   "title": "ESPN: Brewers rout Rays Game 3",
+   "url": "https://www.espn.com/mlb/story/_/id/50293953/brewers-rout-rays-game-3-1-win-first-world-series-title",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Kos: Hegseth Senate report (Puck)",
+   "url": "https://www.dailykos.com/stories/2026/10/26/800117893/news/hegseth-senate-pentagon-report-blackburn/",
+   "paywalled": false
+  },
+  {
+   "title": "SCOTUSblog: transgender inmate order (Oct 21)",
+   "url": "https://www.scotusblog.com/2026/10/justices-leave-in-place-lower-court-order-preventing-trump-administration-from-implementing-new-/",
+   "paywalled": false
+  },
+  {
+   "title": "Supreme Court home",
+   "url": "https://www.supremecourt.gov/",
+   "paywalled": false
+  },
+  {
+   "title": "Federal Register proclamations 2026",
+   "url": "https://www.federalregister.gov/presidential-documents/proclamations/donald-trump/2026",
+   "paywalled": false
+  },
+  {
+   "title": "Interia – Tusk o dymisji Pełczyńskiej-Nałęcz",
+   "url": "https://wydarzenia.interia.pl/zagranica/news-wszyscy-wiedza-ze-dobrze-sie-stalo-zaskakujace-slowa-tuska-p,nId,23563908",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Czarzasty o rezygnacji",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/czarzasty-o-rezygnacji-pelczynskiej-nalecz-wszyscy-musza-znac-swoje-miejsce/",
+   "paywalled": false
+  },
+  {
+   "title": "Bankier/PAP – Polska 2050 walczy o ministerstwo",
+   "url": "https://www.bankier.pl/wiadomosc/Polska-2050-walczy-o-ministerstwo-Tusk-ma-inne-plany-9218534.html",
+   "paywalled": false
+  },
+  {
+   "title": "PAP – Premier: mam dwie kandydatury",
+   "url": "https://www.pap.pl/aktualnosci/premier-zabral-glos-po-decyzji-pelczynskiej-nalecz-mam-dwie-kandydatury",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita – Polska 2050 chce utrzymać resort",
+   "url": "https://www.rp.pl/kraj/art45385971-polska-2050-chce-utrzymac-resort-funduszy-czy-tusk-zaryzykuje-rzad-mniejszosciowy",
+   "paywalled": true
+  },
+  {
+   "title": "Wprost – Tusk ma dwie kandydatki",
+   "url": "https://www.wprost.pl/kraj/12481360/pelczynska-nalecz-odchodzi-spor-tuska-z-holownia-o-resort.html",
+   "paywalled": false
+  },
+  {
+   "title": "Wprost – Taśmy Pełczyńskiej-Nałęcz",
+   "url": "https://www.wprost.pl/kraj/12481684/tasmy-pelczynskiej-nalecz-skrytykowala-wybor-sedziego-berka-do-tk.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Kasprzyk",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/sfalszowane-wybory-mocny-zarzut-posla-wobec-pelczynskiej-nalecz/",
+   "paywalled": false
+  },
+  {
+   "title": "Wprost – sondaż Ipsos",
+   "url": "https://www.wprost.pl/kraj/12481651/najnowszy-sondaz-partyjny-ko-34-proc-pis-26-proc-podzial-mandatow.html",
+   "paywalled": false
+  },
+  {
+   "title": "WNP – Senacka komisja PIT/CIT",
+   "url": "https://www.wnp.pl/rynki/podatkowy-zwrot-akcji-senacka-komisja-zmienia-kurs-ws-pit-i-cit-chodzi-o-dwie-wazne-poprawki,1113016.html",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl – Senacka komisja na ratunek rządowi",
+   "url": "https://www.money.pl/podatki/waloryzacja-progow-podatkowych-senacka-komisja-na-ratunek-rzadowi-7344214715439136a.html",
+   "paywalled": false
+  },
+  {
+   "title": "LEX – Senat szykuje ważne głosowanie",
+   "url": "https://lex.media.pl/cit-i-progi-podatkowe-w-centrum-sporu-senat-szykuje-wazne-glosowanie-43403903.html",
+   "paywalled": false
+  },
+  {
+   "title": "Portal Samorządowy – Senat: następne posiedzenie 27 października",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/senat-zakonczyl-obrady-nastepne-posiedzenie-zaplanowane-jest-na-27-pazdziernika,679990.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Ceny paliwa we wtorek",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/maksymalne-ceny-paliwa-we-wtorek-minister-przekazal-ile-zaplacimy/",
+   "paywalled": false
+  },
+  {
+   "title": "XYZ – Dzień na GPW 26 października",
+   "url": "https://xyz.pl/akcje-bankow-rosna-notowania-dino-w-dol-dzien-na-gpw-26-pazdziernika/",
+   "paywalled": false
+  },
+  {
+   "title": "Finwire – kalendarz ekonomiczny",
+   "url": "https://finwire.pl/kalendarz-ekonomiczny",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland – Poland and Vietnam",
+   "url": "https://notesfrompoland.com/2026/10/26/poland-and-vietnam-announce-strategic-partnership-during-tusk-visit-to-hanoi/",
+   "paywalled": false
+  },
+  {
+   "title": "WNP – Polska i Wietnam",
+   "url": "https://www.wnp.pl/rynki/polska-i-wietnam-zaciesniaja-wspolprace-tusk-oglosil-strategiczne-partnerstwo,1112873.html",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl – Domański ostrzega Niemcy",
+   "url": "https://www.money.pl/gospodarka/domanski-ostrzega-niemcy-nie-bedzie-powrotu-do-rosji-7344151736973344a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Minister zdrowia reaguje",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/minister-zdrowia-reaguje-na-reportaz-polsat-news-ujawnia-utwierdzil-mnie/",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia – luka NFZ 2027",
+   "url": "https://www.rynekzdrowia.pl/Finanse-i-zarzadzanie/Czy-ochrona-zdrowia-pograzy-rzadzacych-w-przyszlorocznych-wyborach-Rzad-rozumie-potrzeby-zdrowia,290460,1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia – Czauderna o NFZ",
+   "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Trupy-w-szafie-sa-w-kazdym-szpitalu-Doradca-prezydenta-ostrzega-przed-wladza-kontrolerow-NFZ,290452,14.html",
+   "paywalled": false
+  },
+  {
+   "title": "Goniec – Sikorski o Nawrockim i Rosji",
+   "url": "https://goniec.pl/kto-sufluje-prezydentowi-sikorski-ostro-o-nawrockim-i-rosji-ki-wkg-261026",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Nawrocki o współpracy z Tuskiem",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/nawrocki-o-wspolpracy-z-tuskiem-padly-zdumiewajace-slowa/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Policja w domu prezesa Marszu Niepodległości",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/policja-w-domu-prezesa-marszu-niepodleglosci-to-byl-falszywy-alarm/",
+   "paywalled": false
+  },
+  {
+   "title": "Wprost – Ziobro i kryptowaluty",
+   "url": "https://www.wprost.pl/kraj/12481564/ziobro-nie-znal-sie-na-kryptowalutach-wersja-polityka-moze-sie-nie-obronic.html",
+   "paywalled": false
+  },
+  {
+   "title": "Homebanking – CCD2 i BNPL",
+   "url": "https://homebanking.pl/bnpl-i-raty-online-po-ccd2-jakie-zmiany-przewiduje-nowa-ustawa-o-kredycie-konsumenckim/",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland – abortion poll",
+   "url": "https://notesfrompoland.com/2026/10/26/two-thirds-of-poles-support-liberalising-abortion-law-finds-new-poll/",
+   "paywalled": false
+  },
+  {
+   "title": "Wprost newsroom 26.10.2026",
+   "url": "https://www.wprost.pl/newsroom",
+   "paywalled": false
+  },
+  {
+   "title": "i.pl – prasówka 26.10.2026",
+   "url": "https://i.pl/prasowka-26-10-2026-zebralismy-najwazniejsze-wydarzenia-z-polski-z-wczoraj-sprawdz-nasz-przeglad-prasy/ar/c1p1-23959525",
+   "paywalled": false
+  },
+  {
+   "title": "Departamenty znikają z Urzędu Miasta Krakowa (Radio Kraków)",
+   "url": "https://www.radiokrakow.pl/wiadomosci/krakow/departamenty-znikaja-z-urzedu-miasta-krakowa-jest-zarzadzenie-prezydenta/186918",
+   "paywalled": false
+  },
+  {
+   "title": "Nowy podział kompetencji w Krakowie (KRKnews)",
+   "url": "https://krknews.pl/nowy-podzial-kompetencji-w-krakowie-gibala-rozdzielil-nadzor-nad-transportem-metrem-edukacja-i-spolkami/",
+   "paywalled": false
+  },
+  {
+   "title": "Kraków szuka oszczędności (Bankier/PAP)",
+   "url": "https://www.bankier.pl/wiadomosc/Krakow-szuka-oszczednosci-Gibala-likwiduje-szesc-departamentow-UM-9218277.html",
+   "paywalled": false
+  },
+  {
+   "title": "Gibała zamknął departamenty Miszalskiego (IKC)",
+   "url": "https://ikc.pl/gibala-zamknal-departamenty-miszalskiego-szef-jednego-z-nich-dowiedzial-sie-na-korytarzu",
+   "paywalled": false
+  },
+  {
+   "title": "Kadrowa rewolucja Łukasza Gibały (LoveKraków)",
+   "url": "https://lovekrakow.pl/kadrowa-rewolucja-lukasza-gibaly-to-byl-rak",
+   "paywalled": false
+  },
+  {
+   "title": "Rewolucja w krakowskim magistracie (Money.pl)",
+   "url": "https://www.money.pl/finanse/lukasz-gibala-szuka-oszczednosci-podjal-decyzje-okroi-magistrat-7344237161588768a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Małopolskie: Sejmik apeluje do Lwowskiej Rady Obwodowej (Portal Samorządowy)",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/malopolskie-sejmik-apeluje-do-lwowskiej-rady-obwodowej-o-wycofanie-uchwaly-ws-upa,681711.html",
+   "paywalled": false
+  },
+  {
+   "title": "Małopolska apeluje do Lwowskiej Rady Obwodowej (RMF24)",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-tu-zyja-rodziny-przechowujace-pamiec-malopolska-apeluje-do-l,nIdn,1023498",
+   "paywalled": false
+  },
+  {
+   "title": "List z Krakowa do Lwowa (LoveKraków)",
+   "url": "https://lovekrakow.pl/list-z-krakowa-do-lwowa-prezydent-ostrzega-przed-napieciami",
+   "paywalled": false
+  },
+  {
+   "title": "Strzelnice w Bronowicach coraz bliżej (Radio Kraków)",
+   "url": "https://www.radiokrakow.pl/wiadomosci/krakow/strzelnice-w-bronowicach-coraz-blizej-mieszkancy-nie-skladaja-broni-i-zapowiadaja-odwolanie/186923",
+   "paywalled": false
+  },
+  {
+   "title": "S7 w Krakowie: jeszcze jedna zmiana (LoveKraków)",
+   "url": "https://lovekrakow.pl/s7-w-krakowie-jeszcze-jedna-zmiana-i-wazne-otwarcie-zostana-dwa-dni",
+   "paywalled": false
+  },
+  {
+   "title": "Przegląd prasy Kraków 27.10 (Nasze Miasto)",
+   "url": "https://krakow.naszemiasto.pl/prasowka-krakow-27-10-2026-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-w-krakowie-nie-minelo-cie-nic-waznego/ar/c1p1-19738355",
+   "paywalled": false
+  },
+  {
+   "title": "Wszystkich Świętych 2026 w Krakowie (KRKnews)",
+   "url": "https://krknews.pl/wszystkich-swietych-2026-w-krakowie-cmentarze-otwarte-dluzej-specjalne-linie-mpk-i-zmiany-w-ruchu/",
+   "paywalled": false
+  },
+  {
+   "title": "Smog w Krakowie 26/27.10.2026 (Nasze Miasto)",
+   "url": "https://krakow.naszemiasto.pl/smog-w-krakowie-jakie-jest-zanieczyszczenie-powietrza-26-10-2026/ar/c15p1-19969649",
+   "paywalled": false
+  },
+  {
+   "title": "Prognoza pogody Kraków 27.10 (Nasze Miasto)",
+   "url": "https://krakow.naszemiasto.pl/prognoza-pogody-na-dzisiaj-dla-krakowa-27-10-jakiej-temperatury-mozemy-sie-spodziewac/ar/c1p1-19942863",
+   "paywalled": false
+  },
+  {
+   "title": "Pogoda na Wszystkich Świętych 2026 (TVN Meteo)",
+   "url": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wszystkich-swietych-2026-kto-powinien-zabrac-na-cmentarz-parasol-st9306005",
+   "paywalled": false
+  },
+  {
+   "title": "Prognoza na Wszystkich Świętych (Polsat News)",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-10-26/to-nie-jest-dobra-prognoza-na-wszystkich-swietych-szykuje-sie-masa-zmian/",
+   "paywalled": false
+  },
+  {
+   "title": "TAURON wyłączenia prądu (CowKrakowie)",
+   "url": "https://cowkrakowie.pl/2026/10/tauron-zapowiada-wylaczenia-pradu-w-krakowie-sprawdz-adresy",
+   "paywalled": false
+  },
+  {
+   "title": "Santana w TAURON Arenie (CowKrakowie)",
+   "url": "https://cowkrakowie.pl/2026/10/to-bedzie-wielki-koncert-w-krakowie-swiatowej-slawy-gwiazda-zagra-w-tauron-arenie",
+   "paywalled": false
+  },
+  {
+   "title": "Policja Małopolska – aktualności",
+   "url": "https://malopolska.policja.gov.pl/krk/",
+   "paywalled": false
+  },
+  {
+   "title": "Dziura w budżecie Krakowa (LoveKraków, 22.10)",
+   "url": "https://lovekrakow.pl/dziura-w-budzecie-krakowa-kto-wiedzial-o-problemie-i-skad-wziac-pieniadze",
+   "paywalled": false
+  },
+  {
+   "title": "Radny Starobrat ma dwa tygodnie (KRKnews, 23.10)",
+   "url": "https://krknews.pl/radny-michal-starobrat-dostal-zadanie-specjalne-od-prezydenta-lukasza-gibaly-ma-dwa-tygodnie-na-znalezienie-w-budzecie-390-mln-zlotych/",
+   "paywalled": false
+  },
+  {
+   "title": "Referendum ws. SCT a wyrok NSA (SmogLab, 22.10)",
+   "url": "https://smoglab.pl/referendum-ws-sct-w-krakowie-wyrok-nsa-wskazuje-ze-byloby-nielegalne/",
+   "paywalled": false
+  },
+  {
+   "title": "The Week: Kharge remark row, BJP protests",
+   "url": "https://theweek.in/news/india/2026/10/26/kharges-remark-on-pm-modis-father-snowballs-into-major-political-row-bjp-holds-protests-across-country.html",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook: why BJP called protests",
+   "url": "https://www.outlookindia.com/national/kharges-remark-on-pm-modi-why-the-bjp-has-called-for-nationwide-protests",
+   "paywalled": false
+  },
+  {
+   "title": "The Quint: BJP protests Kharge remark",
+   "url": "https://www.thequint.com/news/breaking-news/bjp-protests-kharge-modi-ka-baap-remark",
+   "paywalled": false
+  },
+  {
+   "title": "Republic Bharat: Suvendu on Kharge",
+   "url": "https://www.republicbharat.com/india/bengal-cm-adhikari-slam-kharge-remarks-on-pm-modi-this-is-language-of-sonia-and-rahul-gandhi-2026-10-27-132284",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint: INDIA bloc public impeachment",
+   "url": "https://theprint.in/india/india-bloc-to-hold-public-impeachment-of-cec-on-oct-30/3080794/",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw: ECI affidavit",
+   "url": "https://www.livelaw.in/top-stories/all-sir-decisions-unanimously-taken-form-6-not-amended-eci-tells-supreme-court-556046",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today: EC defends CEC",
+   "url": "https://businesstoday.in/india/story/sir-orders-were-unanimous-form-6-unchanged-ec-defends-cec-gyanesh-kumar-in-supreme-court-563812-2026-10-26",
+   "paywalled": false
+  },
+  {
+   "title": "Scroll: EC tells SC decisions unanimous",
+   "url": "https://scroll.in/latest/1096664/all-sir-decisions-were-taken-unanimously-ec-tells-supreme-court",
+   "paywalled": false
+  },
+  {
+   "title": "Organiser: EC hits back",
+   "url": "https://organiser.org/2026/10/26/421136/law/cec-acted-alone-ec-hits-back-in-supreme-court-says-all-three-sir-orders-were-unanimous/",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw SC round-up Oct 26",
+   "url": "https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-october-26-2026-556053",
+   "paywalled": true
+  },
+  {
+   "title": "HDFC Sky market close Oct 26",
+   "url": "https://hdfcsky.com/news/market-close-report-today-october-26-2026-sensex-nifty-rise-as-markets-snap-four-day-losing-streak",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard live Oct 26",
+   "url": "https://www.business-standard.com/markets/news/stock-market-live-october-26-nse-bse-sensex-today-nifty50-gift-nifty-brent-crude-oil-prices-eaa-india-ipo-126102600053_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard live Oct 27",
+   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-october-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-listing-price-126102700086_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Recorder: rupee",
+   "url": "https://www.brecorder.com/news/40446091/indian-rupee-oil-linked-losses-meet-key-hurdle-rbi-defence-in-focus",
+   "paywalled": false
+  },
+  {
+   "title": "Aaj Tak: why market is falling",
+   "url": "https://www.aajtak.in/business/news/story/why-indian-stock-market-sharp-fall-in-2026-real-reason-behind-crash-tutd-dskc-2680003-2026-10-26",
+   "paywalled": false
+  },
+  {
+   "title": "IPO Watch: Jio allotment",
+   "url": "https://ipowatch.in/jio-platforms-ipo-allotment-status/",
+   "paywalled": false
+  },
+  {
+   "title": "Groww: Jio IPO details",
+   "url": "https://groww.in/blog/jio-platforms-ipo-to-open-on-october-21-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: eMudhra fall",
+   "url": "https://www.business-standard.com/markets/news/emudhra-extends-fall-stock-down-43-in-five-days-tanks-53-from-sep-high-126102600321_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "MediaNama: eMudhra exit",
+   "url": "https://www.medianama.com/2026/10/223-emudhra-ssl-tls-exit-regulatory-accountability/",
+   "paywalled": false
+  },
+  {
+   "title": "Defence Watch: DAC",
+   "url": "https://www.defencewatch.in/ministry-of-defence/dac-clears-212-lakh-crore-defence-acquisition-proposals-82-earmarked-for-indian-industry",
+   "paywalled": false
+  },
+  {
+   "title": "The Week: Guwahati firing",
+   "url": "https://www.theweek.in/news/india/2026/10/27/guwahati-hotel-firing-five-killed-what-is-the-trigger.html",
+   "paywalled": false
+  },
+  {
+   "title": "ANI: Cyclone Arnab",
+   "url": "https://www.aninews.in/news/national/general-news/cyclone-arnab-intensifies-severe-storm-headed-for-andhra-coast-16-districts-on-high-alert-ahead-of160-landfall20261027083506",
+   "paywalled": false
+  },
+  {
+   "title": "National Herald: Arnab evacuation",
+   "url": "https://www.nationalheraldindia.com/national/cyclone-arnab-nears-andhra-coast-89000-people-being-evacuated",
+   "paywalled": false
+  },
+  {
+   "title": "Vajiram: Cyclone Arnab",
+   "url": "https://vajiramandravi.com/current-affairs/cyclone-arnab-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat Hindi: stranded pilgrims",
+   "url": "https://www.etvbharat.com/hi/state/indians-stranded-in-saudi-arabia-while-performing-umrah-due-to-flight-cancellations-mps26102603705",
+   "paywalled": false
+  },
+  {
+   "title": "Kashmir Life: Owaisi",
+   "url": "https://kashmirlife.net/asaduddin-owaisi-urges-centre-to-rescue-4000-indian-umrah-pilgrims-stranded-in-saudi-arabia-457855/",
+   "paywalled": false
+  },
+  {
+   "title": "Punjab Kesari: Prince Alois in Delhi",
+   "url": "https://english.punjabkesari.com/india/liechtenstein-prince-arrives-in-delhi-set-to-hold-bilateral-talks-with-pm-modi-on-tuesday",
+   "paywalled": false
+  },
+  {
+   "title": "ANI: Goyal The Hague",
+   "url": "https://www.aninews.in/news/business/india-eu-uk-efta-trade-pacts-to-unlock-investment-technology-partnerships-jobs-piyush-goyal20261027085335/",
+   "paywalled": false
+  },
+  {
+   "title": "Logistics Insider: Goyal Netherlands",
+   "url": "https://www.logisticsinsider.in/piyush-goyal-netherlands-india-eu-fta-business-forum/",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook: Jamia protests",
+   "url": "https://www.outlookindia.com/national/fresh-protests-erupt-at-jamia-as-students-demand-time-bound-union-elections",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Pioneer: Karnataka sugarcane",
+   "url": "https://dailypioneer.com/amp/story/india/cm-shivakumar-to-meet-sugarcane-farmers-before-factory-owners-amid-protests",
+   "paywalled": false
+  },
+  {
+   "title": "CSR Journal: NVS-03",
+   "url": "https://thecsrjournal.in/isro-to-launch-nvs-03-navigation-satellite-on-october-30-2026-aiming-to-enhance-indias-navic-system-and-restore-independent-positioning-services",
+   "paywalled": false
+  },
+  {
+   "title": "RevSportz: Asian Champions Trophy",
+   "url": "https://revsportz.in/asian-champions-trophy-hockey-comes-home-to-punjab-after-17-years-as-india-chase-sixth-title/",
+   "paywalled": false
+  },
+  {
+   "title": "PIB all releases",
+   "url": "https://www.pib.gov.in/AllRelease.aspx?PMO=1&MenuId=4&reg=3&lang=1",
+   "paywalled": false
+  },
+  {
+   "title": "IANS: White House calls India talks 'productive' as Goyal says most trade discussions concluded",
+   "url": "https://ianslive.in/white-house-calls-india-talks-productive-as-goyal-says-most-trade-discussions-concluded--20261027053902",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune/ANI: India, US conclude most trade pact talks, fine-tuning agreement: Goyal",
+   "url": "https://tribuneindia.com/news/bilateral-agreement/india-us-conclude-most-trade-pact-talks-fine-tuning-agreement-goyal",
+   "paywalled": false
+  },
+  {
+   "title": "Amar Ujala: India-US trade pact nears finalization",
+   "url": "https://www.amarujala.com/business/business-diary/india-us-trade-pact-nears-finalization-most-discussions-concluded-goyal-2026-10-26",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune/ANI: India-US trade deal enters 'short strokes' (2 Oct)",
+   "url": "https://www.tribuneindia.com/news/usa-news/india-us-trade-deal-enters-short-strokes-modi-and-trump-to-speak-again-soon",
+   "paywalled": false
+  },
+  {
+   "title": "Quartz: U.S.-India trade deal not imminent, says Greer (2 Oct)",
+   "url": "https://qz.com/us-india-trade-deal-not-imminent-greer-modi-trump-100226",
+   "paywalled": false
+  },
+  {
+   "title": "WNP/PAP: Spotkanie szefów MSZ G20 w Atlancie; Polskę będzie reprezentował Sikorski",
+   "url": "https://www.wnp.pl/rynki/usa-w-tym-tygodniu-spotkanie-szefow-msz-g20-w-atlancie-polske-bedzie-reprezentowal-sikorski,1113152.html",
+   "paywalled": false
+  },
+  {
+   "title": "Social News XYZ/IANS: Rubio to host G20 foreign ministers in Atlanta",
+   "url": "https://socialnews.xyz/2026/10/26/rubio-to-host-g20-foreign-ministers-in-atlanta",
+   "paywalled": false
+  },
+  {
+   "title": "Polskie Radio: Russia may seek NATO troop withdrawal from Poland in Ukraine talks",
+   "url": "https://www.polskieradio.pl/395/9766/artykul/3745948,russia-may-seek-nato-troop-withdrawal-from-poland-in-ukraine-talks-report",
+   "paywalled": false
+  },
+  {
+   "title": "Polskie Radio: Poland faces security threats amid Russian hybrid warfare, 'uncertain' Trump (25 Oct; already covered)",
+   "url": "https://www.polskieradio.pl/395/7784/Artykul/3745741,poland-faces-security-threats-amid-russian-hybrid-warfare-uncertain-trump-top-lawmaker",
+   "paywalled": false
+  },
+  {
+   "title": "Whalesbook: Poland's WB Group to set up $100 million drone hub in UP (25 Oct)",
+   "url": "https://www.whalesbook.com/news/English/aerospace-defense/Polands-WB-Group-to-Set-Up-dollar100-Million-Drone-Hub-in-UP/6ade00af4fc30694db4baabb",
+   "paywalled": false
+  },
+  {
+   "title": "Wieści24: Tusk otwiera Polsce drzwi do Azji (opinion, 26 Oct)",
+   "url": "https://wiesci24.pl/2026/10/26/tusk-otwiera-polsce-drzwi-do-azji-pis-woli-zajmowac-sie-turbanem/",
+   "paywalled": false
+  },
+  {
+   "title": "TheJobSeek: H-1B $100,000 fee blocked by courts (21 Oct)",
+   "url": "https://thejobseek.com/usa/us-h1b-100000-fee-blocked-courts-october-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Rigzone/Bloomberg: Gulf oil bargains lure India away from Russia (26 Oct)",
+   "url": "https://www.rigzone.com/news/wire/gulf_oil_bargains_lure_india_away_from_russia-26-oct-2026-184931-article/",
+   "paywalled": false
+  },
+  {
+   "title": "GMF: The Europe-India Briefing—October 2026",
+   "url": "https://www.gmfus.org/news/europe-india-briefing-october-2026",
+   "paywalled": false
+  }
+ ]
+}
