@@ -1175,6 +1175,42 @@
    "lean": "official",
    "status": "Watch",
    "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "livelaw",
+   "name": "LiveLaw",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Supreme Court and High Court reporting",
+   "language": "English",
+   "url": "https://www.livelaw.in/",
+   "lean": "specialist legal, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "organiser",
+   "name": "Organiser",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Politics, law, Hindutva perspective",
+   "language": "English",
+   "url": "https://organiser.org/",
+   "lean": "right, RSS-affiliated",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "etv-bharat-hindi",
+   "name": "ETV Bharat (Hindi)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "State-level and regional news",
+   "language": "Hindi",
+   "url": "https://www.etvbharat.com/hi",
+   "lean": "regional, centrist",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
   }
  ]
 }

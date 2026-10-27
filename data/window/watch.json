@@ -461,6 +461,61 @@
    "checkDate": "2026-12-01",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261027-12",
+   "dateAdded": "2026-10-27",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Supreme Court (CJI Surya Kant bench) hearing on pleas against CEC Gyanesh Kumar (Rakesh Kumar Singh v. UoI) after the EC affidavit; any interim order",
+   "expected": "Listed for Oct 27 per LiveLaw/Organiser",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-13",
+   "dateAdded": "2026-10-27",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Cyclone Arnab landfall on the Andhra Pradesh–Yanam coast (Bapatla–Visakhapatnam): damage, casualties, evacuation",
+   "expected": "IMD forecast via ANI: landfall by Oct 28 forenoon",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-14",
+   "dateAdded": "2026-10-27",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Jio Platforms listing on NSE/BSE: listing price versus Rs 1,119 issue price",
+   "expected": "Listing Oct 28 per IPO Watch/Groww",
+   "checkDate": "2026-10-28",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-15",
+   "dateAdded": "2026-10-27",
+   "place": "India",
+   "domain": "Science & space",
+   "what": "ISRO GSLV-F18 launch of NavIC satellite NVS-03 from Sriharikota",
+   "expected": "Oct 30, 23:51 IST per CSR Journal/NewsBytes",
+   "checkDate": "2026-10-31",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-16",
+   "dateAdded": "2026-10-27",
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "what": "Signing of the India–EU FTA",
+   "expected": "Goyal (ANI, Oct 22): signing before year-end, operational in 4–5 months",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
