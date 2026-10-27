@@ -24,13 +24,13 @@
    "name": "Exchange pre-eligibility verification (Working Families Tax Cut Act implementation)",
    "changes": "Exchanges must verify eligibility before enrollment, and premium tax credits and cost-sharing reductions are generally withheld while data matches are unresolved.",
    "affects": "ACA marketplace enrollees and Exchanges.",
-   "stage": "Proposed",
-   "commentDeadline": "",
+   "stage": "Open for comment",
+   "commentDeadline": "2026-11-26",
    "effectiveDate": "",
    "officialLink": "https://www.alston.com/en/insights/publications/2026/10/health-care-week-in-review-october-23-2026",
    "newsLink": "",
-   "eventId": "E-261026-07",
-   "lastChecked": "2026-10-26"
+   "eventId": "E-261027-10",
+   "lastChecked": "2026-10-27"
   },
   {
    "id": "R-261026-03",
@@ -77,8 +77,8 @@
    "effectiveDate": "2027-01-01",
    "officialLink": "",
    "newsLink": "https://xyz.pl/nanoanalizy/dwie-poprawki-miliardy-mniej-w-budzecie-sejm-zmienil-bilans-reformy-podatkowej-1409",
-   "eventId": "E-261026-14",
-   "lastChecked": "2026-10-26"
+   "eventId": "E-261027-21",
+   "lastChecked": "2026-10-27"
   },
   {
    "id": "R-261026-06",
@@ -120,13 +120,13 @@
    "name": "Order abolishing six City Hall departments (zarządzenie Prezydenta Miasta Krakowa)",
    "changes": "Abolishes the departments of Civic Affairs, Kraków Brand, Sustainable Development, Municipal Services, Social Policy and Education, which were a management layer between the mayor and city offices.",
    "affects": "City Hall staff and directors, and the reporting lines for ZTP, ZDMK, schools and social services.",
-   "stage": "Signed / published",
+   "stage": "In force",
    "commentDeadline": "",
-   "effectiveDate": "",
+   "effectiveDate": "2026-10-23",
    "officialLink": "https://www.radiokrakow.pl/aktualnosci/krakow/szesc-departamentow-do-likwidacji-lukasz-gibala-podpisal-zarzadzenie",
    "newsLink": "https://dziennikpolski24.pl/rewolucja-w-urzedzie-miasta-krakowa-prezydent-lukasz-gibala-zaczal-porzadki-w-magistracie-likwiduje-wszystkie-departamenty/ar/c1p2-29465711",
-   "eventId": "E-261026-26",
-   "lastChecked": "2026-10-26"
+   "eventId": "E-261027-32",
+   "lastChecked": "2026-10-27"
   },
   {
    "id": "R-261026-09",

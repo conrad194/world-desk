@@ -16,8 +16,8 @@
    "dateAdded": "2026-10-26",
    "place": "US",
    "domain": "Law, courts & regulation",
-   "what": "Judge Carter's TRO hearing on DOJ's request to set aside about 20,000 California mail ballots, and any Ninth Circuit order on jurisdiction",
-   "expected": "US District Court C.D. Cal., Tuesday Oct 27",
+   "what": "Judge Carter's TRO hearing on DOJ's request to set aside about 20,000 California mail ballots. The Ninth Circuit dismissed DOJ's premature appeal 2-1 on Oct 26 (event a1), so the case now rests with Carter, and a DOJ trip to the Supreme Court is possible.",
+   "expected": "US District Court C.D. Cal., hearing Tuesday Oct 27; Ninth Circuit opinion https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/26/26-7070.pdf",
    "checkDate": "2026-10-27",
    "happened": "",
    "eventId": "E-261026-02"
@@ -27,8 +27,8 @@
    "dateAdded": "2026-10-26",
    "place": "US",
    "domain": "Law, courts & regulation",
-   "what": "First rulings or a schedule in DOJ's Alaska certification suit, and motions by Democrats or voting-rights groups",
-   "expected": "US District Court, Alaska; before or soon after Nov 3",
+   "what": "Ruling on the motion to dismiss DOJ's Alaska certification suit, filed Oct 25 by Peltola and the DSCC before Judge Sharon Gleason, plus any hearing date",
+   "expected": "Peltola asked Judge Gleason to rule this week (Reuters, Oct 26)",
    "checkDate": "2026-10-30",
    "happened": "",
    "eventId": "E-261026-01"
@@ -49,8 +49,8 @@
    "dateAdded": "2026-10-26",
    "place": "US",
    "domain": "Foreign relations",
-   "what": "Whether Trump orders new strikes on Iran before Nov 3 or revives the stalled MOU talks, and any further embassy drawdowns",
-   "expected": "Trump said both strikes and a deal are possible before the midterms",
+   "what": "Whether Trump orders new strikes on Iran before Nov 3. CNN reports forces are ready within 96 hours of an order and that officials see after the midterms as likelier. Also watch Qatari and regional mediation.",
+   "expected": "CNN via Times of Israel, Oct 26; Trump on Fox Oct 25 said he is weighing 'deal or finish them off'",
    "checkDate": "2026-10-29",
    "happened": "",
    "eventId": "E-261026-04"
@@ -71,8 +71,8 @@
    "dateAdded": "2026-10-26",
    "place": "US",
    "domain": "Trade & tariffs",
-   "what": "Revised Canadian Section 338 tariff scope takes effect; CBP guidance; any Canadian retaliation",
-   "expected": "Oct 30",
+   "what": "Revised Section 338 scope takes effect Oct 30. Also watch for a possible narrow US-Canada deal easing Section 232 steel and auto tariffs before Nov 3.",
+   "expected": "Reuters Oct 26 (Canadian source says a pre-election deal is possible); White House fact sheet sets the Oct 30 effective date",
    "checkDate": "2026-10-30",
    "happened": "",
    "eventId": "E-261026-06"
@@ -96,8 +96,8 @@
    "what": "The Senate budget committee takes up the tax reform. Watch whether it restores the CIT rise and removes PIT indexation, and the Sejm's later vote on any Senate amendments.",
    "expected": "Committee chair Kleina (Interia) expects it on Monday 26 October. The full Senate has 30 days.",
    "checkDate": "2026-10-27",
-   "happened": "",
-   "eventId": "E-261026-14"
+   "happened": "On 26 October the Senate budget committee backed Kleina's amendments restoring the CIT rise and removing PIT indexation (WNP/PAP: https://www.wnp.pl/rynki/podatkowy-zwrot-akcji-senacka-komisja-zmienia-kurs-ws-pit-i-cit-chodzi-o-dwie-wazne-poprawki,1113016.html). The full Senate and the Sejm votes are tracked in a new watch item.",
+   "eventId": "E-261027-21"
   },
   {
    "id": "W-261026-10",
@@ -181,11 +181,11 @@
    "dateAdded": "2026-10-26",
    "place": "Kraków",
    "domain": "Politics & government",
-   "what": "What replaces the abolished departments and who takes over supervision of ZTP, ZDMK and education",
-   "expected": "Follows publication of the order on 26 October.",
-   "checkDate": "2026-10-30",
-   "happened": "",
-   "eventId": "E-261026-26"
+   "what": "Answered on 26 October. Order 2251/2026 (in force from 23 October) moves department duties to existing units. Deputy mayor Hoffman oversees ZTP, ZDMK and municipal companies; Kois-Żurek oversees education, social welfare, housing and the new Health Office (from 1 December). Source: https://krknews.pl/nowy-podzial-kompetencji-w-krakowie-gibala-rozdzielil-nadzor-nad-transportem-metrem-edukacja-i-spolkami/",
+   "expected": "Can be closed. Linked event: a1. Sources close to the mayor call the division of duties temporary (LoveKraków).",
+   "checkDate": "2026-10-27",
+   "happened": "Answered 26 Oct: order 2251/2026 split supervision of city units (incl. ZTP, ZDMK and education) among the three deputy mayors; see https://www.bip.krakow.pl/",
+   "eventId": "E-261027-32"
   },
   {
    "id": "W-261026-18",
@@ -214,8 +214,8 @@
    "dateAdded": "2026-10-26",
    "place": "India",
    "domain": "Politics & government",
-   "what": "Opposition 'public impeachment' of CEC Gyanesh Kumar (Oct 30) and INDIA bloc 'Delhi Chalo' rally at Ramlila Maidan (Nov 1); any EC response on SIR",
-   "expected": "Congress/INDIA bloc per ANI",
+   "what": "The EC has now responded in court: its Oct 26 affidavit says SIR orders were unanimous. Still watch the Oct 30 'public impeachment' at Hotel Ashok and the Nov 1 Ramlila Maidan rally.",
+   "expected": "Congress/INDIA bloc per ThePrint; Lamba says the rally will not be postponed",
    "checkDate": "2026-11-01",
    "happened": "",
    "eventId": "E-261026-38"
@@ -228,17 +228,17 @@
    "what": "Whether Kharge or Congress apologises or clarifies; outcome of BJP protests and the Patna police complaint",
    "expected": "BJP protests called for Oct 26",
    "checkDate": "2026-10-27",
-   "happened": "",
-   "eventId": "E-261026-37"
+   "happened": "BJP held protests in several states on Oct 26. Kharge has not apologised; Congress (Gehlot) defends the remark as an idiom aimed at the RSS. A BJP complaint was filed in Patna, but no FIR has been reported. https://theweek.in/news/india/2026/10/26/kharges-remark-on-pm-modis-father-snowballs-into-major-political-row-bjp-holds-protests-across-country.html",
+   "eventId": "E-261027-39"
   },
   {
    "id": "W-261026-22",
    "dateAdded": "2026-10-26",
    "place": "India",
    "domain": "Foreign relations",
-   "what": "Whether IndiGo and Akasa resume Saudi flights after Oct 27 (Riyadh Oct 31), and whether the Centre sends special flights for stranded pilgrims",
-   "expected": "Airline schedules per RT/Kashmir Observer",
-   "checkDate": "2026-10-27",
+   "what": "Saudi flights not resumed. Air India/AI Express have suspended Riyadh and Dammam to Nov 7 and Jeddah to Oct 31; IndiGo has cancelled to Oct 31. No Centre special flights so far.",
+   "expected": "Airline schedules per ETV Bharat (Hindi) / ANI",
+   "checkDate": "2026-10-31",
    "happened": "",
    "eventId": "E-261026-39"
   },
@@ -247,9 +247,9 @@
    "dateAdded": "2026-10-26",
    "place": "India",
    "domain": "Foreign relations",
-   "what": "Modi-Prince Alois talks at Hyderabad House; any agreements or TEPA investment announcements",
-   "expected": "MEA schedule, Oct 27",
-   "checkDate": "2026-10-27",
+   "what": "Modi–Prince Alois talks are scheduled for Oct 27 at Hyderabad House. Check for any agreements or TEPA investment announcements in the MEA readout.",
+   "expected": "MEA programme per IANS",
+   "checkDate": "2026-10-28",
    "happened": "",
    "eventId": "E-261026-40"
   },
@@ -261,8 +261,8 @@
    "what": "Oil-driven market weakness: the Oct 26 close and the trend in Brent",
    "expected": "Business Today market coverage",
    "checkDate": "2026-10-27",
-   "happened": "",
-   "eventId": "E-261026-41"
+   "happened": "Markets closed higher on Oct 26 (Sensex +483 to 73,607), ending a four-day slide, while Brent stayed near $114.50 and the rupee fell to 95.19. https://hdfcsky.com/news/market-close-report-today-october-26-2026-sensex-nifty-rise-as-markets-snap-four-day-losing-streak",
+   "eventId": "E-261027-41"
   },
   {
    "id": "W-261026-25",
@@ -291,8 +291,8 @@
    "dateAdded": "2026-10-26",
    "place": "US–India",
    "domain": "Foreign relations",
-   "what": "Jaishankar at the G20 FMM in Atlanta and a possible Quad foreign ministers' meeting; any Rubio–Jaishankar bilateral or trade-deal signal",
-   "expected": "NewsBytes / New Indian Express; meeting 30–31 Oct",
+   "what": "Jaishankar at the G20 FMM in Atlanta and a possible Quad foreign ministers' meeting; any Rubio–Jaishankar bilateral or trade-deal signal (State Dept formally announced the 30–31 Oct meeting on 26 Oct; Sikorski also attends)",
+   "expected": "State Dept announcement 26 Oct; IANS says Quad FMs meet on margins; no bilateral schedule released",
    "checkDate": "2026-10-31",
    "happened": "",
    "eventId": "E-261026-55"
