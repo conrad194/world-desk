@@ -516,6 +516,17 @@
    "checkDate": "2026-12-31",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261027-17",
+   "dateAdded": "2026-10-27",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "what": "Sikorski at the G20 foreign ministers' meeting in Atlanta: any Sikorski–Rubio bilateral or statements on the permanent US base or Ukraine",
+   "expected": "PAP/WNP 26 Oct: Sikorski to represent Poland; meeting 30–31 Oct",
+   "checkDate": "2026-10-31",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

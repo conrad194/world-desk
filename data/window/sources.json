@@ -1211,6 +1211,30 @@
    "lean": "regional, centrist",
    "status": "Watch",
    "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "ians-live",
+   "name": "IANS Live",
+   "type": "Outlet",
+   "place": "US–India",
+   "focus": "Indian wire service; Washington correspondents get White House and State Department comment",
+   "language": "English",
+   "url": "https://ianslive.in",
+   "lean": "wire, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "amar-ujala-business",
+   "name": "Amar Ujala (Business)",
+   "type": "Outlet",
+   "place": "US–India",
+   "focus": "Hindi daily; trade and economy coverage",
+   "language": "Hindi",
+   "url": "https://www.amarujala.com/business",
+   "lean": "centre, mainstream",
+   "status": "Watch",
+   "dateAdded": "2026-10-27"
   }
  ]
 }
