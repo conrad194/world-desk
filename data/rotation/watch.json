@@ -7,8 +7,8 @@
    "what": "Oleshky local ceasefire takes effect (03:00 Kyiv / 04:00 Moscow); main aid and evacuation mission on 29 Oct.",
    "expected": "Ukrainian and Russian General Staffs; the White House",
    "checkDate": "2026-10-27",
-   "happened": "",
-   "eventId": "E-261025-02"
+   "happened": "The local ceasefire took effect at 03:00 Kyiv time on 27 Oct and both sides say they are observing it; the aid and evacuation mission is due from 29 Oct ([ZN.ua](https://zn.ua/ukr/UKRAINE/v-okupovanikh-oleshkakh-pochav-dijati-rezhim-tishi-hotujut-humanitarnij-koridor-dlja-misiji-ta-evakuatsiji.html)).",
+   "eventId": "E-261027-01"
   },
   {
    "id": "W-261025-02",
@@ -267,6 +267,36 @@
    "what": "Pentagon recommendation on US force posture in Europe (possible drawdown of 25,000–40,000).",
    "expected": "Final recommendation due in November, per NBC reporting in September.",
    "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-01",
+   "dateAdded": "2026-10-27",
+   "segment": "Russia–Ukraine & European security",
+   "what": "The Oleshky humanitarian mission (aid deliveries and evacuation) is due to start under the local ceasefire, which should hold until at least Saturday.",
+   "expected": "Ombudsman Dmytro Lubinets; AP",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-02",
+   "dateAdded": "2026-10-27",
+   "segment": "EU politics + cross-cutting",
+   "what": "Sweden: Speaker Andreas Norlén is to announce the next step in government formation after the Centre Party's exploratory mission ended. Commentators expect Ulf Kristersson to get the next mandate.",
+   "expected": "Norlén press release; SVT commentator Elisabeth Marmorstein",
+   "checkDate": "2026-10-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261027-03",
+   "dateAdded": "2026-10-27",
+   "segment": "The Americas",
+   "what": "Brazil: watch for PL/Bolsonaro requests at the TSE seeking removal of Lula's ticket for alleged abuse of power, and for any US measures after Trump called the vote rigged.",
+   "expected": "ND Mais citing CNN campaign sources",
+   "checkDate": "2026-10-30",
    "happened": "",
    "eventId": ""
   }
