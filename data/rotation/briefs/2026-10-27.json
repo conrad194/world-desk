@@ -1,0 +1,788 @@
+{
+ "date": "2026-10-27",
+ "segment": "Middle East",
+ "windowFrom": "2026-10-20",
+ "tier1Summary": "Israel votes today in a tight [[e:2026 Israeli legislative election]], with record early turnout and neither bloc polling a majority. Around it, the region is arming: Egypt's parliament approved a defensive deployment to Saudi Arabia against [[p:Houthis]] fire, Turkey is ratifying the [[e:Mecca defence pact|Mecca Joint Defence Agreement]], and Washington pulled non-emergency staff from Saudi Arabia. Talks in Tehran with Saudi, Pakistani and Turkish envoys produced only a pledge to keep talking, while the US blockade squeezes Iran's economy and gas supply. Jordan struck southern Syria after the Karak church attack.\n\nElsewhere, the Oleshky truce began even as Russia hit Kyiv; Flávio Bolsonaro dropped his annulment bid; Serbia's Student List won a majority; a Nyala market strike killed at least 21 in Sudan; and Algeria voted to send troops to Niger.",
+ "segmentItems": [
+  {
+   "id": "E-261027-29",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "Israelis voted in the [[e:2026 Israeli legislative election]]. Turnout hit 16.68% by 10:00, the highest for that hour since 1981; polls close at 22:00, with neither bloc polling 61 seats.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Times of Israel / N12 (mako)",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "Times of Israel / N12 (mako)",
+     "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.mako.co.il/news-israel-elections/2026/liveblog-788cb43830871a1026.htm"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-08",
+   "segment": "Middle East",
+   "country": "Iran / Saudi Arabia / Pakistan / Turkey",
+   "text": "Talks in Tehran between Iran and the three [[e:Mecca defence pact|Mecca Joint Defence Agreement]] states ended with only a pledge to keep talking. Reuters says [[p:Asim Munir]] floated a compromise with the pact states and Qatar as guarantors.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Maziar Motamedi",
+   "outlet": "Al Jazeera English",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-10",
+   "segment": "Middle East",
+   "country": "Egypt / Saudi Arabia / Yemen",
+   "text": "Egypt's [[p:House of Representatives|House of Representatives (Egypt)]] approved [[p:Abdel Fattah el-Sisi]]'s request for a defensive deployment to Saudi Arabia against [[p:Houthis|Houthi]] attacks. Sisi says it excludes strikes on Yemen; Houthi allies call it a declaration of war.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera Arabic",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Al Jazeera Arabic",
+     "url": "https://aljazeera.net/news/2026/10/26/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-41",
+   "segment": "Middle East",
+   "country": "Jordan / Syria",
+   "text": "After the [[e:Karak church attack|2026 Karak church shooting]], Jordan struck targets in Syria's Daraa and Suwayda. Damascus denies coordination, says seven civilians died, and closed the [[p:Nasib Border Crossing|Nasib crossing]].",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Enab Baladi; Al Jazeera/AP",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Enab Baladi; Al Jazeera/AP",
+     "url": "https://www.enabbaladi.net/830859/%D9%82%D8%AA%D9%84%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A8%D8%AF%D8%B1/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-13",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / United States",
+   "text": "The US ordered non-emergency staff out of Saudi Arabia after Houthi attacks killed one at Dammam airport and two at [[p:Saudi Aramco]]'s Shaybah field.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Rami Ayyub, Humeyra Pamuk, Timour Azhari",
+   "outlet": "Reuters (via Al-Monitor)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Reuters (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/10/us-orders-departure-diplomats-saudi-arabia-amid-houthi-strikes"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-45",
+   "segment": "Middle East",
+   "country": "Turkey / Saudi Arabia / Pakistan",
+   "text": "Turkey's parliament received the bill ratifying the Mecca defence pact; an AKP MP told Reuters a motion to send air-defence personnel to Saudi Arabia will follow.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Euronews Türkçe; Medyascope (citing Reuters)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Euronews Türkçe; Medyascope (citing Reuters)",
+     "url": "https://tr.euronews.com/2026/10/20/mekke-ortak-savunma-anlasmasina-iliskin-kanun-teklifi-tbmmye-sunuldu"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://medyascope.tv/2026/10/22/reuters-akpli-vekile-dayandirarak-yazdi-suudi-arabistan-tezkeresi-tbmmye-gelecek/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-19",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "[[p:United States Central Command|CENTCOM]] says the US blockade has cost Iran at least $25bn in crude exports; [[p:Scott Bessent]] predicts Iran's economy will shrink by over a quarter.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Iran International / CBS News",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Iran International / CBS News",
+     "url": "https://www.iranintl.com/en/liveblog/202610244311"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-18",
+   "segment": "Middle East",
+   "country": "Iran",
+   "text": "Iran faces a winter gas shortfall of about 100 million cubic metres a day after refinery strikes; Speaker [[p:Mohammad Bagher Ghalibaf]] urged a 10% cut in use.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "CBS News / Shana (Oil Ministry)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "CBS News / Shana (Oil Ministry)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.shana.ir/news/2457429/Shana"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-31",
+   "segment": "Middle East",
+   "country": "Israel / United States",
+   "text": "Israel Hayom reports Washington is pushing a post-election [[p:Benjamin Netanyahu]]–[[p:Gadi Eisenkot]] unity government without [[p:Itamar Ben-Gvir]], citing unnamed US sources.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Dani Zaken",
+   "outlet": "Israel Hayom",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "Israel Hayom",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21714982"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-35",
+   "segment": "Middle East",
+   "country": "West Bank / Israel",
+   "text": "Kan reports army chief [[p:Eyal Zamir]] recommended ending the Hebron operation and Netanyahu refused. WAFA puts the displaced at about 3,971.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Srugim (citing Kan News); The New Arab",
+   "opinion": "",
+   "thread": "West Bank",
+   "links": [
+    {
+     "label": "Srugim (citing Kan News); The New Arab",
+     "url": "https://www.srugim.co.il/101014449-%D7%96%D7%95-%D7%94%D7%A1%D7%99%D7%91%D7%94-%D7%9C%D7%A2%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%97%D7%A8%D7%99%D7%A3-%D7%91%D7%99%D7%9F-%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%9C%D7%A8%D7%9E%D7%98%D7%9B%D7%9C"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.newarab.com/news/israels-hebron-raid-displaces-nearly-4000-palestinians"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-36",
+   "segment": "Middle East",
+   "country": "Gaza",
+   "text": "Gaza civil defence says Israeli fire killed 11–13 people in 24 hours, including three in al-Mawasi; residents report tanks advancing in eastern Deir al-Balah.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "RTÉ/AFP; The New Arab",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "RTÉ/AFP; The New Arab",
+     "url": "https://www.rte.ie/news/2026/1026/1596841-middle-east-israel-gaza/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.newarab.com/news/israel-army-advances-beyond-gazas-yellow-line-15-killed"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-39",
+   "segment": "Middle East",
+   "country": "Lebanon",
+   "text": "Reuters sources say [[p:Hezbollah]] is rearming with explosives and attack drones funded by fresh Iranian money; Israel declined comment.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Reuters (via L'Orient-Le Jour / GV Wire)",
+   "opinion": "",
+   "thread": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "links": [
+    {
+     "label": "Reuters (via L'Orient-Le Jour / GV Wire)",
+     "url": "https://www.lorientlejour.com/article/1552151/le-hezbollah-se-prepare-a-une-nouvelle-guerre-regionale-grace-a-des-fonds-iraniens-selon-des-sources.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://gvwire.com/2026/10/26/hezbollah-readies-for-new-regional-war-with-funds-from-iran-sources-say/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-14",
+   "segment": "Middle East",
+   "country": "Kuwait",
+   "text": "A Kuwaiti court sentenced three men to death for spying for Iran and Hezbollah and plotting to kill Interior Minister [[p:Fahad Yusuf Al-Sabah]].",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "B Izzak",
+   "outlet": "Kuwait Times",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Kuwait Times",
+     "url": "https://kuwaittimes.com/article/52455/kuwait/other-news/3-sentenced-to-death-for-spying-for-iran-hezbollah-plotting-to-assassinate-first-deputy-pm/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://english.aawsat.com/gulf/5334073-kuwait-sentence-3-death-collaborating-iran-plotting-assassinate-interior-minister"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261027-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "The Oleshky local ceasefire began on 27 Oct and both sides say they are keeping it, per ombudsman [[p:Dmytro Lubinets]]; minutes later Russian missiles and drones hit Kyiv, killing one.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Iryna Znas",
+   "outlet": "ZN.ua",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "ZN.ua",
+     "url": "https://zn.ua/ukr/UKRAINE/v-okupovanikh-oleshkakh-pochav-dijati-rezhim-tishi-hotujut-humanitarnij-koridor-dlja-misiji-ta-evakuatsiji.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-02",
+   "segment": "The Americas",
+   "country": "Brazil / United States",
+   "text": "[[p:Flávio Bolsonaro]] dropped his annulment bid after his party recognised Lula's win; [[p:Donald Trump]] said the vote looked rigged.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Isabel Mega",
+   "outlet": "CNN Brasil",
+   "opinion": "",
+   "thread": "Brazil election 2026",
+   "links": [
+    {
+     "label": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/blogs/isabel-mega/eleicoes/pl-reconhece-vitoria-de-lula-e-diz-que-questionamentos-precisam-ser-feitos/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.gazetadopovo.com.br/mundo/trump-diz-que-eleicao-no-brasil-pareceu-fraudada-mas-afirma-ter-boa-relacao-com-lula/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-03",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "A drone strike on a Nyala market killed at least 21 (AFP); the [[p:Rapid Support Forces]] say 102 and blame the army.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera / AFP",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Al Jazeera / AFP",
+     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://sudantribune.net/article/320435"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-04",
+   "segment": "Africa",
+   "country": "Algeria / Niger",
+   "text": "Algeria's parliament approved sending troops to Niger, its first deployment abroad since 1973.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-05",
+   "segment": "EU politics + cross-cutting",
+   "country": "Serbia",
+   "text": "Projections give Serbia's Student List 141 of 250 seats to 103 for [[p:Aleksandar Vučić]]'s [[p:Serbian Progressive Party]].",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Jon Henley, Ana Milosavljevic",
+   "outlet": "Irish Examiner (Guardian)",
+   "opinion": "",
+   "thread": "Serbia protests and election",
+   "links": [
+    {
+     "label": "Irish Examiner (Guardian)",
+     "url": "https://www.irishexaminer.com/world/arid-41929443.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/amp/en/feature/2026/10/26/serbia-s-student-backed-opposition-has-defeated-vucic-at-the-ballot-box-he-says-the-winners-will-impose-sanctions-on-russia-but-they-say-otherwise"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261027-06",
+   "segment": "East & Southeast Asia",
+   "country": "China",
+   "text": "The CCP's fifth plenum opened with [[p:Xi Jinping]]'s draft decision on party self-governance; a communiqué is due 29 Oct.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Liz Lee",
+   "outlet": "Reuters",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Reuters",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/china-s-communist-party-opens-fifth-plenum"
+    },
+    {
+     "label": "Cross-check",
+     "url": "http://www.bjreview.com/Latest_Headlines/202610/t20261027_800449678.html"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261027-01",
+   "title": "New electronics reach Iran, but prices soar as gov't fees, US sanctions hit",
+   "reporter": "Maziar Motamedi",
+   "outlet": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
+   "why": "A reporter in Tehran shows how the blockade and the UAE trade halt reach shop counters: smuggling through Sulaimaniyah, import duties of up to 30%, and a minimum wage of about $83 a month with the rial near 2.64 million per dollar.",
+   "segment": "Middle East",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261027-02",
+   "title": "הפעם אנחנו יודעים (This time we know)",
+   "reporter": "Nahum Barnea",
+   "outlet": "Yedioth Ahronoth / Ynet",
+   "url": "https://www.ynet.co.il/news/article/yokra14939660",
+   "why": "Israel's senior columnist, writing on election eve, sets out what each outcome would mean for war, the judiciary and Arab citizens. He reveals that army chiefs Halevi and Zamir demanded Netanyahu's orders in writing, and argues the opposition should merge after the vote. This is opinion.",
+   "segment": "Middle East",
+   "language": "Hebrew"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-10-27",
+   "text": "Israeli Knesset election ([[e:2026 Israeli legislative election]]).",
+   "segment": "Middle East",
+   "watchId": "W-261025-02"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Pezeshkian meets Putin at the gas exporters' (GECF) summit in Moscow.",
+   "segment": "Middle East",
+   "watchId": "W-261025-03"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "US Federal Reserve rate decision.",
+   "segment": "The Americas",
+   "watchId": "W-261025-09"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "UN Security Council briefing on Iran non-proliferation, requested by Bahrain, Denmark, France, Latvia, the UK and the US, with [[p:Rafael Grossi]] briefing on Iran's denial of [[p:IAEA|International Atomic Energy Agency]] access since June. A procedural vote on the agenda may be held.",
+   "segment": "Middle East",
+   "watchId": "W-261027-04"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "ECB rate decision; deposit rate widely expected to stay at 2.5%, with possible signals on France.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-08"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Third Russia–Africa Summit in Moscow; Putin and AU chair Ndayishimiye co-chair the plenary on 29 Oct.",
+   "segment": "Africa",
+   "watchId": "W-261025-15"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Fifth Plenum of the CCP Central Committee, Beijing, 26–29 Oct.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-16"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "State Duma first reading of Russia's 2027–29 federal budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-02"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "The Oleshky humanitarian mission (aid deliveries and evacuation) is due to start under the local ceasefire, which should hold until at least Saturday.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261027-01"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Sweden: Speaker Andreas Norlén is to announce the next step in government formation after the Centre Party's exploratory mission ended. Commentators expect Ulf Kristersson to get the next mandate.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261027-02"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Thai no-confidence debate on PM Anutin; the government proposes a vote on 30 Oct, the opposition wants November.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-17"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Brazil: watch for PL/Bolsonaro requests at the TSE seeking removal of Lula's ticket for alleged abuse of power, and for any US measures after Trump called the vote rigged.",
+   "segment": "The Americas",
+   "watchId": "W-261027-03"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "UN Security Council vote on renewing the MINURSO mission in Western Sahara (mandate expires 31 Oct).",
+   "segment": "Africa",
+   "watchId": "W-261025-14"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "German President Steinmeier's state visit to China, 27–31 Oct.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261025-18"
+  },
+  {
+   "date": "2026-10-31",
+   "text": "Rada vote on extending martial law and mobilisation to 29 Jan 2027 (bills 16182/16183).",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-01"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "Bulgaria presidential runoff, expected to be Iotova vs Gyurov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-07"
+  },
+  {
+   "date": "2026-11-01",
+   "text": "EU gas storage reference date for the relaxed 80% fill target.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-11"
+  },
+  {
+   "date": "2026-11-02",
+   "text": "Iran's Persian Gulf Strait Authority starts legal action against Sinokor vessels from 1 Nov. Watch for seizures or strikes on Korean-managed ships and Seoul's response.",
+   "segment": "Middle East",
+   "watchId": "W-261027-05"
+  },
+  {
+   "date": "2026-11-03",
+   "text": "US midterm elections.",
+   "segment": "The Americas",
+   "watchId": "W-261025-13"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Bahrain",
+   "status": "quiet"
+  },
+  {
+   "country": "Qatar",
+   "status": "quiet"
+  },
+  {
+   "country": "West Bank (Palestinian Authority politics)",
+   "status": "quiet"
+  },
+  {
+   "country": "Turkey (PKK/Kurdish peace process)",
+   "status": "quiet"
+  },
+  {
+   "country": "Syria (SDF/Kurds, sanctions)",
+   "status": "quiet"
+  },
+  {
+   "country": "Jordan (domestic politics beyond Karak follow-up)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Times of Israel / N12 (mako) · Israel",
+   "url": "https://www.timesofisrael.com/liveblog-october-27-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Israel",
+   "url": "https://www.mako.co.il/news-israel-elections/2026/liveblog-788cb43830871a1026.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English · Iran / Saudi Arabia / Pakistan / Turkey",
+   "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Iran / Saudi Arabia / Pakistan / Turkey",
+   "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera Arabic · Egypt / Saudi Arabia / Yemen",
+   "url": "https://aljazeera.net/news/2026/10/26/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A8",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Egypt / Saudi Arabia / Yemen",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+   "paywalled": false
+  },
+  {
+   "title": "Enab Baladi; Al Jazeera/AP · Jordan / Syria",
+   "url": "https://www.enabbaladi.net/830859/%D9%82%D8%AA%D9%84%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A8%D8%AF%D8%B1/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Jordan / Syria",
+   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Al-Monitor) · Saudi Arabia / United States",
+   "url": "https://www.al-monitor.com/originals/2026/10/us-orders-departure-diplomats-saudi-arabia-amid-houthi-strikes",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews Türkçe; Medyascope (citing Reuters) · Turkey / Saudi Arabia / Pakistan",
+   "url": "https://tr.euronews.com/2026/10/20/mekke-ortak-savunma-anlasmasina-iliskin-kanun-teklifi-tbmmye-sunuldu",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Turkey / Saudi Arabia / Pakistan",
+   "url": "https://medyascope.tv/2026/10/22/reuters-akpli-vekile-dayandirarak-yazdi-suudi-arabistan-tezkeresi-tbmmye-gelecek/",
+   "paywalled": false
+  },
+  {
+   "title": "Iran International / CBS News · Iran / United States",
+   "url": "https://www.iranintl.com/en/liveblog/202610244311",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Iran / United States",
+   "url": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Iran",
+   "url": "https://en.shana.ir/news/2457429/Shana",
+   "paywalled": false
+  },
+  {
+   "title": "Israel Hayom · Israel / United States",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21714982",
+   "paywalled": false
+  },
+  {
+   "title": "Srugim (citing Kan News); The New Arab · West Bank / Israel",
+   "url": "https://www.srugim.co.il/101014449-%D7%96%D7%95-%D7%94%D7%A1%D7%99%D7%91%D7%94-%D7%9C%D7%A2%D7%99%D7%9E%D7%95%D7%AA-%D7%94%D7%97%D7%A8%D7%99%D7%A3-%D7%91%D7%99%D7%9F-%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%9C%D7%A8%D7%9E%D7%98%D7%9B%D7%9C",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · West Bank / Israel",
+   "url": "https://www.newarab.com/news/israels-hebron-raid-displaces-nearly-4000-palestinians",
+   "paywalled": false
+  },
+  {
+   "title": "RTÉ/AFP; The New Arab · Gaza",
+   "url": "https://www.rte.ie/news/2026/1026/1596841-middle-east-israel-gaza/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Gaza",
+   "url": "https://www.newarab.com/news/israel-army-advances-beyond-gazas-yellow-line-15-killed",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via L'Orient-Le Jour / GV Wire) · Lebanon",
+   "url": "https://www.lorientlejour.com/article/1552151/le-hezbollah-se-prepare-a-une-nouvelle-guerre-regionale-grace-a-des-fonds-iraniens-selon-des-sources.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Lebanon",
+   "url": "https://gvwire.com/2026/10/26/hezbollah-readies-for-new-regional-war-with-funds-from-iran-sources-say/",
+   "paywalled": false
+  },
+  {
+   "title": "Kuwait Times · Kuwait",
+   "url": "https://kuwaittimes.com/article/52455/kuwait/other-news/3-sentenced-to-death-for-spying-for-iran-hezbollah-plotting-to-assassinate-first-deputy-pm/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Kuwait",
+   "url": "https://english.aawsat.com/gulf/5334073-kuwait-sentence-3-death-collaborating-iran-plotting-assassinate-interior-minister",
+   "paywalled": false
+  },
+  {
+   "title": "ZN.ua · Ukraine / Russia",
+   "url": "https://zn.ua/ukr/UKRAINE/v-okupovanikh-oleshkakh-pochav-dijati-rezhim-tishi-hotujut-humanitarnij-koridor-dlja-misiji-ta-evakuatsiji.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine / Russia",
+   "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/",
+   "paywalled": false
+  },
+  {
+   "title": "CNN Brasil · Brazil / United States",
+   "url": "https://www.cnnbrasil.com.br/blogs/isabel-mega/eleicoes/pl-reconhece-vitoria-de-lula-e-diz-que-questionamentos-precisam-ser-feitos/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Brazil / United States",
+   "url": "https://www.gazetadopovo.com.br/mundo/trump-diz-que-eleicao-no-brasil-pareceu-fraudada-mas-afirma-ter-boa-relacao-com-lula/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera / AFP · Sudan",
+   "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Sudan",
+   "url": "https://sudantribune.net/article/320435",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera · Algeria / Niger",
+   "url": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Algeria / Niger",
+   "url": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+   "paywalled": false
+  },
+  {
+   "title": "Irish Examiner (Guardian) · Serbia",
+   "url": "https://www.irishexaminer.com/world/arid-41929443.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Serbia",
+   "url": "https://meduza.io/amp/en/feature/2026/10/26/serbia-s-student-backed-opposition-has-defeated-vucic-at-the-ballot-box-he-says-the-winners-will-impose-sanctions-on-russia-but-they-say-otherwise",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters · China",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/china-s-communist-party-opens-fifth-plenum",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · China",
+   "url": "http://www.bjreview.com/Latest_Headlines/202610/t20261027_800449678.html",
+   "paywalled": false
+  }
+ ]
+}
