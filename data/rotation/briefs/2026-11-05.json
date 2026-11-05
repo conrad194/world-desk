@@ -1,0 +1,616 @@
+{
+ "date": "2026-11-05",
+ "segment": "The Americas",
+ "windowFrom": "2026-10-29",
+ "tier1Summary": "Democrats swept the US [[e:2026 United States elections|midterms]], taking the House and at least 54 Senate seats. From January, [[p:Donald Trump]] faces a Congress that has promised to try to end the Iran war and the tariffs. Trump says he has no immediate plans to strike Iran, and Tehran says it can fast-track a plan to reopen Hormuz. Oil fell.\n\nAcross the hemisphere, Canada reports more intense trade talks, while Mexico missed its pre-vote deal. Washington met Venezuela's new foreign minister and reportedly backs a 2027 path toward elections. [[p:Flávio Bolsonaro]]'s exit to Miami via Argentina set off a row between Brasília and Buenos Aires. El Salvador's troop surge in Haiti grows.\n\nElsewhere, Israel's results leave both blocs short of a majority as Herzog consults, Ukraine–Russia talks are set for 10–11 Nov in Abu Dhabi, and Ethiopia expelled Sudanese diplomats.",
+ "segmentItems": [
+  {
+   "id": "E-261105-05",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "Democrats swept the [[e:2026 United States elections|midterms]], winning the House and at least 54 Senate seats and flipping seven, including Texas, Ohio and Maine. Alaska and Mississippi are still uncalled.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "CBS News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-07",
+   "segment": "The Americas",
+   "country": "United States / Iran",
+   "text": "Trump told the Financial Times he has no immediate plans to strike Iran but is \"ready\" to escalate; Bloomberg flags the weeks before January as risky. Brent fell to about $101.70.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Omar Tamo, Eltaf Najafizada, Fiona MacDonald",
+   "outlet": "Bloomberg (via gCaptain)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Bloomberg (via gCaptain)",
+     "url": "https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-15",
+   "segment": "The Americas",
+   "country": "Venezuela / United States",
+   "text": "[[p:Marco Rubio]] met Venezuela's new foreign minister, Oliver Blanco, pressed for more prisoner releases, and Blanco then met [[p:Scott Bessent]] on financial reintegration. Washington reportedly backs a roadmap toward elections after a 2027 vacancy declaration.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Primicias (EFE/agencies); US Treasury via Digital58",
+   "opinion": "",
+   "thread": "Venezuela transition",
+   "links": [
+    {
+     "label": "Primicias (EFE/agencies); US Treasury via Digital58",
+     "url": "https://www.primicias.ec/internacional/marco-rubio-reunion-canciller-venezuela-oliver-blanco-136281/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://digital58.com.ve/site/2026/11/03/tesoro-de-ee-uu-aborda-con-oliver-blanco-inclusion-financiera/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-17",
+   "segment": "The Americas",
+   "country": "Haiti / El Salvador",
+   "text": "El Salvador sent more than 2,000 troops to Haiti to find four technicians missing since 18 Oct; the UN says only about 200 serve under the [[p:Gang Suppression Force]]. The leader of [[p:400 Mawozo]] {{note: Gang based in Croix-des-Bouquets east of Port-au-Prince, known for kidnapping 17 North American missionaries in 2021.}} asked the UN for talks.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "UN News; Al Jazeera",
+   "opinion": "",
+   "thread": "Haiti gangs and foreign forces",
+   "links": [
+    {
+     "label": "UN News; Al Jazeera",
+     "url": "https://news.un.org/en/story/2026/11/1168728"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-06",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "[[p:Mike Johnson]] won't seek to lead House Republicans next term. [[p:JD Vance]] blamed the Iran war for the defeat; Trump blamed the candidates.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "CBS News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-09",
+   "segment": "The Americas",
+   "country": "Canada / United States",
+   "text": "[[p:Mark Carney]] says \"more intense\" trade talks with Washington have begun, with the US asking less, after a 1 Nov call with Trump.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (AFP/AP/Reuters); CTV News",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Al Jazeera (AFP/AP/Reuters); CTV News",
+     "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/more-intense-us-trade-negotiations-have-started-carney-says/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-10",
+   "segment": "The Americas",
+   "country": "Mexico / United States",
+   "text": "Mexico's push for a deal before the vote ended without one; US Section 232 tariffs on steel, aluminium and cars remain.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Clara Espinoza",
+   "outlet": "Latin Times",
+   "opinion": "analysis",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Latin Times",
+     "url": "https://www.latintimes.com/democrats-taking-congress-mexico-resets-its-usmca-strategy-new-washington-equation-600922"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://gvwire.com/2026/10/28/mexico-us-assess-viability-of-trade-deal-before-midterms/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-11",
+   "segment": "The Americas",
+   "country": "Brazil / Argentina / United States",
+   "text": "[[p:Flávio Bolsonaro]] left Brazil via Argentina on 27 Oct and flew to Miami. Brasília summoned Argentina's chargé d'affaires; Buenos Aires calls the matter closed.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Talita Laurino",
+   "outlet": "Times Brasil (CNBC)",
+   "opinion": "",
+   "thread": "Brazil election 2026",
+   "links": [
+    {
+     "label": "Times Brasil (CNBC)",
+     "url": "https://timesbrasil.com.br/brasil/talita-laurino-itamaraty-convoca-representante-da-argentina-para-explicar-passagem-de-flavio-bolsonaro-pelo-pais/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://diariodopoder.com.br/brasil-e-regioes/e10-brasil/itamaraty-cobra-argentina-sobre-saida-de-flavio-bolsonaro-do-brasil"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-14",
+   "segment": "The Americas",
+   "country": "Venezuela",
+   "text": "[[p:Delcy Rodríguez]] again promised elections but set no date, tying them to reforms; [[p:María Corina Machado]] demands a calendar.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Infobae",
+   "opinion": "",
+   "thread": "Venezuela transition",
+   "links": [
+    {
+     "label": "Infobae",
+     "url": "https://www.infobae.com/venezuela/2026/10/29/delcy-rodriguez-volvio-a-prometer-elecciones-en-venezuela-pero-no-puso-fecha-y-pidio-apoyar-las-reformas/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://cnnespanol.cnn.com/2026/10/25/venezuela/maria-corina-machado-vuelve-venezuela-orix"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-16",
+   "segment": "The Americas",
+   "country": "Cuba",
+   "text": "Another Turkish floating power plant left Havana, leaving one; blackouts last up to three days in the provinces.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Katlen Urquilla",
+   "outlet": "Infobae (EFE)",
+   "opinion": "",
+   "thread": "US pressure on Cuba",
+   "links": [
+    {
+     "label": "Infobae (EFE)",
+     "url": "https://www.infobae.com/cuba/2026/11/03/central-electrica-turca-abandona-cuba-mientras-los-cortes-de-luz-se-extienden-hasta-tres-dias-consecutivos/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.martinoticias.com/a/patana-turca-erol-bey-abandona-cuba-en-plena-crisis-energ%C3%A9tica/483385.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-18",
+   "segment": "The Americas",
+   "country": "Colombia",
+   "text": "A truck bomb near a police station in El Tambo, Cauca, killed one; President [[p:Abelardo de la Espriella]] ordered a manhunt.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "El Universal (Colombia); NTN24",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "El Universal (Colombia); NTN24",
+     "url": "https://www.eluniversal.com.co/colombia/2026/11/04/de-la-espriella-condeno-atentado-en-el-cauca-y-ordeno-buscar-a-los-responsables/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ntn24.com/noticias-actualidad/nuevo-atentado-con-drones-se-registra-en-colombia-contra-una-estacion-de-policia-en-la-via-panamericana-663284"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-19",
+   "segment": "The Americas",
+   "country": "Guatemala",
+   "text": "Civil society groups condemned the killing of former anti-corruption prosecutor Juan Francisco Solórzano Foppa.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "",
+   "outlet": "EFE (via Infobae)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "EFE (via Infobae)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/04/miercoles-4-de-noviembre-de-2026-0200-gmt/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261105-01",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "Final results give [[p:Benjamin Netanyahu]]'s bloc 53 seats, [[p:Gadi Eisenkot]]'s 48 and Arab-led parties a record 19. [[p:Isaac Herzog]] opened consultations on 4 Nov; Ra'am backs Eisenkot.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (AP)",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "Al Jazeera (AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-02",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "Tehran says it can carry out its seven-step plan to reopen Hormuz and resume nuclear talks in two days, after [[p:Mojtaba Khamenei]] widened the government's mandate. It still demands an end to the blockade.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera (AP); Bloomberg via gCaptain",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera (AP); Bloomberg via gCaptain",
+     "url": "https://aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-03",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "[[p:Steve Witkoff]] set US-mediated Ukraine–Russia working-level talks for 10–11 Nov in Abu Dhabi.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Alisa Orlova",
+   "outlet": "Kyiv Post",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/88971"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/russia-ukraine-power-abu-dhabi-merz/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261105-04",
+   "segment": "Africa",
+   "country": "Sudan / Ethiopia",
+   "text": "Ethiopia expelled six Sudanese diplomats after Khartoum accused it of letting the [[p:Rapid Support Forces]] {{note: Sudanese paramilitary formed in 2013 from Janjaweed militias under Mohamed Hamdan Dagalo; at war with the army since April 2023.}} fly drones from its territory. Addis Ababa denies it.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://sudantribune.com/article/320901"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261105-01",
+   "title": "Itamaraty convoca representante da Argentina para explicar passagem de Flávio Bolsonaro pelo país",
+   "reporter": "Talita Laurino",
+   "outlet": "Times Brasil (CNBC)",
+   "url": "https://timesbrasil.com.br/brasil/talita-laurino-itamaraty-convoca-representante-da-argentina-para-explicar-passagem-de-flavio-bolsonaro-pelo-pais/",
+   "why": "Follows the defeated candidate's exit minute by minute from Argentine migration records (bridge crossing, private jet, a flight plan to Guayaquil that ended in Miami), and explains why the summons is a pointed signal while the two countries have had no ambassadors since August.",
+   "segment": "The Americas",
+   "language": "Portuguese"
+  },
+  {
+   "readingId": "RL-261105-02",
+   "title": "Delcy Rodríguez volvió a prometer elecciones en Venezuela, pero no puso fecha y pidió \"apoyar las reformas\"",
+   "reporter": "",
+   "outlet": "Infobae",
+   "url": "https://www.infobae.com/venezuela/2026/10/29/delcy-rodriguez-volvio-a-prometer-elecciones-en-venezuela-pero-no-puso-fecha-y-pidio-apoyar-las-reformas/",
+   "why": "Sets out the interim government's sequence (amnesty, justice reform with EU help, a softer hate-speech law, talks with the 2015 National Assembly) that Caracas says must come before any vote, which matters now that Washington is talking about a 2027 timetable.",
+   "segment": "The Americas",
+   "language": "Spanish"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-05",
+   "text": "French union national mobilisation day.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-19"
+  },
+  {
+   "date": "2026-11-07",
+   "text": "First Russian diesel cargo under the US–Russia deal due in New York.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-22"
+  },
+  {
+   "date": "2026-11-08",
+   "text": "Argentina: state workers' union ATE stoppage at 27 airports on 6 Nov, two days before Pope Leo XIV arrives; he visits Peru in mid-November.",
+   "segment": "The Americas",
+   "watchId": "W-261105-04"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "[[e:2026 Israeli legislative election]]: exit polls at 22:00 on 27 Oct, then final results and the official publication of results, followed by President [[p:Isaac Herzog]]'s consultations with party delegations before he assigns the task of forming a government",
+   "segment": "Middle East",
+   "watchId": "W-261027-06"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Turkish parliament's Foreign Affairs Committee on the Mecca Joint Defence Agreement, a possible motion to deploy personnel to Saudi Arabia, and whether Riyadh requests Egyptian help under the new Egyptian mandate",
+   "segment": "Middle East",
+   "watchId": "W-261027-07"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the uncalled Senate races in Alaska (Sullivan vs Peltola) and Mississippi (Hyde-Smith vs Colom).",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Bolivia",
+   "status": "quiet"
+  },
+  {
+   "country": "Nicaragua",
+   "status": "quiet"
+  },
+  {
+   "country": "Honduras",
+   "status": "quiet"
+  },
+  {
+   "country": "Panama",
+   "status": "quiet"
+  },
+  {
+   "country": "Costa Rica",
+   "status": "quiet"
+  },
+  {
+   "country": "Uruguay",
+   "status": "quiet"
+  },
+  {
+   "country": "Dominican Republic (beyond a doctors' strike)",
+   "status": "quiet"
+  },
+  {
+   "country": "Caribbean states other than Cuba and Haiti",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "CBS News · United States",
+   "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · United States",
+   "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Bloomberg (via gCaptain) · United States / Iran",
+   "url": "https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · United States / Iran",
+   "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "paywalled": false
+  },
+  {
+   "title": "Primicias (EFE/agencies); US Treasury via Digital58 · Venezuela / United States",
+   "url": "https://www.primicias.ec/internacional/marco-rubio-reunion-canciller-venezuela-oliver-blanco-136281/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Venezuela / United States",
+   "url": "https://digital58.com.ve/site/2026/11/03/tesoro-de-ee-uu-aborda-con-oliver-blanco-inclusion-financiera/",
+   "paywalled": false
+  },
+  {
+   "title": "UN News; Al Jazeera · Haiti / El Salvador",
+   "url": "https://news.un.org/en/story/2026/11/1168728",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Haiti / El Salvador",
+   "url": "https://aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (AFP/AP/Reuters); CTV News · Canada / United States",
+   "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Canada / United States",
+   "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/more-intense-us-trade-negotiations-have-started-carney-says/",
+   "paywalled": false
+  },
+  {
+   "title": "Latin Times · Mexico / United States",
+   "url": "https://www.latintimes.com/democrats-taking-congress-mexico-resets-its-usmca-strategy-new-washington-equation-600922",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Mexico / United States",
+   "url": "https://gvwire.com/2026/10/28/mexico-us-assess-viability-of-trade-deal-before-midterms/",
+   "paywalled": false
+  },
+  {
+   "title": "Times Brasil (CNBC) · Brazil / Argentina / United States",
+   "url": "https://timesbrasil.com.br/brasil/talita-laurino-itamaraty-convoca-representante-da-argentina-para-explicar-passagem-de-flavio-bolsonaro-pelo-pais/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Brazil / Argentina / United States",
+   "url": "https://diariodopoder.com.br/brasil-e-regioes/e10-brasil/itamaraty-cobra-argentina-sobre-saida-de-flavio-bolsonaro-do-brasil",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae · Venezuela",
+   "url": "https://www.infobae.com/venezuela/2026/10/29/delcy-rodriguez-volvio-a-prometer-elecciones-en-venezuela-pero-no-puso-fecha-y-pidio-apoyar-las-reformas/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Venezuela",
+   "url": "https://cnnespanol.cnn.com/2026/10/25/venezuela/maria-corina-machado-vuelve-venezuela-orix",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae (EFE) · Cuba",
+   "url": "https://www.infobae.com/cuba/2026/11/03/central-electrica-turca-abandona-cuba-mientras-los-cortes-de-luz-se-extienden-hasta-tres-dias-consecutivos/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Cuba",
+   "url": "https://www.martinoticias.com/a/patana-turca-erol-bey-abandona-cuba-en-plena-crisis-energ%C3%A9tica/483385.html",
+   "paywalled": false
+  },
+  {
+   "title": "El Universal (Colombia); NTN24 · Colombia",
+   "url": "https://www.eluniversal.com.co/colombia/2026/11/04/de-la-espriella-condeno-atentado-en-el-cauca-y-ordeno-buscar-a-los-responsables/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Colombia",
+   "url": "https://www.ntn24.com/noticias-actualidad/nuevo-atentado-con-drones-se-registra-en-colombia-contra-una-estacion-de-policia-en-la-via-panamericana-663284",
+   "paywalled": false
+  },
+  {
+   "title": "EFE (via Infobae) · Guatemala",
+   "url": "https://www.infobae.com/america/agencias/2026/11/04/miercoles-4-de-noviembre-de-2026-0200-gmt/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (AP) · Israel",
+   "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Israel",
+   "url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (AP); Bloomberg via gCaptain · Iran / United States",
+   "url": "https://aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Post · Ukraine / Russia / United States",
+   "url": "https://www.kyivpost.com/post/88971",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Ukraine / Russia / United States",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/russia-ukraine-power-abu-dhabi-merz/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera · Sudan / Ethiopia",
+   "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check · Sudan / Ethiopia",
+   "url": "https://sudantribune.com/article/320901",
+   "paywalled": false
+  }
+ ]
+}
