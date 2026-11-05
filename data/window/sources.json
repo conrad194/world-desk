@@ -1235,6 +1235,30 @@
    "lean": "centre, mainstream",
    "status": "Watch",
    "dateAdded": "2026-10-27"
+  },
+  {
+   "id": "roll-call",
+   "name": "Roll Call",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Congress and leadership",
+   "language": "English",
+   "url": "https://rollcall.com/",
+   "lean": "centre / nonpartisan",
+   "status": "Watch",
+   "dateAdded": "2026-11-05"
+  },
+  {
+   "id": "efoodalert",
+   "name": "eFoodAlert",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Food recalls and outbreaks",
+   "language": "English",
+   "url": "https://efoodalert.com/",
+   "lean": "specialist",
+   "status": "Watch",
+   "dateAdded": "2026-11-05"
   }
  ]
 }

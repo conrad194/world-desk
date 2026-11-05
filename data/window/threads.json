@@ -223,6 +223,14 @@
    "domain": "Foreign relations",
    "status": "Active",
    "summary": "How Kraków, Małopolska and other Polish local governments are responding to the Lviv Oblast Council naming 2027 the Year of the UPA and Shukhevych, including Kraków's planned suspension of its partnership with Lviv."
+  },
+  {
+   "id": "us-economy-and-markets",
+   "name": "US economy and markets",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "Active",
+   "summary": "Fed policy under Chair Warsh, inflation driven by oil prices, and market reaction to the war and the midterms."
   }
  ]
 }

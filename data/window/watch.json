@@ -527,6 +527,39 @@
    "checkDate": "2026-10-31",
    "happened": "Sikorski spoke at an Oct 30 press conference in Atlanta. No bilateral meeting with Rubio and no remarks on the base were reported. https://defence24.pl/geopolityka/polska-ma-duzo-do-powiedzenia-sikorski-z-przeslaniem-do-lawrowa",
    "eventId": ""
+  },
+  {
+   "id": "W-261105-01",
+   "dateAdded": "2026-11-05",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Final results in the Mississippi (Colom v. Hyde-Smith) and Alaska (Peltola v. Sullivan) Senate races, including any legal challenge in Mississippi.",
+   "expected": "State election officials; Mississippi accepts mail ballots arriving up to about Nov 10 (ABC News)",
+   "checkDate": "2026-11-12",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261105-02",
+   "dateAdded": "2026-11-05",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "House Republican leadership election (Scalise v. Jordan) after Johnson stepped aside.",
+   "expected": "Roll Call reports the conference vote is set for Nov 10",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261105-03",
+   "dateAdded": "2026-11-05",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Lame-duck Congress: government funding before the Dec 11 deadline, the NDAA and HHS confirmations.",
+   "expected": "HNGN: Congress returns Nov 9 with a Dec 11 funding deadline",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
