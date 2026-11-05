@@ -223,6 +223,22 @@
    "newsLink": "https://www.polsatnews.pl/wiadomosc/2026-10-26/maksymalne-ceny-paliwa-we-wtorek-minister-przekazal-ile-zaplacimy/",
    "eventId": "E-261027-22",
    "lastChecked": "2026-10-27"
+  },
+  {
+   "id": "R-261105-01",
+   "dateLogged": "2026-11-05",
+   "place": "Poland",
+   "body": "Council of Ministers / Sejm",
+   "name": "Bill amending PIT and CIT (2027 tax reform, resubmitted)",
+   "changes": "Raises the PIT threshold to 130k zł, adds a 24% band for 130–150k zł and 32% above that, raises the solidarity levy to 5%, sets 22% CIT for firms with revenue above €50m (banks excluded) and cuts the lump-sum tax revenue limit to €250k.",
+   "affects": "Higher earners, large companies and the self-employed on the lump-sum tax.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://www.wnp.pl/rynki/sejm-projekt-ustawy-zmieniajacej-m-in-progi-w-pit-i-dodajacej-nowa-stawke-skierowany-do-komisji,1116618.html",
+   "eventId": "E-261105-18",
+   "lastChecked": "2026-11-05"
   }
  ]
 }

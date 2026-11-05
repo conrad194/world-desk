@@ -231,6 +231,22 @@
    "domain": "Economy, business & markets",
    "status": "Active",
    "summary": "Fed policy under Chair Warsh, inflation driven by oil prices, and market reaction to the war and the midterms."
+  },
+  {
+   "id": "poland-monetary-policy-and-nbp",
+   "name": "Poland monetary policy and NBP",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "Active",
+   "summary": "RPP rate decisions, NBP projections, the fight over NBP board seats, and the bid to put Glapiński before the State Tribunal."
+  },
+  {
+   "id": "cyberattacks-on-polish-infrastructure",
+   "name": "Cyberattacks on Polish infrastructure",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "Active",
+   "summary": "Attacks on Polish companies and utilities, including industrial control systems, with CERT Polska and Digital Affairs Ministry responses."
   }
  ]
 }
