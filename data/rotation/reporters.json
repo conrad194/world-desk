@@ -517,6 +517,34 @@
    "trackRecord": "bianet human-rights editor; covers the İmamoğlu and political trials from Silivri; won the Metin Göktepe journalism award",
    "dateAdded": "2026-10-27",
    "status": "Watch"
+  },
+  {
+   "id": "talita-laurino",
+   "name": "Talita Laurino",
+   "segment": "The Americas",
+   "countries": "Brazil",
+   "languages": "Portuguese",
+   "outlets": "Times Brasil (CNBC)",
+   "basedIn": "Brasília",
+   "slant": "Centre; business/political news channel",
+   "url": "https://timesbrasil.com.br/brasil/talita-laurino-itamaraty-convoca-representante-da-argentina-para-explicar-passagem-de-flavio-bolsonaro-pelo-pais/",
+   "trackRecord": "Broke the Itamaraty summons of Argentina's chargé over Flávio Bolsonaro's exit (Oct 2026); covers Brasília diplomacy.",
+   "dateAdded": "2026-11-05",
+   "status": "Watch"
+  },
+  {
+   "id": "katlen-urquilla",
+   "name": "Katlen Urquilla",
+   "segment": "The Americas",
+   "countries": "Cuba",
+   "languages": "Spanish",
+   "outlets": "Infobae",
+   "basedIn": "Regular Cuba coverage (location not stated)",
+   "slant": "Infobae is centre-right and critical of Havana",
+   "url": "https://www.infobae.com/cuba/2026/11/03/central-electrica-turca-abandona-cuba-mientras-los-cortes-de-luz-se-extienden-hasta-tres-dias-consecutivos/",
+   "trackRecord": "Covers Cuba's energy crisis and blackouts for Infobae's Cuba desk, citing EFE and official data.",
+   "dateAdded": "2026-11-05",
+   "status": "Watch"
   }
  ]
 }

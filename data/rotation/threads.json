@@ -251,6 +251,20 @@
    "segment": "Middle East",
    "status": "Active",
    "summary": "The investment-fund collapse and market-manipulation arrests (114 so far, including a former Erdoğan adviser), alongside the jailing of opposition mayors and journalists."
+  },
+  {
+   "id": "us-congress-after-2026-midterms",
+   "name": "US Congress after the 2026 midterms",
+   "segment": "The Americas",
+   "status": "Active",
+   "summary": "Democrats won both chambers on 3 Nov 2026; leadership races, the new Congress from January 2027, and its push on the Iran war, tariffs and oversight."
+  },
+  {
+   "id": "haiti-gangs-and-foreign-forces",
+   "name": "Haiti gangs and foreign forces",
+   "segment": "The Americas",
+   "status": "Active",
+   "summary": "Haiti's gang war, the UN-backed Gang Suppression Force, El Salvador's troop surge and delayed elections."
   }
  ]
 }
