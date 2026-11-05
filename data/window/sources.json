@@ -1259,6 +1259,18 @@
    "lean": "specialist",
    "status": "Watch",
    "dateAdded": "2026-11-05"
+  },
+  {
+   "id": "lovekrakow",
+   "name": "LoveKraków",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "City hall, transport, local news",
+   "language": "Polish",
+   "url": "https://lovekrakow.pl/",
+   "lean": "local / centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-05"
   }
  ]
 }

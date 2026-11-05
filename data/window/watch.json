@@ -604,6 +604,17 @@
    "checkDate": "2026-11-12",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261105-08",
+   "dateAdded": "2026-11-05",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "City council vote on leaving Eurocities, Healthy Cities and other associations (about 8.2m zł a year in savings).",
+   "expected": "Mayor Gibała says he will put it to the council (LoveKraków)",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
