@@ -1,0 +1,1306 @@
+{
+ "date": "2026-11-05",
+ "top5": [
+  {
+   "text": "Democrats are projected to have won both the House and Senate; Mississippi and Alaska are still too close to call.",
+   "place": "US",
+   "links": [
+    {
+     "label": "NBC Washington; Al Jazeera",
+     "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+    }
+   ]
+  },
+  {
+   "text": "Speaker Johnson won't seek GOP leader; Vance blames the Iran war for the loss.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Roll Call; Axios",
+     "url": "https://rollcall.com/2026/11/04/mike-johnson-will-not-seek-gop-leader-as-house-flips/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms"
+    }
+   ]
+  },
+  {
+   "text": "Poland's RPP held at 3.75%; the new projection sees 2027 inflation at 3.1–5.3% if fuel caps end.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "TVN24 Biznes; PAP via Portal Samorządowy",
+     "url": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-w-polsce-w-listopadzie-2026-rpp-podjela-decyzje-st9321601"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/glapinski-projekcja-inflacyjna-powstala-przy-zalozeniu-nieprzedluzania-programu-cpn,683163.html"
+    }
+   ]
+  },
+  {
+   "text": "Poland's Constitutional Tribunal split deepens as rival camps claim its leadership; Tusk and Nawrocki agree to meet.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "RMF24; Euronews",
+     "url": "https://www.rmf24.pl/fakty/polska/news-bedzie-kolejne-zgromadzenie-sedziow-tk-korwin-piotrowska-wyd,nIdn,1024830"
+    },
+    {
+     "label": "Second source",
+     "url": "https://pl.euronews.com/2026/11/04/bogdan-swieczkowski-i-bartlomiej-sochanski-wydali-oswiadczenie-pisza-o-brutalnym-bezprawny"
+    }
+   ]
+  },
+  {
+   "text": "New Delhi says the India–US interim deal is unaffected by the midterms; a Modi–Trump meeting in Manila is possible.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "PTI via Siasat; The Tribune / ANI",
+     "url": "https://www.siasat.com/midterm-results-wont-impact-india-us-interim-trade-deal-sources-3570342/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.tribuneindia.com/news/business/trumps-midterm-election-setback-may-fast-track-india-us-trade-deal-within-two-months-says-founder-gtri"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261105-01",
+    "domain": "Politics & government",
+    "text": "Networks project that Democrats won both chambers. Reported Senate flips include Texas, Kansas, Iowa, Ohio, Maine and North Carolina, and CBS projects at least 54 Democratic seats.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "NBC Washington; Al Jazeera",
+      "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-02",
+    "domain": "Politics & government",
+    "text": "Mississippi (Colom ahead of Hyde-Smith by about 1,100 votes) and Alaska (Peltola ahead of Sullivan by about 640) remain uncalled.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Fox News (via WFMD); ABC News",
+      "url": "https://www.wfmd.com/2026/11/05/alaska-mississippi-senate-races-separated-by-razor-thin-vote-margins/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-03",
+    "domain": "Politics & government",
+    "text": "Johnson won't run for GOP leader; Scalise and Jordan are reported to be running for a Nov 10 vote. Jeffries is bidding for Speaker.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Roll Call; Axios",
+      "url": "https://rollcall.com/2026/11/04/mike-johnson-will-not-seek-gop-leader-as-house-flips/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-04",
+    "domain": "Politics & government",
+    "text": "Vance blamed the Iran war for the defeat. Trump partly agreed, citing petrol prices, but said he would do it again. Fox frames this as soul-searching, NBC and the Washington Post as a rebuke.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Fox News; Washington Post",
+      "url": "https://www.foxnews.com/live-news/republicans-soul-search-midterms-democrats-retake-house-senate"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.washingtonpost.com/politics/2026/11/03/elections-2026-live-updates-voters-head-polls-senate-house-governor-races/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-06",
+    "domain": "Foreign relations",
+    "text": "Qatar is pushing a draft built on confidence-building steps, while Iran wants the blockade lifted first. Axios reports a US strike on Qeshm on Nov 3.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Gulf News (citing Axios, FT, Reuters)",
+      "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+     },
+     {
+      "label": "Second source",
+      "url": "https://foxnews.com/live-news/iran-war-news-trump-israel-elections-november-5"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-08",
+    "domain": "Economy, business & markets",
+    "text": "The Dow rose about 1,570 points on Nov 4 as Brent fell about 8%. Chip stocks slid on Nov 5 on fears of tougher AI regulation.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Yahoo Finance; 24/7 Wall St",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-13",
+    "domain": "Health, medicine & food safety",
+    "text": "The CDC Ebola attestation for all inbound air travellers is now in force.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Eckert Seamans; CDC",
+      "url": "https://www.eckertseamans.com/stay-informed/blogs/aviation/cdc-requires-ebola-related-attestation-from-all-air-travelers-arriving-in-the-u-s"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261105-14",
+    "domain": "Economy, business & markets",
+    "text": "The RPP held the reference rate at 3.75%. Glapiński says no hike is decided and that inflation would be much lower if the fuel caps were extended.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland monetary policy and NBP",
+    "links": [
+     {
+      "label": "TVN24 Biznes; PAP via Portal Samorządowy",
+      "url": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-w-polsce-w-listopadzie-2026-rpp-podjela-decyzje-st9321601"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/glapinski-projekcja-inflacyjna-powstala-przy-zalozeniu-nieprzedluzania-programu-cpn,683163.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-15",
+    "domain": "Law, courts & regulation",
+    "text": "A judges' assembly led by Korwin-Piotrowska set an 8-judge quorum, and the Święczkowski camp calls it unlawful. TVN24 and RMF say the Tribunal is working again; wPolityce calls her a 'usurper'.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "RMF24; Euronews",
+      "url": "https://www.rmf24.pl/fakty/polska/news-bedzie-kolejne-zgromadzenie-sedziow-tk-korwin-piotrowska-wyd,nIdn,1024830"
+     },
+     {
+      "label": "Second source",
+      "url": "https://pl.euronews.com/2026/11/04/bogdan-swieczkowski-i-bartlomiej-sochanski-wydali-oswiadczenie-pisza-o-brutalnym-bezprawny"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-16",
+    "domain": "Politics & government",
+    "text": "After the National Security Council met, Tusk and Nawrocki agreed to a one-on-one meeting; no date is set.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "TVN24; Interia",
+      "url": "https://tvn24.pl/polska/donald-tusk-i-karol-nawrocki-spotkaja-sie-w-cztery-oczy-reszta-jest-tajemnica-st9322626"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-tusk-zabral-glos-po-rbn-jestem-gotow-na-spotkanie-w-cztery-o,nId,23568473"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-18",
+    "domain": "Economy, business & markets",
+    "text": "The government resubmitted the PIT/CIT reform as a new bill after constitutional doubts over the Senate's amendments. It passed first reading.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "WNP.pl (PAP); Finwire",
+      "url": "https://www.wnp.pl/rynki/sejm-projekt-ustawy-zmieniajacej-m-in-progi-w-pit-i-dodajacej-nowa-stawke-skierowany-do-komisji,1116618.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://finwire.pl/artykuly/reforma-pit-2027-sejm-od-nowa-5-listopada-drugi-prog-130-tys-zl"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-19",
+    "domain": "Health, medicine & food safety",
+    "text": "A Senate committee advanced the bill restoring abortion for severe foetal defects; the Senate votes on Nov 6.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland abortion law",
+    "links": [
+     {
+      "label": "Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Zabieg-w-ciagu-72-godzin-od-zgody-pacjentki-6-listopada-glosowanie-w-Senacie,290903,2.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-20",
+    "domain": "Politics & government",
+    "text": "Łukasz Pabiś was named commissioner for Częstochowa after the recall vote.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Local recall referendums in Poland",
+    "links": [
+     {
+      "label": "Polsat News; TVN24",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-05/decyzja-premiera-po-referendum-w-czestochowie-wyznaczyl-komisarza/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/katowice/donald-tusk-zdecydowal-kto-zostanie-komisarzem-w-czestochowie-st9323533"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-22",
+    "domain": "Technology, AI & cyber",
+    "text": "Hackers took over refrigeration controllers at Auchan stores. CERT Polska found 140 exposed devices, and the Digital Affairs Ministry threatened to name firms that don't disconnect them.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Cyberattacks on Polish infrastructure",
+    "links": [
+     {
+      "label": "money.pl via Salon24; Interia Geekweek",
+      "url": "https://www.salon24.pl/newsroom/1531587,cyberatak-na-lodowki-rzad-wydal-rekomendacje-firmom"
+     },
+     {
+      "label": "Second source",
+      "url": "https://geekweek.interia.pl/bezpieczenstwo/news-cyberataki-na-sklepy-dotarly-do-polski-puste-zamrazarki-w-ol,nId,23568344"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261105-23",
+    "domain": "Infrastructure, transport & housing",
+    "text": "The monthly resident pass returns to 90 zł, but only from Sep 2027.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "LoveKraków",
+      "url": "https://lovekrakow.pl/bilet-miesieczny-znow-za-90-zl-lukasz-gibala-zapowiada-obnizke-ale-nie-od-razu"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-24",
+    "domain": "Politics & government",
+    "text": "Gibała wants Kraków to leave Eurocities and other associations to save about 8.2m zł a year; the city council must agree.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "LoveKraków; KRKnews",
+      "url": "https://lovekrakow.pl/lukasz-gibala-szuka-oszczednosci-krakow-chce-wystapic-z-organizacji-i-stowarzyszen"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krknews.pl/prezydent-lukasz-gibala-szuka-kolejnych-oszczednosci-krakow-mialby-zaoszczedzic-82-mln-zl-rocznie-na-skladkach/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261105-28",
+    "domain": "Politics & government",
+    "text": "The Cabinet approved Rs 14,500 crore for 92 GWh of grid storage, plus lithium and nickel processing support and the 8th Economic Census.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "PIB; Vajiram & Ravi",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332474&reg=48&lang=1"
+     },
+     {
+      "label": "Second source",
+      "url": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-30",
+    "domain": "Law, courts & regulation",
+    "text": "The Supreme Court issued notice on the challenge to election commissioners' lifetime immunity. The main pleas against the CEC are likely around Nov 17.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "LiveLaw",
+      "url": "https://www.livelaw.in/amp/top-stories/livelaw-breaking-news-alerts-04-november-2026-557229"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-4-2026-557375"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-31",
+    "domain": "Politics & government",
+    "text": "Siddaramaiah demanded that SIR be scrapped and that the CEC resign, claiming 99 lakh deletions in Karnataka. The figure is unverified.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "Amar Ujala (with ANI)",
+      "url": "https://www.amarujala.com/india-news/karnataka-sir-row-siddaramaiah-demands-cec-resignation-2026-11-05"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-33",
+    "domain": "Defense, security & crime",
+    "text": "Amar Ujala reports a two-year Agniveer extension before the first batch exits on Nov 21. It is unconfirmed officially.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Agnipath and Agniveer retention",
+    "links": [
+     {
+      "label": "Amar Ujala",
+      "url": "https://www.amarujala.com/india-news/agniveer-two-year-service-extension-indian-army-operational-needs-experienced-soldiers-2026-11-05"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-34",
+    "domain": "Technology, AI & cyber",
+    "text": "India launched three indigenous AI models that work in Indian languages.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Amar Ujala",
+      "url": "https://www.amarujala.com/india-news/today-top-news-delhi-pollution-us-israel-poll-result-ind-v-nz-odi-national-world-cinema-polity-crime-headlines-2026-11-04"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-05"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Closure",
+   "text": "The S52 Dziekanowice tunnel is closed tonight 21:00–05:00 for safety tests; detours via DW772 and al. 29 Listopada.",
+   "link": "https://krknews.pl/zamykaja-tunele-na-obwodnicy-krakowa-pierwsze-utrudnienia-juz-dzis-w-nocy/"
+  },
+  {
+   "kind": "Transit",
+   "text": "Trams were back on normal routes after Wednesday's overhead-wire break.",
+   "link": "https://krknews.pl/zerwana-siec-trakcyjna-tramwaje-od-rana-wrocily-na-swoje-trasy/"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Moderate: PM2.5 about 11.5 µg/m³ at 18:00 (IQAir). No smog alert. GIOŚ data could not be reached.",
+   "link": "https://www.iqair.com/om/poland/lesser-poland-voivodeship/krakow"
+  },
+  {
+   "kind": "Weather",
+   "text": "An IMGW first-degree dense-fog warning ran until 10:00 today; watch for rime and slippery roads overnight.",
+   "link": "https://krknews.pl/imgw-ostrzega-przed-gestymi-mglami-w-malopolsce-to-bedzie-trudna-noc/"
+  },
+  {
+   "kind": "Event",
+   "text": "11 Nov: the Independence Run starts 11:11 at Bulwar Czerwieński, and Wawel entry is free 9:00–17:00 with an online ticket. Wawel's state rooms are free all November.",
+   "link": "https://krakowportal.pl/11-listopada-krakow-2026-obchody-program/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261105-39",
+    "domain": "Defense, security & crime",
+    "text": "PiS's Błaszczak says the Democratic win kills the permanent US base; Warsaw still expects a decision in December.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45441801-republikanie-przegrali-wybory-do-kongresu-mariusz-blaszczak-stala-baza-usa-w-polsce-nie-powstanie"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/wojsko/art45384141-stala-baza-wojsk-usa-w-polsce-za-15-mld-zl-sa-cztery-lokalizacje"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261105-40",
+    "domain": "Trade & tariffs",
+    "text": "Officials say the interim deal needs no Congressional approval. Analysts are split on whether a weakened Trump speeds it up.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "PTI via Siasat; The Tribune / ANI",
+      "url": "https://www.siasat.com/midterm-results-wont-impact-india-us-interim-trade-deal-sources-3570342/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.tribuneindia.com/news/business/trumps-midterm-election-setback-may-fast-track-india-us-trade-deal-within-two-months-says-founder-gtri"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-41",
+    "domain": "Foreign relations",
+    "text": "A Modi–Trump meeting at the ASEAN summit in Manila is possible, per a single source.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "Times Kerala",
+      "url": "https://timeskerala.com/national/pm-modi-trump-meeting-asean-summit-manila-trade-talks-us-midterms/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thestar.com.my/news/world/2026/10/14/trump-to-visit-manila-in-november-for-asean-summit"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261105-42",
+    "domain": "Technology, AI & cyber",
+    "text": "CERT-In reportedly has access to Anthropic's Mythos for critical-systems security. (This desk is produced with Anthropic's Claude.)",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Elets CIO",
+      "url": "https://cio.eletsonline.com/artificial-intelligence/cert-in-anthropic-mythos-access/76713"
+     },
+     {
+      "label": "Second source",
+      "url": "https://swarajyamag.com/amp/story/tech/select-indian-agencies-and-firms-get-access-to-anthropics-mythos-ai-under-project-glasswing-report"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [
+   {
+    "id": "E-261105-44",
+    "domain": "Economy, business & markets",
+    "text": "Jitin Prasada's 12-company delegation discussed AI, chips and minerals in Warsaw; no agreements were signed.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland–India strategic partnership",
+    "links": [
+     {
+      "label": "ANI; IBG News",
+      "url": "https://aninews.in/news/business/india-poland-explore-cooperation-in-semiconductors-ai-and-critical-minerals-emerging-from-india-eu-fta20261104123646/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://ibgnews.com/2026/11/04/india-and-poland-explore-new-economic-opportunities-in-ai-semiconductors-and-critical-minerals-during-jitin-prasadas-visit/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261027-02",
+   "name": "Order: Requirement for Attestation for All Airline or Other Aircraft Passengers Arriving in the United States (Ebola, DRC)",
+   "place": "US",
+   "body": "CDC / HHS",
+   "stage": "In force",
+   "changes": "Every international air passenger to or through the US must attest to no presence in DR Congo in the past 21 days; airlines must deny boarding without the attestation.",
+   "affects": "All international air travellers to the US, including from Poland and India, and airlines.",
+   "effectiveDate": "2026-11-03",
+   "commentDeadline": "",
+   "officialLink": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html",
+   "newsLink": "https://www.paddleyourownkanoo.com/2026/10/23/cdc-will-require-all-international-air-travelers-to-fill-out-ebola-declaration-as-confirmed-deaths-top-4690/"
+  },
+  {
+   "id": "R-261105-01",
+   "name": "Bill amending PIT and CIT (2027 tax reform, resubmitted)",
+   "place": "Poland",
+   "body": "Council of Ministers / Sejm",
+   "stage": "Proposed",
+   "changes": "Raises the PIT threshold to 130k zł, adds a 24% band for 130–150k zł and 32% above that, raises the solidarity levy to 5%, sets 22% CIT for firms with revenue above €50m (banks excluded) and cuts the lump-sum tax revenue limit to €250k.",
+   "affects": "Higher earners, large companies and the self-employed on the lump-sum tax.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.wnp.pl/rynki/sejm-projekt-ustawy-zmieniajacej-m-in-progi-w-pit-i-dodajacej-nowa-stawke-skierowany-do-komisji,1116618.html"
+  },
+  {
+   "id": "R-261105-02",
+   "name": "Order cutting the residents' monthly network ticket to 90 zł (zarządzenie)",
+   "place": "Kraków",
+   "body": "Mayor of Kraków (Łukasz Gibała)",
+   "stage": "Signed / published",
+   "changes": "The residents' monthly pass for the whole network falls from 99 zł to 90 zł.",
+   "affects": "Kraków residents who buy monthly passes; they save 9 zł a month from Sep 2027.",
+   "effectiveDate": "2027-09-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://lovekrakow.pl/bilet-miesieczny-znow-za-90-zl-lukasz-gibala-zapowiada-obnizke-ale-nie-od-razu"
+  },
+  {
+   "id": "R-261105-03",
+   "name": "Viability Gap Funding scheme for grid-scale energy storage (2026-27 to 2030-31)",
+   "place": "India",
+   "body": "Union Cabinet / Ministry of Power",
+   "stage": "Passed / final",
+   "changes": "Rs 14,500 crore of central support for 92 GWh of storage (60 GWh pumped hydro, 30 GWh battery), awarded by tariff-based bidding, with 40% domestic content required for battery projects. Detailed guidelines are not yet notified.",
+   "affects": "Power distribution companies, storage developers and battery makers.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332474&reg=48&lang=1",
+   "newsLink": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/"
+  }
+ ],
+ "deepDive": {
+  "domain": "Technology, AI & cyber",
+  "title": "Hacked fridges, frontier AI and a voter backlash",
+  "body": "Technology turned up in an unusual place in all three countries this week: at the ballot box, in supermarket freezers, and in a national cyber agency's toolkit.\n\n**Poland.** Hackers took remote control of refrigeration controllers and heated units at three Auchan stores, a small grocery and a food distributor, spoiling stock (Confirmed). It is part of a wave that hit about 700 stores in France and more in Belgium, Sweden and Luxembourg. CERT Polska found 140 devices exposed to the internet. Deputy PM Gawkowski told firms to disconnect them or be publicly named, and GIS told food businesses to check temperatures by hand. Pro-Kremlin groups claimed some attacks; analysts say the methods were simple (weak passwords, old flaws) and the claims are unproven ([Salon24/money.pl](https://www.salon24.pl/newsroom/1531587,cyberatak-na-lodowki-rzad-wydal-rekomendacje-firmom)).\n\n**US.** Analysts argue that a backlash against Big Tech and data centres helped Democrats win (Reported, analysis). Chipmakers fell sharply on Nov 5 on fears of tougher AI rules. But Democrats take the committee gavels only in January, and Trump's veto points to gridlock rather than reversal ([The National](https://thenationalnews.com/future/technology/2026/11/05/data-center-bans-industrial-stocks-ai)).\n\n**India.** CERT-In has reportedly been given Anthropic's restricted Mythos model to probe critical systems, after months of talks (Reported; this desk is produced with Claude). Three home-grown models that work in Indian languages launched this week. The consent-manager phase of the data-protection rules starts on Nov 13, and MeitY's promised AI consultation paper on deepfakes and safety is now overdue ([ThePrint](https://theprint.in/india/governance/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/3065386/)).\n\n**Poland–India.** Gawkowski, who is also leading the fridge response, hosted India's Jitin Prasada for talks on AI, chips and data centres.\n\n**What to watch:** Polish attribution of the attacks, the consent-manager launch on Nov 13, and the incoming House's first bills on data centres and AI-chip exports.",
+  "links": [
+   {
+    "label": "Salon24 / money.pl",
+    "url": "https://www.salon24.pl/newsroom/1531587,cyberatak-na-lodowki-rzad-wydal-rekomendacje-firmom"
+   },
+   {
+    "label": "The National",
+    "url": "https://thenationalnews.com/future/technology/2026/11/05/data-center-bans-industrial-stocks-ai"
+   },
+   {
+    "label": "Elets CIO",
+    "url": "https://cio.eletsonline.com/artificial-intelligence/cert-in-anthropic-mythos-access/76713"
+   },
+   {
+    "label": "ThePrint",
+    "url": "https://theprint.in/india/governance/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/3065386/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261105-01",
+   "title": "Mike Johnson will not seek GOP leader as House flips",
+   "reporter": "Niels Lesniewski",
+   "outlet": "Roll Call",
+   "url": "https://rollcall.com/2026/11/04/mike-johnson-will-not-seek-gop-leader-as-house-flips/",
+   "why": "The clearest single account of the post-election power shift: the GOP succession fight, the timing of the leadership vote, and how the new majority will organise.",
+   "place": "US",
+   "domain": "Politics & government",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261105-03",
+   "title": "अग्निवीर सेवा विस्तार: नए जवान की भर्ती से कहीं महंगा है अनुभवी जवान खोना",
+   "reporter": "Ashutosh Bhatia",
+   "outlet": "Amar Ujala",
+   "url": "https://www.amarujala.com/india-news/agniveer-two-year-service-extension-indian-army-operational-needs-experienced-soldiers-2026-11-05",
+   "why": "The only detailed account of a possible major change to Agnipath just before the first batch exits. English media have not confirmed it yet, so it is a lead to follow.",
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "language": "Hindi"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-06",
+   "text": "BLS October jobs report.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-06",
+   "text": "Senate votes on the abortion bills; S&P reviews Poland's rating.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-07",
+   "text": "Green crackers allowed in Delhi-NCR (Nov 7–8 only).",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Lame-duck Congress returns (funding deadline Dec 11).",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "House GOP leadership vote; CDC entry suspensions for DRC, Uganda and South Sudan expire unless extended.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "General Assembly of Constitutional Tribunal judges.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day events; Wawel free entry.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Expected: final Mississippi and Alaska Senate counts; Nawrocki's decision on Bartol, Domański and the NBP board; Tusk–Nawrocki meeting.",
+   "place": "US"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "NBC Washington; Al Jazeera: Democrats won control of both the House and the Senate in th…",
+   "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/",
+   "paywalled": false
+  },
+  {
+   "title": "NBC Washington; Al Jazeera: Democrats won control of both the House and the Senate in th…",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News (via WFMD); ABC News: The Mississippi and Alaska Senate races were still too close…",
+   "url": "https://www.wfmd.com/2026/11/05/alaska-mississippi-senate-races-separated-by-razor-thin-vote-margins/",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News (via WFMD); ABC News: The Mississippi and Alaska Senate races were still too close…",
+   "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445",
+   "paywalled": false
+  },
+  {
+   "title": "Roll Call; Axios: Speaker Mike Johnson will not seek the post of House Republi…",
+   "url": "https://rollcall.com/2026/11/04/mike-johnson-will-not-seek-gop-leader-as-house-flips/",
+   "paywalled": false
+  },
+  {
+   "title": "Roll Call; Axios: Speaker Mike Johnson will not seek the post of House Republi…",
+   "url": "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News; Washington Post: Vice President Vance wrote that Republicans lost because of…",
+   "url": "https://www.foxnews.com/live-news/republicans-soul-search-midterms-democrats-retake-house-senate",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News; Washington Post: Vice President Vance wrote that Republicans lost because of…",
+   "url": "https://www.washingtonpost.com/politics/2026/11/03/elections-2026-live-updates-voters-head-polls-senate-house-governor-races/",
+   "paywalled": false
+  },
+  {
+   "title": "HNGN: The lame-duck Congress returns on Nov 9 facing a Dec 11 gove…",
+   "url": "https://www.hngn.com/articles/273714/20261105/lame-duck-congress-returns-funding-deadline-democrats-waiting.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News (citing Axios, FT, Reuters): The US and Iran remain far apart. Qatar is seeking backing f…",
+   "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News (citing Axios, FT, Reuters): The US and Iran remain far apart. Qatar is seeking backing f…",
+   "url": "https://foxnews.com/live-news/iran-war-news-trump-israel-elections-november-5",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo Finance; 24/7 Wall St: The Dow jumped about 1,570 points on Nov 4 and Brent fell ab…",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo Finance; 24/7 Wall St: The Dow jumped about 1,570 points on Nov 4 and Brent fell ab…",
+   "url": "https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News; KUOW: Voters in Washington and Arizona approved measures restricti…",
+   "url": "https://www.kuow.org/stories/roughly-160-ballot-initiatives-were-voted-on-this-election-here-s-what-voters-decided",
+   "paywalled": false
+  },
+  {
+   "title": "eFoodAlert: The FDA announced several recalls. Evergreen Fresh broccoli…",
+   "url": "https://efoodalert.com/2026/11/04/recalls-and-alerts-november-3-4-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Supreme Court: The Supreme Court's November sitting continued with argument…",
+   "url": "https://www.supremecourt.gov/oral_arguments/argument_calendars/MonthlyArgumentCalNovember2026.pdf",
+   "paywalled": false
+  },
+  {
+   "title": "Eckert Seamans; CDC: The CDC's Ebola attestation order took effect at 11:59pm EST…",
+   "url": "https://www.eckertseamans.com/stay-informed/blogs/aviation/cdc-requires-ebola-related-attestation-from-all-air-travelers-arriving-in-the-u-s",
+   "paywalled": false
+  },
+  {
+   "title": "Eckert Seamans; CDC: The CDC's Ebola attestation order took effect at 11:59pm EST…",
+   "url": "https://www.cdc.gov/port-health/legal-authorities/attestation-order.html",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 Biznes; PAP via Portal Samorządowy: The RPP held the reference rate at 3.75%. The new NBP projec…",
+   "url": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-w-polsce-w-listopadzie-2026-rpp-podjela-decyzje-st9321601",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 Biznes; PAP via Portal Samorządowy: The RPP held the reference rate at 3.75%. The new NBP projec…",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/glapinski-projekcja-inflacyjna-powstala-przy-zalozeniu-nieprzedluzania-programu-cpn,683163.html",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24; Euronews: The Constitutional Tribunal dispute escalated. A judges' ass…",
+   "url": "https://www.rmf24.pl/fakty/polska/news-bedzie-kolejne-zgromadzenie-sedziow-tk-korwin-piotrowska-wyd,nIdn,1024830",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24; Euronews: The Constitutional Tribunal dispute escalated. A judges' ass…",
+   "url": "https://pl.euronews.com/2026/11/04/bogdan-swieczkowski-i-bartlomiej-sochanski-wydali-oswiadczenie-pisza-o-brutalnym-bezprawny",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24; Interia: After a four-hour National Security Council meeting on Nov 3…",
+   "url": "https://tvn24.pl/polska/donald-tusk-i-karol-nawrocki-spotkaja-sie-w-cztery-oczy-reszta-jest-tajemnica-st9322626",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24; Interia: After a four-hour National Security Council meeting on Nov 3…",
+   "url": "https://wydarzenia.interia.pl/kraj/news-tusk-zabral-glos-po-rbn-jestem-gotow-na-spotkanie-w-cztery-o,nId,23568473",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita; money.pl: Tusk countersigned the president's appointment of four new N…",
+   "url": "https://www.rp.pl/banki/art45436831-jest-zgoda-donalda-tuska-dla-nowych-czlonkow-zarzadu-nbp",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita; money.pl: Tusk countersigned the president's appointment of four new N…",
+   "url": "https://www.money.pl/gospodarka/tusk-zmienil-taktyke-ale-glapinskiemu-nie-odpuscil-za-kulisami-tej-decyzji-kryje-sie-znacznie-wiecej-opinia-7347413095512544a.html",
+   "paywalled": true
+  },
+  {
+   "title": "WNP.pl (PAP); Finwire: Because of constitutional doubts over the Senate's amendment…",
+   "url": "https://www.wnp.pl/rynki/sejm-projekt-ustawy-zmieniajacej-m-in-progi-w-pit-i-dodajacej-nowa-stawke-skierowany-do-komisji,1116618.html",
+   "paywalled": false
+  },
+  {
+   "title": "WNP.pl (PAP); Finwire: Because of constitutional doubts over the Senate's amendment…",
+   "url": "https://finwire.pl/artykuly/reforma-pit-2027-sejm-od-nowa-5-listopada-drugi-prog-130-tys-zl",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia: The Senate health committee rejected PiS's motion to throw o…",
+   "url": "https://www.rynekzdrowia.pl/Prawo/Zabieg-w-ciagu-72-godzin-od-zgody-pacjentki-6-listopada-glosowanie-w-Senacie,290903,2.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News; TVN24: Tusk named KO deputy mayor Łukasz Pabiś as commissioner for…",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-05/decyzja-premiera-po-referendum-w-czestochowie-wyznaczyl-komisarza/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News; TVN24: Tusk named KO deputy mayor Łukasz Pabiś as commissioner for…",
+   "url": "https://tvn24.pl/katowice/donald-tusk-zdecydowal-kto-zostanie-komisarzem-w-czestochowie-st9323533",
+   "paywalled": false
+  },
+  {
+   "title": "Interia: Tusk says he has signed and sent the papers appointing Agnie…",
+   "url": "https://biznes.interia.pl/polityka/news-wnioski-ws-domanskiego-i-bartol-tusk-bedzie-szybka-decyzja-p,nId,23568517",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl via Salon24; Interia Geekweek: Hackers remotely took over refrigeration controllers at thre…",
+   "url": "https://www.salon24.pl/newsroom/1531587,cyberatak-na-lodowki-rzad-wydal-rekomendacje-firmom",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl via Salon24; Interia Geekweek: Hackers remotely took over refrigeration controllers at thre…",
+   "url": "https://geekweek.interia.pl/bezpieczenstwo/news-cyberataki-na-sklepy-dotarly-do-polski-puste-zamrazarki-w-ol,nId,23568344",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków: Mayor Gibała signed an order cutting the residents' monthly…",
+   "url": "https://lovekrakow.pl/bilet-miesieczny-znow-za-90-zl-lukasz-gibala-zapowiada-obnizke-ale-nie-od-razu",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków; KRKnews: Gibała will ask the city council to take Kraków out of sever…",
+   "url": "https://lovekrakow.pl/lukasz-gibala-szuka-oszczednosci-krakow-chce-wystapic-z-organizacji-i-stowarzyszen",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków; KRKnews: Gibała will ask the city council to take Kraków out of sever…",
+   "url": "https://krknews.pl/prezydent-lukasz-gibala-szuka-kolejnych-oszczednosci-krakow-mialby-zaoszczedzic-82-mln-zl-rocznie-na-skladkach/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków: Despite residents' protests, UKEN began building its shootin…",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/mimo-protestow-mieszkancow-koparki-wjechaly-do-bronowic-uken-buduje-strzelnice/187264",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews: The Border Guard stopped a 38-year-old Ukrainian in central…",
+   "url": "https://krknews.pl/ukrainiec-zatrzymany-w-centrum-krakowa-musi-opuscic-polske-osoba-niepozadana/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków: Kraków prosecutors say the most likely explanation of July's…",
+   "url": "https://lovekrakow.pl/tragedia-w-skawinie-prokuratura-ujawnia-nowe-ustalenia",
+   "paywalled": false
+  },
+  {
+   "title": "PIB; Vajiram & Ravi: On Nov 4 the Union Cabinet approved Rs 14,500 crore of viabi…",
+   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332474&reg=48&lang=1",
+   "paywalled": false
+  },
+  {
+   "title": "PIB; Vajiram & Ravi: On Nov 4 the Union Cabinet approved Rs 14,500 crore of viabi…",
+   "url": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/",
+   "paywalled": false
+  },
+  {
+   "title": "The Logical Indian (citing PIB): The Cabinet extended the fast-track special courts scheme fo…",
+   "url": "https://thelogicalindian.com/cabinet-fast-track-courts-132985/",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw: The Supreme Court issued notice on RJD MP Manoj Jha's challe…",
+   "url": "https://www.livelaw.in/amp/top-stories/livelaw-breaking-news-alerts-04-november-2026-557229",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw: The Supreme Court issued notice on RJD MP Manoj Jha's challe…",
+   "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-4-2026-557375",
+   "paywalled": false
+  },
+  {
+   "title": "Amar Ujala (with ANI): At a Congress protest in Bengaluru, Siddaramaiah demanded th…",
+   "url": "https://www.amarujala.com/india-news/karnataka-sir-row-siddaramaiah-demands-cec-resignation-2026-11-05",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook; Amar Ujala: Amit Shah and Nirmala Sitharaman challenged Rahul Gandhi to…",
+   "url": "https://www.outlookindia.com/national/amit-shah-offers-special-parliament-session-on-vote-chori-says-rahul-gandhi-wont-agree",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook; Amar Ujala: Amit Shah and Nirmala Sitharaman challenged Rahul Gandhi to…",
+   "url": "https://www.amarujala.com/india-news/today-top-news-delhi-pollution-us-israel-poll-result-ind-v-nz-odi-national-world-cinema-polity-crime-headlines-2026-11-04",
+   "paywalled": false
+  },
+  {
+   "title": "Amar Ujala: Amar Ujala reports that the CDS has announced a two-year ext…",
+   "url": "https://www.amarujala.com/india-news/agniveer-two-year-service-extension-indian-army-operational-needs-experienced-soldiers-2026-11-05",
+   "paywalled": false
+  },
+  {
+   "title": "Amar Ujala: India launched three indigenous AI models (EKA-1, Dhir 2B an…",
+   "url": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-11-05",
+   "paywalled": false
+  },
+  {
+   "title": "Anantam IAS; Amar Ujala: Delhi's air quality worsened, with stubble smoke the main ca…",
+   "url": "https://anantamias.com/current-affairs/sc-permits-green-crackers-for-two-days-in-delhi-ncr/",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita: PiS's Mariusz Błaszczak told RMF FM that the projected Democ…",
+   "url": "https://www.rp.pl/polityka/art45441801-republikanie-przegrali-wybory-do-kongresu-mariusz-blaszczak-stala-baza-usa-w-polsce-nie-powstanie",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita: PiS's Mariusz Błaszczak told RMF FM that the projected Democ…",
+   "url": "https://www.rp.pl/wojsko/art45384141-stala-baza-wojsk-usa-w-polsce-za-15-mld-zl-sa-cztery-lokalizacje",
+   "paywalled": true
+  },
+  {
+   "title": "PTI via Siasat; The Tribune / ANI: PTI, citing unnamed sources, says the midterm results will n…",
+   "url": "https://www.siasat.com/midterm-results-wont-impact-india-us-interim-trade-deal-sources-3570342/",
+   "paywalled": false
+  },
+  {
+   "title": "PTI via Siasat; The Tribune / ANI: PTI, citing unnamed sources, says the midterm results will n…",
+   "url": "https://www.tribuneindia.com/news/business/trumps-midterm-election-setback-may-fast-track-india-us-trade-deal-within-two-months-says-founder-gtri",
+   "paywalled": false
+  },
+  {
+   "title": "Times Kerala: Diplomatic sources say Modi and Trump may meet on the sideli…",
+   "url": "https://timeskerala.com/national/pm-modi-trump-meeting-asean-summit-manila-trade-talks-us-midterms/",
+   "paywalled": false
+  },
+  {
+   "title": "Times Kerala: Diplomatic sources say Modi and Trump may meet on the sideli…",
+   "url": "https://www.thestar.com.my/news/world/2026/10/14/trump-to-visit-manila-in-november-for-asean-summit",
+   "paywalled": false
+  },
+  {
+   "title": "Elets CIO: IT ministry sources say CERT-In now has access to Anthropic'…",
+   "url": "https://cio.eletsonline.com/artificial-intelligence/cert-in-anthropic-mythos-access/76713",
+   "paywalled": false
+  },
+  {
+   "title": "Elets CIO: IT ministry sources say CERT-In now has access to Anthropic'…",
+   "url": "https://swarajyamag.com/amp/story/tech/select-indian-agencies-and-firms-get-access-to-anthropics-mythos-ai-under-project-glasswing-report",
+   "paywalled": false
+  },
+  {
+   "title": "InsightsIAS: The fifth India–US tri-service disaster-relief exercise, Tig…",
+   "url": "https://www.insightsonindia.com/2026/11/04/upsc-current-affairs-4-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI; IBG News: Indian Minister of State for Commerce Jitin Prasada led a 12…",
+   "url": "https://aninews.in/news/business/india-poland-explore-cooperation-in-semiconductors-ai-and-critical-minerals-emerging-from-india-eu-fta20261104123646/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI; IBG News: Indian Minister of State for Commerce Jitin Prasada led a 12…",
+   "url": "https://ibgnews.com/2026/11/04/india-and-poland-explore-new-economic-opportunities-in-ai-semiconductors-and-critical-minerals-during-jitin-prasadas-visit/",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://thenationalnews.com/future/technology/2026/11/05/data-center-bans-industrial-stocks-ai",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/india/governance/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/3065386/",
+   "paywalled": false
+  },
+  {
+   "title": "Closure",
+   "url": "https://krknews.pl/zamykaja-tunele-na-obwodnicy-krakowa-pierwsze-utrudnienia-juz-dzis-w-nocy/",
+   "paywalled": false
+  },
+  {
+   "title": "Transit",
+   "url": "https://krknews.pl/zerwana-siec-trakcyjna-tramwaje-od-rana-wrocily-na-swoje-trasy/",
+   "paywalled": false
+  },
+  {
+   "title": "Air quality",
+   "url": "https://www.iqair.com/om/poland/lesser-poland-voivodeship/krakow",
+   "paywalled": false
+  },
+  {
+   "title": "Weather",
+   "url": "https://krknews.pl/imgw-ostrzega-przed-gestymi-mglami-w-malopolsce-to-bedzie-trudna-noc/",
+   "paywalled": false
+  },
+  {
+   "title": "Event",
+   "url": "https://krakowportal.pl/11-listopada-krakow-2026-obchody-program/",
+   "paywalled": false
+  }
+ ]
+}
