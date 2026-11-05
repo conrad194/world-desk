@@ -1271,6 +1271,18 @@
    "lean": "local / centre",
    "status": "Watch",
    "dateAdded": "2026-11-05"
+  },
+  {
+   "id": "amar-ujala",
+   "name": "Amar Ujala",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National and Hindi-belt news",
+   "language": "Hindi",
+   "url": "https://www.amarujala.com/",
+   "lean": "centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-05"
   }
  ]
 }

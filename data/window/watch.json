@@ -615,6 +615,50 @@
    "checkDate": "2026-11-25",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261105-09",
+   "dateAdded": "2026-11-05",
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "what": "Official confirmation (PIB or Defence Ministry) of the two-year Agniveer extension before the first batch exits on Nov 21.",
+   "expected": "Amar Ujala reports a CDS announcement; a Nov 2 report said a draft awaited Cabinet approval",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261105-10",
+   "dateAdded": "2026-11-05",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Supreme Court hearing on the pleas against CEC Gyanesh Kumar after rejoinders to the ECI affidavit.",
+   "expected": "WION: deferred 10 days, likely listed around Nov 17",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261105-11",
+   "dateAdded": "2026-11-05",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "what": "DPDP Rules: consent-manager provisions take effect.",
+   "expected": "DPDP Rules phase-two timetable (Compliance Hub)",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261105-12",
+   "dateAdded": "2026-11-05",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "what": "MeitY's AI-regulation consultation paper on safety and deepfakes.",
+   "expected": "Ashwini Vaishnaw said on Oct 8 it would come within a month (ThePrint)",
+   "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

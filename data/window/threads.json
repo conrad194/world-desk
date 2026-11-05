@@ -247,6 +247,14 @@
    "domain": "Technology, AI & cyber",
    "status": "Active",
    "summary": "Attacks on Polish companies and utilities, including industrial control systems, with CERT Polska and Digital Affairs Ministry responses."
+  },
+  {
+   "id": "agnipath-and-agniveer-retention",
+   "name": "Agnipath and Agniveer retention",
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "Active",
+   "summary": "What happens to the first Agniveer batch, which finishes its four-year term on Nov 21, 2026: extensions, retention rates and the future of the scheme."
   }
  ]
 }
