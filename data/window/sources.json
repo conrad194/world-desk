@@ -1331,6 +1331,18 @@
    "lean": "centrist (Malayala Manorama group)",
    "status": "Watch",
    "dateAdded": "2026-11-06"
+  },
+  {
+   "id": "portal-samorzadowy-pap-wire",
+   "name": "Portal Samorządowy (PAP wire)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Republishes PAP wire copy quickly, incl. defence and US–Poland",
+   "language": "Polish",
+   "url": "https://www.portalsamorzadowy.pl",
+   "lean": "Neutral (wire)",
+   "status": "Watch",
+   "dateAdded": "2026-11-06"
   }
  ]
 }
