@@ -117,8 +117,8 @@
    "what": "Possible new US strikes on Iran.",
    "expected": "NIAC, CNN (US officials: operations possible within 96 hours of an order), Al Jazeera. A possible renewed US strike campaign on Iran after the 3 Nov US midterms. The White House has said there will be no attack before the vote, and a third carrier group is heading to the region.",
    "checkDate": "2026-11-04",
-   "happened": "No new US strikes on Iran were reported by 5 Nov; after the midterms Trump said he had no immediate plans to strike but was ready to escalate. ([gCaptain/Bloomberg](https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/))",
-   "eventId": "E-261105-07"
+   "happened": "Yes, limited: US forces struck Qeshm Island on 2 Nov after the IRGC fired on a US aircraft, per US officials. After the midterms Trump said he had no immediate plans for more strikes. ([CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/))",
+   "eventId": "E-261106-04"
   },
   {
    "id": "W-261025-13",
