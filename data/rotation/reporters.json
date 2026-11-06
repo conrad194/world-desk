@@ -545,6 +545,48 @@
    "trackRecord": "Covers Cuba's energy crisis and blackouts for Infobae's Cuba desk, citing EFE and official data.",
    "dateAdded": "2026-11-05",
    "status": "Watch"
+  },
+  {
+   "id": "haru-mutasa",
+   "name": "Haru Mutasa",
+   "segment": "Africa",
+   "countries": "South Africa, Zimbabwe, southern Africa",
+   "languages": "English",
+   "outlets": "Al Jazeera English",
+   "basedIn": "Johannesburg",
+   "slant": "Mainstream international broadcaster",
+   "url": "https://www.aljazeera.com/author/haru-mutasa",
+   "trackRecord": "Long-time Al Jazeera southern Africa correspondent; on the ground for the 2026 local elections.",
+   "dateAdded": "2026-11-06",
+   "status": "Watch"
+  },
+  {
+   "id": "patrick-ilunga",
+   "name": "Patrick Ilunga",
+   "segment": "Africa",
+   "countries": "DR Congo",
+   "languages": "French, English",
+   "outlets": "The EastAfrican (Nation Media Group)",
+   "basedIn": "Kinshasa",
+   "slant": "Regional business/political press",
+   "url": "https://www.theeastafrican.co.ke/",
+   "trackRecord": "Kinshasa-based contributor covering DRC politics and the eastern conflict.",
+   "dateAdded": "2026-11-06",
+   "status": "Watch"
+  },
+  {
+   "id": "alex-macdonald",
+   "name": "Alex MacDonald",
+   "segment": "Africa",
+   "countries": "Western Sahara, North Africa, Middle East",
+   "languages": "English, Arabic",
+   "outlets": "Middle East Eye",
+   "basedIn": "London",
+   "slant": "Outlet often critical of Gulf states and Morocco",
+   "url": "https://www.middleeasteye.net/users/alex-macdonald",
+   "trackRecord": "Senior MEE reporter; interviewed Polisario leadership after MINURSO lapsed.",
+   "dateAdded": "2026-11-06",
+   "status": "Watch"
   }
  ]
 }

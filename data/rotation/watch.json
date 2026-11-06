@@ -389,6 +389,26 @@
    "checkDate": "2026-11-08",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261106-01",
+   "dateAdded": "2026-11-06",
+   "segment": "Africa",
+   "what": "South Africa: official [[p:Electoral Commission of South Africa|IEC]] results of the 4 Nov local elections, then coalition talks in Johannesburg, Tshwane and eThekwini.",
+   "expected": "The IEC says it will announce official results on Sunday 8 Nov.",
+   "checkDate": "2026-11-08",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-02",
+   "dateAdded": "2026-11-06",
+   "segment": "Africa",
+   "what": "Mekelle: deadline for handing in unlicensed firearms, followed by house-to-house searches.",
+   "expected": "Announced by the federal army (ENDF), reported by Wazema Radio: three days from the 7 Nov curfew.",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
