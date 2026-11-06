@@ -1319,6 +1319,18 @@
    "lean": "unclear",
    "status": "Watch",
    "dateAdded": "2026-11-06"
+  },
+  {
+   "id": "the-week",
+   "name": "The Week",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National politics, courts",
+   "language": "English",
+   "url": "https://theweek.in/",
+   "lean": "centrist (Malayala Manorama group)",
+   "status": "Watch",
+   "dateAdded": "2026-11-06"
   }
  ]
 }

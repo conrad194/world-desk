@@ -625,7 +625,7 @@
    "expected": "Amar Ujala reports a CDS announcement; a Nov 2 report said a draft awaited Cabinet approval",
    "checkDate": "2026-11-21",
    "happened": "Yes. The Union Cabinet approved the two-year 'Second Tour of Duty' on Nov 4, and Defence Minister Rajnath Singh announced it (ANI: https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/). No PIB text was checked.",
-   "eventId": ""
+   "eventId": "E-261106-43"
   },
   {
    "id": "W-261105-10",
@@ -778,6 +778,39 @@
    "what": "Culture committee chair Mazurkiewicz's resolution asking the mayor to keep the Music Centre in the hands of cultural institutions",
    "expected": "Announced at the 5 Nov public hearing (LoveKraków); could reach the 18 Nov session",
    "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-12",
+   "dateAdded": "2026-11-06",
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "what": "Formal notification or operating rules (pay, Seva Nidhi, selection) for the Agniveer second tour of duty before the first batch exits.",
+   "expected": "The first batch's four-year term ends Nov 21. ANI and NenNow report no effective date yet.",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-13",
+   "dateAdded": "2026-11-06",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Supreme Court's next hearing in the Delhi-NCR air-pollution case: further orders on vehicle emissions and the plea on school closures at high AQI.",
+   "expected": "CJI Surya Kant's bench listed it after the Diwali vacation (Open Magazine).",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-14",
+   "dateAdded": "2026-11-06",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Whether the Panchayati Raj Ministry formally issues guidance requiring EPIC (voter ID) for panchayat-scheme beneficiaries.",
+   "expected": "Lalan Singh announced it on Nov 6 at the Jan Yojana Abhiyaan workshop (IANS).",
+   "checkDate": "2026-11-20",
    "happened": "",
    "eventId": ""
   }
