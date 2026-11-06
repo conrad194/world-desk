@@ -1283,6 +1283,30 @@
    "lean": "centre",
    "status": "Watch",
    "dateAdded": "2026-11-05"
+  },
+  {
+   "id": "decision-desk-hq-results",
+   "name": "Decision Desk HQ results",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Live vote counts for uncalled races",
+   "language": "English",
+   "url": "https://votes.decisiondeskhq.com/",
+   "lean": "Center",
+   "status": "Watch",
+   "dateAdded": "2026-11-06"
+  },
+  {
+   "id": "wlox-wdam-gray-tv-mississippi",
+   "name": "WLOX / WDAM (Gray TV Mississippi)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Mississippi Senate count and ballot disputes",
+   "language": "English",
+   "url": "https://www.wlox.com/",
+   "lean": "Center",
+   "status": "Watch",
+   "dateAdded": "2026-11-06"
   }
  ]
 }

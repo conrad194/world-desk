@@ -64,7 +64,7 @@
    "expected": "Thursday Oct 29 (Gray DC)",
    "checkDate": "2026-10-29",
    "happened": "Judge Trevor McFadden set jury selection in Cole Tomas Allen's trial for Sept 7, 2027, with the trial expected to last up to four weeks (AP via KTVU, Oct 30). https://www.ktvu.com/news/trial-date-set-white-house-correspondents-dinner-shooting-suspect",
-   "eventId": ""
+   "eventId": "E-261106-11"
   },
   {
    "id": "W-261026-07",
@@ -657,6 +657,39 @@
    "what": "MeitY's AI-regulation consultation paper on safety and deepfakes.",
    "expected": "Ashwini Vaishnaw said on Oct 8 it would come within a month (ThePrint)",
    "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-01",
+   "dateAdded": "2026-11-06",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Alaska Senate ranked-choice tabulation (Peltola v. Sullivan)",
+   "expected": "Alaska Division of Elections, Nov 18 (SAN)",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-02",
+   "dateAdded": "2026-11-06",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Whether Hyde-Smith or the GOP file a lawsuit or contest over Mississippi affidavit ballots, and the Nov 13 county certification",
+   "expected": "WDAM: cure deadline Nov 10, certification Nov 13; MS GOP chair Hurst threatens legal action",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-03",
+   "dateAdded": "2026-11-06",
+   "place": "US",
+   "domain": "Foreign relations",
+   "what": "Trump's decision on resuming strikes on Iran versus a deal, and the US response to Iran's reported nuclear proposal sent through Qatar",
+   "expected": "Trump on Nov 5 said a decision is coming 'soon'",
+   "checkDate": "2026-11-12",
    "happened": "",
    "eventId": ""
   }

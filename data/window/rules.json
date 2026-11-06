@@ -271,6 +271,38 @@
    "newsLink": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/",
    "eventId": "E-261105-28",
    "lastChecked": "2026-11-06"
+  },
+  {
+   "id": "R-261106-01",
+   "dateLogged": "2026-11-06",
+   "place": "US",
+   "body": "President / Commerce / USTR",
+   "name": "Adjusting Imports of Robotics and Industrial Machinery (Section 232)",
+   "changes": "Finds that robotics and industrial-machinery imports threaten national security, imposes no tariffs yet, and orders negotiations with a status report by Apr 26, 2027.",
+   "affects": "Manufacturers that import industrial robots and machinery, and foreign suppliers (EU and Asia).",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.whitehouse.gov/presidential-actions",
+   "newsLink": "https://www.tradecomplianceresourcehub.com/2026/11/03/trump-2-0-tariff-tracker/",
+   "eventId": "E-261106-14",
+   "lastChecked": "2026-11-06"
+  },
+  {
+   "id": "R-261106-02",
+   "dateLogged": "2026-11-06",
+   "place": "US",
+   "body": "President / Interior",
+   "name": "Proclamation establishing the Oval Office National Monument",
+   "changes": "Makes the Oval Office, the Outer Oval Office and the Cabinet Room a national monument under the Antiquities Act. Interior must document, review and consider alternatives before any major alteration or demolition.",
+   "affects": "Future presidents and White House renovation plans.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-05",
+   "officialLink": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
+   "newsLink": "https://spectrumlocalnews.com/us/snplus/politics/2026/11/05/oval-office-cabinet-room-president-donald-trump",
+   "eventId": "E-261106-04",
+   "lastChecked": "2026-11-06"
   }
  ]
 }
