@@ -132,25 +132,6 @@
     "paywalled": false
    },
    {
-    "id": "E-261106-10",
-    "domain": "Technology, AI & cyber",
-    "text": "Governors-elect in Texas, Ohio and Georgia have promised data-centre moratoriums or pauses, which investors cite for the chip sell-off.",
-    "tier": 2,
-    "verification": "Reported",
-    "thread": "US economy and markets",
-    "links": [
-     {
-      "label": "Tech Times",
-      "url": "https://www.techtimes.com/articles/330166/20261106/nasdaq-plunges-over-5-data-center-ban-fears-texas-froze-approvals-before-gina-hinojosa-won.htm"
-     },
-     {
-      "label": "Second source",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
-     }
-    ],
-    "paywalled": false
-   },
-   {
     "id": "E-261106-05",
     "domain": "Foreign relations",
     "text": "Trump said the US may have to destroy the rest of Iran and a decision is near; he phoned Qatar's emir on Nov 6. Al Jazeera reports an Iranian nuclear proposal via Qatar.",
@@ -262,25 +243,6 @@
      {
       "label": "Rzeczpospolita",
       "url": "https://www.rp.pl/polityka/art45453691-liderzy-psl-i-konfederacji-rozmawiali-o-resecie-w-trybunale-konstytucyjnym-idzie-ku-dobremu"
-     }
-    ],
-    "paywalled": false
-   },
-   {
-    "id": "E-261106-25",
-    "domain": "Health, medicine & food safety",
-    "text": "Senate committees backed amending the night alcohol-sales ban (22:00–06:00), including a June 2027 start; the plenary result is unconfirmed.",
-    "tier": 1,
-    "verification": "Reported",
-    "thread": "",
-    "links": [
-     {
-      "label": "Rynek Zdrowia",
-      "url": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html"
-     },
-     {
-      "label": "Spider's Web Bizblog",
-      "url": "https://bizblog.spidersweb.pl/alkohol-zakaz-reklamy-i-sprzedazy-w-nocy-poparl-senat"
      }
     ],
     "paywalled": false
@@ -999,11 +961,6 @@
    "paywalled": false
   },
   {
-   "title": "Tech Times",
-   "url": "https://www.techtimes.com/articles/330166/20261106/nasdaq-plunges-over-5-data-center-ban-fears-texas-froze-approvals-before-gina-hinojosa-won.htm",
-   "paywalled": false
-  },
-  {
    "title": "Gulf News",
    "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
    "paywalled": false
@@ -1061,16 +1018,6 @@
   {
    "title": "Rzeczpospolita",
    "url": "https://www.rp.pl/polityka/art45453691-liderzy-psl-i-konfederacji-rozmawiali-o-resecie-w-trybunale-konstytucyjnym-idzie-ku-dobremu",
-   "paywalled": false
-  },
-  {
-   "title": "Rynek Zdrowia",
-   "url": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
-   "paywalled": false
-  },
-  {
-   "title": "Spider's Web Bizblog",
-   "url": "https://bizblog.spidersweb.pl/alkohol-zakaz-reklamy-i-sprzedazy-w-nocy-poparl-senat",
    "paywalled": false
   },
   {
