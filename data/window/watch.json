@@ -758,6 +758,28 @@
    "checkDate": "2026-11-27",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261106-10",
+   "dateAdded": "2026-11-06",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "City Council vote on freezing SCT entry fees for 2027-2028 at 100 zł a month",
+   "expected": "Consultations run 6-27 Nov, then the draft goes to the council in December (city / CoWKrakowie)",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-11",
+   "dateAdded": "2026-11-06",
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "what": "Culture committee chair Mazurkiewicz's resolution asking the mayor to keep the Music Centre in the hands of cultural institutions",
+   "expected": "Announced at the 5 Nov public hearing (LoveKraków); could reach the 18 Nov session",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

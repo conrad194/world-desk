@@ -1307,6 +1307,18 @@
    "lean": "Center",
    "status": "Watch",
    "dateAdded": "2026-11-06"
+  },
+  {
+   "id": "kurier-krakowski-kk24-info",
+   "name": "Kurier Krakowski (kk24.info)",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Kraków city politics",
+   "language": "Polish",
+   "url": "https://kk24.info/",
+   "lean": "unclear",
+   "status": "Watch",
+   "dateAdded": "2026-11-06"
   }
  ]
 }
