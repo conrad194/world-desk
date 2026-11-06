@@ -52,17 +52,17 @@
    "id": "R-261026-04",
    "dateLogged": "2026-10-26",
    "place": "US",
-   "body": "President / Commerce",
-   "name": "Adjusting Imports of Wind Turbines and Their Parts and Components (Section 232)",
-   "changes": "Section 232 import adjustment (tariffs) on wind turbines and parts; details not verified.",
-   "affects": "Wind developers, turbine importers, utilities.",
+   "body": "President / Commerce / USTR",
+   "name": "Adjusting Imports of Wind Turbines and Their Parts and Components (Section 232), Proclamation 11074",
+   "changes": "This corrects the earlier entry: the Oct 22 proclamation finds that wind-turbine imports threaten national security but imposes NO new tariffs or quotas. Commerce and USTR must negotiate with trading partners and report within 180 days (about Apr 20, 2027). Tariffs could follow if talks fail. Existing steel, aluminium and copper Section 232 duties are unchanged.",
+   "affects": "Wind developers and turbine importers (no immediate cost change).",
    "stage": "Signed / published",
    "commentDeadline": "",
    "effectiveDate": "",
    "officialLink": "https://www.whitehouse.gov/presidential-actions",
-   "newsLink": "",
+   "newsLink": "https://www.troutman.com/insights/wind-turbines-get-a-section-232-warning-shot-talks-now-tariffs-possibly-later/",
    "eventId": "E-261026-09",
-   "lastChecked": "2026-10-26"
+   "lastChecked": "2026-11-06"
   },
   {
    "id": "R-261026-05",
@@ -70,15 +70,15 @@
    "place": "Poland",
    "body": "Sejm / Senate",
    "name": "PIT/CIT tax reform for 2027 (government bill as amended by the Sejm)",
-   "changes": "The bill raises the first PIT threshold from 120k to 130k zł and adds a 24% rate between 130k and 150k zł. It also raises the solidarity levy to 5% and lowers the lump-sum revenue limit. The Sejm added annual indexation of thresholds from 2028 and removed the planned CIT rise to 22% for the largest firms. The government wants the Senate to reverse both changes. The bill has passed the Sejm and sits with the Senate, which has 30 days.",
-   "affects": "About 3.5 million PIT payers earning more than 120k zł, the largest companies (revenue above €50m), and the public finances.",
-   "stage": "Proposed",
+   "changes": "Superseded. Over constitutional doubts, the Sejm did not vote on the Senate's Oct 27 amendments to this bill, and the government resubmitted the reform as a new bill (R-261105-01), which both chambers have now passed.",
+   "affects": "Same groups as R-261105-01.",
+   "stage": "Struck down / withdrawn",
    "commentDeadline": "",
    "effectiveDate": "2027-01-01",
    "officialLink": "",
-   "newsLink": "https://xyz.pl/nanoanalizy/dwie-poprawki-miliardy-mniej-w-budzecie-sejm-zmienil-bilans-reformy-podatkowej-1409",
+   "newsLink": "https://www.prawo.pl/podatki/sejm-ponownie-uchwalil-zmiany-w-pit-i-cit,1556805.html",
    "eventId": "E-261027-21",
-   "lastChecked": "2026-10-27"
+   "lastChecked": "2026-11-06"
   },
   {
    "id": "R-261026-06",
@@ -86,15 +86,15 @@
    "place": "Poland",
    "body": "Sejm / Senate / President",
    "name": "Bill restoring abortion for severe foetal defects; Criminal Code amendment partially decriminalising abortion assistance",
-   "changes": "The first bill restores legal abortion where tests show a severe, irreversible foetal defect or an incurable life-threatening disease, reversing the 2020 Constitutional Tribunal ruling. The second removes up to 3 years' prison for helping with or encouraging an abortion and protects medical staff in these cases. Both passed the Sejm on 20 October and await the Senate, then the President, who is widely expected to veto.",
+   "changes": "On Nov 6 the Senate passed both bills without amendments (58–33–3 and 56–34–0). They now await President Nawrocki's signature or veto.",
    "affects": "Pregnant women, doctors, nurses and midwives, and anyone helping a woman obtain an abortion.",
-   "stage": "Proposed",
+   "stage": "Passed / final",
    "commentDeadline": "",
    "effectiveDate": "",
    "officialLink": "",
-   "newsLink": "https://tvn24.pl/polska/ustawy-w-sprawie-aborcji-jest-decyzja-sejmu-st9297226",
+   "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html",
    "eventId": "E-261026-16",
-   "lastChecked": "2026-10-26"
+   "lastChecked": "2026-11-06"
   },
   {
    "id": "R-261026-07",
@@ -228,17 +228,17 @@
    "id": "R-261105-01",
    "dateLogged": "2026-11-05",
    "place": "Poland",
-   "body": "Council of Ministers / Sejm",
+   "body": "Sejm / Senate / President",
    "name": "Bill amending PIT and CIT (2027 tax reform, resubmitted)",
-   "changes": "Raises the PIT threshold to 130k zł, adds a 24% band for 130–150k zł and 32% above that, raises the solidarity levy to 5%, sets 22% CIT for firms with revenue above €50m (banks excluded) and cuts the lump-sum tax revenue limit to €250k.",
-   "affects": "Higher earners, large companies and the self-employed on the lump-sum tax.",
-   "stage": "Proposed",
+   "changes": "Passed by the Sejm on Nov 5 (236–207) and by the Senate on Nov 6 without amendments (63–31–1). It adds a 24% PIT band for income of 130–150k zł and keeps 32% above that, sets 22% CIT for firms with revenue above €50m, raises the solidarity levy to 5% and cuts the lump-sum (ryczałt) limit to €250k. It awaits the President's signature (21 days) and must be published by end-November to apply in 2027.",
+   "affects": "Higher earners, the largest companies and the self-employed on the lump-sum tax.",
+   "stage": "Passed / final",
    "commentDeadline": "",
    "effectiveDate": "2027-01-01",
    "officialLink": "",
-   "newsLink": "https://www.wnp.pl/rynki/sejm-projekt-ustawy-zmieniajacej-m-in-progi-w-pit-i-dodajacej-nowa-stawke-skierowany-do-komisji,1116618.html",
+   "newsLink": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html",
    "eventId": "E-261105-18",
-   "lastChecked": "2026-11-05"
+   "lastChecked": "2026-11-06"
   },
   {
    "id": "R-261105-02",
@@ -262,7 +262,7 @@
    "place": "India",
    "body": "Union Cabinet / Ministry of Power",
    "name": "Viability Gap Funding scheme for grid-scale energy storage (2026-27 to 2030-31)",
-   "changes": "Rs 14,500 crore of central support for 92 GWh of storage (60 GWh pumped hydro, 30 GWh battery), awarded by tariff-based bidding, with 40% domestic content required for battery projects. Detailed guidelines are not yet notified.",
+   "changes": "No change found as of Nov 6: detailed guidelines are still not notified.",
    "affects": "Power distribution companies, storage developers and battery makers.",
    "stage": "Passed / final",
    "commentDeadline": "",
@@ -270,7 +270,7 @@
    "officialLink": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332474&reg=48&lang=1",
    "newsLink": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/",
    "eventId": "E-261105-28",
-   "lastChecked": "2026-11-05"
+   "lastChecked": "2026-11-06"
   }
  ]
 }

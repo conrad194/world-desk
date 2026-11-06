@@ -63,7 +63,7 @@
    "what": "Status conference for Cole Tomas Allen, accused of the White House Correspondents' Dinner shooting, to set a trial date",
    "expected": "Thursday Oct 29 (Gray DC)",
    "checkDate": "2026-10-29",
-   "happened": "",
+   "happened": "Judge Trevor McFadden set jury selection in Cole Tomas Allen's trial for Sept 7, 2027, with the trial expected to last up to four weeks (AP via KTVU, Oct 30). https://www.ktvu.com/news/trial-date-set-white-house-correspondents-dinner-shooting-suspect",
    "eventId": ""
   },
   {
@@ -129,7 +129,7 @@
    "what": "The Senate votes on the two abortion bills, then the President decides whether to sign or veto.",
    "expected": "The KO MP (Polsat) expects a veto. The Senate sitting date is not yet confirmed.",
    "checkDate": "2026-11-15",
-   "happened": "",
+   "happened": "On Nov 6 the Senate passed both abortion bills without amendments (58–33–3; 56–34). They now go to President Nawrocki, whose decision is still pending. https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html",
    "eventId": "E-261026-16"
   },
   {
@@ -138,8 +138,8 @@
    "place": "Poland",
    "domain": "Defense, security & crime",
    "what": "The 'coalition of the willing' exercise takes place in Poland and the Black Sea region. Watch for exact dates and Polish participation.",
-   "expected": "November 2026, per Polsat citing DW and The Times.",
-   "checkDate": "2026-11-10",
+   "expected": "Confirmed: KOALICJA 26.2 runs Nov 9–22, mainly in Podkarpacie, about 2,800 troops from 11 countries; demonstration day at Nowa Dęba on Nov 20 (Spider's Web, Nov 6).",
+   "checkDate": "2026-11-20",
    "happened": "",
    "eventId": "E-261026-19"
   },
@@ -325,8 +325,8 @@
    "place": "US–Poland",
    "domain": "Defense, security & crime",
    "what": "Rescheduled Kosiniak-Kamysz–Hegseth Pentagon meeting (postponed in September at US request)",
-   "expected": "WP sources: October or November",
-   "checkDate": "2026-11-15",
+   "expected": "Kosiniak-Kamysz (Nov 6, PAP): Pentagon meeting with Hegseth early next week 'if all goes well'; dates not published",
+   "checkDate": "2026-11-11",
    "happened": "",
    "eventId": ""
   },
@@ -346,7 +346,7 @@
    "dateAdded": "2026-10-27",
    "place": "US",
    "domain": "Technology, AI & cyber",
-   "what": "Anthropic IPO roadshow, price range and Nasdaq listing (ticker ANT)",
+   "what": "Anthropic IPO roadshow, price range and Nasdaq listing (ticker ANT). As of Nov 5 the S-1/A still had no price range. The roadshow could start the week of Nov 9 (Bloomberg, relayed), with first trading reported for Nov 19-26.",
    "expected": "WSJ sources via TNW: listing possibly the week of Nov 16",
    "checkDate": "2026-11-16",
    "happened": "",
@@ -435,8 +435,8 @@
    "place": "Kraków",
    "domain": "Economy, business & markets",
    "what": "Councillor Michał Starobrat's plan to close the roughly 390 million zł gap in this year's current spending without new debt",
-   "expected": "Gibała gave him two weeks from about 23 October (KRKnews, 23 October).",
-   "checkDate": "2026-11-06",
+   "expected": "No formal plan as of Nov 6. In a Nov 4 interview Starobrat listed ideas: 10–12m zł from promotion, ~2m zł from cutting departments, possible cuts to sport, culture and NGO funding (Kurier Krakowski citing Gazeta Krakowska). Next council session Nov 18.",
+   "checkDate": "2026-11-18",
    "happened": "",
    "eventId": ""
   },
@@ -533,9 +533,9 @@
    "dateAdded": "2026-11-05",
    "place": "US",
    "domain": "Politics & government",
-   "what": "Final results in the Mississippi (Colom v. Hyde-Smith) and Alaska (Peltola v. Sullivan) Senate races, including any legal challenge in Mississippi.",
+   "what": "Final results in the Mississippi (Colom v. Hyde-Smith) and Alaska (Peltola v. Sullivan) Senate races. Mississippi: Hyde-Smith and the NRSC have demanded that affidavit ballots be kept separate, and Colom calls that unlawful. Affidavit cure deadline Nov 10, county certification Nov 13. Alaska: ranked-choice tabulation Nov 18.",
    "expected": "State election officials; Mississippi accepts mail ballots arriving up to about Nov 10 (ABC News)",
-   "checkDate": "2026-11-12",
+   "checkDate": "2026-11-18",
    "happened": "",
    "eventId": ""
   },
@@ -567,7 +567,7 @@
    "place": "Poland",
    "domain": "Politics & government",
    "what": "Tusk–Nawrocki one-on-one meeting after the National Security Council, and whether it eases the Constitutional Tribunal dispute.",
-   "expected": "Presidential spokesman Leśkiewicz: soon, possibly not this week (TVN24)",
+   "expected": "No date as of Nov 6; Tusk said the Palace had given no signal (WP).",
    "checkDate": "2026-11-12",
    "happened": "",
    "eventId": ""
@@ -591,7 +591,7 @@
    "what": "The resubmitted PIT/CIT bill must pass the Sejm and Senate in time to take effect on Jan 1, 2027.",
    "expected": "Finwire/PAP: it must clear both chambers in their current sittings",
    "checkDate": "2026-11-20",
-   "happened": "",
+   "happened": "The Sejm passed the resubmitted PIT/CIT bill on Nov 5 (236–207) and the Senate approved it without amendments on Nov 6 (63–31–1). It now awaits the President. https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html",
    "eventId": ""
   },
   {
@@ -624,7 +624,7 @@
    "what": "Official confirmation (PIB or Defence Ministry) of the two-year Agniveer extension before the first batch exits on Nov 21.",
    "expected": "Amar Ujala reports a CDS announcement; a Nov 2 report said a draft awaited Cabinet approval",
    "checkDate": "2026-11-21",
-   "happened": "",
+   "happened": "Yes. The Union Cabinet approved the two-year 'Second Tour of Duty' on Nov 4, and Defence Minister Rajnath Singh announced it (ANI: https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/). No PIB text was checked.",
    "eventId": ""
   },
   {
