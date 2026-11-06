@@ -1,0 +1,598 @@
+{
+ "date": "2026-11-06",
+ "segment": "Africa",
+ "windowFrom": "2026-10-30",
+ "tier1Summary": "The UN's 35-year [[p:United Nations Mission for the Referendum in Western Sahara|Western Sahara mission]] ended after a Russian veto. Morocco says the ceasefire holds, while the [[p:Polisario Front|Polisario]] warns of war. Sudan and Ethiopia expelled each other's diplomats over RSF drones that Khartoum says are launched from Ethiopian soil, as UN officials warn of a campaign against Sudan's power and fuel infrastructure. Ebola has now killed more than 5,300 people, and vaccine trials are starting. Fighting persists in Tigray, and Mekelle is under curfew. South Africa awaits local election results on Sunday.\n\nElsewhere, Qatar is pushing a US–Iran interim deal after US strikes on Qeshm, and Iran says mines damaged tankers in Hormuz. [[p:Donald Trump]] met Russia's [[p:Kirill Dmitriev]] ahead of the Abu Dhabi talks, and Russia's bombing of Komyshuvakha killed at least 43.",
+ "segmentItems": [
+  {
+   "id": "E-261106-01",
+   "segment": "Africa",
+   "country": "Western Sahara / Morocco",
+   "text": "The [[p:United Nations Mission for the Referendum in Western Sahara|UN's Western Sahara mission (MINURSO)]] {{note: Set up by the Security Council in 1991 to monitor the Morocco–Polisario ceasefire and organise a referendum that never took place.}} ended after 35 years. Russia vetoed a US draft backing Morocco's autonomy plan, a Russian rollover failed, and liquidation began on 1 Nov.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Safaa Kasraoui",
+   "outlet": "Morocco World News; Political.org",
+   "opinion": "",
+   "thread": "Western Sahara after MINURSO",
+   "links": [
+    {
+     "label": "Morocco World News; Political.org",
+     "url": "https://www.moroccoworldnews.com/2026/11/344641/western-sahara-un-begins-minurso-liquidation/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://political.org/2026/10/31/un-security-council-rejects-rival-us-and-russian-western-sahara-resolutions-leaving-minurso-mandate-to-lapse/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-08",
+   "segment": "Africa",
+   "country": "Western Sahara / Morocco / Algeria",
+   "text": "The [[p:Polisario Front|Polisario]]'s foreign minister says the veto \"saved\" self-determination and warns that the alternative to diplomacy is war. [[p:Nasser Bourita]] says Morocco still regards the ceasefire as binding.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "Alex MacDonald",
+   "outlet": "Middle East Eye; Morocco World News",
+   "opinion": "",
+   "thread": "Western Sahara after MINURSO",
+   "links": [
+    {
+     "label": "Middle East Eye; Morocco World News",
+     "url": "https://www.middleeasteye.net/news/alternative-to-diplomacy-is-war-polisario-warns-risks-after-collapse-western-sahara-un-mission"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.moroccoworldnews.com/2026/11/344641/western-sahara-un-begins-minurso-liquidation/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-09",
+   "segment": "Africa",
+   "country": "DRC / Kenya / Nigeria",
+   "text": "Ebola: the [[p:Africa Centres for Disease Control and Prevention|Africa CDC]] counts 10,444 confirmed Bundibugyo cases in DRC and more than 5,300 deaths since May. [[p:World Health Organization|WHO]] approved trials of two strain-specific vaccines.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Ebola epidemic 2026",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-12",
+   "segment": "Africa",
+   "country": "Sudan / Ethiopia",
+   "text": "Sudan closed Ethiopia's consulate in Gedaref and expelled its diplomats, matching Ethiopia's Asosa expulsions in the row over [[p:Rapid Support Forces|RSF]] drones allegedly launched from Ethiopia, which Addis Ababa denies.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; Wazema Radio",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Al Jazeera; Wazema Radio",
+     "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://wazema.substack.com/p/ethiopian-army-imposes-nighttime"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-10",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "The UN's Denise Brown says drones are systematically hitting power and fuel sites and markets; WFP is cutting rations.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "UN News",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168731"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-11",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "West of El Obeid, the army-allied Joint Force claims four villages and 83 RSF vehicles destroyed or captured; RSF videos claim it still holds them.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Darfur24",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Darfur24",
+     "url": "https://darfur24.com/en/2026/11/06/rival-forces-dispute-control-of-north-kordofan-areas/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-14",
+   "segment": "Africa",
+   "country": "Ethiopia",
+   "text": "In Mekelle, the [[p:Ethiopian National Defense Force|federal army]] imposed a night curfew from 7 Nov and a three-day deadline to hand in guns, followed by house searches.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "",
+   "outlet": "Wazema Radio",
+   "opinion": "",
+   "thread": "Ethiopia–Tigray war",
+   "links": [
+    {
+     "label": "Wazema Radio",
+     "url": "https://wazema.substack.com/p/ethiopian-army-imposes-nighttime"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-15",
+   "segment": "Africa",
+   "country": "Ethiopia / Eritrea",
+   "text": "The US Embassy says fighting continues in central Tigray and near the Eritrean border; flights to Axum and Shire remain suspended.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "US Embassy Addis Ababa; Wazema Radio",
+   "opinion": "",
+   "thread": "Ethiopia–Tigray war",
+   "links": [
+    {
+     "label": "US Embassy Addis Ababa; Wazema Radio",
+     "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-4-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://wazema.substack.com/p/ethiopian-army-imposes-nighttime"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-19",
+   "segment": "Africa",
+   "country": "DR Congo",
+   "text": "Fighting flared around Uvira as [[p:Joseph Kabila]]'s FRN rebellion presses the city on the Burundi border; Kinshasa denies any rebel advance.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Patrick Ilunga",
+   "outlet": "The EastAfrican; Rio Times",
+   "opinion": "",
+   "thread": "Eastern DRC conflict",
+   "links": [
+    {
+     "label": "The EastAfrican; Rio Times",
+     "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kabila-s-new-rebel-group-targets-uvira-5659986"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.riotimesonline.com/drc-uvira-rebel-advance-denied-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-20",
+   "segment": "Africa",
+   "country": "South Africa",
+   "text": "South Africa's 4 Nov local elections: partial counts put the [[p:Democratic Alliance (South Africa)|DA]] near 40% in Johannesburg and Zuma's [[p:uMkhonto weSizwe Party|MK]] ahead in KwaZulu-Natal. Results are due on 8 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Haru Mutasa",
+   "outlet": "Al Jazeera; Briefly News",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Al Jazeera; Briefly News",
+     "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://briefly.co.za/politics/257979-local-government-elections-2026-results-live-track-municipal-election-outcomes-iec-counts-votes/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261106-03",
+   "segment": "Middle East",
+   "country": "Iran / United States / Qatar",
+   "text": "Qatar is pushing a draft three-day sequence of steps to restart US–Iran talks. Iran wants the blockade lifted first. Brent fell to about $93.6, then rebounded.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Steven Ganot (Media Line)",
+   "outlet": "Gulf News; The Media Line",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Gulf News; The Media Line",
+     "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://themedialine.org/mideast-daily-news/iran-rejects-us-response-to-hormuz-demands-as-qatar-pushes-for-deal/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-04",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "US forces struck Qeshm Island on 2 Nov after the [[p:Islamic Revolutionary Guard Corps|IRGC]] fired on a US aircraft, US officials say. (Missed in the last log.)",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "CBS News; The Media Line",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "CBS News; The Media Line",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://themedialine.org/mideast-daily-news/iran-rejects-us-response-to-hormuz-demands-as-qatar-pushes-for-deal/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-05",
+   "segment": "Middle East",
+   "country": "Iran",
+   "text": "The IRGC says three tankers were damaged in Hormuz on 5 Nov, two of them by mines. Not independently confirmed.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Nation Thailand (citing IRGC)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Nation Thailand (citing IRGC)",
+     "url": "https://www.nationthailand.com/news/world/40073163"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-06",
+   "segment": "Russia–Ukraine & European security",
+   "country": "United States / Russia / Ukraine",
+   "text": "[[p:Donald Trump]] met [[p:Kirill Dmitriev]] ahead of the 10–11 Nov Abu Dhabi talks and predicted a \"big\" deal that goes beyond Ukraine.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Volodymyr Ivanyshyn",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/ukraine-needs-to-consolidate-bipartisan-support-in-us-following-midterm-elections-zelensky-says/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261106-07",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "The toll from Russia's 2 Nov bombing of Komyshuvakha (Zaporizhzhia) rose to 43, with 33 missing; bombs hit a school aid point and a shelter.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Francis Farrell",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261106-01",
+   "title": "'The alternative to diplomacy is war': Polisario warns of risks after collapse of Western Sahara UN mission",
+   "reporter": "Alex MacDonald",
+   "outlet": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/alternative-to-diplomacy-is-war-polisario-warns-risks-after-collapse-western-sahara-un-mission",
+   "why": "The Polisario's own reading of the MINURSO collapse, with Crisis Group on the risk of Algeria being drawn in.",
+   "segment": "Africa",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261106-02",
+   "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+   "why": "Lays out Khartoum's drone data and Addis Ababa's counter-charges behind the consulate expulsions. Most figures are Sudanese government claims.",
+   "segment": "Africa",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-07",
+   "text": "First Russian diesel cargo under the US–Russia deal due in New York.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-22"
+  },
+  {
+   "date": "2026-11-08",
+   "text": "South Africa: official local election results from the IEC, then coalition talks in the metros.",
+   "segment": "Africa",
+   "watchId": "W-261106-01"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Mekelle: gun-surrender deadline, followed by house-to-house searches.",
+   "segment": "Africa",
+   "watchId": "W-261106-02"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Israel: official publication of results and [[p:Isaac Herzog|Herzog]]'s consultations on who forms the government.",
+   "segment": "Middle East",
+   "watchId": "W-261027-06"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Turkish parliament's committee takes up the Mecca joint defence pact.",
+   "segment": "Middle East",
+   "watchId": "W-261027-07"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the Alaska and Mississippi Senate races.",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Somalia",
+   "status": "no sources found"
+  },
+  {
+   "country": "South Sudan",
+   "status": "no sources found"
+  },
+  {
+   "country": "Kenya",
+   "status": "no sources found"
+  },
+  {
+   "country": "Uganda",
+   "status": "no sources found"
+  },
+  {
+   "country": "Rwanda",
+   "status": "no sources found"
+  },
+  {
+   "country": "Burundi",
+   "status": "no sources found"
+  },
+  {
+   "country": "Eritrea",
+   "status": "no sources found"
+  },
+  {
+   "country": "Mali",
+   "status": "no sources found"
+  },
+  {
+   "country": "Burkina Faso",
+   "status": "no sources found"
+  },
+  {
+   "country": "Niger",
+   "status": "no sources found"
+  },
+  {
+   "country": "Chad",
+   "status": "no sources found"
+  },
+  {
+   "country": "Libya",
+   "status": "no sources found"
+  },
+  {
+   "country": "Egypt",
+   "status": "no sources found"
+  },
+  {
+   "country": "Tunisia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Algeria",
+   "status": "no sources found"
+  },
+  {
+   "country": "Cameroon",
+   "status": "no sources found"
+  },
+  {
+   "country": "Mozambique",
+   "status": "no sources found"
+  },
+  {
+   "country": "Madagascar",
+   "status": "no sources found"
+  },
+  {
+   "country": "Zimbabwe",
+   "status": "no sources found"
+  },
+  {
+   "country": "Senegal",
+   "status": "no sources found"
+  },
+  {
+   "country": "Côte d'Ivoire",
+   "status": "no sources found"
+  },
+  {
+   "country": "Guinea",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Morocco World News; Political.org",
+   "url": "https://www.moroccoworldnews.com/2026/11/344641/western-sahara-un-begins-minurso-liquidation/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Western Sahara / Morocco",
+   "url": "https://political.org/2026/10/31/un-security-council-rejects-rival-us-and-russian-western-sahara-resolutions-leaving-minurso-mandate-to-lapse/",
+   "paywalled": false
+  },
+  {
+   "title": "Middle East Eye; Morocco World News",
+   "url": "https://www.middleeasteye.net/news/alternative-to-diplomacy-is-war-polisario-warns-risks-after-collapse-western-sahara-un-mission",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Wazema Radio",
+   "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Sudan / Ethiopia",
+   "url": "https://wazema.substack.com/p/ethiopian-army-imposes-nighttime",
+   "paywalled": false
+  },
+  {
+   "title": "UN News",
+   "url": "https://news.un.org/en/story/2026/11/1168731",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Sudan",
+   "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+   "paywalled": false
+  },
+  {
+   "title": "Darfur24",
+   "url": "https://darfur24.com/en/2026/11/06/rival-forces-dispute-control-of-north-kordofan-areas/",
+   "paywalled": false
+  },
+  {
+   "title": "US Embassy Addis Ababa; Wazema Radio",
+   "url": "https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-4-2026",
+   "paywalled": false
+  },
+  {
+   "title": "The EastAfrican; Rio Times",
+   "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kabila-s-new-rebel-group-targets-uvira-5659986",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: DR Congo",
+   "url": "https://www.riotimesonline.com/drc-uvira-rebel-advance-denied-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Briefly News",
+   "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: South Africa",
+   "url": "https://briefly.co.za/politics/257979-local-government-elections-2026-results-live-track-municipal-election-outcomes-iec-counts-votes/",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News; The Media Line",
+   "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iran / United States / Qatar",
+   "url": "https://themedialine.org/mideast-daily-news/iran-rejects-us-response-to-hormuz-demands-as-qatar-pushes-for-deal/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News; The Media Line",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+   "paywalled": false
+  },
+  {
+   "title": "Nation Thailand (citing IRGC)",
+   "url": "https://www.nationthailand.com/news/world/40073163",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent",
+   "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States / Russia / Ukraine",
+   "url": "https://kyivindependent.com/ukraine-needs-to-consolidate-bipartisan-support-in-us-following-midterm-elections-zelensky-says/",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent",
+   "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/",
+   "paywalled": false
+  }
+ ]
+}
