@@ -130,7 +130,7 @@
    "expected": "The KO MP (Polsat) expects a veto. The Senate sitting date is not yet confirmed.",
    "checkDate": "2026-11-15",
    "happened": "On Nov 6 the Senate passed both abortion bills without amendments (58–33–3; 56–34). They now go to President Nawrocki, whose decision is still pending. https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html",
-   "eventId": "E-261026-16"
+   "eventId": "E-261106-16"
   },
   {
    "id": "W-261026-13",
@@ -592,7 +592,7 @@
    "expected": "Finwire/PAP: it must clear both chambers in their current sittings",
    "checkDate": "2026-11-20",
    "happened": "The Sejm passed the resubmitted PIT/CIT bill on Nov 5 (236–207) and the Senate approved it without amendments on Nov 6 (63–31–1). It now awaits the President. https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html",
-   "eventId": ""
+   "eventId": "E-261106-17"
   },
   {
    "id": "W-261105-07",
@@ -690,6 +690,72 @@
    "what": "Trump's decision on resuming strikes on Iran versus a deal, and the US response to Iran's reported nuclear proposal sent through Qatar",
    "expected": "Trump on Nov 5 said a decision is coming 'soon'",
    "checkDate": "2026-11-12",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-04",
+   "dateAdded": "2026-11-06",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "S&P's scheduled review of Poland's sovereign rating (currently A-, stable outlook). The base case is an affirmation, and the risks are public finances and the Tribunal dispute.",
+   "expected": "S&P calendar (PAP Biznes): Nov 6, usually published after markets close; check on Nov 7",
+   "checkDate": "2026-11-07",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-05",
+   "dateAdded": "2026-11-06",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "President Nawrocki decides whether to sign or veto the 'rule of law' act on judges' status, or send it to the Tribunal",
+   "expected": "Constitutional 21-day deadline after the Senate passed it on Nov 6; opposition urges a veto",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-06",
+   "dateAdded": "2026-11-06",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Result of the Sejm's vote on PiS's no-confidence motion against Interior Minister Kierwiński",
+   "expected": "Sejm agenda, Nov 6 evening voting block",
+   "checkDate": "2026-11-07",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-07",
+   "dateAdded": "2026-11-06",
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "what": "The full Senate's vote on amendments to the anti-alcohol law (night sales ban, ad ban, start delayed to June 1, 2027), then the Sejm's vote on those amendments",
+   "expected": "Senate plenary Nov 6; Sejm at its next sitting",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-08",
+   "dateAdded": "2026-11-06",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Nov 11 Independence March in Warsaw, which organisers expect to draw up to 500,000 people around the Tribunal dispute, and whether President Nawrocki attends",
+   "expected": "Organisers (Stowarzyszenie Marsz Niepodległości), Nov 11",
+   "checkDate": "2026-11-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261106-09",
+   "dateAdded": "2026-11-06",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "President Nawrocki signs or vetoes the two abortion bills and the resubmitted PIT/CIT law passed by the Senate on Nov 6 (21-day deadline; PIT/CIT must be published by end-November to apply from 2027).",
+   "expected": "Constitutional 21-day deadline from receipt (Rynek Zdrowia, Money.pl)",
+   "checkDate": "2026-11-27",
    "happened": "",
    "eventId": ""
   }

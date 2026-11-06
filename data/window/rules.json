@@ -77,7 +77,7 @@
    "effectiveDate": "2027-01-01",
    "officialLink": "",
    "newsLink": "https://www.prawo.pl/podatki/sejm-ponownie-uchwalil-zmiany-w-pit-i-cit,1556805.html",
-   "eventId": "E-261027-21",
+   "eventId": "E-261106-17",
    "lastChecked": "2026-11-06"
   },
   {
@@ -93,7 +93,7 @@
    "effectiveDate": "",
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html",
-   "eventId": "E-261026-16",
+   "eventId": "E-261106-16",
    "lastChecked": "2026-11-06"
   },
   {
@@ -237,7 +237,7 @@
    "effectiveDate": "2027-01-01",
    "officialLink": "",
    "newsLink": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html",
-   "eventId": "E-261105-18",
+   "eventId": "E-261106-17",
    "lastChecked": "2026-11-06"
   },
   {
@@ -302,6 +302,54 @@
    "officialLink": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
    "newsLink": "https://spectrumlocalnews.com/us/snplus/politics/2026/11/05/oval-office-cabinet-room-president-donald-trump",
    "eventId": "E-261106-04",
+   "lastChecked": "2026-11-06"
+  },
+  {
+   "id": "R-261106-03",
+   "dateLogged": "2026-11-06",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "name": "'Rule of law' act on the status of judges appointed on KRS recommendations from 2018 to 2026",
+   "changes": "Voids KRS resolutions from March 2018 to May 2026 that recommended judicial appointments, except those concerning junior judges. The affected posts become vacant and are re-advertised, and the judges concerned return to their earlier posts or professions. The Sejm passed it on Oct 22 and the Senate without amendments on Nov 6 (63–32). It awaits the President.",
+   "affects": "Judges appointed since 2018 on the recommendation of the reformed KRS, courts and litigants.",
+   "stage": "Passed / final",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104",
+   "eventId": "E-261106-18",
+   "lastChecked": "2026-11-06"
+  },
+  {
+   "id": "R-261106-04",
+   "dateLogged": "2026-11-06",
+   "place": "Poland",
+   "body": "Sejm / Senate",
+   "name": "Anti-alcohol law: night sales ban (22:00–06:00) and alcohol advertising ban",
+   "changes": "Bans retail alcohol sales from 22:00 to 06:00, except in restaurants and bars, and lets municipalities widen the ban. It also bans alcohol advertising and promotions such as discounts, bundles and loyalty schemes. Senate committees proposed moving the start to June 1, 2027, banning home delivery of online orders and allowing limited ads for non-alcoholic beer. If the full Senate adopts the amendments, the bill returns to the Sejm. (Start date: 1 June 2027 in the Senate committees' version; the Sejm version said 1 January 2027.)",
+   "affects": "Shops, petrol stations, the alcohol and advertising industries, and consumers.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-06-01",
+   "officialLink": "",
+   "newsLink": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
+   "eventId": "E-261106-25",
+   "lastChecked": "2026-11-06"
+  },
+  {
+   "id": "R-261106-05",
+   "dateLogged": "2026-11-06",
+   "place": "Poland",
+   "body": "Sejm / Senate",
+   "name": "Limits on doctors' pay and working time",
+   "changes": "The Senate amended it on Nov 6 (61–32–2): minimum employment raised to a quarter of a full-time post, and the NFZ work ban for doctors who certify falsehoods dropped. It returns to the Sejm.",
+   "affects": "Doctors working in publicly funded healthcare, and hospitals.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://rmf24.pl/fakty/polityka/news-pomoc-w-aborcji-limity-zarobkow-lekarzy-nowy-prog-podatkowy-,nIdn,1025136",
+   "eventId": "E-261106-24",
    "lastChecked": "2026-11-06"
   }
  ]
