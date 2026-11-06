@@ -1,0 +1,1207 @@
+{
+ "date": "2026-11-06",
+ "top5": [
+  {
+   "text": "Poland's Senate sent the abortion bills, the resubmitted PIT/CIT reform and the judges' 'rule of law' act to President Nawrocki unamended; he has 21 days.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rynek Zdrowia",
+     "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html"
+    },
+    {
+     "label": "Money.pl (PAP)",
+     "url": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html"
+    }
+   ]
+  },
+  {
+   "text": "Wall Street's worst day since April 2025: S&P 500 −4.4%, Nasdaq −5.5%, on fears the Democratic sweep will curb AI data-centre spending.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Stock Titan (citing CNBC, Reuters)",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+    },
+    {
+     "label": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+    }
+   ]
+  },
+  {
+   "text": "Trump says a decision on resuming the Iran war is coming soon; Iran reportedly sent a nuclear proposal via Qatar.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918"
+    },
+    {
+     "label": "Al Jazeera",
+     "url": "https://aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+    }
+   ]
+  },
+  {
+   "text": "India's Cabinet approved an optional two-year second tour for Agniveers, ahead of the first batch's Nov 21 exit.",
+   "place": "India",
+   "links": [
+    {
+     "label": "ANI",
+     "url": "https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/"
+    },
+    {
+     "label": "NewsTak (Hindi)",
+     "url": "https://www.newstak.in/news/story/agniveers-get-two-year-second-tour-of-duty-3559455-2026-11-04"
+    }
+   ]
+  },
+  {
+   "text": "Kosiniak-Kamysz expects to meet Hegseth at the Pentagon early next week on bases and US troops.",
+   "place": "US–Poland",
+   "links": [
+    {
+     "label": "PAP via Portal Samorządowy",
+     "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/szef-mon-jesli-wszystko-pojdzie-dobrze-na-poczatku-przyszlego-tygodnia-bede-w-usa-aktualizacja,683291.html"
+    },
+    {
+     "label": "nczas.info",
+     "url": "https://nczas.info/2026/11/06/kosiniak-kamysz-poleci-do-usa-jesli-wszystko-pojdzie-dobrze/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261106-01",
+    "domain": "Politics & government",
+    "text": "Mississippi Senate turns legal: Hyde-Smith and the NRSC asked all 82 counties to segregate affidavit ballots; Colom's campaign calls it unlawful. Colom leads by about 1,138 votes; cure deadline Nov 10.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "WLOX",
+      "url": "https://www.wlox.com/2026/11/06/colom-campaign-calls-hyde-smiths-affidavit-ballot-separation-preservation-demand-unlawful-attack-voter-privacy/"
+     },
+     {
+      "label": "WDAM",
+      "url": "https://www.wdam.com/2026/11/05/colom-leads-senate-race-against-hyde-smith-day-3-ballot-counting/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-02",
+    "domain": "Politics & government",
+    "text": "Alaska unchanged: Peltola leads Sullivan by 637 votes; a ranked-choice count on Nov 18 will likely decide it.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Decision Desk HQ",
+      "url": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-senate-general-election"
+     },
+     {
+      "label": "Straight Arrow News",
+      "url": "https://san.com/cc/alaska-senate-race-remains-razor-thin-as-ranked-choice-voting-could-decide-winner/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-09",
+    "domain": "Economy, business & markets",
+    "text": "Nov 5 rout: Dow −3.4%, S&P 500 −4.4%, Nasdaq −5.5% (correction). Micron and AMD fell about 17%.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Stock Titan (citing CNBC, Reuters)",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+     },
+     {
+      "label": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-10",
+    "domain": "Technology, AI & cyber",
+    "text": "Governors-elect in Texas, Ohio and Georgia have promised data-centre moratoriums or pauses, which investors cite for the chip sell-off.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Tech Times",
+      "url": "https://www.techtimes.com/articles/330166/20261106/nasdaq-plunges-over-5-data-center-ban-fears-texas-froze-approvals-before-gina-hinojosa-won.htm"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-05",
+    "domain": "Foreign relations",
+    "text": "Trump said the US may have to destroy the rest of Iran and a decision is near; he phoned Qatar's emir on Nov 6. Al Jazeera reports an Iranian nuclear proposal via Qatar.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918"
+     },
+     {
+      "label": "Al Jazeera",
+      "url": "https://aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261106-16",
+    "domain": "Health, medicine & food safety",
+    "text": "The Senate passed both abortion bills without amendments (58–33–3 and 56–34); they go to Nawrocki.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland abortion law",
+    "links": [
+     {
+      "label": "Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html"
+     },
+     {
+      "label": "PAP via Portal Samorządowy",
+      "url": "https://www.portalsamorzadowy.pl/zmiany-w-prawie/zmiany-w-prawie-aborcyjnym-na-biurku-prezydenta-senat-zakonczyl-prace,683309.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-17",
+    "domain": "Economy, business & markets",
+    "text": "PIT/CIT reform passed the Sejm (236–207) and Senate (63–31–1): a 24% band for 130–150k zł, 22% CIT for firms above €50m revenue, solidarity levy up to 5%. It must be published by end-November.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "Money.pl (PAP)",
+      "url": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html"
+     },
+     {
+      "label": "Prawo.pl",
+      "url": "https://www.prawo.pl/podatki/sejm-ponownie-uchwalil-zmiany-w-pit-i-cit,1556805.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-18",
+    "domain": "Law, courts & regulation",
+    "text": "The 'rule of law' act voiding 2018–2026 KRS appointment resolutions passed the Senate 63–32; the opposition hopes for a veto.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104"
+     },
+     {
+      "label": "RMF24 (PAP)",
+      "url": "https://rmf24.pl/fakty/polityka/news-pomoc-w-aborcji-limity-zarobkow-lekarzy-nowy-prog-podatkowy-,nIdn,1025136"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-19",
+    "domain": "Law, courts & regulation",
+    "text": "The Supreme Court declined to hear Święczkowski's and Sochański's complaints over their suspension, referring them to the Tribunal; outlets differ on whether it was a dismissal.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/sad-najwyzszy-podjal-decyzje-zazalenie-swieczkowskiego-oddalone/"
+     },
+     {
+      "label": "TVP Info",
+      "url": "https://www.tvp.info/96338363/spor-o-trybunal-konstytucyjny-sad-najwyzszy-odrzucil-zazalenie-bogdana-swieczkowskiego-i-bartlomieja-sochanskiego"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-20",
+    "domain": "Politics & government",
+    "text": "PSL's 'constitutional reset' to replace the whole Tribunal bench enters stage two; it needs 92 signatures and is courting Konfederacja.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-reset-konstytucyjny-kosiniak-kamysz-oglasza-mamy-poparcie-w-,nIdn,1025124"
+     },
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45453691-liderzy-psl-i-konfederacji-rozmawiali-o-resecie-w-trybunale-konstytucyjnym-idzie-ku-dobremu"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-25",
+    "domain": "Health, medicine & food safety",
+    "text": "Senate committees backed amending the night alcohol-sales ban (22:00–06:00), including a June 2027 start; the plenary result is unconfirmed.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html"
+     },
+     {
+      "label": "Spider's Web Bizblog",
+      "url": "https://bizblog.spidersweb.pl/alkohol-zakaz-reklamy-i-sprzedazy-w-nocy-poparl-senat"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-28",
+    "domain": "Defense, security & crime",
+    "text": "Exercise KOALICJA 26.2, for the planned Ukraine multinational force, runs Nov 9–22, mainly in Podkarpacie, with about 2,800 troops from 11 countries.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Ukraine security guarantees",
+    "links": [
+     {
+      "label": "Spider's Web",
+      "url": "https://spidersweb.pl/2026/11/polska-cwiczenia-koalicja-26.html"
+     },
+     {
+      "label": "FocusEurope.pl",
+      "url": "https://focuseurope.pl/europa/wiadomosci/koalicja-chetnych-rozpocznie-cwiczenia-w-polsce-tusk-ostrzega-przed-prowokacjami-rosji"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261106-34",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Consultations (Nov 6–27) on freezing Clean Transport Zone fees at 100 zł a month through 2028. Without the freeze they rise to 250 zł in 2027.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "CoWKrakowie",
+      "url": "https://cowkrakowie.pl/2026/11/oplaty-za-wjazd-do-sct-w-krakowie-miasto-pyta-mieszkancow-o-zdanie"
+     },
+     {
+      "label": "krakow.pl",
+      "url": "https://krakow.pl/aktualnosci/344065,1912,komunikat,stawki_oplat_w_sct_bez_podwyzek_do_konca_2028_r___wkrotce_konsultacje.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-35",
+    "domain": "Politics & government",
+    "text": "NIK found management pay above the legal cap at four city companies (about 980,000 zł) and 526m zł of capital injections made without council resolutions.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "LoveKraków",
+      "url": "https://lovekrakow.pl/miejskie-spolki-nik-o-zawyzonych-pensjach-i-deweloperze-w-wodociagach"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261106-43",
+    "domain": "Defense, security & crime",
+    "text": "The Cabinet approved an optional two-year 'Second Tour of Duty' for the roughly 75% of Agniveers not absorbed, correcting yesterday's 'unconfirmed'. The SP vows to scrap the scheme.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Agnipath and Agniveer retention",
+    "links": [
+     {
+      "label": "ANI",
+      "url": "https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/"
+     },
+     {
+      "label": "NewsTak (Hindi)",
+      "url": "https://www.newstak.in/news/story/agniveers-get-two-year-second-tour-of-duty-3559455-2026-11-04"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-46",
+    "domain": "Politics & government",
+    "text": "The SIR fight reaches welfare: a minister says voter ID will help identify panchayat-scheme beneficiaries; Rahul Gandhi calls it 'theft of rights'.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "Amar Ujala (Hindi)",
+      "url": "https://www.amarujala.com/india-news/rahul-gandhi-alleges-conspiracy-after-union-minister-links-welfare-benefits-to-voter-id-2026-11-06"
+     },
+     {
+      "label": "IANS via Punjab Kesari English",
+      "url": "https://english.punjabkesari.com/india/rahul-gandhi-rajiv-ranjan-singh-engage-in-war-of-words-over-use-of-voter-ids-for-welfare-payments"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-48",
+    "domain": "Politics & government",
+    "text": "The INDIA bloc's Bengaluru rally demanded SIR's withdrawal and the CEC's resignation. Karnataka's final rolls are about 99.3 lakh electors smaller; the ECI says it followed procedure.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "The Week",
+      "url": "https://theweek.in/news/india/2026/11/05/india-bloc-bengaluru-protest-save-vote-save-country.html"
+     },
+     {
+      "label": "ThePrint",
+      "url": "https://theprint.in/india/india-bloc-in-ktaka-stages-protest-against-sir-seeks-cec-gyanesh-kumars-resignation/3091682"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-44",
+    "domain": "Environment, energy & disasters",
+    "text": "The Supreme Court named vehicle emissions a major cause of Delhi smog; AQI was about 390. Next hearing Nov 16.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Open Magazine",
+      "url": "https://openthemagazine.com/india/supreme-court-flags-vehicular-emissions-as-major-cause-of-delhi-ncr-pollution"
+     },
+     {
+      "label": "ThePrint/PTI",
+      "url": "https://theprint.in/india/national-clean-air-programme-needs-urgent-revamp-cong-on-rising-pollution-levels/3092179/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "Morning switch failure on ul.",
+   "link": "https://cowkrakowie.pl/2026/11/awaria-zwrotnicy-w-krakowie-tramwaje-skierowano-na-objazdy-uruchomiono-autobusy-zastepcze"
+  },
+  {
+   "kind": "Transit",
+   "text": "From Mon 9 Nov (about 1.5 weeks): stop Prądnik Czerwony P+R 01 (ul.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Transit",
+   "text": "Tram detours for the Teatr Bagatela junction rebuild (stage II) and for ul.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Closure",
+   "text": "ul.",
+   "link": "https://cowkrakowie.pl/2026/11/na-ul-nowohuckiej-zamkniety-zostanie-jeden-pas-ruchu"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Moderate this morning: PM2.5 about 31 µg/m³ (US AQI 92) at 07:00, easing in the afternoon and worsening again overnight.",
+   "link": "https://www.iqair.com/pl/air-quality/poland/lesser-poland-voivodeship/krakow"
+  },
+  {
+   "kind": "Weather",
+   "text": "Cold and foggy: about 0°C in the morning.",
+   "link": "https://krakow.pl/aktualnosci/344851,1912,komunikat,uwaga_na_gesta_mgle_.html"
+  },
+  {
+   "kind": "Event",
+   "text": "Wisła–Cracovia derby tonight at 20:30, stadium on ul.",
+   "link": "https://www.mecze24.pl/aktualnosci/kiedy-mecz-wisla-krakow-cracovia-termin-meczu-06-11-2026"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261106-53",
+    "domain": "Defense, security & crime",
+    "text": "Kosiniak-Kamysz expects to meet Hegseth early next week on bases and troop presence; no dates given, after September's cancellation.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "PAP via Portal Samorządowy",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/szef-mon-jesli-wszystko-pojdzie-dobrze-na-poczatku-przyszlego-tygodnia-bede-w-usa-aktualizacja,683291.html"
+     },
+     {
+      "label": "nczas.info",
+      "url": "https://nczas.info/2026/11/06/kosiniak-kamysz-poleci-do-usa-jesli-wszystko-pojdzie-dobrze/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-54",
+    "domain": "Defense, security & crime",
+    "text": "A deputy defence minister says the permanent-base decision rests with Trump and is due 'within weeks'; Colby's team discussed it in Kraków on Nov 3.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "PAP via Portal Samorządowy",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/sobkowiak-czarnecka-sprawa-stalej-amerykanskiej-bazy-w-polsce-powinna-sie-rozstrzygnac-w-ciagu-kilku-tygodni,682962.html"
+     },
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-delegacja-pentagonu-w-krakowie-wsrod-tematow-stala-baza-amer,nIdn,1024794"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261106-56",
+    "domain": "Foreign relations",
+    "text": "Sikorski and Tusk warned against deals with Russia over eastern Europe's head as Abu Dhabi talks resume. Euronews (sole source) reports Warsaw opposes a US idea to restart Russian gas.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "Euronews",
+      "url": "https://www.euronews.com/2026/11/06/poland-warns-allies-dont-negotiate-with-russia-over-eastern-europes-head"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261026-06",
+   "name": "Bill restoring abortion for severe foetal defects; Criminal Code amendment partially decriminalising abortion assistance",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Passed / final",
+   "changes": "On Nov 6 the Senate passed both bills without amendments (58–33–3 and 56–34–0).",
+   "affects": "Pregnant women, doctors, nurses and midwives, and anyone helping a woman obtain an abortion.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html"
+  },
+  {
+   "id": "R-261105-01",
+   "name": "Bill amending PIT and CIT (2027 tax reform, resubmitted)",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Passed / final",
+   "changes": "Passed by the Sejm on Nov 5 (236–207) and by the Senate on Nov 6 without amendments (63–31–1).",
+   "affects": "Higher earners, the largest companies and the self-employed on the lump-sum tax.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html"
+  },
+  {
+   "id": "R-261106-03",
+   "name": "'Rule of law' act on the status of judges appointed on KRS recommendations from 2018 to 2026",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Passed / final",
+   "changes": "Voids KRS resolutions from March 2018 to May 2026 that recommended judicial appointments, except those concerning junior judges.",
+   "affects": "Judges appointed since 2018 on the recommendation of the reformed KRS, courts and litigants.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104"
+  },
+  {
+   "id": "R-261106-04",
+   "name": "Anti-alcohol law: night sales ban (22:00–06:00) and alcohol advertising ban",
+   "place": "Poland",
+   "body": "Sejm / Senate",
+   "stage": "Proposed",
+   "changes": "Bans retail alcohol sales from 22:00 to 06:00, except in restaurants and bars, and lets municipalities widen the ban.",
+   "affects": "Shops, petrol stations, the alcohol and advertising industries, and consumers.",
+   "effectiveDate": "2027-06-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html"
+  },
+  {
+   "id": "R-261106-06",
+   "name": "Draft resolution freezing Clean Transport Zone (SCT) entry fees for 2027-2028",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "stage": "Open for comment",
+   "changes": "Keeps SCT entry fees at 100 zł a month, 2.50 zł an hour or 5 zł a day through 2027-2028, instead of the scheduled rise to 250 zł a month in 2027 and 500 zł in 2028.",
+   "affects": "Drivers of non-compliant cars entering the SCT, and Kraków residents who pay for entry",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "2026-11-27",
+   "officialLink": "https://krakow.pl/aktualnosci/344065,1912,komunikat,stawki_oplat_w_sct_bez_podwyzek_do_konca_2028_r___wkrotce_konsultacje.html",
+   "newsLink": "https://cowkrakowie.pl/2026/11/oplaty-za-wjazd-do-sct-w-krakowie-miasto-pyta-mieszkancow-o-zdanie"
+  },
+  {
+   "id": "R-261106-07",
+   "name": "Agnipath scheme: two-year 'Second Tour of Duty' for Agniveers",
+   "place": "India",
+   "body": "Union Cabinet / Ministry of Defence",
+   "stage": "Passed / final",
+   "changes": "Agniveers not absorbed after four years (about 75% of a batch) may opt to serve two more years, for six in total, and then apply for regular enrolment under objective selection criteria.",
+   "affects": "The first Agniveer batch (exit due Nov 21) and all later batches in the Army, Navy and Air Force.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://x.com/rajnathsingh/status/2117911265716875355",
+   "newsLink": "https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/"
+  }
+ ],
+ "deepDive": {
+  "domain": "Foreign relations",
+  "title": "After the midterms: three partnerships, all on hold",
+  "body": "Three days after Democrats won both chambers of Congress, none of the three relationships has formally changed. What has shifted is the timing, and each capital's sense of leverage.\n\n**US–Poland.** Warsaw's priority is still a permanent US base. On Nov 4, Deputy Defence Minister Sobkowiak-Czarnecka said a decision rests with Trump and should come within a few weeks. Her remarks followed talks with a Pentagon team led by Elbridge Colby in Kraków ([PAP/Portal Samorządowy](https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/sobkowiak-czarnecka-sprawa-stalej-amerykanskiej-bazy-w-polsce-powinna-sie-rozstrzygnac-w-ciagu-kilku-tygodni,682962.html)). Kosiniak-Kamysz plans to see Hegseth at the Pentagon early next week. Hegseth himself, though, faces an impeachment threat from Republican Thomas Massie ([RMF24](https://www.rmf24.pl/fakty/swiat/news-pete-hegseth-i-marco-rubio-odchodza-od-trumpa-bialy-dom-rozw,nIdn,1025048)).\n\nThe base is also a fight at home. President Nawrocki's aides say the window is closing and the government is slow. PiS's Błaszczak says the midterms have killed the project, while the government calls it a shared priority. On Ukraine, Warsaw's fear is being sidelined. Sikorski warned against deals made over eastern Europeans' heads as US-run talks resume in Abu Dhabi ([Euronews](https://www.euronews.com/2026/11/06/poland-warns-allies-dont-negotiate-with-russia-over-eastern-europes-head)).\n\n**US–India.** The interim trade deal is still unsigned, and Indian goods pay a 10% Section 301 duty. Officials note that Congress does not need to approve the deal. Analysts are split on whether a weakened Trump will move faster. Attention now turns to Manila in mid-November, where Trump is due at the ASEAN summit and a Quad leaders' meeting is planned. A Modi–Trump bilateral is **not confirmed**. On visas, H-1B limits rest on executive rules, so courts rather than the new Congress are the likelier route to change.\n\n**Poland–India.** This is the calmest of the three. After PM Tusk's October visit and joint statement, Commerce Minister Jitin Prasada brought 12 Indian firms to Warsaw this week, but no deals were signed. The classified-information agreement, which defence-industry cooperation depends on, is still unsigned.\n\n**Next:** the Hegseth meeting, Trump's base decision and Manila.",
+  "links": [
+   {
+    "label": "PAP: Kosiniak-Kamysz to visit US early next week",
+    "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/szef-mon-jesli-wszystko-pojdzie-dobrze-na-poczatku-przyszlego-tygodnia-bede-w-usa-aktualizacja,683291.html"
+   },
+   {
+    "label": "PAP: base decision 'within weeks'",
+    "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/sobkowiak-czarnecka-sprawa-stalej-amerykanskiej-bazy-w-polsce-powinna-sie-rozstrzygnac-w-ciagu-kilku-tygodni,682962.html"
+   },
+   {
+    "label": "Euronews: Poland warns against deals over its head",
+    "url": "https://www.euronews.com/2026/11/06/poland-warns-allies-dont-negotiate-with-russia-over-eastern-europes-head"
+   },
+   {
+    "label": "Siasat/PTI: midterms and the India–US deal",
+    "url": "https://www.siasat.com/midterm-results-wont-impact-india-us-interim-trade-deal-sources-3570342/"
+   },
+   {
+    "label": "ANI: Prasada in Warsaw",
+    "url": "https://aninews.in/news/business/india-poland-explore-cooperation-in-semiconductors-ai-and-critical-minerals-emerging-from-india-eu-fta20261104123646/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261106-02",
+   "title": "Reset konstytucyjny. Kosiniak-Kamysz ogłasza: Mamy poparcie w koalicji",
+   "reporter": "Piotr Parzysz",
+   "outlet": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polityka/news-reset-konstytucyjny-kosiniak-kamysz-oglasza-mamy-poparcie-w-,nIdn,1025124",
+   "why": "The clearest account of the PSL plan to replace the whole Tribunal by constitutional amendment, with the vote arithmetic each step would need.",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261106-04",
+   "title": "'वोट चोरी' के बाद अब 'हक की चोरी': राहुल गांधी ने मोदी सरकार पर साधा निशाना",
+   "reporter": "",
+   "outlet": "Amar Ujala",
+   "url": "https://www.amarujala.com/india-news/rahul-gandhi-alleges-conspiracy-after-union-minister-links-welfare-benefits-to-voter-id-2026-11-06",
+   "why": "Shows how the SIR fight is spreading from voter rolls to welfare access. Read it alongside IANS for the minister's clarification, which the Hindi piece leaves out.",
+   "place": "India",
+   "domain": "Politics & government",
+   "language": "Hindi"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-06",
+   "text": "BLS October jobs report (8:30 ET). Not captured in this run.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-06",
+   "text": "Wisła–Cracovia derby, 20:30, ul. Reymonta",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-07",
+   "text": "S&P's rating decision on Poland, if published late on Nov 6",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-07",
+   "text": "Green crackers allowed in Delhi-NCR on Nov 7–8 only (6–7 am and 8–10 pm); full ban returns Nov 9.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Anthropic IPO roadshow could begin this week (reported).",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "KOALICJA 26.2 coalition-of-the-willing exercise begins (to Nov 22)",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Prądnik Czerwony P+R 01 stop closes for about 1.5 weeks; Bronowice Małe replacement buses change",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Week of Nov 9: Kosiniak-Kamysz expected at the Pentagon to meet Hegseth (dates not published)",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Week of Nov 9: US–Ukraine–Russia technical talks resume in Abu Dhabi (per Euronews)",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Lame-duck Congress returns (funding deadline Dec 11).",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Mississippi affidavit-ballot cure deadline.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "General Assembly of Constitutional Tribunal judges called by Korwin-Piotrowska",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "House GOP leadership vote; CDC entry suspensions for DRC, Uganda and South Sudan expire unless extended.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day; Independence March in Warsaw",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day: Krakowska Mila (10:00) and Bieg Niepodległości (11:11) along the Vistula boulevards. Closures on Kościuszki, Księcia Józefa, Rollego, Podgórska and Zabłocie, plus a concert on the Rynek Główny",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Mississippi counties certify results.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "DPDP Rules: consent-manager phase begins.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Deadline for Gibała's draft 2027 budget (W-261026-18)",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "About Nov 15–18: ASEAN summit in Manila with Trump; Quad leaders' meeting planned; Modi–Trump bilateral unconfirmed",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Traffic changes for the ul. Balicka extension",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Supreme Court hearing on Delhi-NCR air pollution.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Decision on the immunity of former Supreme Court First President Małgorzata Manowska (per Prawo.pl)",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Expected: Supreme Court hearing on the pleas against CEC Gyanesh Kumar.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Alaska Senate ranked-choice tabulation.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "City Council session: second reading of the Lviv partnership suspension; possibly Eurocities exit and tourist fee",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "CCD2 consumer-credit rules start to apply in the EU; Poland's implementing law not yet adopted",
+   "place": "Poland"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "WLOX",
+   "url": "https://www.wlox.com/2026/11/06/colom-campaign-calls-hyde-smiths-affidavit-ballot-separation-preservation-demand-unlawful-attack-voter-privacy/",
+   "paywalled": false
+  },
+  {
+   "title": "WDAM",
+   "url": "https://www.wdam.com/2026/11/05/colom-leads-senate-race-against-hyde-smith-day-3-ballot-counting/",
+   "paywalled": false
+  },
+  {
+   "title": "Decision Desk HQ",
+   "url": "https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-senate-general-election",
+   "paywalled": false
+  },
+  {
+   "title": "Straight Arrow News",
+   "url": "https://san.com/cc/alaska-senate-race-remains-razor-thin-as-ranked-choice-voting-could-decide-winner/",
+   "paywalled": false
+  },
+  {
+   "title": "Stock Titan (citing CNBC, Reuters)",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
+   "paywalled": false
+  },
+  {
+   "title": "Tech Times",
+   "url": "https://www.techtimes.com/articles/330166/20261106/nasdaq-plunges-over-5-data-center-ban-fears-texas-froze-approvals-before-gina-hinojosa-won.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia",
+   "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html",
+   "paywalled": false
+  },
+  {
+   "title": "PAP via Portal Samorządowy",
+   "url": "https://www.portalsamorzadowy.pl/zmiany-w-prawie/zmiany-w-prawie-aborcyjnym-na-biurku-prezydenta-senat-zakonczyl-prace,683309.html",
+   "paywalled": false
+  },
+  {
+   "title": "Money.pl (PAP)",
+   "url": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Prawo.pl",
+   "url": "https://www.prawo.pl/podatki/sejm-ponownie-uchwalil-zmiany-w-pit-i-cit,1556805.html",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 (PAP)",
+   "url": "https://rmf24.pl/fakty/polityka/news-pomoc-w-aborcji-limity-zarobkow-lekarzy-nowy-prog-podatkowy-,nIdn,1025136",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/sad-najwyzszy-podjal-decyzje-zazalenie-swieczkowskiego-oddalone/",
+   "paywalled": false
+  },
+  {
+   "title": "TVP Info",
+   "url": "https://www.tvp.info/96338363/spor-o-trybunal-konstytucyjny-sad-najwyzszy-odrzucil-zazalenie-bogdana-swieczkowskiego-i-bartlomieja-sochanskiego",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polityka/news-reset-konstytucyjny-kosiniak-kamysz-oglasza-mamy-poparcie-w-,nIdn,1025124",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/polityka/art45453691-liderzy-psl-i-konfederacji-rozmawiali-o-resecie-w-trybunale-konstytucyjnym-idzie-ku-dobremu",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia",
+   "url": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
+   "paywalled": false
+  },
+  {
+   "title": "Spider's Web Bizblog",
+   "url": "https://bizblog.spidersweb.pl/alkohol-zakaz-reklamy-i-sprzedazy-w-nocy-poparl-senat",
+   "paywalled": false
+  },
+  {
+   "title": "Spider's Web",
+   "url": "https://spidersweb.pl/2026/11/polska-cwiczenia-koalicja-26.html",
+   "paywalled": false
+  },
+  {
+   "title": "FocusEurope.pl",
+   "url": "https://focuseurope.pl/europa/wiadomosci/koalicja-chetnych-rozpocznie-cwiczenia-w-polsce-tusk-ostrzega-przed-prowokacjami-rosji",
+   "paywalled": false
+  },
+  {
+   "title": "CoWKrakowie",
+   "url": "https://cowkrakowie.pl/2026/11/oplaty-za-wjazd-do-sct-w-krakowie-miasto-pyta-mieszkancow-o-zdanie",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl",
+   "url": "https://krakow.pl/aktualnosci/344065,1912,komunikat,stawki_oplat_w_sct_bez_podwyzek_do_konca_2028_r___wkrotce_konsultacje.html",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków",
+   "url": "https://lovekrakow.pl/miejskie-spolki-nik-o-zawyzonych-pensjach-i-deweloperze-w-wodociagach",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/",
+   "paywalled": false
+  },
+  {
+   "title": "NewsTak (Hindi)",
+   "url": "https://www.newstak.in/news/story/agniveers-get-two-year-second-tour-of-duty-3559455-2026-11-04",
+   "paywalled": false
+  },
+  {
+   "title": "Amar Ujala (Hindi)",
+   "url": "https://www.amarujala.com/india-news/rahul-gandhi-alleges-conspiracy-after-union-minister-links-welfare-benefits-to-voter-id-2026-11-06",
+   "paywalled": false
+  },
+  {
+   "title": "IANS via Punjab Kesari English",
+   "url": "https://english.punjabkesari.com/india/rahul-gandhi-rajiv-ranjan-singh-engage-in-war-of-words-over-use-of-voter-ids-for-welfare-payments",
+   "paywalled": false
+  },
+  {
+   "title": "The Week",
+   "url": "https://theweek.in/news/india/2026/11/05/india-bloc-bengaluru-protest-save-vote-save-country.html",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/india/india-bloc-in-ktaka-stages-protest-against-sir-seeks-cec-gyanesh-kumars-resignation/3091682",
+   "paywalled": false
+  },
+  {
+   "title": "Open Magazine",
+   "url": "https://openthemagazine.com/india/supreme-court-flags-vehicular-emissions-as-major-cause-of-delhi-ncr-pollution",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint/PTI",
+   "url": "https://theprint.in/india/national-clean-air-programme-needs-urgent-revamp-cong-on-rising-pollution-levels/3092179/",
+   "paywalled": false
+  },
+  {
+   "title": "PAP via Portal Samorządowy",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/szef-mon-jesli-wszystko-pojdzie-dobrze-na-poczatku-przyszlego-tygodnia-bede-w-usa-aktualizacja,683291.html",
+   "paywalled": false
+  },
+  {
+   "title": "nczas.info",
+   "url": "https://nczas.info/2026/11/06/kosiniak-kamysz-poleci-do-usa-jesli-wszystko-pojdzie-dobrze/",
+   "paywalled": false
+  },
+  {
+   "title": "PAP via Portal Samorządowy",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/sobkowiak-czarnecka-sprawa-stalej-amerykanskiej-bazy-w-polsce-powinna-sie-rozstrzygnac-w-ciagu-kilku-tygodni,682962.html",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-delegacja-pentagonu-w-krakowie-wsrod-tematow-stala-baza-amer,nIdn,1024794",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews",
+   "url": "https://www.euronews.com/2026/11/06/poland-warns-allies-dont-negotiate-with-russia-over-eastern-europes-head",
+   "paywalled": false
+  },
+  {
+   "title": "City: Transit",
+   "url": "https://cowkrakowie.pl/2026/11/awaria-zwrotnicy-w-krakowie-tramwaje-skierowano-na-objazdy-uruchomiono-autobusy-zastepcze",
+   "paywalled": false
+  },
+  {
+   "title": "City: Transit",
+   "url": "https://ztp.krakow.pl/kmk/komunikaty",
+   "paywalled": false
+  },
+  {
+   "title": "City: Closure",
+   "url": "https://cowkrakowie.pl/2026/11/na-ul-nowohuckiej-zamkniety-zostanie-jeden-pas-ruchu",
+   "paywalled": false
+  },
+  {
+   "title": "City: Air quality",
+   "url": "https://www.iqair.com/pl/air-quality/poland/lesser-poland-voivodeship/krakow",
+   "paywalled": false
+  },
+  {
+   "title": "City: Weather",
+   "url": "https://krakow.pl/aktualnosci/344851,1912,komunikat,uwaga_na_gesta_mgle_.html",
+   "paywalled": false
+  },
+  {
+   "title": "City: Event",
+   "url": "https://www.mecze24.pl/aktualnosci/kiedy-mecz-wisla-krakow-cracovia-termin-meczu-06-11-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Siasat/PTI: midterms and the India–US deal",
+   "url": "https://www.siasat.com/midterm-results-wont-impact-india-us-interim-trade-deal-sources-3570342/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI: Prasada in Warsaw",
+   "url": "https://aninews.in/news/business/india-poland-explore-cooperation-in-semiconductors-ai-and-critical-minerals-emerging-from-india-eu-fta20261104123646/",
+   "paywalled": false
+  }
+ ]
+}
