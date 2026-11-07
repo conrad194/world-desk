@@ -1,0 +1,105 @@
+{
+ "items": [
+  {
+   "id": "2026-11-07",
+   "date": "2026-11-07",
+   "segment": "Middle East",
+   "title": "Why Iran's grip on the Strait of Hormuz runs through Qeshm",
+   "thread": "US–Iran war and Hormuz",
+   "eventIds": [
+    "E-261107-02"
+   ],
+   "minutes": 4,
+   "hook": "The US struck Iranian air defences on Qeshm Island on 6 Nov, its second strike there in a week. The island sits at the heart of a strategy Iran built after its naval clashes with the US in the 1980s [[e:Tanker War]].",
+   "body": "Look at a map and Iran's advantage is obvious. The Strait of Hormuz is only about 35 miles wide at its narrowest, and its northern shore, along with a chain of islands led by **Qeshm**, the largest island in the Gulf, belongs to Iran. Whoever holds those shores can watch, and threaten, every tanker leaving the Gulf. Empires understood this long before oil: the Portuguese seized Hormuz island in the early 1500s, and Persia's Shah Abbas, with English ships, drove them out in the [[e:Capture of Ormuz (1622)|1622 capture of Ormuz]].\n\nThe modern story begins with Britain's exit. When London withdrew its forces from the Gulf in 1971, the Shah moved to fill the gap. On the eve of the UAE's founding, Iran took the Greater and Lesser Tunbs by force and Abu Musa under a deal with Sharjah, in the [[e:Seizure of Abu Musa and the Greater and Lesser Tunbs|seizure of the three islands]]. The UAE has disputed them ever since. Iran now held a ring of positions across the shipping lanes.\n\nThe 1979 revolution turned that geography against the West, and the [[e:Iran–Iraq War]] {{note: Started when Saddam Hussein's Iraq invaded Iran in September 1980; it ended in a UN-brokered ceasefire in August 1988.}} showed how it could be used. From 1984 Iraq attacked tankers carrying Iranian oil, and Iran hit back at ships serving Iraq's Gulf backers, Kuwait and Saudi Arabia. In this [[e:Tanker War]] some 450 ships were struck. In 1987 Washington agreed to fly the US flag on Kuwaiti tankers and escort them, in [[e:Operation Earnest Will]]. Iran answered with mines and speedboats run by the [[p:Islamic Revolutionary Guard Corps]]. {{note: Created by Ayatollah Ruhollah Khomeini's decree in May 1979 to defend the revolution, alongside Iran's regular military.}}\n\nThe turning point came in April 1988. A mine nearly sank the frigate USS Samuel B. Roberts, and four days later the US Navy struck back in [[e:Operation Praying Mantis]], sinking much of Iran's regular navy in a single day. That July, the cruiser USS Vincennes mistook a passenger jet for an attacker and shot down [[e:Iran Air Flight 655]], killing all 290 aboard. Iran accepted a ceasefire weeks later.\n\nTehran drew a lasting lesson: it could not win a ship-against-ship battle with America, but it could make the strait too dangerous to use. Over the following decades the [[p:Islamic Revolutionary Guard Corps Navy|Guards' navy]] built up mines, fast attack craft and anti-ship missiles, many dug into tunnels on islands like Qeshm, and took the lead role in the strait. It seized tankers in the 2019 crisis to show it could.\n\nThe 2026 war tested that strategy for real. After US–Israeli strikes began on 28 February, Iran shut the strait, and Washington answered with the [[e:2026 United States naval blockade of Iran|naval blockade of Iran]]. The new US strikes on Qeshm's air defences hit the core of the system Iran spent 35 years building, which is why each one risks wider fighting even as both sides talk.",
+   "timeline": [
+    {
+     "when": "1622",
+     "text": "Safavid Persia and the English East India Company expel the Portuguese from Hormuz island."
+    },
+    {
+     "when": "Nov 1971",
+     "text": "As Britain leaves the Gulf, Iran takes Abu Musa and the Greater and Lesser Tunbs; the UAE still claims them."
+    },
+    {
+     "when": "1984",
+     "text": "The [[e:Tanker War]] begins inside the Iran–Iraq War; some 450 ships are hit by 1988."
+    },
+    {
+     "when": "Jul 1987",
+     "text": "The US begins escorting reflagged Kuwaiti tankers in [[e:Operation Earnest Will]]."
+    },
+    {
+     "when": "Apr 1988",
+     "text": "After a mine hits USS Samuel B. Roberts, [[e:Operation Praying Mantis]] sinks much of Iran's regular navy."
+    },
+    {
+     "when": "Jul 1988",
+     "text": "USS Vincennes shoots down [[e:Iran Air Flight 655]], killing 290; Iran accepts a ceasefire weeks later."
+    },
+    {
+     "when": "Feb–Apr 2026",
+     "text": "War begins on 28 Feb; Iran closes the strait and the US imposes a [[e:2026 United States naval blockade of Iran|naval blockade]]."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "US strikes hit air defences on Qeshm on 2 and 6 Nov while indirect talks continue."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Iran",
+     "view": "Tehran tells this as a story of foreign powers, from the Portuguese to the US Navy, trying to dominate waters on its doorstep. It sees control of the strait as legitimate self-defence and its only real leverage against a stronger enemy and its blockade."
+    },
+    {
+     "side": "United States",
+     "view": "Washington frames its role since 1987 as protecting freedom of navigation for the world's oil supply. It casts mining and tanker attacks as illegal threats to neutral shipping that it must deter."
+    },
+    {
+     "side": "UAE and Gulf states",
+     "view": "The UAE describes the 1971 island takeover as an occupation of its territory on the eve of independence. Gulf states want the strait open but fear being caught in a US–Iran war fought along their coasts."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Qeshm",
+     "meaning": "Iran's largest island, lying along the strait's northern side; it hosts Revolutionary Guard naval and air-defence sites."
+    },
+    {
+     "term": "IRGC Navy",
+     "meaning": "The Revolutionary Guards' naval force, built around mines, fast boats and coastal missiles, which leads Iran's operations in the strait."
+    },
+    {
+     "term": "Reflagging",
+     "meaning": "Registering foreign ships under a country's flag so its navy can protect them, as the US did for Kuwaiti tankers in 1987."
+    },
+    {
+     "term": "Freedom of navigation",
+     "meaning": "The principle that ships may pass through international straits; the US invokes it, while Iran disputes how it applies in the 2026 war."
+    }
+   ],
+   "whyItMatters": "Iran's whole Hormuz strategy rests on islands like Qeshm, so US strikes there weaken Tehran's main bargaining chip and also risk a wider fight. The 1988 record shows such clashes can escalate fast, and one mistake can kill civilians. Watch whether the Qatari-mediated sequence of steps reopens the strait before more strikes hit the islands.",
+   "readMore": [
+    {
+     "title": "No Higher Honor: The Road to Operation Praying Mantis",
+     "url": "https://history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-018/h-018-1.html",
+     "why": "The US Navy's official historian on the 1987–88 escorts, the mine strike and the one-day battle."
+    },
+    {
+     "title": "U.S.-Iran Showdown in the Gulf — Déjà vu?",
+     "url": "https://iranprimer.usip.org/node/6146",
+     "why": "USIP's Iran Primer compares the 2019 tanker crisis with the 1980s Tanker War."
+    },
+    {
+     "title": "Strait of Hormuz (Britannica)",
+     "url": "https://www.britannica.com/place/Strait-of-Hormuz",
+     "why": "Geography of the strait and its islands, and how much trade passes through it."
+    }
+   ],
+   "prevQuestion": "",
+   "prevAnswer": "",
+   "recallQ": "Why did Iran build its naval strategy in the strait around mines, fast boats and island missile sites rather than a large conventional fleet?",
+   "recallA": "In April 1988, Operation Praying Mantis showed that Iran's regular navy could not survive a direct fight with the US Navy. The Revolutionary Guards concluded that cheap, scattered, hard-to-hit weapons could make the strait too dangerous to use, giving Iran leverage without winning a sea battle."
+  }
+ ]
+}
