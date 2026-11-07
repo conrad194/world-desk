@@ -868,6 +868,39 @@
    "checkDate": "2026-11-10",
    "happened": "",
    "eventId": "E-261107-18"
+  },
+  {
+   "id": "W-261107-06",
+   "dateAdded": "2026-11-07",
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "what": "Ruczaj beaver habitat (ul. Obozowa): police proceedings after the RDOŚ and city reports, the University of Agriculture beaver count, and whether ATAL's retention-reservoir work is halted or redesigned.",
+   "expected": "The city has ordered permanent municipal-guard patrols and asked scientists to assess how many beavers are present (LoveKraków).",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261107-34"
+  },
+  {
+   "id": "W-261107-07",
+   "dateAdded": "2026-11-07",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Name of the person appointed as the mayor's envoy for legal violations, and the first cases they refer.",
+   "expected": "LoveKraków reports that staffing the post is the next step.",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261107-32"
+  },
+  {
+   "id": "W-261107-08",
+   "dateAdded": "2026-11-07",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "GDDKiA signs the 76.6m zł Jawornik (Zakopianka) interchange contract once appeals are exhausted.",
+   "expected": "GDDKiA will sign once the choice of contractor is final; opening is planned for spring 2029.",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261107-35"
   }
  ]
 }

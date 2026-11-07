@@ -1439,6 +1439,30 @@
    "lean": "centrist commercial",
    "status": "Watch",
    "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "puls-krakowa",
+   "name": "Puls Krakowa",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "City hall, local politics",
+   "language": "Polish",
+   "url": "https://pulskrakowa.pl/",
+   "lean": "independent local, unclear",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "krak-w-portal",
+   "name": "Kraków Portal",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "City events, local news",
+   "language": "Polish",
+   "url": "https://krakowportal.pl/",
+   "lean": "unclear",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
   }
  ]
 }
