@@ -136,6 +136,143 @@
      "why": "Article-by-article text; see Articles 74–75 on the Council of Ministers and its responsibility to the Lok Sabha."
     }
    ]
+  },
+  {
+   "id": "L07",
+   "num": 7,
+   "unit": "How each country is governed",
+   "title": "Vetoes and overrides",
+   "dateTaught": "2026-11-07",
+   "minutes": 7,
+   "pulledForward": true,
+   "prevQuestion": "Why can a US president stay in office after his party loses the midterms, while a Polish or Indian prime minister who loses a parliamentary majority usually cannot?",
+   "prevAnswer": "The US president is elected separately for a fixed term and does not need Congress's confidence; only impeachment can remove him. Polish and Indian governments are responsible to the lower house, so losing its support (through a no-confidence vote, constructive in Poland's case) brings the government down.",
+   "body": "Lesson 1 showed that each country splits power differently. A **veto** is where that split becomes concrete: it is the moment one branch says no to a law the legislature has already passed. All three countries give their president a veto, but its strength depends on two things: **how big a majority the legislature needs to override it**, and **whether the president can simply run out the clock**.\n\n**United States: strong veto, hard override.** Under Article I, Section 7 of the Constitution, every bill goes to the president, who has ten days (Sundays excluded) to sign it or return it to Congress with objections. Congress can override only with a **two-thirds vote in both the House and the Senate**, a bar that one party rarely clears on its own. That is why overrides are rare: of about 2,600 vetoes since 1789, Congress has overridden 112. There is also a **pocket veto**: if Congress adjourns during the ten days, an unsigned bill simply dies and cannot be overridden. In practice, the *threat* of a veto shapes bills long before they reach the president's desk.\n\n> The first presidential veto was cast by [@George Washington](https://en.wikipedia.org/wiki/George_Washington) in 1792, against a bill dividing House seats among the states.\n\n**Poland: a veto aimed at the government.** Article 122 of the 1997 Constitution gives the president 21 days. He can sign; he can send the law to the Constitutional Tribunal; or he can veto it and send it back to the Sejm, but he cannot do both. To override, the Sejm needs **three-fifths of the votes cast, with at least half of its 460 deputies present**. The Senate has no role in the override. Because Polish governments usually rest on a slim majority, three-fifths is often out of reach. That matters most during **cohabitation**, when the president and the government come from rival camps. Since taking office in August 2025, [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) has vetoed about fifty laws passed by [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk)'s coalition, a record for any Polish president, and the Sejm has not overridden one. Supporters see a needed check on the government; critics say the veto has become a second, unelected programme for governing. The government often responds by rewriting a vetoed bill to win the president's signature, or by acting through ministerial regulations, which need no signature.\n\n**India: a weak veto, but a long pause.** Under Article 111, India's president can sign a bill, withhold assent, or return it (except a money bill) to Parliament for reconsideration once. If both houses pass it again, by an ordinary majority, the president **must** sign. Formally, this is the weakest veto of the three. Its real force comes from what the Constitution leaves out: **there is no deadline**. In 1986 President [@Zail Singh](https://en.wikipedia.org/wiki/Zail_Singh) let a bill on intercepting postal mail sit unsigned until it was dropped, India's best-known pocket veto. The same question arises in the states, where centrally appointed **governors** can sit on state bills under Article 200. In the [#State of Tamil Nadu v. Governor of Tamil Nadu](https://en.wikipedia.org/wiki/State_of_Tamil_Nadu_v._Governor_of_Tamil_Nadu) case of April 2025, the Supreme Court set deadlines. In November 2025, a five-judge bench answering a [#presidential reference](https://en.wikipedia.org/wiki/In_re:_Assent,_Withholding_or_Reservation_of_Bills_by_the_Governor_and_the_President_of_India) said courts cannot impose fixed timelines, but added that governors may not delay bills indefinitely.\n\n> Under Article 143, the president can ask the Supreme Court for an advisory opinion on any question of law. This is called a presidential reference.\n\nThe pattern: the US veto is strong because overrides need a supermajority in two chambers; Poland's is strong because coalition governments seldom reach three-fifths; India's is weak on paper but can still stall a bill through delay. When you read that a veto \"blocked\" a reform, ask what override threshold applies and whether the government has the votes to reach it.",
+   "comparison": [
+    {
+     "aspect": "Who can veto national laws",
+     "US": "The President (Art. I, §7)",
+     "Poland": "The President (Art. 122)",
+     "India": "The President (Art. 111); state governors can withhold assent from state bills or reserve them for the President (Art. 200)"
+    },
+    {
+     "aspect": "Time to decide",
+     "US": "10 days, Sundays excluded",
+     "Poland": "21 days",
+     "India": "No fixed limit; in the [#presidential reference](https://en.wikipedia.org/wiki/In_re:_Assent,_Withholding_or_Reservation_of_Bills_by_the_Governor_and_the_President_of_India) (Nov 2025), the Supreme Court said courts cannot set one"
+    },
+    {
+     "aspect": "Override",
+     "US": "Two-thirds of both House and Senate",
+     "Poland": "Three-fifths of Sejm votes cast, with at least half of deputies present; the Senate takes no part",
+     "India": "Ordinary majority of both houses re-passes the bill, and the President must then sign (not for money bills)"
+    },
+    {
+     "aspect": "Pocket veto",
+     "US": "Yes: a bill dies if Congress adjourns within the 10 days",
+     "Poland": "No: the deadline is binding",
+     "India": "In practice, by not acting, as [@Zail Singh](https://en.wikipedia.org/wiki/Zail_Singh) did in 1986"
+    },
+    {
+     "aspect": "Alternative to a veto",
+     "US": "–",
+     "Poland": "Send the law to the Constitutional Tribunal (instead of vetoing, not as well)",
+     "India": "Seek the Supreme Court's opinion (Art. 143); governors can reserve a state bill for the President"
+    },
+    {
+     "aspect": "Recent record",
+     "US": "[@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)'s first two vetoes of his second term (Dec 2025) were sustained in the House in Jan 2026",
+     "Poland": "[@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki): about 50 vetoes by Oct 2026, none overridden",
+     "India": "Disputes centre on governors delaying state bills, not on presidential vetoes"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Veto (Polish: weto)",
+     "meaning": "A head of state's refusal to sign a bill passed by the legislature, sending it back."
+    },
+    {
+     "term": "Override",
+     "meaning": "The legislature passing a vetoed bill again by the required majority, so that it becomes law anyway."
+    },
+    {
+     "term": "Pocket veto",
+     "meaning": "Killing a bill by not acting on it: formally in the US when Congress adjourns, and in practice in India, where there is no deadline."
+    },
+    {
+     "term": "Suspensive veto",
+     "meaning": "A veto that only delays a bill, because a simple re-passage overrides it; India's Article 111 return is one."
+    },
+    {
+     "term": "Assent (Hindi: anumati)",
+     "meaning": "The formal approval by India's president or a state governor that turns a passed bill into law."
+    },
+    {
+     "term": "Cohabitation (Polish: kohabitacja)",
+     "meaning": "When the president and the government come from rival political camps; vetoes then become a main tool of opposition."
+    }
+   ],
+   "example": "In 1973 Congress passed the **War Powers Resolution**, which requires the president to report to Congress within 48 hours of sending troops into hostilities and to withdraw them after 60 days without congressional approval. President [@Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) vetoed it, arguing that it unconstitutionally limited his powers as commander-in-chief. The [#War Powers Resolution](https://en.wikipedia.org/wiki/War_Powers_Resolution) became law anyway. On 7 November 1973, exactly 53 years ago today, the House and the Senate both cleared the two-thirds bar, helped by Nixon's weakness during the [#Watergate scandal](https://en.wikipedia.org/wiki/Watergate_scandal). The case shows what an override takes in the US: members of the president's own party had to vote against him. It also shows how a veto keeps shaping a law after it passes. Presidents of both parties have since said the resolution is unconstitutional and have often reported to Congress only \"consistent with\" it, never conceding that it binds them.",
+   "inTheNews": "S&P cut Poland's rating outlook to negative partly because presidential vetoes by [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) limit the government's fiscal plans, and Finance Minister [@Andrzej Domański](https://en.wikipedia.org/wiki/Andrzej_Doma%C5%84ski) blamed the president. In the US, House Democrats are planning votes for next year that, without two-thirds majorities, could not survive a veto by [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump).",
+   "newsEvents": [
+    "E-261107-19",
+    "E-261107-18",
+    "E-261107-11"
+   ],
+   "check": [
+    {
+     "q": "Poland's ruling coalition has a clear majority in the Sejm but well under three-fifths of the seats. What happens to a law the president vetoes?",
+     "options": [
+      "It becomes law once the Senate approves it again",
+      "It fails unless opposition deputies help reach three-fifths of the votes cast",
+      "It goes automatically to the Constitutional Tribunal",
+      "The coalition can pass it again by a simple majority after 30 days"
+     ],
+     "answer": 1,
+     "explain": "Article 122 requires three-fifths of votes cast (with half the deputies present) and gives the Senate no role. A coalition with a bare majority needs opposition votes, or enough opposition absences, to override."
+    },
+    {
+     "q": "Why is India's presidential veto often described as weak on paper but still capable of stalling a bill?",
+     "options": [
+      "Because the Rajya Sabha can block any override",
+      "Because a two-thirds majority is needed to override it",
+      "Because Parliament can override it by simple re-passage, but the Constitution sets no deadline for the president to act",
+      "Because the Supreme Court must approve every vetoed bill"
+     ],
+     "answer": 2,
+     "explain": "Under Article 111 a re-passed bill must be signed, so the formal veto only delays. The lack of a time limit lets a president, or a governor for state bills, simply not act."
+    },
+    {
+     "q": "A US bill reaches the president eight days before Congress adjourns for the year. The president neither signs nor vetoes it. What happens?",
+     "options": [
+      "It becomes law after ten days",
+      "It dies by pocket veto and cannot be overridden",
+      "It goes back to Congress for an override vote next session",
+      "The Supreme Court decides whether it takes effect"
+     ],
+     "answer": 1,
+     "explain": "If Congress adjourns within the ten-day window and so prevents the bill's return, the unsigned bill does not become law. With no returned veto, Congress has nothing to override."
+    }
+   ],
+   "recallQ": "Why does the threshold for overriding a veto (two-thirds, three-fifths or a simple majority) matter so much for how powerful a president's veto really is?",
+   "recallA": "The veto's real strength is the size of the majority needed to defeat it. The US two-thirds rule in both chambers and Poland's three-fifths rule usually mean the ruling side needs opposition votes, so a veto often kills a bill. In India a simple re-passage overrides the president, so his veto mainly delays a bill, and delay without a deadline is its main source of power.",
+   "readMore": [
+    {
+     "title": "US Senate: Vetoes, 1789 to present",
+     "url": "https://www.senate.gov/legislative/vetoes/vetoCounts.htm",
+     "why": "Official counts of regular vetoes, pocket vetoes and overrides for every president."
+    },
+    {
+     "title": "Sejm of the Republic of Poland: the legislative process",
+     "url": "https://sejm.gov.pl/english/prace/lp7.htm",
+     "why": "The Sejm's own explanation of the president's 21 days, the Tribunal route and the three-fifths override."
+    },
+    {
+     "title": "Supreme Court Observer: Presidential Reference on assent to bills",
+     "url": "https://www.scobserver.in/cases/presidential-reference-on-powers-of-the-governor-and-president-re-assent-withholding-or-reservation-of-bills-by-the-governor-and-president-of-india/",
+     "why": "A case page on the 2025 opinion about governors' and the president's powers over bills."
+    }
+   ]
   }
  ]
 }
