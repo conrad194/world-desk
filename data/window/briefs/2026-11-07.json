@@ -1,0 +1,1262 @@
+{
+ "date": "2026-11-07",
+ "top5": [
+  {
+   "text": "S&P kept Poland at A- but cut the outlook to negative, citing deficits above 7% of GDP and presidential vetoes; Domański blamed Nawrocki.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "PAP (Finance Ministry communiqué) / WNP.pl",
+     "url": "https://www.dlahandlu.pl/inne/mf-s-p-potwierdza-dotychczasowy-rating-polski-w-walucie-obcej-na-poziomie-a-a-2-zmieniajac-jednoczesnie-perspektywe-ratingu-na-n,177689.html"
+    },
+    {
+     "label": "More",
+     "url": "https://www.wnp.pl/rynki/jest-decyzja-w-sprawie-ratingu-zla-wiadomosc-dla-polski,1117139.html"
+    }
+   ]
+  },
+  {
+   "text": "US payrolls rose 165,000 in October, unemployment 4.1%; markets now price about an 85% chance of a December Fed hike.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+     "label": "More",
+     "url": "https://axios.com/2026/11/06/october-2026-jobs-report-unemployment-165000"
+    },
+    {
+     "label": "Reuters (via SRN News)",
+     "url": "https://www.freedom969.com/business/fed-seen-sticking-to-december-rate-hike-after-jobs-data"
+    }
+   ]
+  },
+  {
+   "text": "AP: Qatar's two-day US–Iran 'bridge' plan would lift the blockade and reopen Hormuz; Iran wants seven preconditions first.",
+   "place": "US",
+   "links": [
+    {
+     "label": "AP (via CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/"
+    },
+    {
+     "label": "More",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"
+    }
+   ]
+  },
+  {
+   "text": "India's Election Commission reopened re-inclusion for voters struck off draft rolls in seven states; Congress calls it an admission of error.",
+   "place": "India",
+   "links": [
+    {
+     "label": "PTI (via Kashmir Reader); Business Standard Hindi",
+     "url": "https://kashmirreader.com/2026/11/07/excluded-from-draft-voter-rolls-ec-offers-another-chance-to-electors-in-seven-states/"
+    },
+    {
+     "label": "More",
+     "url": "https://hindi.business-standard.com/india-news/sir-voter-list-update-election-commission-gives-seven-states-relief-id-566038/"
+    }
+   ]
+  },
+  {
+   "text": "The Pentagon confirmed Kosiniak-Kamysz meets Hegseth on Nov 10, with a permanent US base on the agenda.",
+   "place": "US–Poland",
+   "links": [
+    {
+     "label": "Interia / PAP",
+     "url": "https://wydarzenia.interia.pl/kraj/news-jest-termin-wizyty-kosiniaka-kamysza-w-usa-pentagon-potwierd,nId,23570444"
+    },
+    {
+     "label": "More",
+     "url": "https://www.pap.pl/kraj"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261107-01",
+    "domain": "Economy, business & markets",
+    "text": "October jobs report: +165,000 jobs, far above forecasts; unemployment 4.1%; wages +3.1% y/y; Aug–Sep revised up by 84,000.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+     },
+     {
+      "label": "More",
+      "url": "https://axios.com/2026/11/06/october-2026-jobs-report-unemployment-165000"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-02",
+    "domain": "Economy, business & markets",
+    "text": "Strong jobs data lift market odds of a December Fed rate hike to about 85%; SF Fed's Daly says further tightening is likely.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Reuters (via SRN News)",
+      "url": "https://www.freedom969.com/business/fed-seen-sticking-to-december-rate-hike-after-jobs-data"
+     },
+     {
+      "label": "More",
+      "url": "https://www.freedom969.com/business/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-04",
+    "domain": "Foreign relations",
+    "text": "AP: Qatar offers a two-day US–Iran 'bridge' plan (blockade lifted, IAEA access, Hormuz reopened); Iran insists on seven preconditions first.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "AP (via CP24)",
+      "url": "https://www.cp24.com/news/world/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-07",
+    "domain": "Politics & government",
+    "text": "Mississippi Senate: Colom's lead grows to 2,010; 12,000–20,000 affidavit ballots remain amid scrutiny of Experian-based voter purges.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Democracy Docket (AP results); WLBT",
+      "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.wlbt.com/2026/11/06/secretary-state-explains-affidavit-ballot-process-mississippi-senate-race/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-05",
+    "domain": "Defense, security & crime",
+    "text": "Trump says an Iran decision is coming; CENTCOM reportedly readying options; Iran's Rezaei briefs Putin in Moscow.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.washingtontimes.com/news/2026/nov/6/donald-trump-talks-de-escalation-qatari-emir-diplomacy-end-iran-war/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-08",
+    "domain": "Politics & government",
+    "text": "Alaska: Peltola still leads Sullivan by 637 with a quarter of ballots out; Sullivan camp alleges cheating, which Peltola denies.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Alaska's News Source (KTUU)",
+      "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/"
+     },
+     {
+      "label": "More",
+      "url": "https://reason.com/2026/11/06/mary-peltola-appears-likely-to-defeat-both-dan-sullivans-in-alaskas-senate-race/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-10",
+    "domain": "Politics & government",
+    "text": "More Democratic senators-elect say they won't back Schumer, but the Washington Post says he is still poised to remain leader.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/11/6/headlines/incoming_freshman_senators_call_for_new_leadership_to_replace_top_democrat_chuck_schumer"
+     },
+     {
+      "label": "More",
+      "url": "https://www.washingtonpost.com/politics/2026/11/06/schumer-poised-lead-senate-again-after-surviving-democratic-backlash/"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261107-12",
+    "domain": "Technology, AI & cyber",
+    "text": "Anthropic IPO: investors reportedly push for a $1.5–1.6tn valuation (vs ~$2tn) after the AI sell-off; still no price range filed.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Tech Insider",
+      "url": "https://tech-insider.org/anthropic-ipo-investors-lower-valuation-1-5-1-6-trillion-ai-backlash-2026/"
+     },
+     {
+      "label": "More",
+      "url": "https://qz.com/anthropic-ipo-valuation-expectations-fall-ai-selloff-110626"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-13",
+    "domain": "Environment, energy & disasters",
+    "text": "Gasoline about $4.10 and diesel about $6.26; GasBuddy sees $3.65 gasoline in coming weeks; DOE taps the Northeast heating oil reserve via exchange.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Benzinga (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/energy/articles/gas-could-drop-3-65-003006160.html"
+     },
+     {
+      "label": "More",
+      "url": "https://www.environmentenergyleader.com/articles/45522-energy-news-you-may-have-missed-nov-6-2026"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-14",
+    "domain": "Infrastructure, transport & housing",
+    "text": "FAA chief to testify Nov 10 on the $12.5bn air-traffic overhaul as the administration seeks $30bn more.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Reuters (via SRN News)",
+      "url": "https://srnnews.com/us-faa-administrator-to-testify-on-12-5-billion-air-traffic-overhaul/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261107-18",
+    "domain": "Economy, business & markets",
+    "text": "S&P kept Poland at A- but cut the outlook to negative and lowered the local-currency rating, citing deficits above 7% of GDP and presidential vetoes.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland public finances and credit ratings",
+    "links": [
+     {
+      "label": "PAP (Finance Ministry communiqué) / WNP.pl",
+      "url": "https://www.dlahandlu.pl/inne/mf-s-p-potwierdza-dotychczasowy-rating-polski-w-walucie-obcej-na-poziomie-a-a-2-zmieniajac-jednoczesnie-perspektywe-ratingu-na-n,177689.html"
+     },
+     {
+      "label": "More",
+      "url": "https://www.wnp.pl/rynki/jest-decyzja-w-sprawie-ratingu-zla-wiadomosc-dla-polski,1117139.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-21",
+    "domain": "Law, courts & regulation",
+    "text": "Tribunal judges will meet on Nov 17 to decide whether to lift Święczkowski's immunity, including the prosecutor's request to allow his detention.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita (PAP)",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45457341-17-listopada-tk-zbierze-sie-zeby-zdecydowac-o-losie-bogdana-swieczkowskiego"
+     },
+     {
+      "label": "More",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/sadny-dzien-dla-bogdana-swieczkowskiego-korwin-piotrowska-wskazala-date/"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261107-25",
+    "domain": "Economy, business & markets",
+    "text": "Fuel caps for Nov 7–9 fall to 6.12 zł for 95 petrol and 7.83 zł for diesel.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland fuel price caps",
+    "links": [
+     {
+      "label": "CEO.com.pl",
+      "url": "https://ceo.com.pl/ceny-paliw-7-listopada-2026-benzyna-diesel-45475"
+     },
+     {
+      "label": "More",
+      "url": "https://www.lublin112.pl/nowe-ceny-paliw-od-7-listopada-minister-oglosil-limity-na-benzyne-i-diesla/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-20",
+    "domain": "Politics & government",
+    "text": "Sejm rejected PiS's no-confidence motion against Interior Minister Kierwiński, 212–235; Konfederacja and Razem backed it, and the coalition held.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "PAP",
+      "url": "https://www.pap.pl/aktualnosci/sejm-odrzucil-wniosek-o-wotum-nieufnosci-wobec-szefa-mswia-0"
+     },
+     {
+      "label": "More",
+      "url": "https://niezalezna.pl/polityka/kierwinski-zostaje-sejm-odrzucil-wotum-nieufnosci-wobec-szefa-mswia/583500"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-23",
+    "domain": "Health, medicine & food safety",
+    "text": "Senate amended the night alcohol-sales ban: start moved to June 2027, airports exempt, 0% beer ads allowed by one vote; bill returns to Sejm.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita (PAP)",
+      "url": "https://www.rp.pl/prawo-w-polsce/art45456381-nocna-prohibicja-w-calej-polsce-senat-poparl-wprowadzono-poprawki"
+     },
+     {
+      "label": "More",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Jeden-glos-przesadzil-o-reklamie-piwa-0-proc-Senat-przyjal-przepisy-dotyczace-alkoholu,290980,2.html"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261107-24",
+    "domain": "Politics & government",
+    "text": "President Nawrocki confirmed he will join the Nov 11 Independence March, which organisers expect to draw 500,000.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/marsz-niepodleglosci-w-warszawie-nawrocki-zapowiedzial-swoj-udzial/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.rp.pl/polityka/art45444501-pol-miliona-ludzi-na-marszu-niepodleglosci-organizatorzy-zapowiadaja-rekordowa-frekwencje"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-26",
+    "domain": "Politics & government",
+    "text": "CBOS: KO 28.1%, PiS 15.8%, Konfederacja 15.4%; PSL and Polska 2050 below 2%.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "PAP",
+      "url": "https://www.pap.pl/aktualnosci/cbos-ko-281-proc-pis-158-proc-konfederacja-154-proc"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-27",
+    "domain": "Economy, business & markets",
+    "text": "Shein will invest €500m in its Wrocław-area logistics hub, adding about 2,000 jobs.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Notes from Poland",
+      "url": "https://notesfrompoland.com/2026/11/05/chinese-fashion-platform-shein-to-invest-e500-million-in-polish-logistics-hub/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261107-29",
+    "domain": "Culture, media & sport",
+    "text": "Wisła beat Cracovia 2-1 in the 204th Kraków derby, which was marred by flares; Cracovia's Klich was sent off late on.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Polsat Sport",
+      "url": "https://www.polsatsport.pl/wiadomosc/2026-11-06/derby-krakowa-rozstrzygniete-trzy-gole-i-czerwona-kartka-na-stadionie-wisly/"
+     },
+     {
+      "label": "More",
+      "url": "https://lovekrakow.pl/wiocha-akt-desperacji-i-pod-publiczke-kapitan-wisly-dosadnie-o-klichu"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-30",
+    "domain": "Politics & government",
+    "text": "Gibała confirmed that the city monthly Kraków.pl will close at the end of 2026, saving about 2.5m zł a year.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "Puls Krakowa",
+      "url": "https://pulskrakowa.pl/to-juz-oficjalne-od-1-stycznia-2027-roku-koniec-miejskiej-gazetki-krakow-pl/"
+     },
+     {
+      "label": "More",
+      "url": "https://lovekrakow.pl/miejski-miesiecznik-krakowpl-ma-zniknac-kosztuje-miliony"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-34",
+    "domain": "Environment, energy & disasters",
+    "text": "City officials confirmed machinery working in the protected Ruczaj beaver habitat, reported it to police and ordered guard patrols.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/awantura-o-bobry-na-ruczaju-trwa-to-bardzo-niepokojaca-sytuacja"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-35",
+    "domain": "Infrastructure, transport & housing",
+    "text": "GDDKiA picked ZUE-led consortium (76.6m zł) for a new Zakopianka interchange at Jawornik, due spring 2029.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/koniec-z-niebezpiecznym-skrzyzowaniem-na-zakopiance-bedzie-nowy-wiadukt"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261107-41",
+    "domain": "Politics & government",
+    "text": "The Election Commission reopened inclusion for voters struck off draft rolls in seven states, including Delhi and Maharashtra. Congress called it an admission of wrongful deletions.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "PTI (via Kashmir Reader); Business Standard Hindi",
+      "url": "https://kashmirreader.com/2026/11/07/excluded-from-draft-voter-rolls-ec-offers-another-chance-to-electors-in-seven-states/"
+     },
+     {
+      "label": "More",
+      "url": "https://hindi.business-standard.com/india-news/sir-voter-list-update-election-commission-gives-seven-states-relief-id-566038/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-43",
+    "domain": "Politics & government",
+    "text": "Amit Shah called Congress's anti-SIR yatra a 'save the infiltrators' campaign. Rahul Gandhi dared him to have Modi debate him.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "Organiser; ANI",
+      "url": "https://organiser.org/2026/11/06/424714/bharat/uttarakhand-amit-shah-slams-rahul-gandhi-over-save-infiltrators-campaign-alleges-congress-backed-demographic-change/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.dailyprabhat.com/debate-dares-ghuspatiya-jibes-rahul-gandhi-amit-shah-face-off-over-sir-intensifies-as-ec-gives-asdd-voters-fresh-chance/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-45",
+    "domain": "Environment, energy & disasters",
+    "text": "Delhi-NCR moved to GRAP Stage III curbs on the eve of Diwali, with AQI around 365 and 'severe' air forecast for Nov 7–9 during the green-cracker window.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "The Week; Jagran English; IANS",
+      "url": "https://www.theweek.in/news/india/2026/11/07/aqi-what-is-the-imd-forecast-for-delhi-as-grap-iii-is-imposed-as-a-diwali-precautionary-measure.html"
+     },
+     {
+      "label": "More",
+      "url": "https://www.thedailyjagran.com/india/news/delhi-ncr-noida-gurugram-aqi-ahead-of-diwali-caqm-invokes-grap-stage-iii-amid-rising-smog-10335470"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-47",
+    "domain": "Environment, energy & disasters",
+    "text": "Karnataka says petrol samples held up to 31.2% ethanol against the 20% limit. State oil companies reject the tests as procedurally flawed.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "Outlook India; PTI (via ThePrint)",
+      "url": "https://outlookindia.com/national/karnataka-petrol-ethanol-levels-31-percent-e20-limit-centre-intervention"
+     },
+     {
+      "label": "More",
+      "url": "https://theprint.in/india/omcs-reject-karnatakas-claim-of-excess-ethanol-in-petrol-say-tests-did-not-follow-prescribed-norms/3092883"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-49",
+    "domain": "Economy, business & markets",
+    "text": "Karnataka cane farmers struck for Rs 5,500 a tonne. CM Shivakumar says the Centre must fix sugar prices and will raise it with Modi on Nov 13.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/state/centre-has-to-fix-sugar-rate-and-price-dk-shivakumar-on-sugarcane-farmers-protest-enn26110601914"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261107-50",
+    "domain": "Defense, security & crime",
+    "text": "An IAF officer set out Agniveer second-tour pay of Rs 43,500–47,500 a month and Rs 10.92 lakh in Seva Nidhi. No formal notification yet.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Agnipath and Agniveer retention",
+    "links": [
+     {
+      "label": "Business Today; The News Mill",
+      "url": "https://www.businesstoday.in/india/story/agnipath-scheme-revised-agniveers-to-get-rs43500-monthly-pay-in-fifth-year-rs47500-in-sixth-566012-2026-11-05"
+     },
+     {
+      "label": "More",
+      "url": "https://thenewsmill.com/2026/11/air-vice-marshal-yadav-calls-second-tour-of-duty-a-golden-opportunity-for-agniveers/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "The long-running tram diversion ends Sun Nov 8. From Mon Nov 9 the new bus 714 links Bronowice Małe with the main station, and the Prądnik Czerwony P+R 01 stop closes for repairs.",
+   "link": "https://ztp.krakow.pl/wszystkie-aktualnosci/kmk/bronowice-z-bezposrednim-polaczeniem-z-dworcem-od-poniedzialku-nowa-linia-714.html"
+  },
+  {
+   "kind": "Transit",
+   "text": "Nov 11: holiday timetables, with many tram and bus lines diverted 10:30–14:00 for the city-centre ceremonies.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Air quality",
+   "text": "PM2.5 hit 'unhealthy' (US AQI 158, aqicn) on Nov 6 in calm, frosty air. No official GIOŚ alert yet; check powietrze.gios.gov.pl.",
+   "link": "https://aqicn.org/city/krakow/pl/"
+  },
+  {
+   "kind": "Weather",
+   "text": "IMGW yellow fog warning for Małopolska until 10:00 Sat. Sunny weekend, highs 4–9°C, frost to about −4°C on Saturday night.",
+   "link": "https://wydarzenia.interia.pl/kraj/news-weekend-z-pogodowymi-problemami-pierwszy-z-nich-juz-wskazano,nId,23570195"
+  },
+  {
+   "kind": "Closure",
+   "text": "ul. Nowohucka: one lane towards Nowa Huta closed Nov 7–15. Nov 11: Vistula boulevards closed about 07:00–13:00 for the Independence Run.",
+   "link": "https://cowkrakowie.pl/2026/11/na-ul-nowohuckiej-zamkniety-zostanie-jeden-pas-ruchu"
+  },
+  {
+   "kind": "Event",
+   "text": "Nov 11: Wawel Mass at 10:00, state ceremony at plac Matejki at 12:00, singing on the Rynek in the afternoon. New covered ice rink on ul. Kordylewskiego now open.",
+   "link": "https://krakowportal.pl/11-listopada-2026-w-krakowie-program-obchodow-swieta-niepodleglosci/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261107-57",
+    "domain": "Foreign relations",
+    "text": "Pentagon confirmed the Kosiniak-Kamysz–Hegseth meeting for Nov 10, with a permanent US base on the agenda.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Interia / PAP",
+      "url": "https://wydarzenia.interia.pl/kraj/news-jest-termin-wizyty-kosiniaka-kamysza-w-usa-pentagon-potwierd,nId,23570444"
+     },
+     {
+      "label": "More",
+      "url": "https://www.pap.pl/kraj"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261106-04",
+   "name": "Anti-alcohol law: night sales ban (22:00–06:00) and alcohol advertising ban",
+   "place": "Poland",
+   "body": "Sejm / Senate",
+   "stage": "Proposed",
+   "changes": "Update: the full Senate amended the night-sales ban. The start moves to June 1, 2027, airports are exempt, ads for 0% beer are allowed and the home-delivery ban was dropped. It returns to the Sejm.",
+   "affects": "Shops, petrol stations, the alcohol and advertising industries, and consumers.",
+   "effectiveDate": "2027-06-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.rp.pl/prawo-w-polsce/art45456381-nocna-prohibicja-w-calej-polsce-senat-poparl-wprowadzono-poprawki"
+  },
+  {
+   "id": "R-261106-07",
+   "name": "Agnipath scheme: two-year 'Second Tour of Duty' for Agniveers",
+   "place": "India",
+   "body": "Union Cabinet / Ministry of Defence",
+   "stage": "Passed / final",
+   "changes": "Update: an IAF officer gave second-tour pay of Rs 43,500 and Rs 47,500 a month and Rs 10.92 lakh in Seva Nidhi. There is still no formal notification.",
+   "affects": "The first Agniveer batch (exit due Nov 21) and all later batches in the Army, Navy and Air Force. Pay and Seva Nidhi terms for the extra years are not yet published.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://x.com/rajnathsingh/status/2117911265716875355",
+   "newsLink": "https://www.businesstoday.in/india/story/agnipath-scheme-revised-agniveers-to-get-rs43500-monthly-pay-in-fifth-year-rs47500-in-sixth-566012-2026-11-05"
+  }
+ ],
+ "deepDive": {
+  "domain": "Environment, energy & disasters",
+  "title": "Smog season opens: Delhi on alert, Kraków on watch",
+  "body": "**Delhi.** Air regulator CAQM moved Delhi-NCR to GRAP Stage III on Nov 6, before air reached 'severe' citywide. AQI was about 365, with hotspots above 400. Stage III halts most construction, which hits daily-wage building workers hardest, and restricts older petrol and diesel cars. The Supreme Court's green-cracker window (Nov 7–8) falls on the same days IITM forecasts 'severe' air. Punjab's farm fires (357 on Nov 6) and calm winds add to the load. On Nov 6 the court said more orders alone would not fix things, named vehicles as a major source and hears the case again on Nov 16. Congress blames the BJP, which now runs the Centre, the Delhi government and the city bodies. The BJP points to stubble smoke and weather.\n\n**Kraków.** Smog season is starting there too. Calm, frosty weather pushed PM2.5 to an 'unhealthy' level early on Nov 6 (aqicn). IMGW has fog warnings out, and the same conditions are forecast through the weekend. No official GIOŚ alert has been issued yet.\n\n**The Ruczaj beavers.** A smaller environment fight is unfolding in Kraków. Developer ATAL is building a city flood-retention reservoir near ul. Obozowa under a permit based on a 2021 local plan, and that plan did not record the beaver wetland that has since formed. RDOŚ ruled on Nov 5 that earthworks broke nature-protection law. On Nov 6 Deputy Mayor Wałachowski's team confirmed machinery in the habitat and notified police. The dispute sets flood protection against a self-made wetland that may hold water better than concrete. It is an early test of whether Gibała's team will make developers redesign projects when old plans no longer match the ground.\n\n**What to watch:** Delhi AQI on Nov 8–9 and any move to Stage IV; the Nov 16 hearing; police action at Ruczaj.",
+  "links": [
+   {
+    "label": "The Week",
+    "url": "https://www.theweek.in/news/india/2026/11/07/aqi-what-is-the-imd-forecast-for-delhi-as-grap-iii-is-imposed-as-a-diwali-precautionary-measure.html"
+   },
+   {
+    "label": "Interia (IMGW)",
+    "url": "https://wydarzenia.interia.pl/kraj/news-weekend-z-pogodowymi-problemami-pierwszy-z-nich-juz-wskazano,nId,23570195"
+   },
+   {
+    "label": "LoveKraków",
+    "url": "https://lovekrakow.pl/awantura-o-bobry-na-ruczaju-trwa-to-bardzo-niepokojaca-sytuacja"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261107-02",
+   "title": "Jest decyzja w sprawie ratingu. Zła wiadomość dla Polski",
+   "reporter": "Wojciech Żurawski",
+   "outlet": "WNP.pl",
+   "url": "https://www.wnp.pl/rynki/jest-decyzja-w-sprawie-ratingu-zla-wiadomosc-dla-polski,1117139.html",
+   "why": "A clear explainer of S&P's move, with yield history, borrowing needs, the Moody's September cut and economists' views on market impact.",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261107-01",
+   "title": "Iran is reviewing proposals focusing on Tehran's nuclear program, officials say",
+   "reporter": "Aamer Madhani, Samy Magdy",
+   "outlet": "AP",
+   "url": "https://www.cp24.com/news/world/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/",
+   "why": "The clearest step-by-step account yet of Qatar's US–Iran bridge proposal and Iran's preconditions.",
+   "place": "US",
+   "domain": "Foreign relations",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-08",
+   "text": "Diwali; Muhurat trading 2:20–3:30 pm IST; last day of the Delhi-NCR green-cracker window.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Lame-duck Congress returns; Dec 11 government-funding deadline looms",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Exercise KOALICJA 26.2 (Multinational Force Ukraine drill) begins, to Nov 22.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "New bus line 714 starts; Prądnik Czerwony P+R stop closes for repairs.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Mississippi deadline for affidavit voters without photo ID to cure ballots",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Kosiniak-Kamysz meets Hegseth at the Pentagon (10:30 ET)",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Tribunal judges' assembly on the Tribunal's rules (Korwin-Piotrowska).",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day; Independence March in Warsaw with President Nawrocki attending",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day in Kraków: Wawel Mass, plac Matejki ceremony, Independence Run; diversions 10:30–14:00.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Expected window for Trump's decision on resuming Iran strikes versus a deal.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Watch: Tusk–Nawrocki meeting, and whether Nawrocki signs the Bartol/Domański appointments.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Modi opens Bengaluru's Namma Metro Pink Line; Shivakumar to raise cane prices.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "DPDP Rules consent-manager provisions take effect.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "ASEAN summits in Manila (about Nov 15–17); a Modi–Trump meeting is possible but unannounced.",
+   "place": "US–India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Bureau of Labor Statistics",
+   "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Bureau of Labor Statistics",
+   "url": "https://axios.com/2026/11/06/october-2026-jobs-report-unemployment-165000",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via SRN News)",
+   "url": "https://www.freedom969.com/business/fed-seen-sticking-to-december-rate-hike-after-jobs-data",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via SRN News)",
+   "url": "https://www.freedom969.com/business/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via CP24)",
+   "url": "https://www.cp24.com/news/world/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via CP24)",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket (AP results); WLBT",
+   "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket (AP results); WLBT",
+   "url": "https://www.wlbt.com/2026/11/06/secretary-state-explains-affidavit-ballot-process-mississippi-senate-race/",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.washingtontimes.com/news/2026/nov/6/donald-trump-talks-de-escalation-qatari-emir-diplomacy-end-iran-war/",
+   "paywalled": false
+  },
+  {
+   "title": "Alaska's News Source (KTUU)",
+   "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+   "paywalled": false
+  },
+  {
+   "title": "Alaska's News Source (KTUU)",
+   "url": "https://reason.com/2026/11/06/mary-peltola-appears-likely-to-defeat-both-dan-sullivans-in-alaskas-senate-race/",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Now!",
+   "url": "https://www.democracynow.org/2026/11/6/headlines/incoming_freshman_senators_call_for_new_leadership_to_replace_top_democrat_chuck_schumer",
+   "paywalled": true
+  },
+  {
+   "title": "Democracy Now!",
+   "url": "https://www.washingtonpost.com/politics/2026/11/06/schumer-poised-lead-senate-again-after-surviving-democratic-backlash/",
+   "paywalled": true
+  },
+  {
+   "title": "Tech Insider",
+   "url": "https://tech-insider.org/anthropic-ipo-investors-lower-valuation-1-5-1-6-trillion-ai-backlash-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Tech Insider",
+   "url": "https://qz.com/anthropic-ipo-valuation-expectations-fall-ai-selloff-110626",
+   "paywalled": false
+  },
+  {
+   "title": "Benzinga (via Yahoo Finance)",
+   "url": "https://finance.yahoo.com/energy/articles/gas-could-drop-3-65-003006160.html",
+   "paywalled": false
+  },
+  {
+   "title": "Benzinga (via Yahoo Finance)",
+   "url": "https://www.environmentenergyleader.com/articles/45522-energy-news-you-may-have-missed-nov-6-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via SRN News)",
+   "url": "https://srnnews.com/us-faa-administrator-to-testify-on-12-5-billion-air-traffic-overhaul/",
+   "paywalled": false
+  },
+  {
+   "title": "PAP (Finance Ministry communiqué) / WNP.pl",
+   "url": "https://www.dlahandlu.pl/inne/mf-s-p-potwierdza-dotychczasowy-rating-polski-w-walucie-obcej-na-poziomie-a-a-2-zmieniajac-jednoczesnie-perspektywe-ratingu-na-n,177689.html",
+   "paywalled": false
+  },
+  {
+   "title": "PAP (Finance Ministry communiqué) / WNP.pl",
+   "url": "https://www.wnp.pl/rynki/jest-decyzja-w-sprawie-ratingu-zla-wiadomosc-dla-polski,1117139.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (PAP)",
+   "url": "https://www.rp.pl/sady-i-trybunaly/art45457341-17-listopada-tk-zbierze-sie-zeby-zdecydowac-o-losie-bogdana-swieczkowskiego",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita (PAP)",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/sadny-dzien-dla-bogdana-swieczkowskiego-korwin-piotrowska-wskazala-date/",
+   "paywalled": true
+  },
+  {
+   "title": "CEO.com.pl",
+   "url": "https://ceo.com.pl/ceny-paliw-7-listopada-2026-benzyna-diesel-45475",
+   "paywalled": false
+  },
+  {
+   "title": "CEO.com.pl",
+   "url": "https://www.lublin112.pl/nowe-ceny-paliw-od-7-listopada-minister-oglosil-limity-na-benzyne-i-diesla/",
+   "paywalled": false
+  },
+  {
+   "title": "PAP",
+   "url": "https://www.pap.pl/aktualnosci/sejm-odrzucil-wniosek-o-wotum-nieufnosci-wobec-szefa-mswia-0",
+   "paywalled": false
+  },
+  {
+   "title": "PAP",
+   "url": "https://niezalezna.pl/polityka/kierwinski-zostaje-sejm-odrzucil-wotum-nieufnosci-wobec-szefa-mswia/583500",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (PAP)",
+   "url": "https://www.rp.pl/prawo-w-polsce/art45456381-nocna-prohibicja-w-calej-polsce-senat-poparl-wprowadzono-poprawki",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita (PAP)",
+   "url": "https://www.rynekzdrowia.pl/Prawo/Jeden-glos-przesadzil-o-reklamie-piwa-0-proc-Senat-przyjal-przepisy-dotyczace-alkoholu,290980,2.html",
+   "paywalled": true
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/marsz-niepodleglosci-w-warszawie-nawrocki-zapowiedzial-swoj-udzial/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.rp.pl/polityka/art45444501-pol-miliona-ludzi-na-marszu-niepodleglosci-organizatorzy-zapowiadaja-rekordowa-frekwencje",
+   "paywalled": false
+  },
+  {
+   "title": "PAP",
+   "url": "https://www.pap.pl/aktualnosci/cbos-ko-281-proc-pis-158-proc-konfederacja-154-proc",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland",
+   "url": "https://notesfrompoland.com/2026/11/05/chinese-fashion-platform-shein-to-invest-e500-million-in-polish-logistics-hub/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat Sport",
+   "url": "https://www.polsatsport.pl/wiadomosc/2026-11-06/derby-krakowa-rozstrzygniete-trzy-gole-i-czerwona-kartka-na-stadionie-wisly/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat Sport",
+   "url": "https://lovekrakow.pl/wiocha-akt-desperacji-i-pod-publiczke-kapitan-wisly-dosadnie-o-klichu",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa",
+   "url": "https://pulskrakowa.pl/to-juz-oficjalne-od-1-stycznia-2027-roku-koniec-miejskiej-gazetki-krakow-pl/",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa",
+   "url": "https://lovekrakow.pl/miejski-miesiecznik-krakowpl-ma-zniknac-kosztuje-miliony",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/awantura-o-bobry-na-ruczaju-trwa-to-bardzo-niepokojaca-sytuacja",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/koniec-z-niebezpiecznym-skrzyzowaniem-na-zakopiance-bedzie-nowy-wiadukt",
+   "paywalled": false
+  },
+  {
+   "title": "PTI (via Kashmir Reader); Business Standard Hindi",
+   "url": "https://kashmirreader.com/2026/11/07/excluded-from-draft-voter-rolls-ec-offers-another-chance-to-electors-in-seven-states/",
+   "paywalled": false
+  },
+  {
+   "title": "PTI (via Kashmir Reader); Business Standard Hindi",
+   "url": "https://hindi.business-standard.com/india-news/sir-voter-list-update-election-commission-gives-seven-states-relief-id-566038/",
+   "paywalled": false
+  },
+  {
+   "title": "Organiser; ANI",
+   "url": "https://organiser.org/2026/11/06/424714/bharat/uttarakhand-amit-shah-slams-rahul-gandhi-over-save-infiltrators-campaign-alleges-congress-backed-demographic-change/",
+   "paywalled": false
+  },
+  {
+   "title": "Organiser; ANI",
+   "url": "https://www.dailyprabhat.com/debate-dares-ghuspatiya-jibes-rahul-gandhi-amit-shah-face-off-over-sir-intensifies-as-ec-gives-asdd-voters-fresh-chance/",
+   "paywalled": false
+  },
+  {
+   "title": "The Week; Jagran English; IANS",
+   "url": "https://www.theweek.in/news/india/2026/11/07/aqi-what-is-the-imd-forecast-for-delhi-as-grap-iii-is-imposed-as-a-diwali-precautionary-measure.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week; Jagran English; IANS",
+   "url": "https://www.thedailyjagran.com/india/news/delhi-ncr-noida-gurugram-aqi-ahead-of-diwali-caqm-invokes-grap-stage-iii-amid-rising-smog-10335470",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook India; PTI (via ThePrint)",
+   "url": "https://outlookindia.com/national/karnataka-petrol-ethanol-levels-31-percent-e20-limit-centre-intervention",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook India; PTI (via ThePrint)",
+   "url": "https://theprint.in/india/omcs-reject-karnatakas-claim-of-excess-ethanol-in-petrol-say-tests-did-not-follow-prescribed-norms/3092883",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/state/centre-has-to-fix-sugar-rate-and-price-dk-shivakumar-on-sugarcane-farmers-protest-enn26110601914",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today; The News Mill",
+   "url": "https://www.businesstoday.in/india/story/agnipath-scheme-revised-agniveers-to-get-rs43500-monthly-pay-in-fifth-year-rs47500-in-sixth-566012-2026-11-05",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today; The News Mill",
+   "url": "https://thenewsmill.com/2026/11/air-vice-marshal-yadav-calls-second-tour-of-duty-a-golden-opportunity-for-agniveers/",
+   "paywalled": false
+  },
+  {
+   "title": "Interia / PAP",
+   "url": "https://wydarzenia.interia.pl/kraj/news-jest-termin-wizyty-kosiniaka-kamysza-w-usa-pentagon-potwierd,nId,23570444",
+   "paywalled": false
+  },
+  {
+   "title": "Interia / PAP",
+   "url": "https://www.pap.pl/kraj",
+   "paywalled": false
+  },
+  {
+   "title": "Interia (IMGW)",
+   "url": "https://wydarzenia.interia.pl/kraj/news-weekend-z-pogodowymi-problemami-pierwszy-z-nich-juz-wskazano,nId,23570195",
+   "paywalled": false
+  }
+ ]
+}
