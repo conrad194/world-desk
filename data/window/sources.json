@@ -1343,6 +1343,54 @@
    "lean": "Neutral (wire)",
    "status": "Watch",
    "dateAdded": "2026-11-06"
+  },
+  {
+   "id": "democracy-docket",
+   "name": "Democracy Docket",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Voting rights and election litigation",
+   "language": "English",
+   "url": "https://www.democracydocket.com/",
+   "lean": "left / pro-Democratic litigation (Marc Elias)",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "alaska-s-news-source-ktuu",
+   "name": "Alaska's News Source (KTUU)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Alaska news and elections",
+   "language": "English",
+   "url": "https://www.alaskasnewssource.com/",
+   "lean": "local TV, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "scotusblog",
+   "name": "SCOTUSblog",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Supreme Court",
+   "language": "English",
+   "url": "https://www.scotusblog.com/",
+   "lean": "neutral / legal",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "anadolu-agency",
+   "name": "Anadolu Agency",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Wire; election tallies",
+   "language": "English",
+   "url": "https://www.aa.com.tr/en",
+   "lean": "Turkish state news agency",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
   }
  ]
 }

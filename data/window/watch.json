@@ -346,11 +346,11 @@
    "dateAdded": "2026-10-27",
    "place": "US",
    "domain": "Technology, AI & cyber",
-   "what": "Anthropic IPO roadshow, price range and Nasdaq listing (ticker ANT). As of Nov 5 the S-1/A still had no price range. The roadshow could start the week of Nov 9 (Bloomberg, relayed), with first trading reported for Nov 19-26.",
-   "expected": "WSJ sources via TNW: listing possibly the week of Nov 16",
+   "what": "Anthropic files an S-1 amendment with a price range and launches its roadshow, or delays",
+   "expected": "Reuters: roadshow planned for next week but under investor scrutiny; investors reportedly suggest a $1.5–1.6tn valuation",
    "checkDate": "2026-11-16",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261107-12"
   },
   {
    "id": "W-261027-02",
@@ -676,11 +676,11 @@
    "dateAdded": "2026-11-06",
    "place": "US",
    "domain": "Politics & government",
-   "what": "Whether Hyde-Smith or the GOP file a lawsuit or contest over Mississippi affidavit ballots, and the Nov 13 county certification",
-   "expected": "WDAM: cure deadline Nov 10, certification Nov 13; MS GOP chair Hurst threatens legal action",
+   "what": "Mississippi affidavit-ballot processing (10-day window) and whether Colom's lead (2,010 on Nov 6) holds; scrutiny of Experian-based voter inactivations",
+   "expected": "Secretary of State Watson estimates 12,000–20,000 affidavit ballots remain, with about 76% accepted",
    "checkDate": "2026-11-13",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261107-07"
   },
   {
    "id": "W-261106-03",
@@ -811,6 +811,39 @@
    "what": "Whether the Panchayati Raj Ministry formally issues guidance requiring EPIC (voter ID) for panchayat-scheme beneficiaries.",
    "expected": "Lalan Singh announced it on Nov 6 at the Jan Yojana Abhiyaan workshop (IANS).",
    "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261107-01",
+   "dateAdded": "2026-11-07",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "FOMC decision on a quarter-point rate hike at the Dec 8-9 meeting",
+   "expected": "Markets price about an 85% chance of a hike after the strong October jobs report (Reuters); Daly expects further tightening",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261107-02"
+  },
+  {
+   "id": "W-261107-02",
+   "dateAdded": "2026-11-07",
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "what": "FAA Administrator Bedford's House T&I testimony on the air-traffic-control overhaul and the $30bn funding request",
+   "expected": "Reuters: testimony on Tuesday next week",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": "E-261107-14"
+  },
+  {
+   "id": "W-261107-03",
+   "dateAdded": "2026-11-07",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "what": "Whether CDC entry suspensions for travellers from DR Congo, Uganda and South Sudan (set to run to Nov 10) are extended or lifted",
+   "expected": "CDC order: suspensions run to Nov 10; the attestation order continues",
+   "checkDate": "2026-11-10",
    "happened": "",
    "eventId": ""
   }
