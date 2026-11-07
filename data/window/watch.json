@@ -701,7 +701,7 @@
    "what": "S&P's scheduled review of Poland's sovereign rating (currently A-, stable outlook). The base case is an affirmation, and the risks are public finances and the Tribunal dispute.",
    "expected": "S&P calendar (PAP Biznes): Nov 6, usually published after markets close; check on Nov 7",
    "checkDate": "2026-11-07",
-   "happened": "",
+   "happened": "S&P affirmed Poland's foreign-currency rating at A- but cut the outlook to negative and lowered the local-currency rating from A to A-, citing deficits above 7% of GDP to 2027 and presidential vetoes ([WNP.pl](https://www.wnp.pl/rynki/jest-decyzja-w-sprawie-ratingu-zla-wiadomosc-dla-polski,1117139.html)).",
    "eventId": ""
   },
   {
@@ -723,7 +723,7 @@
    "what": "Result of the Sejm's vote on PiS's no-confidence motion against Interior Minister Kierwiński",
    "expected": "Sejm agenda, Nov 6 evening voting block",
    "checkDate": "2026-11-07",
-   "happened": "",
+   "happened": "On Nov 6 the Sejm rejected PiS's no-confidence motion against Kierwiński, 212 for and 235 against, with PiS, Konfederacja and Razem in favour and the coalition voting against as a bloc ([PAP](https://www.pap.pl/aktualnosci/sejm-odrzucil-wniosek-o-wotum-nieufnosci-wobec-szefa-mswia-0)).",
    "eventId": ""
   },
   {
