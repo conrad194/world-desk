@@ -587,6 +587,62 @@
    "trackRecord": "Senior MEE reporter; interviewed Polisario leadership after MINURSO lapsed.",
    "dateAdded": "2026-11-06",
    "status": "Watch"
+  },
+  {
+   "id": "besmellah-zahidi",
+   "name": "Besmellah Zahidi",
+   "segment": "South & Central Asia",
+   "countries": "Afghanistan",
+   "languages": "Dari, Pashto, English",
+   "outlets": "KabulNow",
+   "basedIn": "Afghanistan (exile outlet)",
+   "slant": "Exile outlet critical of the Taliban",
+   "url": "https://kabulnow.com/",
+   "trackRecord": "Reports Taliban and local-source accounts of Pakistan–Afghanistan border fighting with clear attribution.",
+   "dateAdded": "2026-11-07",
+   "status": "Watch"
+  },
+  {
+   "id": "gaurav-pokharel",
+   "name": "Gaurav Pokharel",
+   "segment": "South & Central Asia",
+   "countries": "Nepal",
+   "languages": "Nepali, English",
+   "outlets": "Kantipur Media Group; The Kathmandu Post",
+   "basedIn": "Kathmandu",
+   "slant": "Mainstream independent press",
+   "url": "https://kathmandupost.com/",
+   "trackRecord": "Sourced reporting on the November 2026 removal of the police chief and the journalist detentions.",
+   "dateAdded": "2026-11-07",
+   "status": "Watch"
+  },
+  {
+   "id": "jaya-singh-mahara",
+   "name": "Jaya Singh Mahara",
+   "segment": "South & Central Asia",
+   "countries": "Nepal",
+   "languages": "Nepali, English",
+   "outlets": "The Kathmandu Post",
+   "basedIn": "Kathmandu",
+   "slant": "Mainstream independent press",
+   "url": "https://kathmandupost.com/",
+   "trackRecord": "Covers ruling RSP and coalition politics.",
+   "dateAdded": "2026-11-07",
+   "status": "Watch"
+  },
+  {
+   "id": "nanuka-maglakelidze",
+   "name": "Nanuka Maglakelidze",
+   "segment": "South & Central Asia",
+   "countries": "Georgia",
+   "languages": "Georgian, English",
+   "outlets": "Georgia Today",
+   "basedIn": "Tbilisi",
+   "slant": "English-language Georgian outlet; covers both government and opposition",
+   "url": "https://georgiatoday.ge/",
+   "trackRecord": "Follows the Constitutional Court party-ban case and EU reports in detail.",
+   "dateAdded": "2026-11-07",
+   "status": "Watch"
   }
  ]
 }

@@ -409,6 +409,36 @@
    "checkDate": "2026-11-10",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261107-01",
+   "dateAdded": "2026-11-07",
+   "segment": "South & Central Asia",
+   "what": "Georgia: the [[p:Constitutional Court of Georgia|Constitutional Court]] resumes hearings on [[p:Georgian Dream]]'s suit to ban five opposition parties.",
+   "expected": "Court schedule, reported by Georgia Today: hearings resume 9 Nov after a one-week pause.",
+   "checkDate": "2026-11-09",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261107-02",
+   "dateAdded": "2026-11-07",
+   "segment": "South & Central Asia",
+   "what": "Pakistan: [[p:Peshawar High Court]] hearing on PTI's challenge to emergency and governor's rule in Khyber Pakhtunkhwa.",
+   "expected": "Next hearing set for 10 Nov by the bench, reported by the Express Tribune and Samaa; PTI wants a larger bench.",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261107-03",
+   "dateAdded": "2026-11-07",
+   "segment": "South & Central Asia",
+   "what": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
+   "expected": "Justice Minister Srbuhi Galyan expects publication in November (Massis Post).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
