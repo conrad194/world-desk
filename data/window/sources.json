@@ -1391,6 +1391,54 @@
    "lean": "Turkish state news agency",
    "status": "Watch",
    "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "niezalezna-pl",
+   "name": "niezalezna.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Politics",
+   "language": "Polish",
+   "url": "https://niezalezna.pl",
+   "lean": "right, pro-PiS (Gazeta Polska group)",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "ceo-com-pl",
+   "name": "CEO.com.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Business, daily fuel caps",
+   "language": "Polish",
+   "url": "https://ceo.com.pl",
+   "lean": "business, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "dlahandlu-pl-pap-communiqu-s",
+   "name": "dlahandlu.pl (PAP communiqués)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Republished PAP and official communiqués",
+   "language": "Polish",
+   "url": "https://www.dlahandlu.pl",
+   "lean": "trade, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "polsat-sport",
+   "name": "Polsat Sport",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Sport",
+   "language": "Polish",
+   "url": "https://www.polsatsport.pl/",
+   "lean": "centrist commercial",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
   }
  ]
 }

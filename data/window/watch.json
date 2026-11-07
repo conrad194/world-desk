@@ -731,22 +731,22 @@
    "dateAdded": "2026-11-06",
    "place": "Poland",
    "domain": "Health, medicine & food safety",
-   "what": "The full Senate's vote on amendments to the anti-alcohol law (night sales ban, ad ban, start delayed to June 1, 2027), then the Sejm's vote on those amendments",
-   "expected": "Senate plenary Nov 6; Sejm at its next sitting",
+   "what": "Sejm vote on the Senate's amendments to the anti-alcohol law, then the President's decision",
+   "expected": "The Senate amended it on Nov 6, and the Sejm can reject the amendments by an absolute majority.",
    "checkDate": "2026-11-20",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261107-23"
   },
   {
    "id": "W-261106-08",
    "dateAdded": "2026-11-06",
    "place": "Poland",
    "domain": "Politics & government",
-   "what": "Nov 11 Independence March in Warsaw, which organisers expect to draw up to 500,000 people around the Tribunal dispute, and whether President Nawrocki attends",
-   "expected": "Organisers (Stowarzyszenie Marsz Niepodległości), Nov 11",
+   "what": "Nov 11 Independence March: turnout, incidents and Nawrocki's speech",
+   "expected": "Nawrocki confirmed he will attend, and organisers expect 500,000 or more.",
    "checkDate": "2026-11-11",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261107-24"
   },
   {
    "id": "W-261106-09",
@@ -846,6 +846,28 @@
    "checkDate": "2026-11-10",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261107-04",
+   "dateAdded": "2026-11-07",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Constitutional Tribunal General Assembly on lifting the immunity of Święczkowski (including consent to detain him) and Sochański",
+   "expected": "Called by Korwin-Piotrowska for Nov 17. The Palace and the Święczkowski camp dispute her authority, and attendance and quorum are uncertain.",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": "E-261107-21"
+  },
+  {
+   "id": "W-261107-05",
+   "dateAdded": "2026-11-07",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "Market reaction (złoty, 10-year yields) to S&P's negative outlook, and any Palace response",
+   "expected": "Economists expect yields to stay high rather than jump.",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": "E-261107-18"
   }
  ]
 }
