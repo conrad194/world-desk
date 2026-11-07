@@ -1,0 +1,525 @@
+{
+ "date": "2026-11-07",
+ "segment": "South & Central Asia",
+ "windowFrom": "2026-10-31",
+ "tier1Summary": "South and Central Asia had no single regional turning point this week, but several governments tightened their grip at home. Pakistan's border war with the Afghan [[p:Taliban]] {{note: Islamist movement founded in Kandahar in 1994 under Mullah Omar; it retook Kabul in August 2021.}} ground on, and a Pakistani court jailed two prominent rights lawyers for 10 years. India's opposition took to the streets over the removal of 130 million voters from the rolls. Nepal's new government sacked its police chief after newsroom raids. Brussels called Georgia a candidate \"in name only\". In the Caucasus, Armenia prepares the constitution Baku wants before signing peace, while Azerbaijan feuds with Turkey.\n\nElsewhere, Russia struck Kyiv ahead of Tuesday's Abu Dhabi talks, and the US hit Iranian air defences on Qeshm while saying talks with Tehran continue.",
+ "segmentItems": [
+  {
+   "id": "E-261107-03",
+   "segment": "South & Central Asia",
+   "country": "Pakistan / Afghanistan",
+   "text": "Pakistan and the [[p:Taliban]] traded fire again near Angoor Adda and Torkham on 1 Nov. Taliban police say Pakistani fire killed a civilian in Paktika. Pakistan reports no losses. Each blames the other.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Besmellah Zahidi",
+   "outlet": "KabulNow; Afghanistan International",
+   "opinion": "",
+   "thread": "Pakistan–Taliban war",
+   "links": [
+    {
+     "label": "KabulNow; Afghanistan International",
+     "url": "https://kabulnow.com/2026/11/one-civilian-killed-two-injured-in-pakistani-rocket-attack-in-eastern-afghanistan-taliban-says/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.afintl.com/en/202611021501"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-04",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "Rights groups demand the release of lawyer Imaan Mazari-Hazir and Hadi Ali Chattha, each sentenced on 29 Oct to 10 years by an antiterrorism court over removed security barriers.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Dawn",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Dawn",
+     "url": "https://www.dawn.com/news/2042597/misuse-of-criminal-justice-system-over-20-rights-groups-call-for-imaan-hadis-release-after-latest-sentencing"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-06",
+   "segment": "South & Central Asia",
+   "country": "Afghanistan / France",
+   "text": "France says it has opened technical talks with the Taliban on deporting Afghans without legal residence.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "",
+   "outlet": "Afghanistan International",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Afghanistan International",
+     "url": "https://www.afintl.com/en/202611039645"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-08",
+   "segment": "South & Central Asia",
+   "country": "India",
+   "text": "Thousands joined a [[p:Indian National Congress|Congress]]-led rally in Delhi demanding the election chief resign over a [[e:Special Intensive Revision|voter-roll revision]] that removed over 130 million names. The Election Commission denies bias.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (with Reuters)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Al Jazeera (with Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cnbc.com/2026/11/01/thousands-join-indian-protest-demanding-election-chiefs-resignation-.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-09",
+   "segment": "South & Central Asia",
+   "country": "India",
+   "text": "The cabinet funded lithium and nickel processing plants and 92 GWh of grid storage.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "PM India; Outlook",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "PM India; Outlook",
+     "url": "https://www.outlookindia.com/national/govt-approves-rs-2814-crore-scheme-critical-mineral-processing-lithium-nickel-plants"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-the-centrally-sponsored-scheme-for-fast-track-special-courts-ftscs-for-expeditious-trial-of-cases-of-rape-and-pocso-protection-of-children-from-sexual-offences-act/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-10",
+   "segment": "South & Central Asia",
+   "country": "Bangladesh",
+   "text": "The UN General Assembly gave Bangladesh until 2029 to leave least-developed-country status, with an EU-monitored reform roadmap.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Rejaul Karim Byron",
+   "outlet": "The Daily Star",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Daily Star",
+     "url": "https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-bangladesh-sets-reform-targets-eu-un-watch-4312371"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-11",
+   "segment": "South & Central Asia",
+   "country": "Bangladesh / Japan",
+   "text": "PM [[p:Tarique Rahman]] brought home about $296m in Japanese loans and a patrol-vessel grant. A proposed ¥1tn investment package was not signed.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Financial Express (BSS)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Financial Express (BSS)",
+     "url": "https://thefinancialexpress.com.bd/national/pm-returns-home-after-four-day-japan-visit"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-13",
+   "segment": "South & Central Asia",
+   "country": "Nepal",
+   "text": "The government sacked the police chief after police raided newsrooms over reports of his removal. Ruling-party chair [[p:Rabi Lamichhane]] publicly questioned due process, the first open rift with PM [[p:Balen Shah]].",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Gaurav Pokharel; Jaya Singh Mahara",
+   "outlet": "The Kathmandu Post",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Kathmandu Post",
+     "url": "https://kathmandupost.com/national/2026/11/04/the-real-reason-igp-dan-bahadur-karki-was-sacked"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kathmandupost.com/politics/2026/11/07/rsp-chief-questions-government-conduct-as-tensions-mount"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-14",
+   "segment": "South & Central Asia",
+   "country": "Georgia",
+   "text": "The [[p:European Commission]] called Georgia \"an EU candidate in name only\", citing judicial capture and the bid to ban five opposition parties. Tbilisi rejected the report.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Nanuka Maglakelidze",
+   "outlet": "EEAS; Georgia Today",
+   "opinion": "",
+   "thread": "Georgia democratic backsliding",
+   "links": [
+    {
+     "label": "EEAS; Georgia Today",
+     "url": "https://www.eeas.europa.eu/delegations/georgia/2026-communication-eu-enlargement-policy-extract-about-georgia_en"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://georgiatoday.ge/2026-enlargement-report-what-it-says-about-georgia/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-15",
+   "segment": "South & Central Asia",
+   "country": "Armenia",
+   "text": "The justice minister says Armenia's draft new constitution, Baku's condition for signing the peace treaty, will be published this month.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Massis Post; Public Radio of Armenia",
+   "opinion": "",
+   "thread": "Armenia–Azerbaijan peace process",
+   "links": [
+    {
+     "label": "Massis Post; Public Radio of Armenia",
+     "url": "https://massispost.com/2026/11/draft-of-armenias-new-constitution-likely-to-be-published-in-november-justice-minister-says/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.armradio.am/2026/11/02/armenia-plans-to-publish-draft-of-new-constitution-in-november/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-16",
+   "segment": "South & Central Asia",
+   "country": "Azerbaijan / Turkey",
+   "text": "[[p:Ilham Aliyev]] skipped the [[p:Organization of Turkic States]] summit in Ankara amid a rift with Turkey over Baku's school hijab ban and its Israel ties.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AP (via Arab News)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AP (via Arab News)",
+     "url": "https://www.arabnews.pk/middle-east/azerbaijans-president-skips-turkiye-hosted-summit-stirring-talk-of-a-rift-with-ally-ankara-3005646"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-17",
+   "segment": "South & Central Asia",
+   "country": "Kazakhstan / Russia",
+   "text": "Kazakhstan asked Russia to reopen [[p:Druzhba pipeline|Druzhba]] transit to Germany, halted since May. A drone strike briefly stopped the Atyrau–Samara line on 2 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Stephen M. Bland",
+   "outlet": "The Times of Central Asia",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Times of Central Asia",
+     "url": "https://timesca.com/kazakhstan-asks-russia-to-reopen-druzhba-oil-route-to-germany-after-six-month-halt/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261107-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Russian missiles hit Kyiv on 7 Nov, injuring five and damaging energy sites, days before the 10 Nov Abu Dhabi talks. The Komyshuvakha toll rose to 55.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Associated Press (via KSAT)",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Associated Press (via KSAT)",
+     "url": "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261107-02",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "The US struck an Iranian air-defence site on Qeshm on 6 Nov. [[p:Donald Trump]] called it \"minor\" and said Washington is talking to Tehran, which still demands the blockade end first.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "ETV Bharat (citing AP)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "ETV Bharat (citing AP)",
+     "url": "https://www.etvbharat.com/en/international/us-carries-out-new-targeted-strike-on-iran-as-trump-says-washington-doing-very-well-with-tehran-enn26110700547"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261107-01",
+   "title": "The real reason IGP Dan Bahadur Karki was sacked",
+   "reporter": "Gaurav Pokharel",
+   "outlet": "The Kathmandu Post",
+   "url": "https://kathmandupost.com/national/2026/11/04/the-real-reason-igp-dan-bahadur-karki-was-sacked",
+   "why": "Insider-sourced account of how a police-chief dismissal and newsroom raids opened the first public rift in Balen Shah's government. Reasons come from unnamed officials.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261107-02",
+   "title": "2026 enlargement report: what it says about Georgia",
+   "reporter": "Nanuka Maglakelidze",
+   "outlet": "Georgia Today",
+   "url": "https://georgiatoday.ge/2026-enlargement-report-what-it-says-about-georgia/",
+   "why": "Clear chapter-by-chapter walk through the Commission's verdict on Georgia, including its four priority judicial reforms.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-07",
+   "text": "First Russian diesel cargo under the US–Russia deal due in New York.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-22"
+  },
+  {
+   "date": "2026-11-08",
+   "text": "Argentina: state workers' union ATE stoppage at 27 airports on 6 Nov, two days before Pope Leo XIV arrives; he visits Peru in mid-November.",
+   "segment": "The Americas",
+   "watchId": "W-261105-04"
+  },
+  {
+   "date": "2026-11-08",
+   "text": "South Africa: official [[p:Electoral Commission of South Africa|IEC]] results of the 4 Nov local elections, then coalition talks in Johannesburg, Tshwane and eThekwini.",
+   "segment": "Africa",
+   "watchId": "W-261106-01"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Georgia: the [[p:Constitutional Court of Georgia|Constitutional Court]] resumes hearings on [[p:Georgian Dream]]'s suit to ban five opposition parties.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-01"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "[[e:2026 Israeli legislative election]]: exit polls at 22:00 on 27 Oct, then final results and the official publication of results, followed by President [[p:Isaac Herzog]]'s consultations with party delegations before he assigns the task of forming a government",
+   "segment": "Middle East",
+   "watchId": "W-261027-06"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Turkish parliament's Foreign Affairs Committee on the Mecca Joint Defence Agreement, a possible motion to deploy personnel to Saudi Arabia, and whether Riyadh requests Egyptian help under the new Egyptian mandate",
+   "segment": "Middle East",
+   "watchId": "W-261027-07"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Mekelle: deadline for handing in unlicensed firearms, followed by house-to-house searches.",
+   "segment": "Africa",
+   "watchId": "W-261106-02"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Pakistan: [[p:Peshawar High Court]] hearing on PTI's challenge to emergency and governor's rule in Khyber Pakhtunkhwa.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-02"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the uncalled Senate races in Alaska (Sullivan vs Peltola) and Mississippi (Hyde-Smith vs Colom).",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Sri Lanka",
+   "status": "quiet"
+  },
+  {
+   "country": "Maldives",
+   "status": "no sources found"
+  },
+  {
+   "country": "Bhutan",
+   "status": "no sources found"
+  },
+  {
+   "country": "Uzbekistan",
+   "status": "quiet"
+  },
+  {
+   "country": "Kyrgyzstan",
+   "status": "quiet"
+  },
+  {
+   "country": "Tajikistan",
+   "status": "quiet"
+  },
+  {
+   "country": "Turkmenistan",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "KabulNow; Afghanistan International",
+   "url": "https://kabulnow.com/2026/11/one-civilian-killed-two-injured-in-pakistani-rocket-attack-in-eastern-afghanistan-taliban-says/",
+   "paywalled": false
+  },
+  {
+   "title": "KabulNow; Afghanistan International (cross-check)",
+   "url": "https://www.afintl.com/en/202611021501",
+   "paywalled": false
+  },
+  {
+   "title": "Dawn",
+   "url": "https://www.dawn.com/news/2042597/misuse-of-criminal-justice-system-over-20-rights-groups-call-for-imaan-hadis-release-after-latest-sentencing",
+   "paywalled": false
+  },
+  {
+   "title": "Afghanistan International",
+   "url": "https://www.afintl.com/en/202611039645",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (with Reuters)",
+   "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (with Reuters) (cross-check)",
+   "url": "https://www.cnbc.com/2026/11/01/thousands-join-indian-protest-demanding-election-chiefs-resignation-.html",
+   "paywalled": false
+  },
+  {
+   "title": "PM India; Outlook",
+   "url": "https://www.outlookindia.com/national/govt-approves-rs-2814-crore-scheme-critical-mineral-processing-lithium-nickel-plants",
+   "paywalled": false
+  },
+  {
+   "title": "PM India; Outlook (cross-check)",
+   "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-the-centrally-sponsored-scheme-for-fast-track-special-courts-ftscs-for-expeditious-trial-of-cases-of-rape-and-pocso-protection-of-children-from-sexual-offences-act/",
+   "paywalled": false
+  },
+  {
+   "title": "The Daily Star",
+   "url": "https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-bangladesh-sets-reform-targets-eu-un-watch-4312371",
+   "paywalled": false
+  },
+  {
+   "title": "The Financial Express (BSS)",
+   "url": "https://thefinancialexpress.com.bd/national/pm-returns-home-after-four-day-japan-visit",
+   "paywalled": false
+  },
+  {
+   "title": "The Kathmandu Post",
+   "url": "https://kathmandupost.com/national/2026/11/04/the-real-reason-igp-dan-bahadur-karki-was-sacked",
+   "paywalled": false
+  },
+  {
+   "title": "The Kathmandu Post (cross-check)",
+   "url": "https://kathmandupost.com/politics/2026/11/07/rsp-chief-questions-government-conduct-as-tensions-mount",
+   "paywalled": false
+  },
+  {
+   "title": "EEAS; Georgia Today",
+   "url": "https://www.eeas.europa.eu/delegations/georgia/2026-communication-eu-enlargement-policy-extract-about-georgia_en",
+   "paywalled": false
+  },
+  {
+   "title": "EEAS; Georgia Today (cross-check)",
+   "url": "https://georgiatoday.ge/2026-enlargement-report-what-it-says-about-georgia/",
+   "paywalled": false
+  },
+  {
+   "title": "Massis Post; Public Radio of Armenia",
+   "url": "https://massispost.com/2026/11/draft-of-armenias-new-constitution-likely-to-be-published-in-november-justice-minister-says/",
+   "paywalled": false
+  },
+  {
+   "title": "Massis Post; Public Radio of Armenia (cross-check)",
+   "url": "https://en.armradio.am/2026/11/02/armenia-plans-to-publish-draft-of-new-constitution-in-november/",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via Arab News)",
+   "url": "https://www.arabnews.pk/middle-east/azerbaijans-president-skips-turkiye-hosted-summit-stirring-talk-of-a-rift-with-ally-ankara-3005646",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Central Asia",
+   "url": "https://timesca.com/kazakhstan-asks-russia-to-reopen-druzhba-oil-route-to-germany-after-six-month-halt/",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press (via KSAT)",
+   "url": "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat (citing AP)",
+   "url": "https://www.etvbharat.com/en/international/us-carries-out-new-targeted-strike-on-iran-as-trump-says-washington-doing-very-well-with-tehran-enn26110700547",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat (citing AP) (cross-check)",
+   "url": "https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/",
+   "paywalled": false
+  }
+ ]
+}
