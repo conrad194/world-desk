@@ -786,11 +786,11 @@
    "dateAdded": "2026-11-06",
    "place": "India",
    "domain": "Defense, security & crime",
-   "what": "Formal notification or operating rules (pay, Seva Nidhi, selection) for the Agniveer second tour of duty before the first batch exits.",
-   "expected": "The first batch's four-year term ends Nov 21. ANI and NenNow report no effective date yet.",
+   "what": "Formal notification of Agniveer second-tour terms before the first batch exits on Nov 21. Pay and Seva Nidhi figures have now been given by the IAF, but there is still no gazette.",
+   "expected": "An IAF Eastern Air Command officer gave the figures. MoD/PIB has not issued a formal notification.",
    "checkDate": "2026-11-21",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261107-50"
   },
   {
    "id": "W-261106-13",
@@ -901,6 +901,28 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": "E-261107-35"
+  },
+  {
+   "id": "W-261107-09",
+   "dateAdded": "2026-11-07",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Karnataka–oil companies E20 dispute: whether the Petroleum Ministry or the oil companies agree to joint retesting with counter-samples, or Karnataka takes legal or regulatory action under the 2005 Motor Spirit order.",
+   "expected": "Karnataka says it will keep testing and publish results. The oil companies demand that statutory sampling procedures be followed.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261107-47"
+  },
+  {
+   "id": "W-261107-10",
+   "dateAdded": "2026-11-07",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "How many ASDD voters are restored in the seven states under the ECI's Nov 6 order, and any deadline or final-roll date.",
+   "expected": "The ECI order sets up a monitoring mechanism. Congress calls it a 'U-turn' and will keep campaigning, with a rally planned on Dec 14.",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": "E-261107-41"
   }
  ]
 }

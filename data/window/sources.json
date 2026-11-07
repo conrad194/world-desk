@@ -1463,6 +1463,66 @@
    "lean": "unclear",
    "status": "Watch",
    "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "theprint-incl-pti-feed-and-hindi",
+   "name": "ThePrint (incl. PTI feed and Hindi)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "national politics, wire copy",
+   "language": "English",
+   "url": "https://theprint.in",
+   "lean": "centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "uni-united-news-of-india",
+   "name": "UNI (United News of India)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "wire",
+   "language": "English",
+   "url": "https://www.uniindia.com",
+   "lean": "neutral wire",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "times-now-navbharat",
+   "name": "Times Now Navbharat",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Hindi TV/digital live news",
+   "language": "Hindi",
+   "url": "https://www.timesnowhindi.com",
+   "lean": "centre-right commercial",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "jagran-english-thedailyjagran-com",
+   "name": "Jagran English (thedailyjagran.com)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "national news, Delhi-NCR",
+   "language": "English",
+   "url": "https://www.thedailyjagran.com",
+   "lean": "centre-right",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "kashmir-reader",
+   "name": "Kashmir Reader",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "regional; carries PTI wire",
+   "language": "English",
+   "url": "https://kashmirreader.com",
+   "lean": "regional independent",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
   }
  ]
 }
