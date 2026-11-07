@@ -1,0 +1,47 @@
+{
+ "date": "2026-11-07",
+ "items": [
+  {
+   "id": "E-261107-01",
+   "dateLogged": "2026-11-07",
+   "eventDate": "2026-11-07",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Russian missiles struck Kyiv early on 7 Nov, injuring at least five, closing a Dnipro bridge and damaging energy facilities in the Kyiv and Zhytomyr regions; Mayor [[p:Vitali Klitschko]] called the capital's power situation \"extremely difficult\". The death toll from the 2 Nov guided-bomb strike on Komyshuvakha rose to 55. The attacks come days before the US–Russia–Ukraine talks in Abu Dhabi on 10 Nov.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Associated Press (via KSAT)",
+   "language": "English",
+   "link1": "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
+   "link2": "",
+   "archive": "https://web.archive.org/web/2026/https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/",
+   "paywalled": "N",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "followsUp": "E-261106-07",
+   "notes": ""
+  },
+  {
+   "id": "E-261107-02",
+   "dateLogged": "2026-11-07",
+   "eventDate": "2026-11-06",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "US forces carried out a new \"limited\" strike on an Iranian air-defence system on Qeshm Island on 6 Nov; Iranian state media reported two explosions near Suza. [[p:Donald Trump]] called it \"minor\" and said Washington is talking to Tehran. Iran says it will not start nuclear talks until the blockade ends, sanctions are lifted and frozen assets released.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "ETV Bharat (citing AP)",
+   "language": "English",
+   "link1": "https://www.etvbharat.com/en/international/us-carries-out-new-targeted-strike-on-iran-as-trump-says-washington-doing-very-well-with-tehran-enn26110700547",
+   "link2": "https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/",
+   "archive": "https://web.archive.org/web/2026/https://www.etvbharat.com/en/international/us-carries-out-new-targeted-strike-on-iran-as-trump-says-washington-doing-very-well-with-tehran-enn26110700547",
+   "paywalled": "N",
+   "thread": "US–Iran war and Hormuz",
+   "followsUp": "E-261106-04",
+   "notes": ""
+  }
+ ]
+}
