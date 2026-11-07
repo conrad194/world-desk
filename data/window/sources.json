@@ -1523,6 +1523,18 @@
    "lean": "regional independent",
    "status": "Watch",
    "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "ians-via-social-news-xyz",
+   "name": "IANS via Social News XYZ",
+   "type": "Outlet",
+   "place": "Poland–India",
+   "focus": "Relays IANS wire copy",
+   "language": "English",
+   "url": "https://www.socialnews.xyz",
+   "lean": "aggregator, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-07"
   }
  ]
 }
