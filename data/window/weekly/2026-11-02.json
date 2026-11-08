@@ -72,5 +72,43 @@
    "explain": "The Cabinet approved an optional two-year Second Tour of Duty, ahead of the first batch exiting on Nov 21.",
    "from": "news"
   }
+ ],
+ "lessonQuiz": [
+  {
+   "q": "From January, Democrats will hold about 54 Senate seats and more than 250 House seats. What does that mean for bills Trump vetoes?",
+   "options": [
+    "They can override any veto by simple majority",
+    "They can override only in the House",
+    "They will usually need Republican votes, because two-thirds of both chambers is required",
+    "Vetoed bills go automatically to the Supreme Court"
+   ],
+   "answer": 2,
+   "explain": "An override needs 67 senators and 290 representatives if all seats are filled and voting. A narrow majority falls short, so the veto usually holds (Lesson 7).",
+   "from": "lesson"
+  },
+  {
+   "q": "Nawrocki appointed new NBP board members only after Tusk countersigned. What does this show about Poland's mixed system?",
+   "options": [
+    "The prime minister can veto any law",
+    "Many presidential acts need the prime minister's countersignature, so rivals must sometimes cooperate",
+    "The president appoints the whole government alone",
+    "The Sejm must approve every presidential decision"
+   ],
+   "answer": 1,
+   "explain": "Countersignature ties the president to the government for many acts. In cohabitation it gives each side leverage, which can produce deals as well as standoffs.",
+   "from": "lesson"
+  },
+  {
+   "q": "Why is India's presidential veto described as weaker than Poland's, even though both presidents can return a bill?",
+   "options": [
+    "India's president cannot return any bill",
+    "An Indian bill re-passed by an ordinary majority must be signed, while Poland requires three-fifths of the Sejm",
+    "Poland's president can dissolve the Sejm after any veto",
+    "India requires a referendum to override"
+   ],
+   "answer": 1,
+   "explain": "India's Article 111 veto only delays; Poland's Article 122 veto needs a three-fifths Sejm vote to overcome, which coalition governments often lack.",
+   "from": "lesson"
+  }
  ]
 }

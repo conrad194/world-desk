@@ -273,6 +273,91 @@
      "why": "A case page on the 2025 opinion about governors' and the president's powers over bills."
     }
    ]
+  },
+  {
+   "id": "REV-261108",
+   "review": true,
+   "unit": "Weekly review",
+   "title": "Week of 2026-11-02",
+   "dateTaught": "2026-11-08",
+   "minutes": 5,
+   "prevQuestion": "Why does the threshold for overriding a veto (two-thirds, three-fifths or a simple majority) matter so much for how powerful a president's veto really is?",
+   "prevAnswer": "The veto's real strength is the size of the majority needed to defeat it. The US two-thirds rule in both chambers and Poland's three-fifths rule usually mean the ruling side needs opposition votes, so a veto often kills a bill. In India a simple re-passage overrides the president, so his veto mainly delays a bill, and delay without a deadline is its main source of power.",
+   "body": "This week had only one new lesson, Lesson 7, **Vetoes and overrides**, but it was the right one for the week's news, and it rests on Lesson 1, **Three systems** from late October. Put together, the two lessons explain most of what happened in Washington and Warsaw.\n\n**Lesson 1 asked who answers to whom.** The US president is elected separately for a fixed term; Polish and Indian governments live or die by a majority in the lower house. That is why the [#2026 United States elections](https://en.wikipedia.org/wiki/2026_United_States_elections) changed Congress but not the White House. Networks project that Democrats won both chambers, yet [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) stays in office until January 2029. In Poland or India, a defeat of that size in the lower house would have meant a new government.\n\n**Lesson 7 asked what happens when the branches disagree.** From 3 January the US returns to divided government, and the veto becomes the president's main shield. Democrats look set to hold roughly 54 Senate seats and over 250 House seats, well short of the 67 and 290 needed for a two-thirds override. So bills they pass next year can still be stopped by one signature withheld. Before then comes the lame-duck session that opens on 9 November, with the old Republican majorities facing an 11 December funding deadline.\n\n> The [#Twentieth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution), ratified in 1933, moved the start of a new Congress to 3 January, shortening lame-duck sessions.\n\n**Poland shows the same tools under a mixed system.** President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) and Prime Minister [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) come from rival camps, which is cohabitation. On 6 November the Senate sent him the abortion bills, the resubmitted tax reform and the judges' act, starting his 21-day clock. Because Tusk's coalition lacks three-fifths of the Sejm, a veto would likely stand. S&P cited those vetoes when it cut Poland's outlook to negative, and the finance minister blamed the president. Opinions divide along party lines: one side sees a check on the government, the other an obstacle to it.\n\nBut cohabitation is not only conflict. Many of the Polish president's acts need the prime minister's **countersignature**, a feature of the mixed system from Lesson 1. This week Nawrocki appointed four members of the National Bank of Poland's board after Tusk countersigned, ending an eight-month standoff. Each side holds a key the other needs, so deals are possible.\n\n> Poland's current constitution was adopted by the National Assembly in April 1997 and approved in a referendum on 25 May 1997.\n\n**India was quiet on these themes this week**, which is itself a lesson: with a stable majority in the Lok Sabha and a president who seldom resists, the Indian veto is mainly a delay tool, used, as with [@Zail Singh](https://en.wikipedia.org/wiki/Zail_Singh) in 1986, by not acting.\n\nThe common thread: power depends less on what the constitution grants than on the numbers. Ask who controls each branch, and how big a majority is needed to beat a veto.",
+   "comparison": [
+    {
+     "aspect": "What this week's election or vote changed",
+     "US": "Congress (Democrats projected to win both chambers); the president stays",
+     "Poland": "No election; the Senate sent three major laws to the president",
+     "India": "–"
+    },
+    {
+     "aspect": "Who can block a law now",
+     "US": "The president, by veto, from Jan 3 facing a Democratic Congress",
+     "Poland": "The president, by veto or by sending it to the Constitutional Tribunal",
+     "India": "In practice, delay by the president or a state governor"
+    },
+    {
+     "aspect": "Override bar vs ruling side's numbers",
+     "US": "Two-thirds of both chambers (67 and 290); Democrats will have about 54 and 250+",
+     "Poland": "Three-fifths of Sejm votes cast; Tusk's coalition is below it",
+     "India": "Simple re-passage; the government has a Lok Sabha majority"
+    },
+    {
+     "aspect": "Where cooperation is forced",
+     "US": "Must-pass funding (deadline Dec 11)",
+     "Poland": "Countersignature: the NBP board appointments this week",
+     "India": "–"
+    }
+   ],
+   "check": [
+    {
+     "q": "Democrats are projected to win both houses of Congress. Why does Trump remain president, while a similar loss would likely end a Polish or Indian government?",
+     "options": [
+      "Because US midterms do not count until certified in January",
+      "Because the US president is elected separately for a fixed term and does not need Congress's confidence",
+      "Because the Senate must first vote to remove him",
+      "Because the Supreme Court decides whether he stays"
+     ],
+     "answer": 1,
+     "explain": "In a presidential system the executive does not depend on a legislative majority. Polish and Indian governments must keep the lower house's confidence (Lesson 1)."
+    },
+    {
+     "q": "From January, Democrats will hold about 54 Senate seats and more than 250 House seats. What does that mean for bills Trump vetoes?",
+     "options": [
+      "They can override any veto by simple majority",
+      "They can override only in the House",
+      "They will usually need Republican votes, because two-thirds of both chambers is required",
+      "Vetoed bills go automatically to the Supreme Court"
+     ],
+     "answer": 2,
+     "explain": "An override needs 67 senators and 290 representatives if all seats are filled and voting. A narrow majority falls short, so the veto usually holds (Lesson 7)."
+    },
+    {
+     "q": "Nawrocki appointed new NBP board members only after Tusk countersigned. What does this show about Poland's mixed system?",
+     "options": [
+      "The prime minister can veto any law",
+      "Many presidential acts need the prime minister's countersignature, so rivals must sometimes cooperate",
+      "The president appoints the whole government alone",
+      "The Sejm must approve every presidential decision"
+     ],
+     "answer": 1,
+     "explain": "Countersignature ties the president to the government for many acts. In cohabitation it gives each side leverage, which can produce deals as well as standoffs."
+    },
+    {
+     "q": "Why is India's presidential veto described as weaker than Poland's, even though both presidents can return a bill?",
+     "options": [
+      "India's president cannot return any bill",
+      "An Indian bill re-passed by an ordinary majority must be signed, while Poland requires three-fifths of the Sejm",
+      "Poland's president can dissolve the Sejm after any veto",
+      "India requires a referendum to override"
+     ],
+     "answer": 1,
+     "explain": "India's Article 111 veto only delays; Poland's Article 122 veto needs a three-fifths Sejm vote to overcome, which coalition governments often lack."
+    }
+   ],
+   "recallQ": "In a lame-duck session, why might an outgoing majority rush to pass laws, and why does that matter less in Poland or India?",
+   "recallA": "Between the November election and 3 January, the old US Congress still sits, so the losing majority can pass bills before it hands over control. Poland and India have no comparable stretch: after an election the old parliament stops legislating, the new Sejm or Lok Sabha takes over, and the outgoing government serves only as caretaker until a new one is formed."
   }
  ]
 }
