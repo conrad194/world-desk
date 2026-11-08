@@ -923,6 +923,39 @@
    "checkDate": "2026-11-25",
    "happened": "",
    "eventId": "E-261107-41"
+  },
+  {
+   "id": "W-261108-01",
+   "dateAdded": "2026-11-08",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "what": "The Section 301 suspension of port fees on Chinese-linked vessels and the 178 China product exclusions expire at 11:59pm ET on Nov 9. USTR proposed on Oct 23 to extend the suspension to Jan 9, 2027 (docket USTR-2026-0694), but no final notice had been found.",
+   "expected": "USTR Federal Register notice; Bessent said the US-China truce runs to Jan 10, 2027",
+   "checkDate": "2026-11-12",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-02",
+   "dateAdded": "2026-11-08",
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "what": "House vote on Rep. Massie's privileged resolution to impeach Defense Secretary Hegseth during the lame duck",
+   "expected": "Massie (Roll Call, WSB-TV)",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-03",
+   "dateAdded": "2026-11-08",
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "what": "First operations or interdictions by CENTCOM's new Task Force Iron Gate on Iran's land and Caspian routes, and any wider US strikes beyond the limited Qeshm hits",
+   "expected": "CENTCOM / Adm. Brad Cooper",
+   "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

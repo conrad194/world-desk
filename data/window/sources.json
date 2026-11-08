@@ -1535,6 +1535,30 @@
    "lean": "aggregator, neutral",
    "status": "Watch",
    "dateAdded": "2026-11-07"
+  },
+  {
+   "id": "mississippi-free-press",
+   "name": "Mississippi Free Press",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Mississippi politics and elections, county-level vote data",
+   "language": "English",
+   "url": "https://www.mississippifreepress.org/",
+   "lean": "nonprofit, centre-left",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "tokenpost",
+   "name": "TokenPost",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "crypto, fintech and tech IPO news",
+   "language": "English",
+   "url": "https://www.tokenpost.com/",
+   "lean": "specialist, less established",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
   }
  ]
 }
