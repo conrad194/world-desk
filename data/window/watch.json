@@ -989,6 +989,17 @@
    "checkDate": "2026-11-10",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261108-07",
+   "dateAdded": "2026-11-08",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Reopening of Rynek Główny, the Mariacka Basilica and the horse-cab stands, and whether the 11 Nov state ceremony at Plac Matejki goes ahead during city mourning",
+   "expected": "Kraków City Hall crisis team",
+   "checkDate": "2026-11-11",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

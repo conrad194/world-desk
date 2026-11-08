@@ -1595,6 +1595,30 @@
    "lean": "centrist",
    "status": "Watch",
    "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "portal-samorzadowy",
+   "name": "Portal Samorządowy",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "local government, PAP regional copy",
+   "language": "Polish",
+   "url": "https://www.portalsamorzadowy.pl/",
+   "lean": "centrist/trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "newsmax-polska",
+   "name": "Newsmax Polska",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "national news",
+   "language": "Polish",
+   "url": "https://newsmaxpolska.pl/",
+   "lean": "right-leaning",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
   }
  ]
 }
