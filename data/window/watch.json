@@ -1000,6 +1000,39 @@
    "checkDate": "2026-11-11",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261108-08",
+   "dateAdded": "2026-11-08",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Karnataka CM Shivakumar to raise sugar price/FRP and E20 with PM Modi during Modi's Bengaluru visit",
+   "expected": "CM D.K. Shivakumar (IANS)",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-09",
+   "dateAdded": "2026-11-08",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Post-Diwali Delhi AQI and whether CAQM escalates to GRAP Stage IV; complete firecracker ban restored from Nov 9",
+   "expected": "CAQM / Supreme Court order (PTI)",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-10",
+   "dateAdded": "2026-11-08",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Muhurat trading (Samvat 2083) outcome after the Nifty's seven-session rally and the Wall Street sell-off",
+   "expected": "NSE/BSE",
+   "checkDate": "2026-11-09",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

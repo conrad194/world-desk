@@ -1619,6 +1619,30 @@
    "lean": "right-leaning",
    "status": "Watch",
    "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "voice-of-sikkim",
+   "name": "Voice of Sikkim",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Sikkim regional news",
+   "language": "English",
+   "url": "https://www.voiceofsikkim.com",
+   "lean": "regional, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "aaj-tak",
+   "name": "Aaj Tak",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Hindi national TV/web news",
+   "language": "Hindi",
+   "url": "https://www.aajtak.in",
+   "lean": "mainstream, centre-right commercial",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
   }
  ]
 }
