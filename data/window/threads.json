@@ -271,6 +271,14 @@
    "domain": "Environment, energy & disasters",
    "status": "Active",
    "summary": "The winter smog season in Delhi-NCR: GRAP stages, Supreme Court hearings (next Nov 16), stubble burning in Punjab and Haryana, and the Diwali cracker window (Nov 7–8). Expected to run until January."
+  },
+  {
+   "id": "krakow-main-square-shooting",
+   "name": "Kraków Main Square shooting",
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "status": "Active",
+   "summary": "Mass shooting on Rynek Główny on Nov 7, 2026: a 24-year-old gunman killed six people and wounded about 16; three relatives were found dead at his home in Ostrowiec Świętokrzyski. Follows the investigation, charges, motive, gun-permit debate and the city's recovery."
   }
  ]
 }

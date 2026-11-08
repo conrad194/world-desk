@@ -1559,6 +1559,42 @@
    "lean": "specialist, less established",
    "status": "Watch",
    "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "tv-republika",
+   "name": "TV Republika",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "national politics",
+   "language": "Polish",
+   "url": "https://tvrepublika.pl/",
+   "lean": "right, pro-PiS",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "rzeszow-news",
+   "name": "Rzeszów News",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Podkarpacie regional, military exercises",
+   "language": "Polish",
+   "url": "https://rzeszow-news.pl/",
+   "lean": "neutral regional",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "dziennik-pl",
+   "name": "Dziennik.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "general news, fuel prices",
+   "language": "Polish",
+   "url": "https://www.dziennik.pl/",
+   "lean": "centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
   }
  ]
 }

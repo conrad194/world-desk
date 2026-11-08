@@ -742,7 +742,7 @@
    "dateAdded": "2026-11-06",
    "place": "Poland",
    "domain": "Politics & government",
-   "what": "Nov 11 Independence March: turnout, incidents and Nawrocki's speech",
+   "what": "Nov 11 Independence March: turnout, incidents and Nawrocki's speech Update (Nov 7): after the Kraków attack, Interior Minister Kierwiński said holding the march would be analysed and the services are on heightened alert.",
    "expected": "Nawrocki confirmed he will attend, and organisers expect 500,000 or more.",
    "checkDate": "2026-11-11",
    "happened": "",
@@ -954,6 +954,39 @@
    "what": "First operations or interdictions by CENTCOM's new Task Force Iron Gate on Iran's land and Caspian routes, and any wider US strikes beyond the limited Qeshm hits",
    "expected": "CENTCOM / Adm. Brad Cooper",
    "checkDate": "2026-11-15",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-04",
+   "dateAdded": "2026-11-08",
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "what": "Charges against the Kraków attacker (Michał O.) once his condition allows, the official motive finding, and whether anyone helped him",
+   "expected": "National Prosecutor's Office / Tusk (Nov 7 briefing)",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-05",
+   "dateAdded": "2026-11-08",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Government or parliamentary proposals to tighten access to firearms and sport-shooting permits after the Kraków attack",
+   "expected": "Implied by the public debate over the attacker's legally held arsenal (Interia, bezprawnik.pl)",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-06",
+   "dateAdded": "2026-11-08",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "Energy Minister's notice on maximum fuel prices for Nov 10 onward, or the end of the caps",
+   "expected": "Dziennik.pl notes the caps are set only through Nov 9",
+   "checkDate": "2026-11-10",
    "happened": "",
    "eventId": ""
   }
