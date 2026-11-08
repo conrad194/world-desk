@@ -107,7 +107,7 @@
    "what": "EU gas storage reference date for the relaxed 80% fill target.",
    "expected": "EU gas storage regulation; IEEFA says the target is borderline",
    "checkDate": "2026-11-01",
-   "happened": "",
+   "happened": "EU storage stood at about 74.6% on 31 Oct and 74.1% on 3 Nov (GIE AGSI+ via Global Energy Flow), short of the relaxed 80% target and about 12 points below the five-year norm; Germany about 60.6%. [Global Energy Flow](https://global-energy-flow.com/storage/trajectory/)",
    "eventId": "E-261025-54"
   },
   {
@@ -187,7 +187,7 @@
    "what": "French union national mobilisation day.",
    "expected": "French unions (via Euronews)",
    "checkDate": "2026-11-05",
-   "happened": "",
+   "happened": "The 5 Nov strike went ahead: 575,000 marchers by Interior Ministry count, 1.6 million per the CGT, with 448 arrests. PM Lecornu called a 'social conference' with unions and employers for 9 Nov. [Business News (AFP)](https://businessnews.com.tn/2026/11/05/france-la-colere-gronde-jusqua-16-million-de-manifestants-dans-les-rues/1427419/)",
    "eventId": "E-261025-36"
   },
   {
@@ -217,7 +217,7 @@
    "what": "First Russian diesel cargo under the US–Russia deal due in New York.",
    "expected": "Kpler (via Euronews)",
    "checkDate": "2026-11-07",
-   "happened": "",
+   "happened": "No delivery. By 5 Nov the two sanctioned tankers from Primorsk (Talisman and Leruo) had turned toward Brazil and the Mediterranean, and a third switched from New York to 'for orders' after New Jersey's governor told terminals to refuse the fuel. [AP via News4Jax](https://www.news4jax.com/business/2026/11/05/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-us/)",
    "eventId": "E-261025-53"
   },
   {
@@ -307,7 +307,7 @@
    "what": "UN Security Council briefing on Iran non-proliferation, requested by Bahrain, Denmark, France, Latvia, the UK and the US, with [[p:Rafael Grossi]] briefing on Iran's denial of [[p:IAEA|International Atomic Energy Agency]] access since June. A procedural vote on the agenda may be held.",
    "expected": "Security Council Report (What's In Blue)",
    "checkDate": "2026-10-28",
-   "happened": "",
+   "happened": "Held on 27 Oct: IAEA chief Rafael Grossi told the Council the agency cannot verify Iran's roughly 440 kg of highly enriched uranium and asked for access to bombed sites; inspections continue only at Bushehr. [Shabtab News](https://english.shabtabnews.com/2026/10/28/grossi-urges-iran-to-grant-access-to-damaged-nuclear-sites/)",
    "eventId": ""
   },
   {
@@ -317,7 +317,7 @@
    "what": "Iran's Persian Gulf Strait Authority starts legal action against Sinokor vessels from 1 Nov. Watch for seizures or strikes on Korean-managed ships and Seoul's response.",
    "expected": "Iran International (PGSA statement)",
    "checkDate": "2026-11-02",
-   "happened": "",
+   "happened": "No seizure or strike on a Sinokor vessel was reported in the first days after 1 Nov; the warning stands while attacks on other shipping off Limah continued on 1 and 3 Nov. [Global Energy Flow Hormuz tracker](https://global-energy-flow.com/hormuz/)",
    "eventId": ""
   },
   {
