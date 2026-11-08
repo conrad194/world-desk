@@ -1,0 +1,487 @@
+{
+ "date": "2026-11-08",
+ "segment": "EU politics + cross-cutting",
+ "windowFrom": "2026-10-25",
+ "tier1Summary": "Serbia's students took power at the ballot box: the [[p:Student List]] won an outright majority, ending more than a decade of [[p:Aleksandar Vučić]]'s dominance. Brussels set roadmaps for its four front-runners, though Hungary still holds up Ukraine's next talks. [[p:Donald Trump]]'s hint at a Russia deal covering \"all of Europe\" drew a sharp no from the EU. Beijing confirmed talks on a three-way summit with Trump and Putin.\n\nAt home, France's budget collapsed amid mass strikes. Poland's top court is split between rival leaderships, Sweden edges toward a government, and Spain votes on 29 Nov.\n\nIn the Gulf, the US launched a task force against Iran's land trade, and the [[p:Islamic Revolutionary Guard Corps|IRGC]] lifted its missile-range cap. Houthi missiles damaged a Riyadh tower.",
+ "segmentItems": [
+  {
+   "id": "E-261108-04",
+   "segment": "EU politics + cross-cutting",
+   "country": "Serbia",
+   "text": "The [[p:Student List]] {{note: Electoral list formed in 2026 by the student movement that grew out of protests after the November 2024 Novi Sad station canopy collapse.}} won 140 of 250 seats in the [[e:2026 Serbian parliamentary election]], final results show, against 103 for [[p:Aleksandar Vučić]]'s list. Turnout hit a 30-year high.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Government of Serbia (RIK report); Al Jazeera",
+   "opinion": "",
+   "thread": "Serbia protests and election",
+   "links": [
+    {
+     "label": "Government of Serbia (RIK report); Al Jazeera",
+     "url": "https://www.srbija.gov.rs/vest/en/290859/final-results-of-parliamentary-elections-confirmed.php"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-05",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Western Balkans / Ukraine / Moldova",
+   "text": "The [[p:European Commission]]'s enlargement package set roadmaps for Montenegro (finish talks this year), Albania (2027), Moldova (early 2028) and Ukraine (end-2028). It said Georgia's accession is de facto halted.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "European Commission",
+   "opinion": "",
+   "thread": "EU enlargement: Ukraine and Moldova",
+   "links": [
+    {
+     "label": "European Commission",
+     "url": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-06",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Hungary / Ukraine",
+   "text": "Kyiv's envoy says Hungary has no new objections, yet Budapest still hasn't approved the screening reports needed to open Ukraine's clusters 4 and 5.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Olha Kovalchuk",
+   "outlet": "European Pravda",
+   "opinion": "",
+   "thread": "EU enlargement: Ukraine and Moldova",
+   "links": [
+    {
+     "label": "European Pravda",
+     "url": "https://www.eurointegration.com.ua/eng/news/2026/11/3/7249180/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-07",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / United States / Russia",
+   "text": "[[p:Kaja Kallas]] said [[p:Vladimir Putin]] has no veto over European security, after [[p:Donald Trump]] said his deal with Moscow \"might involve all of Europe\". Poland called a deal over Europe's head impossible.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Nela Heidner",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-08",
+   "segment": "EU politics + cross-cutting",
+   "country": "China / United States / Russia",
+   "text": "Beijing confirmed for the first time talks on a [[p:Xi Jinping]]–Trump–Putin meeting at APEC in Shenzhen. Trump wants nuclear arms control on the agenda; analysts expect little substance.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Taipei Times",
+   "opinion": "Analysts' view on likely outcome.",
+   "thread": "APEC 2026 and great-power summitry",
+   "links": [
+    {
+     "label": "Taipei Times",
+     "url": "https://taipeitimes.com/News/front/archives/2026/11/08/2003867352"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.usnews.com/news/politics/articles/2026-11-06/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-10",
+   "segment": "EU politics + cross-cutting",
+   "country": "Poland",
+   "text": "Poland's [[p:Constitutional Tribunal (Poland)|Constitutional Tribunal]] has two rival leaderships. Newly elected judges suspended its president, [[p:Bogdan Święczkowski]], and President [[p:Karol Nawrocki]] calls this a takeover. On 17 Nov the judges vote on prosecutors' request to detain Święczkowski.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Rzeczpospolita; PCh24 (citing PAP)",
+   "opinion": "",
+   "thread": "Polish Constitutional Tribunal crisis",
+   "links": [
+    {
+     "label": "Rzeczpospolita; PCh24 (citing PAP)",
+     "url": "https://www.rp.pl/sady-i-trybunaly/art45458121-rok-2026-bez-ani-jednego-wyroku-trybunalu-ws-skargi-konstytucyjnej"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://pch24.pl/wiadomosci/kolejna-decyzja-samozwanczej-szefowej-tk-bedzie-glosowanie-w-sprawie-aresztowania-bogdana-swieczkowskiego,741869"
+    }
+   ],
+   "paywalled": true
+  },
+  {
+   "id": "E-261108-11",
+   "segment": "EU politics + cross-cutting",
+   "country": "France",
+   "text": "France's Assembly rejected the 2027 budget 458–0, so the bill goes to the Senate unamended. PM [[p:Sébastien Lecornu]] may resort to Article 49.3 or ordinances.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "LCP",
+   "opinion": "",
+   "thread": "France fiscal and political crisis",
+   "links": [
+    {
+     "label": "LCP",
+     "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-12",
+   "segment": "EU politics + cross-cutting",
+   "country": "France",
+   "text": "Strikes on 5 Nov drew 575,000 people (Interior Ministry; the CGT says 1.6 million), and 448 were arrested. Lecornu has called a wage conference for 9 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Business News (AFP)",
+   "opinion": "",
+   "thread": "European cost-of-living protests",
+   "links": [
+    {
+     "label": "Business News (AFP)",
+     "url": "https://businessnews.com.tn/2026/11/05/france-la-colere-gronde-jusqua-16-million-de-manifestants-dans-les-rues/1427419/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-14",
+   "segment": "EU politics + cross-cutting",
+   "country": "Sweden",
+   "text": "In Sweden, [[p:Jimmie Åkesson]] dropped his demand for ministerial posts, which could clear the way for a four-party government under [[p:Ulf Kristersson]].",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Julia Selin",
+   "outlet": "SVT",
+   "opinion": "",
+   "thread": "Swedish government formation 2026",
+   "links": [
+    {
+     "label": "SVT",
+     "url": "https://svt.se/nyheter/inrikes/kristersson-far-forlangd-sondering-efter-nya-besked-fran-sd-och-c"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/6/talmannen-forlanger-ulf-kristerssons_cmsaf0961e5-8ddf-4cc8-844a-b1d95411414asv/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-15",
+   "segment": "EU politics + cross-cutting",
+   "country": "Spain",
+   "text": "Spain votes on 29 Nov. Polls give the PP and Vox a combined majority.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Infobae; Primicias",
+   "opinion": "",
+   "thread": "Spanish snap election 2026",
+   "links": [
+    {
+     "label": "Infobae; Primicias",
+     "url": "https://www.infobae.com/espana/2026/10/27/asi-estan-las-encuestas-para-el-29-de-noviembre-pp-y-vox-mantienen-la-mayoria-absoluta-el-psoe-gana-terreno-y-la-izquierda-fragmentada-no-logra-remontar/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://primicias.ec/internacional/pedro-sanchez-convoca-elecciones-generales-espana-134126/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-16",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU",
+   "text": "[[p:Ursula von der Leyen]] says the Hormuz closure has cost the EU an extra €127 billion for energy. Gas storage is at 74%, about 12 points below normal.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Fortune; Global Energy Flow (GIE AGSI+ data)",
+   "opinion": "",
+   "thread": "European energy security",
+   "links": [
+    {
+     "label": "Fortune; Global Energy Flow (GIE AGSI+ data)",
+     "url": "https://fortune.com/2026/11/03/europe-strait-hormuz-closure-costs-energy-142-billion/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://global-energy-flow.com/storage/trajectory/"
+    }
+   ],
+   "paywalled": true
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261108-01",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "The US set up a task force to choke Iran's overland and Caspian trade. The [[p:Islamic Revolutionary Guard Corps|IRGC]] says it has scrapped its 2,000 km missile-range cap and that two tankers hit mines in Hormuz on 8 Nov. Iran is weighing Qatari proposals.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "ABC News (Australia); Iran International",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "ABC News (Australia); Iran International",
+     "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.iranintl.com/en/liveblog/202611077068"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261108-02",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "The Saudi-led coalition said it shot down two [[p:Houthis|Houthi]] missiles over Riyadh on 8 Nov, and witnesses report damage to the Aramco tower in the financial district.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AFP (via Malay Mail)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "AFP (via Malay Mail)",
+     "url": "https://www.malaymail.com/news/world/2026/11/08/houthis-target-riyadh-financial-district-as-witnesses-report-damage-to-aramco-tower/242472"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.iranintl.com/en/liveblog/202611077068"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261108-01",
+   "title": "EU rejects Trump's 'big beautiful' security deal with Russia and 'all of Europe'",
+   "reporter": "Nela Heidner",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe",
+   "why": "Collects the on-record European replies to Washington's hint at a deal covering all of Europe.",
+   "segment": "EU politics + cross-cutting",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261108-02",
+   "title": "Budget 2027 rejeté : quelles sont les prochaines étapes au Parlement ?",
+   "reporter": "",
+   "outlet": "LCP",
+   "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+   "why": "Clear map of France's options now that both budget bills have fallen.",
+   "segment": "EU politics + cross-cutting",
+   "language": "French"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-08",
+   "text": "South Africa: official IEC results of the 4 Nov local elections, then coalition talks.",
+   "segment": "Africa",
+   "watchId": "W-261106-01"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "COP31 opens in Antalya (to 20 Nov).",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-01"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Georgia: Constitutional Court resumes hearings on banning five opposition parties.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-01"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "France: Lecornu's wage conference; the Senate starts on the social-security budget.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-02"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Trilateral US–Russia–Ukraine talks in Abu Dhabi, 10–11 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Israel: President Herzog's consultations on who forms the next government.",
+   "segment": "Middle East",
+   "watchId": "W-261027-06"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the Alaska and Mississippi Senate races.",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Sweden: Kristersson reports back on forming a government.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-03"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Moldova: Gagauzia assembly and governor elections.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-03"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Italy",
+   "status": "quiet"
+  },
+  {
+   "country": "Netherlands",
+   "status": "quiet"
+  },
+  {
+   "country": "Czechia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Romania",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Government of Serbia (RIK report); Al Jazeera",
+   "url": "https://www.srbija.gov.rs/vest/en/290859/final-results-of-parliamentary-elections-confirmed.php",
+   "paywalled": false
+  },
+  {
+   "title": "Government of Serbia (RIK report); Al Jazeera (cross-check)",
+   "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed",
+   "paywalled": false
+  },
+  {
+   "title": "European Commission",
+   "url": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en",
+   "paywalled": false
+  },
+  {
+   "title": "European Pravda",
+   "url": "https://www.eurointegration.com.ua/eng/news/2026/11/3/7249180/",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews",
+   "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe",
+   "paywalled": false
+  },
+  {
+   "title": "Taipei Times",
+   "url": "https://taipeitimes.com/News/front/archives/2026/11/08/2003867352",
+   "paywalled": false
+  },
+  {
+   "title": "Taipei Times (cross-check)",
+   "url": "https://www.usnews.com/news/politics/articles/2026-11-06/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita; PCh24 (citing PAP)",
+   "url": "https://www.rp.pl/sady-i-trybunaly/art45458121-rok-2026-bez-ani-jednego-wyroku-trybunalu-ws-skargi-konstytucyjnej",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita; PCh24 (citing PAP) (cross-check)",
+   "url": "https://pch24.pl/wiadomosci/kolejna-decyzja-samozwanczej-szefowej-tk-bedzie-glosowanie-w-sprawie-aresztowania-bogdana-swieczkowskiego,741869",
+   "paywalled": true
+  },
+  {
+   "title": "LCP",
+   "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+   "paywalled": false
+  },
+  {
+   "title": "Business News (AFP)",
+   "url": "https://businessnews.com.tn/2026/11/05/france-la-colere-gronde-jusqua-16-million-de-manifestants-dans-les-rues/1427419/",
+   "paywalled": false
+  },
+  {
+   "title": "SVT",
+   "url": "https://svt.se/nyheter/inrikes/kristersson-far-forlangd-sondering-efter-nya-besked-fran-sd-och-c",
+   "paywalled": false
+  },
+  {
+   "title": "SVT (cross-check)",
+   "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/6/talmannen-forlanger-ulf-kristerssons_cmsaf0961e5-8ddf-4cc8-844a-b1d95411414asv/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae; Primicias",
+   "url": "https://www.infobae.com/espana/2026/10/27/asi-estan-las-encuestas-para-el-29-de-noviembre-pp-y-vox-mantienen-la-mayoria-absoluta-el-psoe-gana-terreno-y-la-izquierda-fragmentada-no-logra-remontar/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae; Primicias (cross-check)",
+   "url": "https://primicias.ec/internacional/pedro-sanchez-convoca-elecciones-generales-espana-134126/",
+   "paywalled": false
+  },
+  {
+   "title": "Fortune; Global Energy Flow (GIE AGSI+ data)",
+   "url": "https://fortune.com/2026/11/03/europe-strait-hormuz-closure-costs-energy-142-billion/",
+   "paywalled": true
+  },
+  {
+   "title": "Fortune; Global Energy Flow (GIE AGSI+ data) (cross-check)",
+   "url": "https://global-energy-flow.com/storage/trajectory/",
+   "paywalled": true
+  },
+  {
+   "title": "ABC News (Australia); Iran International",
+   "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News (Australia); Iran International (cross-check)",
+   "url": "https://www.iranintl.com/en/liveblog/202611077068",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Malay Mail)",
+   "url": "https://www.malaymail.com/news/world/2026/11/08/houthis-target-riyadh-financial-district-as-witnesses-report-damage-to-aramco-tower/242472",
+   "paywalled": false
+  }
+ ]
+}
