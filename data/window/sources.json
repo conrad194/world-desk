@@ -1643,6 +1643,30 @@
    "lean": "mainstream, centre-right commercial",
    "status": "Watch",
    "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "radio-szczecin-iar-feed",
+   "name": "Radio Szczecin (IAR feed)",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "Public regional radio carrying IAR/Polskie Radio Washington reports",
+   "language": "Polish",
+   "url": "https://radioszczecin.pl",
+   "lean": "public broadcaster, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "zero-pl",
+   "name": "Zero.pl",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "General news, politics and defence",
+   "language": "Polish",
+   "url": "https://zero.pl",
+   "lean": "centre, digital",
+   "status": "Watch",
+   "dateAdded": "2026-11-08"
   }
  ]
 }

@@ -780,6 +780,46 @@
    "thread": "",
    "followsUp": "",
    "notes": "PIB PRID 2334063."
+  },
+  {
+   "id": "E-261108-40",
+   "dateLogged": "2026-11-08",
+   "eventDate": "2026-11-07",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "text": "Polish radio (IAR) adds detail on Tuesday's (Nov 10) Pentagon meeting between Defence Minister Władysław Kosiniak-Kamysz and Secretary Pete Hegseth. According to the US Department of War, Hegseth will receive him at the Pentagon's main entrance at 10:30 Washington time with full military honours and a guard of honour before the talks. The report says the Pentagon's review of US troop numbers and deployment in Europe is due to finish by early January at the latest. It also notes that no official decision has followed Trump's March announcement of 5,000 more US troops for Poland.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Marek Wałkuski (Polskie Radio audio); text 'nc' via IAR",
+   "outlet": "Radio Szczecin / IAR",
+   "language": "Polish",
+   "link1": "https://radioszczecin.pl/6,513448,kosiniak-kamysz-we-wtorek-zlozy-wizyte-w-pentago",
+   "link2": "https://zero.pl/news/kosiniak-kamysz-spotka-sie-z-hegsethem-kluczowe-rozmowy-o-wojskach-usa-w-polsce",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "Permanent US base in Poland",
+   "followsUp": "",
+   "notes": "Pre-meeting detail only; the meeting date and time were already reported Nov 6. New items: the honours ceremony, the 'early January' deadline for the Europe posture review, and the March 5,000-troop pledge not yet formalised. Zero.pl (Nov 7) restates that the US decided in mid-October to put a PAC-3 MSE missile service centre in Poland, with location and cost still unannounced."
+  },
+  {
+   "id": "E-261108-41",
+   "dateLogged": "2026-11-08",
+   "eventDate": "2026-11-07",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "text": "An RMF FM backgrounder puts the current US presence in Poland at about 10,000 personnel, using Powidz, Poznań and Żagań and the V Corps forward headquarters. It recalls that the presidential palace's Marcin Przydacz named 15,000 US troops as Poland's goal in June, with 11,000 as the minimum; RMF stresses these are Polish negotiating targets, not a Pentagon plan. RMF notes that Trump said on Oct 13 that Poland would pay for any permanent base, but he has not confirmed a final decision.",
+   "tier": 3,
+   "verification": "Reported",
+   "reporter": "Paweł Żuchowski",
+   "outlet": "RMF24",
+   "language": "Polish",
+   "link1": "https://www.rmf24.pl/fakty/swiat/news-stala-baza-usa-w-polsce-kosiniak-kamysz-rusza-do-pentagonu,nIdn,1025253",
+   "link2": "",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "Permanent US base in Poland",
+   "followsUp": "",
+   "notes": "Analysis/backgrounder (label as such). Gives useful numbers for framing the Nov 10 outcome."
   }
  ]
 }

@@ -1033,6 +1033,28 @@
    "checkDate": "2026-11-09",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261108-11",
+   "dateAdded": "2026-11-08",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "Pentagon review of US troop numbers and deployment in Europe, which will shape any permanent base or extra troops for Poland (including the 5,000 troops Trump announced in March)",
+   "expected": "IAR/Polskie Radio, citing the Pentagon timeline (finish by early January at the latest)",
+   "checkDate": "2027-01-08",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261108-12",
+   "dateAdded": "2026-11-08",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "Location, cost and start date of the PAC-3 MSE Patriot missile service centre in Poland (decided in mid-October), possibly announced at or after the Nov 10 Pentagon meeting",
+   "expected": "Zero.pl / Interia (MON has said it is on the agenda)",
+   "checkDate": "2026-11-11",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
