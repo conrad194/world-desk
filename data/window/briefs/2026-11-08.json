@@ -1,0 +1,1158 @@
+{
+ "date": "2026-11-08",
+ "top5": [
+  {
+   "text": "Gunman killed six and wounded about 16 on Kraków's Rynek Główny; three relatives were found dead at his home. The suspect is detained.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "krakow.pl; Radio Kielce (PAP)",
+     "url": "https://krakow.pl/aktualnosci/345151,29,komunikat,strzelanina_w_centrum_krakowa__sa_zabici_i_ranni.html"
+    },
+    {
+     "label": "More",
+     "url": "https://radiokielce.pl/1455791/strzelanina-w-krakowie-przy-rynku-glownym-sa-ofiary-smiertelne-i-ranni/"
+    }
+   ]
+  },
+  {
+   "text": "National mourning Nov 8–9; Kraków cancels city events through Nov 11.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "miastoNS.pl; Puls Krakowa",
+     "url": "https://miastons.pl/malopolska/zaloba-narodowa-8-9-listopada-2026-krakow-strzelanina/"
+    },
+    {
+     "label": "More",
+     "url": "https://pulskrakowa.pl/prezydent-krakowa-oglosil-zalobe-miejskie-imprezy-odwolane-do-11-listopada/"
+    }
+   ]
+  },
+  {
+   "text": "Kierwiński links the attacker to far-right views; the right accuses him of politicising it.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "RMF24",
+     "url": "https://www.rmf24.pl/regiony/krakow/news-szef-mswia-mowil-o-pogladach-sprawcy-nowe-informacje-ws-trag,nIdn,1025279"
+    },
+    {
+     "label": "More",
+     "url": "https://tvrepublika.pl/Polityka/Insynuacje-szefa-MSWiA-Kierwinski-zaczyna-ideologiczna-gre-wokol-tragedii/225426"
+    }
+   ]
+  },
+  {
+   "text": "CENTCOM opens Task Force Iron Gate on Iran's land and Caspian routes as Trump confirms limited new strikes and claims progress in talks.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+    },
+    {
+     "label": "More",
+     "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+    }
+   ]
+  },
+  {
+   "text": "Delhi wakes to a \"severe\" Diwali: AQI 384, GRAP III in force.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Times Now Navbharat",
+     "url": "https://www.timesnowhindi.com/cities/delhi-air-pollution-diwali-aqi-today-8-november-punjabi-bagh-iit-anand-vihar-grap-3-restrictions-article-156481309"
+    },
+    {
+     "label": "More",
+     "url": "https://hindi.theprint.in/india/delhi-shrouded-in-toxic-smog-on-diwali-morning-aqi-reaches-383/1055895/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261108-04",
+    "domain": "Defense, security & crime",
+    "text": "CENTCOM launched **Task Force Iron Gate** to choke Iran's land and Caspian supply routes, and disabled the cargo ship M/V Huda in the Gulf of Oman; it says 147 vessels have been redirected since July.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+     },
+     {
+      "label": "More",
+      "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-03",
+    "domain": "Foreign relations",
+    "text": "Trump confirmed \"minor\" new strikes on air defences on Qeshm Island while saying talks with Tehran have made progress; Qatar denies its mediation has failed. Iran still demands sanctions relief and an end to the blockade first.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera English",
+      "url": "https://aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive"
+     },
+     {
+      "label": "More",
+      "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-05",
+    "domain": "Defense, security & crime",
+    "text": "Iran's Revolutionary Guard dropped its self-imposed 2,000 km missile-range limit; Iranian media reported unexplained blasts at Qeshm, Jask and Bandar Abbas.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "ABC News (Australia), citing AP and Reuters",
+      "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+     },
+     {
+      "label": "More",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-06",
+    "domain": "Politics & government",
+    "text": "Mississippi Senate: Colom's lead over Hyde-Smith rose to 2,574 (AP, Nov 6), with early affidavit ballots breaking heavily his way. Rankin County starts scanning affidavits Nov 10; certification is due Nov 13.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Mississippi Free Press",
+      "url": "https://www.mississippifreepress.org/liveblog-mississippis-2026-u-s-senate-election-results/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-07",
+    "domain": "Politics & government",
+    "text": "Alaska: a New York Times analysis of ranked-choice data points to a Peltola win over Sullivan; about 47,000 ballots should be counted by Nov 10.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Democracy Docket",
+      "url": "https://www.democracydocket.com/news-alerts/new-data-suggests-peltola-likely-to-win-alaska-voters-not-confused-by-2-dan-sullivans/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-09",
+    "domain": "Politics & government",
+    "text": "Congress returns Nov 9 for the lame duck: funding runs out Dec 11, the NDAA is pending, and Rep. Massie plans to force a vote on impeaching Hegseth over the Iran war.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "WSB-TV (Cox Media Group)",
+      "url": "https://www.wsbtv.com/news/local/congress-returns-with-shutdown-deadline-possible-hegseth-impeachment-fight/3HEI7P4AGBAOPJZ4VRCE355TII/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.newsweek.com/pete-hegseth-thomas-massie-impeachment-iran-war-12445811"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261108-13",
+    "domain": "Politics & government",
+    "text": "Interior Minister Kierwiński said the Kraków attacker acted alone and, on preliminary information, held ultra-nationalist, far-right views. Right-wing media (TV Republika, wPolityce) accuse him of politicising the tragedy; RMF24 and Reuters report the remarks as preliminary findings.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-szef-mswia-mowil-o-pogladach-sprawcy-nowe-informacje-ws-trag,nIdn,1025279"
+     },
+     {
+      "label": "More",
+      "url": "https://tvrepublika.pl/Polityka/Insynuacje-szefa-MSWiA-Kierwinski-zaczyna-ideologiczna-gre-wokol-tragedii/225426"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-16",
+    "domain": "Law, courts & regulation",
+    "text": "Seven prosecutors plus ABW and military counterintelligence are investigating the attack, including whether anyone helped. The suspect, a licensed sport shooter whose father has 11 registered guns, has not yet been charged.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/malopolskie/news-kim-jest-sprawca-ataku-w-krakowie-nowe-ustalenia-ws-michala,nId,23570646"
+     },
+     {
+      "label": "More",
+      "url": "https://limanowa.in/aktualnosci/prokuratura-bada-watek-wspolnikow-policja-dementuje-zarzuty-o-opozniona-reakcje/84799"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-14",
+    "domain": "Defense, security & crime",
+    "text": "Kierwiński said holding the Nov 11 Independence March will be analysed after the attack and the services are on heightened alert (single source).",
+    "tier": 1,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "TV Republika",
+      "url": "https://tvrepublika.pl/Polityka/Insynuacje-szefa-MSWiA-Kierwinski-zaczyna-ideologiczna-gre-wokol-tragedii/225426"
+     },
+     {
+      "label": "More",
+      "url": "https://www.rmf24.pl/fakty/polska/news-marsz-niepodleglosci-prezydent-karol-nawrocki-podjal-decyzje,nIdn,1025168"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-15",
+    "domain": "Politics & government",
+    "text": "Kaczyński appealed for PiS-backed protests over the Constitutional Tribunal to be called off after the attack.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "TVP Info",
+      "url": "https://www.tvp.info/96363464/prezes-pis-jaroslaw-kaczynski-po-zamachu-w-krakowie-apeluje-o-odwolanie-manifestacji-zwiazanych-z-trybunalem-konstytucyjnym"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-17",
+    "domain": "Economy, business & markets",
+    "text": "Fuel caps are set only through Nov 9 (6.12 zł petrol, 7.83 zł diesel); nothing announced for Nov 10 onward. LPG, uncapped, hit a record 4.03 zł.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Poland fuel price caps",
+    "links": [
+     {
+      "label": "Dziennik.pl",
+      "url": "https://auto.dziennik.pl/aktualnosci/artykuly/11342113,paliwowe-trzesienie-ziemi-na-stacjach-po-10-listopada-benzyna-95-lpg-i-diesel-juz-po-tyle-mamy-najnowsze-zestawienie.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-18",
+    "domain": "Defense, security & crime",
+    "text": "KOALICJA 26.2 starts Nov 9: about 4,800 troops, including some 2,000 Polish soldiers and a British contingent, testing the Multinational Force Ukraine. MON says no Polish troops will go to Ukraine.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Ukraine security guarantees",
+    "links": [
+     {
+      "label": "Rzeszów News",
+      "url": "https://rzeszow-news.pl/cwiczenia-nowa-deba/"
+     },
+     {
+      "label": "More",
+      "url": "https://milmag.pl/koalicja-26-2-sojusznicy-wzmacniaja-przygotowania-do-pokoju-w-ukrainie-duzymi-cwiczeniami-w-polsce/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-20",
+    "domain": "Politics & government",
+    "text": "United Surveys/WP poll: KO 27.2% (−2.5), PiS 18.2%, Konfederacja 13.3%, Braun's KKP 11.6%; Polska 2050 at 0%.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/kraj/news-kryzys-w-tk-odbil-sie-w-poparciu-dla-partii-najnowszy-sondaz,nId,23569140"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261108-22",
+    "domain": "Defense, security & crime",
+    "text": "**Mass shooting on Rynek Główny.** Shortly after 15:00 on Saturday a gunman fired from a car near ul. Sławkowska, killing six people (four women, two men) and wounding 15–17, including two police officers; he also shot at a line 1 tram. Police shot and detained the 24-year-old suspect at Dietla/Stradomska.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "krakow.pl; Radio Kielce (PAP)",
+      "url": "https://krakow.pl/aktualnosci/345151,29,komunikat,strzelanina_w_centrum_krakowa__sa_zabici_i_ranni.html"
+     },
+     {
+      "label": "More",
+      "url": "https://radiokielce.pl/1455791/strzelanina-w-krakowie-przy-rynku-glownym-sa-ofiary-smiertelne-i-ranni/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-23",
+    "domain": "Defense, security & crime",
+    "text": "Police found three bodies at the suspect's home in Ostrowiec Świętokrzyski; Tusk said they were probably his closest family, taking the toll to nine.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Interia; Newsmax Polska",
+      "url": "https://wydarzenia.interia.pl/kraj/news-donald-tusk-w-domu-zamachowca-sa-niezywi-ludzie,nId,23570639"
+     },
+     {
+      "label": "More",
+      "url": "https://newsmaxpolska.pl/kraj/aktualnosci/80251/ostrowiec-swietokrzyski-rodzice-i-siostra-trzy-ciala-w-mieszkaniu-sprawcy/news"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-24",
+    "domain": "Defense, security & crime",
+    "text": "WP reports the suspect, Michał O., held a sport-shooting permit with two guns and trained at a Starachowice club; police say an AR-15-type rifle was probably used.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Wirtualna Polska",
+      "url": "https://wiadomosci.wp.pl/krakow/nowe-informacje-o-zamachowcu-z-krakowa-mial-pozwolenie-na-bron-trenowal-w-klubie-7348540263856576a"
+     },
+     {
+      "label": "More",
+      "url": "https://www.wnp.pl/bezpieczenstwo/zamach-w-krakowie-szef-mswia-ujawnia-nowe-ustalenia,1117583.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-25",
+    "domain": "Politics & government",
+    "text": "National mourning Nov 8–9; city mourning Nov 8–11. All City Hall events, including city Independence Day events, are cancelled.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "miastoNS.pl; Puls Krakowa",
+      "url": "https://miastons.pl/malopolska/zaloba-narodowa-8-9-listopada-2026-krakow-strzelanina/"
+     },
+     {
+      "label": "More",
+      "url": "https://pulskrakowa.pl/prezydent-krakowa-oglosil-zalobe-miejskie-imprezy-odwolane-do-11-listopada/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-27",
+    "domain": "Health, medicine & food safety",
+    "text": "The wounded are in six hospitals, 13 as red-code cases; both officers are stable. The justice minister appealed for AB Rh+ blood.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "wnp.pl; Wirtualna Polska (live)",
+      "url": "https://www.wnp.pl/bezpieczenstwo/zamach-w-krakowie-szef-mswia-ujawnia-nowe-ustalenia,1117583.html"
+     },
+     {
+      "label": "More",
+      "url": "https://wiadomosci.wp.pl/strzelania-w-krakowie-sa-zabici-i-ranni-7348484676569568l"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-26",
+    "domain": "Foreign relations",
+    "text": "A British citizen is among the dead, and the wounded include people from Austria, Germany, Portugal, Russia and Britain. Condolences came from Zelensky, von der Leyen and US Ambassador Tom Rose.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "The Korea Times (Reuters); CBS News",
+      "url": "https://www.koreatimes.co.kr/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting"
+     },
+     {
+      "label": "More",
+      "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-28",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Eleven streets around the Rynek, the Mariacka Basilica and the horse-cab stands are closed until further notice; trams were diverted.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "LoveKraków; Portal Samorządowy (PAP)",
+      "url": "https://lovekrakow.pl/strzelanina-w-centrum-krakowa-nie-zyje-szesc-osob"
+     },
+     {
+      "label": "More",
+      "url": "https://www.portalsamorzadowy.pl/wydarzenia-lokalne/rynek-glowny-w-krakowie-pozostaje-zamkniety-na-twarzach-turystow-widac-strach,683522.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-29",
+    "domain": "Culture, media & sport",
+    "text": "Stary Teatr, Cricoteka, Kino Kijów and the Philharmonic cancelled shows; Ekstraklasa matches go ahead with a minute's silence.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Super Express (live); Ekstraklasa S.A.",
+      "url": "https://www.se.pl/krakow/dramat-w-krakowie-strzaly-na-rynku-glownym-sa-doniesienia-o-rannych-aa-j9KR-i4b6-47km.html"
+     },
+     {
+      "label": "More",
+      "url": "https://ekstraklasa.org/aktualnosci/komunikat-ekstraklasy/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261108-32",
+    "domain": "Environment, energy & disasters",
+    "text": "Delhi's Diwali-morning AQI was 384, with 11 of 23 stations \"severe\"; GRAP III stays in force. Farm fires hit 589 on Friday.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "Times Now Navbharat",
+      "url": "https://www.timesnowhindi.com/cities/delhi-air-pollution-diwali-aqi-today-8-november-punjabi-bagh-iit-anand-vihar-grap-3-restrictions-article-156481309"
+     },
+     {
+      "label": "More",
+      "url": "https://hindi.theprint.in/india/delhi-shrouded-in-toxic-smog-on-diwali-morning-aqi-reaches-383/1055895/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-33",
+    "domain": "Law, courts & regulation",
+    "text": "Green crackers are allowed only Nov 7–8 (6–7 am, 8–10 pm); the Supreme Court's full ban returns Nov 9.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/india/delhi-diwali-2026-guidelines-green-firecrackers-allowed-on-november-7-8-check-timings-sale-rules-restrictions"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-31",
+    "domain": "Environment, energy & disasters",
+    "text": "The Petroleum Ministry rejected Karnataka's E20 findings, saying all 893 samples from 27 states (Karnataka average 19.3%) were within 19–21%. Oil companies propose joint sampling.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "Business Today",
+      "url": "https://www.businesstoday.in/latest/economy/story/e20-petrol-row-centre-rejects-karnatakas-31-ethanol-claim-says-all-893-samples-passed-quality-tests-566319-2026-11-07"
+     },
+     {
+      "label": "More",
+      "url": "https://www.outlookindia.com/national/e20-ethanol-row-karnatakas-test-results-put-centre-oil-companies-under-scrutiny"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261108-34",
+    "domain": "Defense, security & crime",
+    "text": "Modi spent Diwali with security forces in Bastar, the former Maoist stronghold the government declared Naxal-free in March.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Federal",
+      "url": "https://thefederal.com/category/news/pm-modi-to-celebrate-diwali-with-forces-in-bastar-once-a-naxal-stronghold-262186"
+     },
+     {
+      "label": "More",
+      "url": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2334073"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Closure",
+   "text": "Rynek Główny and the streets leading to it were closed after Saturday's shooting, and the Mariacka Basilica closed until further notice. The Rynek horse-cab stand and its substitute stands stay shut until further notice. Expect police cordons and diversions in the Old Town and Stradom, and check ZTP before travelling.",
+   "link": "https://lovekrakow.pl/strzelanina-w-centrum-krakowa-nie-zyje-szesc-osob"
+  },
+  {
+   "kind": "Event",
+   "text": "City mourning runs 8-11 Nov. All events run by City Hall, city units and municipal companies are cancelled, including city Independence Day events. The previously announced programme (Bieg Niepodległości at 11:11, the patriotic tram, the 17:00 singing lesson on the Rynek) may be cancelled or changed, so confirm with organisers.",
+   "link": "https://pulskrakowa.pl/prezydent-krakowa-oglosil-zalobe-miejskie-imprezy-odwolane-do-11-listopada/"
+  },
+  {
+   "kind": "Event",
+   "text": "Stary Teatr, Cricoteka, Kino Kijów and the Szymanowski Philharmonic cancelled shows after the attack. Check before going to any cultural event this week.",
+   "link": "https://www.se.pl/krakow/dramat-w-krakowie-strzaly-na-rynku-glownym-sa-doniesienia-o-rannych-aa-j9KR-i4b6-47km.html"
+  },
+  {
+   "kind": "Transit",
+   "text": "KMK trams and buses carry black mourning bands until 11 Nov. No timetable changes for mourning have been announced. New line 714 (Bronowice Małe - Dworzec Główny Zachód) starts Monday 9 Nov.",
+   "link": "https://pulskrakowa.pl/prezydent-krakowa-oglosil-zalobe-miejskie-imprezy-odwolane-do-11-listopada/"
+  },
+  {
+   "kind": "Event",
+   "text": "Mass for the victims with Cardinal Ryś at the Mariacka Basilica, Sunday 8 Nov at 16:00. Police have also set up a bus at the Rynek post where eyewitnesses can give statements.",
+   "link": "https://www.portalsamorzadowy.pl/wydarzenia-lokalne/rynek-glowny-w-krakowie-pozostaje-zamkniety-na-twarzach-turystow-widac-strach,683522.html"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261108-40",
+    "domain": "Defense, security & crime",
+    "text": "Hegseth will receive Kosiniak-Kamysz with full honours on Nov 10. IAR says the Pentagon's Europe force review finishes by early January, and Trump's March pledge of 5,000 more troops is still not formally decided.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Radio Szczecin / IAR",
+      "url": "https://radioszczecin.pl/6,513448,kosiniak-kamysz-we-wtorek-zlozy-wizyte-w-pentago"
+     },
+     {
+      "label": "More",
+      "url": "https://zero.pl/news/kosiniak-kamysz-spotka-sie-z-hegsethem-kluczowe-rozmowy-o-wojskach-usa-w-polsce"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [],
+ "deepDive": {
+  "domain": "Culture, media & sport",
+  "title": "Who will run Kraków's 400m zł Music Centre?",
+  "body": "Kraków's biggest new cultural building, the **Centrum Muzyki** (Music Centre) on ul. Piastowska near Cichy Kącik, is due to be handed over by the end of December 2026 and to open in spring 2027. Its foyer looks towards Wawel. It has a 1,049-seat concert hall, a 300-seat hall, rehearsal rooms and education spaces, and is meant to be home to the city's two orchestras, **Sinfonietta Cracovia** and **Capella Cracoviensis**. A resident at a public hearing put the total cost at about 400m zł.\n\nThe fight is over who runs it. The city development company **ARMK** wants to manage the building long-term and leave artistic programming to the orchestras. Both orchestra directors (Rafał Kokot and Jan Tomasz Adamus) want a cultural institution in charge. They fear it would otherwise become mainly a commercial rental venue, and they had said they would not move in under ARMK. In October, acting mayor Stanisław Kracik proposed giving the building to Sinfonietta. Mayor Łukasz Gibała [withdrew those draft resolutions](https://lovekrakow.pl/centrum-muzyki-lukasz-gibala-wycofa-uchwaly-i-zorganizuje-wysluchanie-publiczne) and called a public hearing, which was held on 5 November.\n\nThe money explains why it matters. According to [Kurier Krakowski](https://kk24.info/centrum-muzyki-w-krakowie-jeszcze-nieotwarte-a-juz-wywoluje-spor-w-tle-miliony-zlotych/), ARMK estimates running costs at about **15m zł a year** against 5-7m zł in revenue, plus about 7.5m zł for equipment. That lands on a city with nearly 9bn zł of debt and a mayor cutting the city paper Kraków.pl (2.5m zł) and association memberships.\n\nThe outcome so far is a stop-gap. The city [announced](https://krakow.pl/aktualnosci/344314,33,komunikat,centrum_muzyki_pod_opieka_armk_w_2027_roku.html) that 2027 will be a **transition year**: ARMK keeps the building, and the orchestras rent space, paid for with extra city grants. The land should pass fully to the city in early 2028.\n\n**What's next:** culture committee chair Mazurkiewicz's resolution asking that the centre go to cultural institutions, and Gibała's first 2027 budget (expected mid-November), will show how much the city will spend on culture. This week's cancelled concerts and shows during city mourning are a reminder of how central these institutions are to Kraków's public life.",
+  "links": [
+   {
+    "label": "krakow.pl: Centrum Muzyki under ARMK in 2027",
+    "url": "https://krakow.pl/aktualnosci/344314,33,komunikat,centrum_muzyki_pod_opieka_armk_w_2027_roku.html"
+   },
+   {
+    "label": "Kurier Krakowski: costs and positions at the hearing",
+    "url": "https://kk24.info/centrum-muzyki-w-krakowie-jeszcze-nieotwarte-a-juz-wywoluje-spor-w-tle-miliony-zlotych/"
+   },
+   {
+    "label": "LoveKraków: Gibała withdraws resolutions, calls hearing",
+    "url": "https://lovekrakow.pl/centrum-muzyki-lukasz-gibala-wycofa-uchwaly-i-zorganizuje-wysluchanie-publiczne"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261108-03",
+   "title": "Kim jest Michał O. - sprawca ataku w Krakowie? Nowe ustalenia",
+   "reporter": "Łukasz Szpyrka, Dawid Serafin, Dagmara Pakuła",
+   "outlet": "Interia",
+   "url": "https://wydarzenia.interia.pl/malopolskie/news-kim-jest-sprawca-ataku-w-krakowie-nowe-ustalenia-ws-michala,nId,23570646",
+   "why": "The most detailed profile of the attacker: his legal weapons, shooting club, family and the official statements so far.",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261108-01",
+   "title": "Will Trump strike nuclear sites again as Iran engages 'cognitive warfare'?",
+   "reporter": "Nils Adler",
+   "outlet": "Al Jazeera English",
+   "url": "https://aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive",
+   "why": "A useful single read on Trump's mixed signals ahead of his ~Nov 12 decision, covering the limited Qeshm strikes, the Qatari mediation, Iran's conditions and Tehran-based analysts' views on why Trump hesitates. Analysis; the outlet is Qatari state-funded.",
+   "place": "US",
+   "domain": "Foreign relations",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-09",
+   "text": "Second day of national mourning; KOALICJA 26.2 exercise begins (to Nov 22).",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Lame-duck Congress returns; Section 301 China port-fee suspension expires at 11:59pm ET unless USTR acts.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Full firecracker ban returns in Delhi-NCR.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-09",
+   "text": "New bus line 714 starts; city mourning continues to Nov 11.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Kosiniak-Kamysz meets Hegseth at the Pentagon (10:30 ET).",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "House GOP leadership vote; Mississippi ID-cure deadline; Alaska count; FAA testimony.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Fuel caps lapse unless a new notice is issued; Tribunal judges' assembly.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day; Warsaw march under security review after the Kraków attack.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day under city mourning; city-run events cancelled.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Expected window for Trump's Iran decision.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "ECI publishes draft rolls in 17 states/UTs.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Modi in Bengaluru; DPDP consent-manager rules take effect; Mississippi certification.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "ASEAN summits in Manila; possible Modi–Trump meeting.",
+   "place": "US–India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+   "paywalled": false
+  },
+  {
+   "title": "www.abc.net.au",
+   "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English",
+   "url": "https://aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive",
+   "paywalled": false
+  },
+  {
+   "title": "Mississippi Free Press",
+   "url": "https://www.mississippifreepress.org/liveblog-mississippis-2026-u-s-senate-election-results/",
+   "paywalled": false
+  },
+  {
+   "title": "www.democracydocket.com",
+   "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket",
+   "url": "https://www.democracydocket.com/news-alerts/new-data-suggests-peltola-likely-to-win-alaska-voters-not-confused-by-2-dan-sullivans/",
+   "paywalled": false
+  },
+  {
+   "title": "WSB-TV (Cox Media Group)",
+   "url": "https://www.wsbtv.com/news/local/congress-returns-with-shutdown-deadline-possible-hegseth-impeachment-fight/3HEI7P4AGBAOPJZ4VRCE355TII/",
+   "paywalled": false
+  },
+  {
+   "title": "www.newsweek.com",
+   "url": "https://www.newsweek.com/pete-hegseth-thomas-massie-impeachment-iran-war-12445811",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-szef-mswia-mowil-o-pogladach-sprawcy-nowe-informacje-ws-trag,nIdn,1025279",
+   "paywalled": false
+  },
+  {
+   "title": "tvrepublika.pl",
+   "url": "https://tvrepublika.pl/Polityka/Insynuacje-szefa-MSWiA-Kierwinski-zaczyna-ideologiczna-gre-wokol-tragedii/225426",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/malopolskie/news-kim-jest-sprawca-ataku-w-krakowie-nowe-ustalenia-ws-michala,nId,23570646",
+   "paywalled": false
+  },
+  {
+   "title": "limanowa.in",
+   "url": "https://limanowa.in/aktualnosci/prokuratura-bada-watek-wspolnikow-policja-dementuje-zarzuty-o-opozniona-reakcje/84799",
+   "paywalled": false
+  },
+  {
+   "title": "www.rmf24.pl",
+   "url": "https://www.rmf24.pl/fakty/polska/news-marsz-niepodleglosci-prezydent-karol-nawrocki-podjal-decyzje,nIdn,1025168",
+   "paywalled": false
+  },
+  {
+   "title": "TVP Info",
+   "url": "https://www.tvp.info/96363464/prezes-pis-jaroslaw-kaczynski-po-zamachu-w-krakowie-apeluje-o-odwolanie-manifestacji-zwiazanych-z-trybunalem-konstytucyjnym",
+   "paywalled": false
+  },
+  {
+   "title": "Dziennik.pl",
+   "url": "https://auto.dziennik.pl/aktualnosci/artykuly/11342113,paliwowe-trzesienie-ziemi-na-stacjach-po-10-listopada-benzyna-95-lpg-i-diesel-juz-po-tyle-mamy-najnowsze-zestawienie.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeszów News",
+   "url": "https://rzeszow-news.pl/cwiczenia-nowa-deba/",
+   "paywalled": false
+  },
+  {
+   "title": "milmag.pl",
+   "url": "https://milmag.pl/koalicja-26-2-sojusznicy-wzmacniaja-przygotowania-do-pokoju-w-ukrainie-duzymi-cwiczeniami-w-polsce/",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-kryzys-w-tk-odbil-sie-w-poparciu-dla-partii-najnowszy-sondaz,nId,23569140",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl; Radio Kielce (PAP)",
+   "url": "https://krakow.pl/aktualnosci/345151,29,komunikat,strzelanina_w_centrum_krakowa__sa_zabici_i_ranni.html",
+   "paywalled": false
+  },
+  {
+   "title": "radiokielce.pl",
+   "url": "https://radiokielce.pl/1455791/strzelanina-w-krakowie-przy-rynku-glownym-sa-ofiary-smiertelne-i-ranni/",
+   "paywalled": false
+  },
+  {
+   "title": "Interia; Newsmax Polska",
+   "url": "https://wydarzenia.interia.pl/kraj/news-donald-tusk-w-domu-zamachowca-sa-niezywi-ludzie,nId,23570639",
+   "paywalled": false
+  },
+  {
+   "title": "newsmaxpolska.pl",
+   "url": "https://newsmaxpolska.pl/kraj/aktualnosci/80251/ostrowiec-swietokrzyski-rodzice-i-siostra-trzy-ciala-w-mieszkaniu-sprawcy/news",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/krakow/nowe-informacje-o-zamachowcu-z-krakowa-mial-pozwolenie-na-bron-trenowal-w-klubie-7348540263856576a",
+   "paywalled": false
+  },
+  {
+   "title": "www.wnp.pl",
+   "url": "https://www.wnp.pl/bezpieczenstwo/zamach-w-krakowie-szef-mswia-ujawnia-nowe-ustalenia,1117583.html",
+   "paywalled": false
+  },
+  {
+   "title": "miastoNS.pl; Puls Krakowa",
+   "url": "https://miastons.pl/malopolska/zaloba-narodowa-8-9-listopada-2026-krakow-strzelanina/",
+   "paywalled": false
+  },
+  {
+   "title": "pulskrakowa.pl",
+   "url": "https://pulskrakowa.pl/prezydent-krakowa-oglosil-zalobe-miejskie-imprezy-odwolane-do-11-listopada/",
+   "paywalled": false
+  },
+  {
+   "title": "wiadomosci.wp.pl",
+   "url": "https://wiadomosci.wp.pl/strzelania-w-krakowie-sa-zabici-i-ranni-7348484676569568l",
+   "paywalled": false
+  },
+  {
+   "title": "The Korea Times (Reuters); CBS News",
+   "url": "https://www.koreatimes.co.kr/world/20261108/poland-in-shock-after-6-die-in-krakow-mass-shooting",
+   "paywalled": false
+  },
+  {
+   "title": "www.cbsnews.com",
+   "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków; Portal Samorządowy (PAP)",
+   "url": "https://lovekrakow.pl/strzelanina-w-centrum-krakowa-nie-zyje-szesc-osob",
+   "paywalled": false
+  },
+  {
+   "title": "www.portalsamorzadowy.pl",
+   "url": "https://www.portalsamorzadowy.pl/wydarzenia-lokalne/rynek-glowny-w-krakowie-pozostaje-zamkniety-na-twarzach-turystow-widac-strach,683522.html",
+   "paywalled": false
+  },
+  {
+   "title": "Super Express (live); Ekstraklasa S.A.",
+   "url": "https://www.se.pl/krakow/dramat-w-krakowie-strzaly-na-rynku-glownym-sa-doniesienia-o-rannych-aa-j9KR-i4b6-47km.html",
+   "paywalled": false
+  },
+  {
+   "title": "ekstraklasa.org",
+   "url": "https://ekstraklasa.org/aktualnosci/komunikat-ekstraklasy/",
+   "paywalled": false
+  },
+  {
+   "title": "Times Now Navbharat",
+   "url": "https://www.timesnowhindi.com/cities/delhi-air-pollution-diwali-aqi-today-8-november-punjabi-bagh-iit-anand-vihar-grap-3-restrictions-article-156481309",
+   "paywalled": false
+  },
+  {
+   "title": "hindi.theprint.in",
+   "url": "https://hindi.theprint.in/india/delhi-shrouded-in-toxic-smog-on-diwali-morning-aqi-reaches-383/1055895/",
+   "paywalled": false
+  },
+  {
+   "title": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/india/delhi-diwali-2026-guidelines-green-firecrackers-allowed-on-november-7-8-check-timings-sale-rules-restrictions",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://www.businesstoday.in/latest/economy/story/e20-petrol-row-centre-rejects-karnatakas-31-ethanol-claim-says-all-893-samples-passed-quality-tests-566319-2026-11-07",
+   "paywalled": false
+  },
+  {
+   "title": "www.outlookindia.com",
+   "url": "https://www.outlookindia.com/national/e20-ethanol-row-karnatakas-test-results-put-centre-oil-companies-under-scrutiny",
+   "paywalled": false
+  },
+  {
+   "title": "The Federal",
+   "url": "https://thefederal.com/category/news/pm-modi-to-celebrate-diwali-with-forces-in-bastar-once-a-naxal-stronghold-262186",
+   "paywalled": false
+  },
+  {
+   "title": "www.pib.gov.in",
+   "url": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2334073",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Szczecin / IAR",
+   "url": "https://radioszczecin.pl/6,513448,kosiniak-kamysz-we-wtorek-zlozy-wizyte-w-pentago",
+   "paywalled": false
+  },
+  {
+   "title": "zero.pl",
+   "url": "https://zero.pl/news/kosiniak-kamysz-spotka-sie-z-hegsethem-kluczowe-rozmowy-o-wojskach-usa-w-polsce",
+   "paywalled": false
+  }
+ ]
+}
