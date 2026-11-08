@@ -643,6 +643,34 @@
    "trackRecord": "Follows the Constitutional Court party-ban case and EU reports in detail.",
    "dateAdded": "2026-11-07",
    "status": "Watch"
+  },
+  {
+   "id": "olha-kovalchuk",
+   "name": "Olha Kovalchuk",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Ukraine, EU institutions",
+   "languages": "Ukrainian, English",
+   "outlets": "European Pravda (Yevropeiska Pravda)",
+   "basedIn": "Kyiv",
+   "slant": "Ukrainian outlet specialised in EU integration; pro-accession",
+   "url": "https://www.eurointegration.com.ua/eng/",
+   "trackRecord": "Regular reporting on Ukraine's accession clusters and Hungary's vetoes.",
+   "dateAdded": "2026-11-08",
+   "status": "Watch"
+  },
+  {
+   "id": "nela-heidner",
+   "name": "Nela Heidner",
+   "segment": "EU politics + cross-cutting",
+   "countries": "EU institutions",
+   "languages": "English, German",
+   "outlets": "Euronews",
+   "basedIn": "Brussels",
+   "slant": "Mainstream pan-European broadcaster",
+   "url": "https://www.euronews.com/",
+   "trackRecord": "Covers EU reactions to US–Russia diplomacy.",
+   "dateAdded": "2026-11-08",
+   "status": "Watch"
   }
  ]
 }
