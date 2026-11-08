@@ -1,0 +1,76 @@
+{
+ "weekStart": "2026-11-02",
+ "keyEvents": {
+  "US": [
+   "E-261105-01",
+   "E-261107-01",
+   "E-261106-05",
+   "E-261108-04",
+   "E-261108-06"
+  ],
+  "Poland": [
+   "E-261105-15",
+   "E-261106-18",
+   "E-261107-18",
+   "E-261108-13",
+   "E-261106-16"
+  ],
+  "Kraków": [
+   "E-261108-22",
+   "E-261108-25",
+   "E-261105-23",
+   "E-261107-30",
+   "E-261106-36"
+  ],
+  "India": [
+   "E-261107-41",
+   "E-261106-43",
+   "E-261106-44",
+   "E-261108-32",
+   "E-261105-28"
+  ],
+  "Relations": [
+   "E-261107-57",
+   "E-261108-40",
+   "E-261105-40"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "What did S&P Global do to Poland's credit rating on Nov 6?",
+   "options": [
+    "Upgraded it to A",
+    "Kept A- but cut the outlook to negative",
+    "Cut it to BBB+",
+    "Withdrew the rating"
+   ],
+   "answer": 1,
+   "explain": "S&P affirmed A- but moved the outlook from stable to negative, citing deficits above 7% of GDP and presidential vetoes.",
+   "from": "news"
+  },
+  {
+   "q": "How many US nonfarm jobs did the BLS report for October 2026?",
+   "options": [
+    "48,000",
+    "84,000",
+    "165,000",
+    "250,000"
+   ],
+   "answer": 2,
+   "explain": "Payrolls rose 165,000, well above forecasts, with unemployment at 4.1%. Markets then priced about an 85% chance of a December Fed hike.",
+   "from": "news"
+  },
+  {
+   "q": "What did the Indian Union Cabinet approve for Agniveers this week?",
+   "options": [
+    "Permanent induction for all",
+    "An optional two-year Second Tour of Duty",
+    "Scrapping the scheme",
+    "A cut in Seva Nidhi"
+   ],
+   "answer": 1,
+   "explain": "The Cabinet approved an optional two-year Second Tour of Duty, ahead of the first batch exiting on Nov 21.",
+   "from": "news"
+  }
+ ]
+}
