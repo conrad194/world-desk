@@ -1,0 +1,45 @@
+{
+ "date": "2026-11-08",
+ "items": [
+  {
+   "id": "E-261108-01",
+   "dateLogged": "2026-11-08",
+   "eventDate": "2026-10-30",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "text": "Rule status update: 'Proclamation further modifying scope of Canadian products subject to additional (Section 338) duties' passed its effective date (2026-10-30) and is now recorded as in force.",
+   "tier": 3,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Federal Register / White House",
+   "language": "English",
+   "link1": "https://www.whitehouse.gov/presidential-actions",
+   "link2": "https://www.ghy.com/trade-compliance/us-imposes-50-section-338-tariffs-on-canadian-imports-dairy-alcoholic-beverages-and-motor-vehicles/",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "US tariffs and trade deals",
+   "followsUp": "E-261026-06",
+   "notes": "Status change based on the effective date in the signed proclamation."
+  },
+  {
+   "id": "E-261108-02",
+   "dateLogged": "2026-11-08",
+   "eventDate": "2026-11-05",
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "text": "Rule status update: 'Proclamation establishing the Oval Office National Monument' passed its effective date (2026-11-05) and is now recorded as in force.",
+   "tier": 3,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Federal Register / White House",
+   "language": "English",
+   "link1": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
+   "link2": "https://spectrumlocalnews.com/us/snplus/politics/2026/11/05/oval-office-cabinet-room-president-donald-trump",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "",
+   "followsUp": "E-261106-04",
+   "notes": "Status change based on the effective date in the signed proclamation."
+  }
+ ]
+}
