@@ -100,6 +100,103 @@
    "prevAnswer": "",
    "recallQ": "Why did Iran build its naval strategy in the strait around mines, fast boats and island missile sites rather than a large conventional fleet?",
    "recallA": "In April 1988, Operation Praying Mantis showed that Iran's regular navy could not survive a direct fight with the US Navy. The Revolutionary Guards concluded that cheap, scattered, hard-to-hit weapons could make the strait too dangerous to use, giving Iran leverage without winning a sea battle."
+  },
+  {
+   "id": "2026-11-08",
+   "date": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "title": "How Serbia's students ended the Vučić era",
+   "thread": "Serbia protests and election",
+   "eventIds": [
+    "E-261108-04"
+   ],
+   "minutes": 4,
+   "hook": "Final results confirmed on 5 Nov that the Student List won a clear majority in Serbia's parliament, ending more than a decade of [[p:Aleksandar Vučić]]'s dominance. It is the second time in 26 years that a student-led movement has brought down a Serbian strongman, and the first did not end the way its heroes hoped.",
+   "body": "Serbia has toppled a strongman with students in the streets once before. In the late 1990s [[p:Slobodan Milošević]] ruled a country battered by the [[e:Yugoslav Wars]], sanctions and hyperinflation. A dozen students in Belgrade founded [[p:Otpor]], {{note: Founded in Belgrade on 10 October 1998 by a small group of students, using a clenched-fist logo and street humour against Milošević.}} a leaderless movement built on mockery, discipline and nonviolence. When Milošević tried to deny [[p:Vojislav Koštunica]] victory in the September 2000 presidential vote, hundreds of thousands converged on Belgrade, and on 5 October he fell in the [[e:Overthrow of Slobodan Milošević|Bulldozer Revolution]].\n\nThe democrats who replaced him disappointed many. Reformist prime minister [[p:Zoran Đinđić]] was shot dead by a sniper linked to organised crime and former security units in the [[e:Assassination of Zoran Đinđić|2003 assassination]], and the governments that followed became associated with patronage, privatisation scandals and the 2008 financial crash.\n\nThat opening was seized by men from Milošević's own camp. In 1998–2000 [[p:Aleksandar Vučić]] had been Milošević's information minister, a hardline member of the nationalist [[p:Serbian Radical Party]]. In 2008 he and [[p:Tomislav Nikolić]] broke away to found the [[p:Serbian Progressive Party]], {{note: Founded on 8 September 2008 by Nikolić and Vučić as a pro-EU split from the Serbian Radical Party.}} recasting themselves as pro-European reformers. The SNS came to power in 2012; Vučić became prime minister in 2014 and president in 2017.\n\nOver the next decade critics, and watchdogs such as Freedom House, described a slide toward a hybrid regime: friendly tabloids and TV channels, pressure on independent media, public jobs tied to party loyalty, and elections that were competitive but tilted. Vučić's supporters pointed instead to growth, foreign investment, big infrastructure projects and a careful balance between the EU, Russia and China. Protest waves came and went, in 2018–19 and after two mass shootings in 2023, but the fragmented opposition parties could never turn them into a majority.\n\nThe break came on 1 November 2024, when the newly renovated concrete canopy of Novi Sad's railway station collapsed in the [[e:Novi Sad railway station canopy collapse]], {{note: The canopy fell on 1 November 2024; the death toll eventually reached 16.}} killing 16 people. For many Serbians the renovation, part of a Chinese-built rail project, symbolised a state where contracts mattered more than safety. Students began blockading their faculties that month, and the [[e:2024–present Serbian anti-corruption protests|movement]] spread to farmers, teachers and lawyers. Like Otpor, it refused to have leaders or to merge with the old opposition. Prime minister [[p:Miloš Vučević]] resigned in January 2025, and on 15 March independent counters estimated around 300,000 people in Belgrade, one of the largest rallies in Serbia's history.\n\nThe students then made a decisive choice: instead of backing existing parties, they fielded their own slate of professors, doctors and professionals, the Student List. After Vučić stepped down as president in September 2026 to run for prime minister, the snap election of 25 October became a referendum on his era, and the students won 140 of 250 seats on the highest turnout in three decades.",
+   "timeline": [
+    {
+     "when": "Oct 1998",
+     "text": "Students in Belgrade found [[p:Otpor]], a leaderless nonviolent movement against Milošević; the same year Vučić becomes his information minister."
+    },
+    {
+     "when": "5 Oct 2000",
+     "text": "Mass protests over a stolen presidential election topple Milošević in the [[e:Overthrow of Slobodan Milošević|Bulldozer Revolution]]."
+    },
+    {
+     "when": "Mar 2003",
+     "text": "Reformist PM Zoran Đinđić is assassinated in Belgrade, a blow to the post-Milošević reform project."
+    },
+    {
+     "when": "2008–2012",
+     "text": "Vučić and Nikolić found the [[p:Serbian Progressive Party]] as a pro-EU split from the Radicals; it wins power in 2012."
+    },
+    {
+     "when": "2014–2017",
+     "text": "Vučić becomes prime minister (2014), then president (2017); he is re-elected in 2022."
+    },
+    {
+     "when": "1 Nov 2024",
+     "text": "The [[e:Novi Sad railway station canopy collapse]] kills 16 people and sparks student blockades across Serbia."
+    },
+    {
+     "when": "Jan–Mar 2025",
+     "text": "PM Miloš Vučević resigns; on 15 March an estimated 300,000 people rally in Belgrade."
+    },
+    {
+     "when": "25 Oct 2026",
+     "text": "After Vučić quits the presidency to run for PM, the Student List wins 140 of 250 seats; final results are confirmed on 5 Nov."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Vučić and the SNS",
+     "view": "They present their years in power as a period of stability, growth and investment after the chaotic democratic governments of the 2000s, with Serbia steering its own course between the EU, Russia and China. They have often cast the protests as a foreign-backed attempt at a [[e:Colour revolution|colour revolution]] rather than a genuine domestic movement."
+    },
+    {
+     "side": "The student movement and its supporters",
+     "view": "They see the Novi Sad collapse as the deadly result of a captured state, where party loyalty and opaque contracts replaced accountability. In their telling, they are finishing the job of 2000, which removed Milošević but not the system of patronage that let his former officials return."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "SNS",
+     "meaning": "Srpska napredna stranka, the [[p:Serbian Progressive Party]]; founded in 2008 and in power from 2012 until the 2026 election."
+    },
+    {
+     "term": "Otpor!",
+     "meaning": "Serbian for 'Resistance!'; the 1998–2000 student movement whose nonviolent tactics helped topple Milošević and were later copied abroad."
+    },
+    {
+     "term": "Blockade (blokada)",
+     "meaning": "The students' main tactic since November 2024: occupying faculties and roads to halt normal life and press their demands for accountability."
+    },
+    {
+     "term": "Hybrid regime",
+     "meaning": "A system that holds real elections but tilts the field through control of media, state resources and institutions; the label watchdogs applied to Serbia under the SNS."
+    }
+   ],
+   "whyItMatters": "The history of 2000 is the warning: a street victory followed by infighting and weak institutions let the old guard return within a decade. Watch whether the leaderless Student List can agree on a prime minister and hold together once the new assembly sits, how it handles the presidential election due by 27 Dec, and whether it reopens the stalled EU accession track while managing Serbia's ties with Russia and China.",
+   "readMore": [
+    {
+     "title": "Serbia: Independent Serbia (Britannica)",
+     "url": "https://www.britannica.com/place/Serbia/Independent-Serbia",
+     "why": "Concise encyclopedia history of Serbia since 2006, including the SNS's rise to power."
+    },
+    {
+     "title": "Serbia's snap election: What's at stake and can students unseat Vucic? (Al Jazeera)",
+     "url": "https://aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic",
+     "why": "Explains how the Novi Sad disaster led to the October 2026 vote."
+    },
+    {
+     "title": "Who's In Charge? The Faces Of Serbia's Student-Backed Political Movement (RFE/RL)",
+     "url": "https://www.rferl.org/a/serbia-student-list-serbia-leader-prime-minister-elections/33884518.html",
+     "why": "Profiles the figures who may lead the new government."
+    }
+   ],
+   "prevQuestion": "Why did Iran build its naval strategy in the strait around mines, fast boats and island missile sites rather than a large conventional fleet?",
+   "prevAnswer": "In April 1988, Operation Praying Mantis showed that Iran's regular navy could not survive a direct fight with the US Navy. The Revolutionary Guards concluded that cheap, scattered, hard-to-hit weapons could make the strait too dangerous to use, giving Iran leverage without winning a sea battle.",
+   "recallQ": "Why did the 2024 student movement refuse to merge with Serbia's existing opposition parties, and what earlier movement did it echo?",
+   "recallA": "The students saw the old opposition as discredited and too fragmented to beat the SNS, so they stayed leaderless and later ran their own Student List of non-politicians. This echoed Otpor, the leaderless student movement of 1998–2000 that helped topple Milošević."
   }
  ]
 }
