@@ -1,0 +1,101 @@
+{
+ "weekStart": "2026-11-02",
+ "keyEvents": {
+  "Russia–Ukraine & European security": [
+   "E-261105-03",
+   "E-261106-06",
+   "E-261106-07",
+   "E-261107-01"
+  ],
+  "Middle East": [
+   "E-261105-01",
+   "E-261106-03",
+   "E-261106-04",
+   "E-261108-01",
+   "E-261108-02"
+  ],
+  "East & Southeast Asia": [],
+  "The Americas": [
+   "E-261105-05",
+   "E-261105-07",
+   "E-261105-15",
+   "E-261108-03"
+  ],
+  "Africa": [
+   "E-261105-04",
+   "E-261106-12",
+   "E-261106-01",
+   "E-261106-09"
+  ],
+  "South & Central Asia": [
+   "E-261107-03",
+   "E-261107-08",
+   "E-261107-13",
+   "E-261107-14"
+  ],
+  "EU politics + cross-cutting": [
+   "E-261108-04",
+   "E-261108-05",
+   "E-261108-07",
+   "E-261108-08",
+   "E-261108-11"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Why did Kaja Kallas push back so firmly when Trump said a deal with Moscow 'might involve all of Europe'?",
+   "options": [
+    "The EU wants to replace NATO with its own army",
+    "A deal on Europe's security reached without Europeans would let Russia shape arrangements EU states must then live with and enforce",
+    "EU law forbids any talks with Russia",
+    "The EU had already signed its own peace treaty with Russia"
+   ],
+   "answer": 1,
+   "explain": "[[p:Kaja Kallas]] argued that Europe already has a security architecture and that Moscow has no veto over it. EU states would have to implement much of any settlement, from sanctions to security guarantees, so they want a seat rather than a briefing afterwards."
+  },
+  {
+   "q": "What makes the Student List's win in Serbia different from most opposition victories?",
+   "options": [
+    "It won by joining Vučić's coalition",
+    "It grew out of a protest movement rather than an established party and won an outright majority alone",
+    "It won only because turnout collapsed",
+    "It was elected by parliament, not by voters"
+   ],
+   "answer": 1,
+   "explain": "The [[p:Student List]] came out of the protest movement and took 140 of 250 seats on the highest turnout in over 30 years, so it can govern without coalition bargaining, ending [[p:Aleksandar Vučić]]'s long dominance."
+  },
+  {
+   "q": "Why can Hungary still slow Ukraine's EU talks even after lifting its earlier veto?",
+   "options": [
+    "Hungary holds the EU presidency",
+    "Every step, including approving screening reports and opening each cluster, needs unanimous agreement",
+    "Hungary controls the European Commission's enlargement department",
+    "Ukraine's candidate status expired"
+   ],
+   "answer": 1,
+   "explain": "Accession runs on unanimity at each stage. Budapest let clusters 2 and 3 open but has not approved the screening reports for clusters 4 and 5, so one government can delay progress step by step."
+  },
+  {
+   "q": "France's National Assembly rejected the 2027 budget. What does that mean for the government?",
+   "options": [
+    "France immediately runs out of money",
+    "The budget goes to the Senate unamended, and the government may later force it through with Article 49.3, ordinances or a stopgap law",
+    "President Macron must resign",
+    "The EU takes over France's budget"
+   ],
+   "answer": 1,
+   "explain": "Rejecting the revenue part kills the bill at first reading but not the process. [[p:Sébastien Lecornu]] has no majority, so he must either strike a non-censure deal or use tools that bypass a vote, each risking a censure motion."
+  },
+  {
+   "q": "Why does the US 'Task Force Iron Gate' matter for the US–Iran confrontation?",
+   "options": [
+    "It ends the naval blockade",
+    "It extends pressure from the sea to Iran's land borders and the Caspian, routes the blockade does not cover",
+    "It is a joint US–Iranian peacekeeping force",
+    "It replaces Qatari mediation"
+   ],
+   "answer": 1,
+   "explain": "The naval blockade targets Gulf shipping, but Iran can still trade overland and across the Caspian. The task force aims at those routes, even as Qatar mediates and the [[p:Islamic Revolutionary Guard Corps|IRGC]] answers by lifting its 2,000 km missile-range cap."
+  }
+ ]
+}
