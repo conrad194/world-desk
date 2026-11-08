@@ -439,6 +439,76 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261108-01",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "COP31 climate conference in Antalya, 9–20 Nov.",
+   "expected": "UNFCCC/UNRIC schedule.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261108-21"
+  },
+  {
+   "id": "W-261108-02",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "France: Lecornu's 'social conference' on wages on 9 Nov; Senate takes up the social-security budget 9–18 Nov.",
+   "expected": "PM Lecornu (AFP); LCP for the Senate timetable.",
+   "checkDate": "2026-11-10",
+   "happened": "",
+   "eventId": "E-261108-11"
+  },
+  {
+   "id": "W-261108-03",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "Sweden: Kristersson reports back to the Speaker; the Centre Party wants answers from both blocs by 13 Nov.",
+   "expected": "Speaker Andreas Norlén extended the mandate by \"a few days\" (Riksdag); Centre deadline per SVT.",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": "E-261108-14"
+  },
+  {
+   "id": "W-261108-04",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "Poland: Constitutional Tribunal judges' assembly on lifting Święczkowski's immunity and detaining him.",
+   "expected": "Convened for 17 Nov by Anna Korwin-Piotrowska (PAP via PCh24).",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": "E-261108-10"
+  },
+  {
+   "id": "W-261108-05",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "Spain general election, 29 Nov.",
+   "expected": "Called by PM Sánchez on 5 Oct; polls show a PP–Vox majority (Infobae).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261108-15"
+  },
+  {
+   "id": "W-261108-06",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "UN Secretary-General race: next straw poll, possibly with colour-coded ballots showing permanent-member vetoes.",
+   "expected": "Diplomats quoted by The National.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261108-17"
+  },
+  {
+   "id": "W-261108-07",
+   "dateAdded": "2026-11-08",
+   "segment": "EU politics + cross-cutting",
+   "what": "Serbia: new National Assembly convenes and the Student List names a PM; presidential election due by 27 Dec.",
+   "expected": "Constitutional deadlines (Al Jazeera): assembly within 30 days of the 5 Nov final results.",
+   "checkDate": "2026-12-05",
+   "happened": "",
+   "eventId": "E-261108-04"
   }
  ]
 }

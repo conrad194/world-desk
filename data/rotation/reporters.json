@@ -671,6 +671,20 @@
    "trackRecord": "Covers EU reactions to US–Russia diplomacy.",
    "dateAdded": "2026-11-08",
    "status": "Watch"
+  },
+  {
+   "id": "julia-selin",
+   "name": "Julia Selin",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Sweden",
+   "languages": "Swedish",
+   "outlets": "SVT Nyheter",
+   "basedIn": "Stockholm",
+   "slant": "Public broadcaster; neutral",
+   "url": "https://www.svt.se/nyheter/inrikes/",
+   "trackRecord": "Follows the 2026 Swedish government formation day by day.",
+   "dateAdded": "2026-11-08",
+   "status": "Watch"
   }
  ]
 }
