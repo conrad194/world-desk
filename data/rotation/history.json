@@ -197,6 +197,109 @@
    "prevAnswer": "In April 1988, Operation Praying Mantis showed that Iran's regular navy could not survive a direct fight with the US Navy. The Revolutionary Guards concluded that cheap, scattered, hard-to-hit weapons could make the strait too dangerous to use, giving Iran leverage without winning a sea battle.",
    "recallQ": "Why did the 2024 student movement refuse to merge with Serbia's existing opposition parties, and what earlier movement did it echo?",
    "recallA": "The students saw the old opposition as discredited and too fragmented to beat the SNS, so they stayed leaderless and later ran their own Student List of non-politicians. This echoed Otpor, the leaderless student movement of 1998–2000 that helped topple Milošević."
+  },
+  {
+   "id": "2026-11-09",
+   "date": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "title": "Why Moscow's choice of Medinsky matters: Russia–Ukraine talks from Minsk to Abu Dhabi",
+   "thread": "Russia–Ukraine peace talks",
+   "eventIds": [
+    "E-261109-05",
+    "E-261109-06",
+    "E-261109-09"
+   ],
+   "minutes": 4,
+   "hook": "Russia is sending [[p:Vladimir Medinsky]] to this week's Abu Dhabi talks, and analysts read that as a sign of stalling. The reason lies in a decade of negotiations that keep producing prisoner swaps and local truces, but never a settlement.",
+   "body": "Russia and Ukraine have been negotiating, on and off, for more than a decade, and the pattern repeats: talks produce humanitarian deals, but never a settlement, because the two sides disagree about what comes first.\n\nThe template was set in Donbas. After Russian-backed separatists seized parts of eastern Ukraine in 2014, the [[e:Minsk agreements]] {{note: Minsk I was signed in September 2014 and Minsk II in February 2015, brokered by France and Germany with Russia and Ukraine.}} promised a ceasefire, local elections and special status for the breakaway areas. They foundered on **sequencing**: Kyiv wanted Russian forces out and its border back before any vote, while Moscow insisted on elections first. Eight years of the [[p:Normandy Format]] {{note: Leaders' grouping of Germany, France, Russia and Ukraine, first convened during D-Day commemorations in Normandy in June 2014.}} never closed that gap. On 21 February 2022 Russia recognised the separatist republics, and Putin declared Minsk dead the next day.\n\nWithin days of the [[e:Russian invasion of Ukraine|full-scale invasion]], delegations met in Belarus, and in late March 2022 they reached a draft framework in Istanbul: Ukrainian neutrality in exchange for international security guarantees, with Crimea parked for 15 years. Russia's chief negotiator was [[p:Vladimir Medinsky]] {{note: Russian culture minister from 2012 to 2020 and a presidential aide since 2020; author of popular, nationalist-tinged books on Russian history.}}. Why those [[e:Peace negotiations in the Russo-Ukrainian war (2022–present)|Istanbul talks]] collapsed is still argued over. Moscow says Western leaders talked Kyiv out of a deal. Ukrainian officials say Russia demanded caps on Ukraine's army and a veto over its guarantees, terms they saw as capitulation, and the discovery of the [[e:Bucha massacre]] after Russia's retreat from Kyiv hardened opinion. Many historians point to several causes at once.\n\nThe direct channel stayed closed for three years. When it reopened in Istanbul in May 2025, under pressure from the new Trump administration, Moscow sent Medinsky again. The rounds yielded the war's largest prisoner swaps but no ceasefire; Medinsky reportedly reminded Kyiv that Peter the Great fought Sweden for 21 years, a signal that Russia was prepared to wait.\n\nIn 2026 the US moved the talks into a trilateral format brokered by [[p:Steve Witkoff]]. Tellingly, Russia changed its negotiator: the two [[e:2026 United States–Ukraine–Russia meetings in Abu Dhabi|Abu Dhabi rounds]] in January and February were led by the military intelligence chief [[p:Igor Kostyukov]], and produced a 314-prisoner exchange and talk of ceasefire mechanics. When Medinsky returned at [[e:2026 United States–Ukraine–Russia meetings in Geneva|Geneva]] in February, the military track was constructive but the political talks stalled again over Russia's demand for all of Donbas. In March the US–Iran war put the format on pause; prisoner swaps carried on through mediators.\n\nThat history explains why the choice of Medinsky for this week's Abu Dhabi round is read as a sign. With him at the table, Russia has tended to restate its full political demands rather than trade on details. Ukraine's lead, [[p:Rustem Umerov]], was in the room with him in Istanbul in 2022 and 2025 and in Geneva.",
+   "timeline": [
+    {
+     "when": "Sep 2014",
+     "text": "The [[e:Minsk agreements|Minsk Protocol]] sets out a ceasefire in Donbas; it soon breaks down."
+    },
+    {
+     "when": "Feb 2015",
+     "text": "Minsk II, brokered by France and Germany, sets out elections and special status for the separatist areas, but the order of steps is never agreed."
+    },
+    {
+     "when": "Feb 2022",
+     "text": "Russia recognises the separatist republics, declares Minsk void and launches the [[e:Russian invasion of Ukraine|full-scale invasion]]."
+    },
+    {
+     "when": "Mar 2022",
+     "text": "Talks in Istanbul, with [[p:Vladimir Medinsky]] leading Russia's team, produce a draft on neutrality and guarantees; they collapse by May."
+    },
+    {
+     "when": "May 2025",
+     "text": "Direct talks resume in Istanbul under US pressure, again led by Medinsky. They bring large prisoner swaps but no ceasefire."
+    },
+    {
+     "when": "Jan–Feb 2026",
+     "text": "US-brokered trilateral rounds in Abu Dhabi, led for Russia by GRU chief [[p:Igor Kostyukov]], bring a prisoner swap; at Geneva in February Medinsky returns and political talks stall."
+    },
+    {
+     "when": "Mar 2026",
+     "text": "The US–Iran war puts the trilateral format on pause; prisoner exchanges continue through mediators."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "The Oleshky local truce lapses on 1 Nov; talks resume in Abu Dhabi on 10–11 Nov with Medinsky facing [[p:Rustem Umerov]]."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Russia",
+     "view": "Moscow says Kyiv sabotaged the Minsk agreements and walked away from a near-deal in Istanbul in 2022 under Western pressure. It argues any settlement must address the war's 'root causes': Ukraine's NATO ambitions and the status of territories it now claims."
+    },
+    {
+     "side": "Ukraine",
+     "view": "Kyiv says Russia used Minsk to freeze its occupation of Donbas and offered terms in 2022 that would have left Ukraine disarmed and without real guarantees. It wants a ceasefire on current lines first, and refuses to hand over land Russia has not taken."
+    },
+    {
+     "side": "Historians and analysts",
+     "view": "Many see no single cause for the 2022 collapse, pointing to disputes over guarantees and army limits, Russian atrocities, and shifts on the battlefield. They disagree on how close a deal really was."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Minsk agreements",
+     "meaning": "The 2014 and 2015 deals meant to end the war in Donbas. They failed largely over whether elections or Ukraine regaining its border should come first."
+    },
+    {
+     "term": "Istanbul Communiqué",
+     "meaning": "The March 2022 draft framework that traded Ukrainian neutrality for security guarantees from other states. It was never finalised."
+    },
+    {
+     "term": "Trilateral format",
+     "meaning": "US–Russia–Ukraine talks, run since January 2026 with American envoys mediating in the room, rather than the bilateral Istanbul channel."
+    },
+    {
+     "term": "Donbas",
+     "meaning": "Ukraine's eastern Donetsk and Luhansk regions. Russia's demand for all of it, including areas Ukraine still holds, is the main sticking point."
+    }
+   ],
+   "whyItMatters": "Past rounds led by Medinsky have restated Russia's maximal political terms, while rounds led by military officials have produced practical deals such as prisoner swaps and ceasefire mechanics. Watch whether Abu Dhabi yields anything beyond humanitarian steps, such as a renewed local truce, and whether talk of territory moves at all. Washington's push for a broader US–Russia deal could also change what each side thinks it can hold out for.",
+   "readMore": [
+    {
+     "title": "Peace negotiations in the Russo-Ukrainian war (2022–present)",
+     "url": "https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_war_(2022%E2%80%93present)",
+     "why": "Sets out the 2022 Istanbul draft and the competing accounts of why it failed."
+    },
+    {
+     "title": "Minsk agreements",
+     "url": "https://en.wikipedia.org/wiki/Minsk_agreements",
+     "why": "Explains the sequencing dispute that has shaped every round of talks since."
+    },
+    {
+     "title": "2026 United States–Ukraine–Russia meetings in Geneva",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Geneva",
+     "why": "Covers the last trilateral round led by Medinsky and the pause that followed."
+    }
+   ],
+   "prevQuestion": "Why did the 2024 student movement refuse to merge with Serbia's existing opposition parties, and what earlier movement did it echo?",
+   "prevAnswer": "The students saw the old opposition as discredited and too fragmented to beat the SNS, so they stayed leaderless and later ran their own Student List of non-politicians. This echoed Otpor, the leaderless student movement of 1998–2000 that helped topple Milošević.",
+   "recallQ": "What was the core 'sequencing' dispute that sank the Minsk agreements, and how does it echo in today's talks?",
+   "recallA": "Ukraine wanted Russian forces withdrawn and its border restored before local elections in Donbas, while Russia insisted elections and special status come first. Today the same gap appears as Kyiv seeking a ceasefire first and Moscow demanding political and territorial terms first."
   }
  ]
 }
