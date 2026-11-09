@@ -1691,6 +1691,18 @@
    "lean": "Centre-left",
    "status": "Watch",
    "dateAdded": "2026-11-09"
+  },
+  {
+   "id": "polskie-radio-24",
+   "name": "Polskie Radio 24",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Public radio national news",
+   "language": "Polish",
+   "url": "https://polskieradio24.pl",
+   "lean": "Public broadcaster (government-controlled since 2024 reform)",
+   "status": "Watch",
+   "dateAdded": "2026-11-09"
   }
  ]
 }
