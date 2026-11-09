@@ -1,0 +1,791 @@
+{
+ "date": "2026-11-09",
+ "segment": "Russia–Ukraine & European security",
+ "windowFrom": "2026-10-26",
+ "tier1Summary": "Russia and Ukraine meet in Abu Dhabi on 10–11 Nov: Moscow sends [[p:Vladimir Medinsky]], Kyiv sends [[p:Rustem Umerov]], and both play down a breakthrough. The Oleshky truce lapsed on 1 Nov. Russia's 3 Nov strike was its largest on Ukraine's grid this year, cutting Kyiv's water, and the Komyshuvakha toll reached 55. ISW says Russia lost ground in October; Ukraine keeps hitting refineries.\n\nIn Russia, defence spending jumps a third and [[p:Novaya Gazeta]] has closed. Washington's posture review unsettles NATO's flank, Poland reinforced the Kaliningrad border, and Moldova joined Romania's grid.\n\nElsewhere: [[p:Gadi Eisenkot]] got the first mandate to form Israel's government, a drone knocked out most of Iraqi Kurdistan's power, the ANC fell to 30.8% in South Africa's local polls, and COP31 opened in Antalya without US officials.",
+ "segmentItems": [
+  {
+   "id": "E-261109-05",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia",
+   "text": "The Kremlin confirmed it joins the Abu Dhabi talks on 10–11 Nov, with [[p:Vladimir Medinsky]] {{note: Former Russian culture minister who led Moscow's delegation at the 2022 and 2025 Istanbul talks with Ukraine.}} leading. ISW reads his appointment as a sign of stalling.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Leo Chiu",
+   "outlet": "Kyiv Post (Ukrainian edition)",
+   "opinion": "Analysis",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Post (Ukrainian edition)",
+     "url": "https://www.kyivpost.com/uk/analysis/89013"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-06",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Kyiv's team is led by [[p:Rustem Umerov]], not [[p:Kyrylo Budanov]], as some media had reported. Budanov, who is on the team, told CBS not to expect a breakthrough.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Chris Powers",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/umerov-to-lead-ukraine-delegation-in-abu-dhabi-peace-talks-despite-media-confusion-top-official-confirms/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://news.liga.net/en/politics/news/zelenskii-pogovoril-s-vitkoffom-i-kushnerom-a-umerov-podelilsya-rezultatami-vstrech-v-bryussele"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-09",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "The Oleshky local ceasefire expired on 1 Nov after about 800 evacuations; a Ukrainian official says Russia refused to extend it.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (AFP/AP/Reuters); UNN",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Al Jazeera (AFP/AP/Reuters); UNN",
+     "url": "https://aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://unn.ua/en/news/the-ceasefire-regime-in-occupied-oleshky-has-ended-during-it-civilians-were-evacuated-and-humanitarian-aid-was-delivered"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-10",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Finland / Norway",
+   "text": "A Kremlin-linked source told journalist Farida Rustamova that Putin saw the 26 Oct call with Finland's and Norway's leaders as a possible opening to Europe.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "Farida Rustamova",
+   "outlet": "Vlast (via Meduza)",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Vlast (via Meduza)",
+     "url": "https://meduza.io/en/news/2026/11/06/source-tells-vlast-newsletter-that-putin-welcomed-late-october-call-from-finland-s-president-and-norway-s-prime-minister-as-a-possible-start-of-substantive-talks-with-europe"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-15",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Russia's 3 Nov strike, its largest on Ukraine's energy system this year (289 drones and 76 missiles by Kyiv's count), hit nine oblasts and cut Kyiv's water citywide for over a day.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Dominic Culverwell",
+   "outlet": "Kyiv Independent; Meduza",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Independent; Meduza",
+     "url": "https://kyivindependent.com/russian-strikes-cause-kyivs-worst-water-outage-of-full-scale-war/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/en/news/2026/11/03/russian-strikes-trigger-emergency-power-outages-in-several-ukrainian-regions-cutting-water-supply-across-kyiv"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-16",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "The Komyshuvakha bombing toll rose to 55. Latvia, which chairs the [[p:United Nations Security Council]] this month, asked for an emergency session.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Tania Myronyshena",
+   "outlet": "Kyiv Independent; Censor.NET",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Independent; Censor.NET",
+     "url": "https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://censor.net/en/news/4031938/baiba-bra-e-convenes-un-security-council-over-russian-strike-on-komyshuvakha"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-11",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "The [[p:Institute for the Study of War|ISW]] estimates Russia lost about 27 km² net in October, a second monthly loss; Dobropillia remains its main effort.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "ISW / Critical Threats; Al Jazeera",
+   "opinion": "Analysis",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "ISW / Critical Threats; Al Jazeera",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-1-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-23",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "In 'Operation Carthage', the [[p:National Anti-Corruption Bureau of Ukraine|NABU]] alleges [[p:Security Service of Ukraine|SBU]] and police officers protected scam centres and drug sales; two senior SBU officials were dismissed.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Iryna Romaliiska",
+   "outlet": "Censor.NET; RFE/RL Schemes",
+   "opinion": "",
+   "thread": "Ukraine anti-corruption cases",
+   "links": [
+    {
+     "label": "Censor.NET; RFE/RL Schemes",
+     "url": "https://censor.net/en/resonance/4032159/operation-carthage-nabu-and-sapo-probe-sbu-corruption"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://rferl.org/a/ukraine-sbu-anti-corruption-court-database-access-schemes-investigation/33892471.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-27",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia",
+   "text": "The [[p:State Duma]] backed a 2027 budget raising defence spending about 32% to 17.1tn roubles, with new taxes and social cuts.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Moscow Times (Russian service); Vesti",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Moscow Times (Russian service); Vesti",
+     "url": "https://ru.themoscowtimes.com/2026/10/29/gosduma-podderzhala-rekordnii-rost-rashodov-naarmiyu-povishenie-nalogov-isokraschenie-trat-nameditsinu-ipensii-a210030"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.vesti.ru/ns/gosduma-prinyala-proekt-byudzheta-na-2027-2029-gody-v-i-chtenii"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-26",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia",
+   "text": "[[p:Novaya Gazeta]] {{note: Moscow paper founded in 1993 with Mikhail Gorbachev's backing; editor Dmitry Muratov shared the 2021 Nobel Peace Prize.}} announced its closure, blaming the [[p:Federal Security Service|FSB]] and other state bodies.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AP; Meduza",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AP; Meduza",
+     "url": "https://www.ksat.com/news/world/2026/10/30/russias-top-independent-newspaper-shuts-down-blaming-pressure-from-authorities/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/en/feature/2026/10/30/they-killed-us-russian-independent-newspaper-novaya-gazeta-announces-its-closure-after-decades-of-repression"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-28",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / United States",
+   "text": "Two Russian diesel tankers bound for the US turned elsewhere, casting doubt on the US–Russia fuel arrangement. [[p:Kirill Dmitriev]] calls the reports fake.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "David McHugh; Paul Wiseman",
+   "outlet": "AP (FT first reported)",
+   "opinion": "",
+   "thread": "US–Russia diesel deal and sanctions",
+   "links": [
+    {
+     "label": "AP (FT first reported)",
+     "url": "https://www.news4jax.com/business/2026/11/05/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-us/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-5-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-39",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Estonia / Latvia / Lithuania / United States",
+   "text": "Reuters says Pentagon officials, including [[p:Elbridge Colby]], privately asked the Baltic states to tone down warnings about Russia. Estonia says it got no such message.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Phillip Walter Wellman",
+   "outlet": "Stars and Stripes / Reuters",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Stars and Stripes / Reuters",
+     "url": "https://www.stripes.com/theaters/europe/2026-10-30/baltics-russia-rhetoric-pentagon-23308598.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://finchannel.com/pentagon-urges-baltic-allies-to-moderate-public-warnings-about-russia/140396/world-2/2026/11"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-40",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Romania / United States",
+   "text": "Romania reportedly offered to share the cost of US troops; Colby says [[p:Donald Trump]] decides force levels in early December.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Florin Budescu",
+   "outlet": "Newsweek România; Romania Insider",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Newsweek România; Romania Insider",
+     "url": "https://newsweek.ro/international/elbridge-colby-bucuresti-romania-ofera-plateasca-mentinere-trupe-sua"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://romania-insider.com/society/romania-reportedly-willing-help-cover-costs-us-troops"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-43",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Poland / Russia",
+   "text": "[[p:Donald Tusk]] says police thwarted a possible provocation at the Kaliningrad border after US and Polish intelligence warnings.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Daniel Tilles",
+   "outlet": "Notes from Poland (citing RMF); Meduza",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "Notes from Poland (citing RMF); Meduza",
+     "url": "https://notesfrompoland.com/2026/11/02/poland-launches-operation-along-russian-border-in-response-to-reports-of-planned-sabotage/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/en/news/2026/11/03/prime-minister-donald-tusk-says-poland-prevented-a-possible-provocation-on-the-border-with-russia-s-kaliningrad-exclave-after-spotting-people-with-flashlights"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-50",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Moldova / Russia",
+   "text": "Moldova barred Transnistria's [[p:Vadim Krasnoselsky]] from leaving the country for five years after [[p:Vladimir Putin]] decorated him.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Ana-Maria Dolghii",
+   "outlet": "NewsMaker; Kyiv Post",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "NewsMaker; Kyiv Post",
+     "url": "https://newsmaker.md/ro/o-pedeapsa-dura-vs-praf-in-ochii-cetatenilor-reactii-dupa-interdictia-de-cinci-ani-anuntata-pentru-krasnoselski"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.kyivpost.com/post/89245"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-51",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Moldova",
+   "text": "[[p:Maia Sandu]] opened a 400 kV line to Romania, cutting reliance on Transnistria's Russian-owned power plant.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera / AFP; Kyiv Independent",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Al Jazeera / AFP; Kyiv Independent",
+     "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/moldova-buys-zero-russian-gas-launches-new-power-line-to-eu/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261109-01",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "[[p:Isaac Herzog]] gave [[p:Gadi Eisenkot]] the first mandate to form a government after 67 MKs backed him, a setback for [[p:Benjamin Netanyahu]].",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Ariela Karmel",
+   "outlet": "The Times of Israel; AP (via PBS)",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "The Times of Israel; AP (via PBS)",
+     "url": "https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-02",
+   "segment": "Middle East",
+   "country": "Iraq",
+   "text": "A drone strike halted the Khor Mor gas field, cutting over 70% of Iraqi Kurdistan's power. No one has claimed it.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; Kurdistan24",
+   "opinion": "",
+   "thread": "Iraq faction disarmament",
+   "links": [
+    {
+     "label": "Al Jazeera; Kurdistan24",
+     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.kurdistan24.net/en/story/951712/dana-gas-confirms-khor-mor-drone-attack-production-remains-suspended"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-04",
+   "segment": "Africa",
+   "country": "South Africa",
+   "text": "South Africa's final local results put the [[p:African National Congress]] at 30.76%, its worst since 1994. Most councils are hung.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Mail & Guardian; The Citizen",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Mail & Guardian; The Citizen",
+     "url": "https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.citizen.co.za/news/anc-2026-local-government-election-ramaphosa-coalition/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261109-03",
+   "segment": "EU politics + cross-cutting",
+   "country": "Turkey / Global",
+   "text": "COP31 opened in Antalya amid a fight over climate finance, with no US officials attending.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AFP (via Arab News); TRT World",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AFP (via Arab News); TRT World",
+     "url": "https://arabnews.com/world/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis-3010683"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.trtworld.com/article/80e31443493f"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261109-01",
+   "title": "Operation Carthage: NABU and SAPO probe SBU corruption",
+   "reporter": "Iryna Romaliiska",
+   "outlet": "Censor.NET",
+   "url": "https://censor.net/en/resonance/4032159/operation-carthage-nabu-and-sapo-probe-sbu-corruption",
+   "why": "The fullest account of the fortnight's biggest graft case, alleged protection of scam call centres and drug sales by [[p:Security Service of Ukraine|SBU]] and police officers, with denials and caveats laid out.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "English (also Ukrainian)"
+  },
+  {
+   "readingId": "RL-261109-02",
+   "title": "Abu Dhabi talks: why Russia appointed Medinsky and what to expect",
+   "reporter": "Leo Chiu",
+   "outlet": "Kyiv Post (Ukrainian edition)",
+   "url": "https://www.kyivpost.com/uk/analysis/89013",
+   "why": "A sober pre-talks read on both delegations and the agenda, using the 2025 Istanbul talks as precedent for why a breakthrough is unlikely. Analysis.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "Ukrainian"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-09",
+   "text": "Georgia: the [[p:Constitutional Court of Georgia|Constitutional Court]] resumes hearings on [[p:Georgian Dream]]'s suit to ban five opposition parties.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-01"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "[[e:2026 Israeli legislative election]]: exit polls at 22:00 on 27 Oct, then final results and the official publication of results, followed by President [[p:Isaac Herzog]]'s consultations with party delegations before he assigns the task of forming a government",
+   "segment": "Middle East",
+   "watchId": "W-261027-06"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Turkish parliament's Foreign Affairs Committee on the Mecca Joint Defence Agreement, a possible motion to deploy personnel to Saudi Arabia, and whether Riyadh requests Egyptian help under the new Egyptian mandate",
+   "segment": "Middle East",
+   "watchId": "W-261027-07"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Mekelle: deadline for handing in unlicensed firearms, followed by house-to-house searches.",
+   "segment": "Africa",
+   "watchId": "W-261106-02"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Pakistan: [[p:Peshawar High Court]] hearing on PTI's challenge to emergency and governor's rule in Khyber Pakhtunkhwa.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-02"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "France: Lecornu's 'social conference' on wages on 9 Nov; Senate takes up the social-security budget 9–18 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-02"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov. Russia's team is led by [[p:Vladimir Medinsky]], Ukraine's by [[p:Rustem Umerov]].",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the uncalled Senate races in Alaska (Sullivan vs Peltola) and Mississippi (Hyde-Smith vs Colom).",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Sweden: Kristersson reports back to the Speaker; the Centre Party wants answers from both blocs by 13 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-03"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "UN Security Council emergency meeting on the Komyshuvakha strike, requested by Latvia (date not yet set).",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-01"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Gagauzia People's Assembly and Bashkan elections in Moldova.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-03"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Post-election push on the Gaza plan: [[p:Board of Peace]] and [[p:International Stabilization Force]] deployment, plus France's promised conference for the Lebanese army 'after' Israel's election",
+   "segment": "Middle East",
+   "watchId": "W-261027-08"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether any Russian diesel cargo is actually delivered to the US under the October arrangement.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-02"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether Transnistrian leader [[p:Vadim Krasnoselsky]] returns from Moscow and how the five-year exit ban is applied.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-03"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Operation Carthage: anti-corruption court rulings on custody for the SBU and police suspects.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-04"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Finland",
+   "status": "no sources found"
+  },
+  {
+   "country": "Bulgaria",
+   "status": "quiet"
+  },
+  {
+   "country": "Germany",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kyiv Post (Ukrainian edition)",
+   "url": "https://www.kyivpost.com/uk/analysis/89013",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Russia",
+   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent",
+   "url": "https://kyivindependent.com/umerov-to-lead-ukraine-delegation-in-abu-dhabi-peace-talks-despite-media-confusion-top-official-confirms/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine",
+   "url": "https://news.liga.net/en/politics/news/zelenskii-pogovoril-s-vitkoffom-i-kushnerom-a-umerov-podelilsya-rezultatami-vstrech-v-bryussele",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (AFP/AP/Reuters); UNN",
+   "url": "https://aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine",
+   "url": "https://unn.ua/en/news/the-ceasefire-regime-in-occupied-oleshky-has-ended-during-it-civilians-were-evacuated-and-humanitarian-aid-was-delivered",
+   "paywalled": false
+  },
+  {
+   "title": "Vlast (via Meduza)",
+   "url": "https://meduza.io/en/news/2026/11/06/source-tells-vlast-newsletter-that-putin-welcomed-late-october-call-from-finland-s-president-and-norway-s-prime-minister-as-a-possible-start-of-substantive-talks-with-europe",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent; Meduza",
+   "url": "https://kyivindependent.com/russian-strikes-cause-kyivs-worst-water-outage-of-full-scale-war/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine",
+   "url": "https://meduza.io/en/news/2026/11/03/russian-strikes-trigger-emergency-power-outages-in-several-ukrainian-regions-cutting-water-supply-across-kyiv",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent; Censor.NET",
+   "url": "https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine",
+   "url": "https://censor.net/en/news/4031938/baiba-bra-e-convenes-un-security-council-over-russian-strike-on-komyshuvakha",
+   "paywalled": false
+  },
+  {
+   "title": "ISW / Critical Threats; Al Jazeera",
+   "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-1-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine / Russia",
+   "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold",
+   "paywalled": false
+  },
+  {
+   "title": "Censor.NET; RFE/RL Schemes",
+   "url": "https://censor.net/en/resonance/4032159/operation-carthage-nabu-and-sapo-probe-sbu-corruption",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine",
+   "url": "https://rferl.org/a/ukraine-sbu-anti-corruption-court-database-access-schemes-investigation/33892471.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Moscow Times (Russian service); Vesti",
+   "url": "https://ru.themoscowtimes.com/2026/10/29/gosduma-podderzhala-rekordnii-rost-rashodov-naarmiyu-povishenie-nalogov-isokraschenie-trat-nameditsinu-ipensii-a210030",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Russia",
+   "url": "https://www.vesti.ru/ns/gosduma-prinyala-proekt-byudzheta-na-2027-2029-gody-v-i-chtenii",
+   "paywalled": false
+  },
+  {
+   "title": "AP; Meduza",
+   "url": "https://www.ksat.com/news/world/2026/10/30/russias-top-independent-newspaper-shuts-down-blaming-pressure-from-authorities/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Russia",
+   "url": "https://meduza.io/en/feature/2026/10/30/they-killed-us-russian-independent-newspaper-novaya-gazeta-announces-its-closure-after-decades-of-repression",
+   "paywalled": false
+  },
+  {
+   "title": "AP (FT first reported)",
+   "url": "https://www.news4jax.com/business/2026/11/05/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-us/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Russia / United States",
+   "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-5-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Stars and Stripes / Reuters",
+   "url": "https://www.stripes.com/theaters/europe/2026-10-30/baltics-russia-rhetoric-pentagon-23308598.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Estonia / Latvia / Lithuania / United States",
+   "url": "https://finchannel.com/pentagon-urges-baltic-allies-to-moderate-public-warnings-about-russia/140396/world-2/2026/11",
+   "paywalled": false
+  },
+  {
+   "title": "Newsweek România; Romania Insider",
+   "url": "https://newsweek.ro/international/elbridge-colby-bucuresti-romania-ofera-plateasca-mentinere-trupe-sua",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Romania / United States",
+   "url": "https://romania-insider.com/society/romania-reportedly-willing-help-cover-costs-us-troops",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland (citing RMF); Meduza",
+   "url": "https://notesfrompoland.com/2026/11/02/poland-launches-operation-along-russian-border-in-response-to-reports-of-planned-sabotage/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Poland / Russia",
+   "url": "https://meduza.io/en/news/2026/11/03/prime-minister-donald-tusk-says-poland-prevented-a-possible-provocation-on-the-border-with-russia-s-kaliningrad-exclave-after-spotting-people-with-flashlights",
+   "paywalled": false
+  },
+  {
+   "title": "NewsMaker; Kyiv Post",
+   "url": "https://newsmaker.md/ro/o-pedeapsa-dura-vs-praf-in-ochii-cetatenilor-reactii-dupa-interdictia-de-cinci-ani-anuntata-pentru-krasnoselski",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Moldova / Russia",
+   "url": "https://www.kyivpost.com/post/89245",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera / AFP; Kyiv Independent",
+   "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Moldova",
+   "url": "https://kyivindependent.com/moldova-buys-zero-russian-gas-launches-new-power-line-to-eu/",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Israel; AP (via PBS)",
+   "url": "https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Israel",
+   "url": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Kurdistan24",
+   "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iraq",
+   "url": "https://www.kurdistan24.net/en/story/951712/dana-gas-confirms-khor-mor-drone-attack-production-remains-suspended",
+   "paywalled": false
+  },
+  {
+   "title": "Mail & Guardian; The Citizen",
+   "url": "https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: South Africa",
+   "url": "https://www.citizen.co.za/news/anc-2026-local-government-election-ramaphosa-coalition/",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Arab News); TRT World",
+   "url": "https://arabnews.com/world/cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis-3010683",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Turkey / Global",
+   "url": "https://www.trtworld.com/article/80e31443493f",
+   "paywalled": false
+  }
+ ]
+}
