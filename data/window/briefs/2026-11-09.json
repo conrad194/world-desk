@@ -1,0 +1,739 @@
+{
+ "date": "2026-11-09",
+ "top5": [
+  {
+   "text": "Prosecutors treat the Rynek Główny attack as terrorism; the suspect is critical and will be charged once doctors allow.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Polsat News",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/czyn-o-charakterze-terrorystycznym-ruch-prokuratury-po-tragedii-w-krakowie/"
+    },
+    {
+     "label": "More",
+     "url": "https://radiokrakow.pl/wiadomosci/krakow/strzelanina-na-rynku-glownym-prokuratura-zapowiada-sledztwo-w-sprawie-terroryzmu/187463"
+    }
+   ]
+  },
+  {
+   "text": "Silent march for the victims tonight at 20:00 from Rynek Główny/Sławkowska.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "krakow.pl",
+     "url": "https://krakow.pl/aktualnosci/345193,29,komunikat,prezydent_krakowa_zaprasza_na_marsz_ciszy_dla_ofiar_strzelaniny.html"
+    },
+    {
+     "label": "More",
+     "url": "https://kr24.pl/krakow/krakow-oddaje-hold-ofiarom-strzelaniny-lukasz-gibala-zaprasza-na-rynek-glowny-w-poniedzialek-o-2000/"
+    }
+   ]
+  },
+  {
+   "text": "Tusk says the Nov 11 Independence March won't be banned and asks for calm and no counter-protests.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/przestepczosc/art45462031-spekulacje-to-dezinformacja-donald-tusk-o-zakazie-marszu-niepodleglosci"
+    },
+    {
+     "label": "More",
+     "url": "https://polskieradio24.pl/polska/tusk-zdecydowal-ws-marszu-niepodleglosci-jest-wpis-premiera"
+    }
+   ]
+  },
+  {
+   "text": "Trump says new Iran strikes are \"highly unlikely\" if talks progress, and that the Iron Gate land blockade is in force.",
+   "place": "US",
+   "links": [
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran"
+    },
+    {
+     "label": "More",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    }
+   ]
+  },
+  {
+   "text": "Delhi's AQI is near 400 the morning after Diwali, with 11 stations 'severe'.",
+   "place": "India",
+   "links": [
+    {
+     "label": "ANI",
+     "url": "https://www.aninews.in/news/national/general-news/delhis-aqi-breaches-400-on-morning-after-diwali-thick-smog-blankets-capital-several-areas-in-severe-range20261109080202/"
+    },
+    {
+     "label": "More",
+     "url": "https://openthemagazine.com/india/delhi-aqi-touches-400-after-diwali-burari-hits-441"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261109-02",
+    "domain": "Foreign relations",
+    "text": "Trump told CNN that renewed US strikes on Iran are \"highly unlikely\" if talks on Tehran's nuclear programme and reopening the Strait of Hormuz make progress, while warning he could still strike. Rubio said the sides are not on the verge of a breakthrough; Iran's foreign minister said mediators have stopped travelling since the US midterms.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "CNN",
+      "url": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran"
+     },
+     {
+      "label": "More",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-03",
+    "domain": "Defense, security & crime",
+    "text": "Trump said the Task Force Iron Gate blockade of Iran's land supply routes is \"in full force and effect\"; the Revolutionary Guard dismissed it as wordplay. Washington has not said whether it will use force to stop shipments.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-04",
+    "domain": "Defense, security & crime",
+    "text": "Gulf spillover continues: Iran says two tankers hit mines late Nov 7 and UKMTO reported a tanker fire near Khasab, Oman; a Houthi attack damaged an Aramco building in Riyadh (no casualties reported); a drone halted output at Iraqi Kurdistan's Khor Mor gas field, cutting power to over 70% of the region.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-05",
+    "domain": "Trade & tariffs",
+    "text": "The suspension of Section 301 port fees on China-linked vessels runs out at 11:59 pm ET on Nov 9. USTR proposed on Oct 26 to extend it to Jan 9, 2027 (docket USTR-2026-0694), but no final notice was found in the sources checked for this run; without one, fees would resume Nov 10.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21755/request-for-comments-on-further-suspension-of-section-301-action-chinas-targeting-of-the-maritime"
+     },
+     {
+      "label": "More",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/10/ustr-proposes-2-month-extension-of-suspension-of-section-301"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261109-07",
+    "domain": "Politics & government",
+    "text": "Tusk said nobody plans to ban the Nov 11 Independence March in Warsaw and called reports of a ban disinformation. He urged marchers to avoid aggression and respect police, and asked for counter-demonstrations to be dropped. Organisers say the march goes ahead; Warsaw is banning weapons and pyrotechnics on the day.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45462031-spekulacje-to-dezinformacja-donald-tusk-o-zakazie-marszu-niepodleglosci"
+     },
+     {
+      "label": "More",
+      "url": "https://polskieradio24.pl/polska/tusk-zdecydowal-ws-marszu-niepodleglosci-jest-wpis-premiera"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261109-08",
+    "domain": "Economy, business & markets",
+    "text": "The government's maximum fuel prices were set only through Nov 9 (petrol 95 at 6.12 zł, diesel at 7.83 zł). No notice for Nov 10 onward had been found when this run checked. e-petrol forecasts petrol 95 at 5.99–6.15 zł and diesel at 7.71–7.85 zł this week.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland fuel price caps",
+    "links": [
+     {
+      "label": "GazetaPrawna.pl",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11342013,nowe-ceny-paliw-od-7-listopada-2026-i-prognoza-na-kolejny-tydzien.html"
+     },
+     {
+      "label": "More",
+      "url": "https://motoguru.pl/na-czasie/ceny-paliw-od-9-listopada-2026-nowa-prognoza-e-petrol-pl/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261109-10",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors opened a formal investigation on Sunday, classifying the Rynek attack as a terrorist act. They will bring charges, question the suspect and seek a preventive measure once doctors allow. Michał O., 24, is in critical condition after overnight surgery for police gunshot wounds; the offence can carry life imprisonment.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/czyn-o-charakterze-terrorystycznym-ruch-prokuratury-po-tragedii-w-krakowie/"
+     },
+     {
+      "label": "More",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/strzelanina-na-rynku-glownym-prokuratura-zapowiada-sledztwo-w-sprawie-terroryzmu/187463"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-11",
+    "domain": "Defense, security & crime",
+    "text": "Victims: four Poles (women aged 47, 53 and 61 and a man of about 50), a 32-year-old British citizen and a 51-year-old woman whose nationality hasn't been released. Of 16 people in hospital, 12 are in life-threatening condition, including five foreigners and five horse-cab drivers. Officers Jakub Kulik and Artur Morański are serious but stable after surgery. Police seized seven firearms at the suspect's home.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/malopolskie/news-co-wiemy-o-ataku-na-rynku-glownym-w-krakowie-najwazniejsze-i,nId,23570696"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-12",
+    "domain": "Politics & government",
+    "text": "Mayor Gibała invited residents to a silent march for the victims on Monday, Nov 9 at 20:00, starting at the corner of Rynek Główny and ul. Sławkowska.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "krakow.pl",
+      "url": "https://krakow.pl/aktualnosci/345193,29,komunikat,prezydent_krakowa_zaprasza_na_marsz_ciszy_dla_ofiar_strzelaniny.html"
+     },
+     {
+      "label": "More",
+      "url": "https://kr24.pl/krakow/krakow-oddaje-hold-ofiarom-strzelaniny-lukasz-gibala-zaprasza-na-rynek-glowny-w-poniedzialek-o-2000/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-13",
+    "domain": "Culture, media & sport",
+    "text": "Kraków hasn't said whether any Independence Day celebrations will go ahead; a deputy mayor said they may be changed or cancelled. City-run events are already cancelled under city mourning to Nov 11.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45462031-spekulacje-to-dezinformacja-donald-tusk-o-zakazie-marszu-niepodleglosci"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261109-14",
+    "domain": "Environment, energy & disasters",
+    "text": "Delhi's AQI reached about 400 on the morning after Diwali (Nov 9). Eleven stations were in the 'severe' range, the worst Burari Crossing at 441. GRAP Stage III continues; the full firecracker ban returns today.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "ANI",
+      "url": "https://www.aninews.in/news/national/general-news/delhis-aqi-breaches-400-on-morning-after-diwali-thick-smog-blankets-capital-several-areas-in-severe-range20261109080202/"
+     },
+     {
+      "label": "More",
+      "url": "https://openthemagazine.com/india/delhi-aqi-touches-400-after-diwali-burari-hits-441"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-15",
+    "domain": "Economy, business & markets",
+    "text": "To curb hoarding as prices rise, the Centre ordered traders and processors to disclose rice and paddy stocks every week (order dated Nov 6).",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "C4S Courses (digest)",
+      "url": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-0708-november-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-16",
+    "domain": "Society: education, labor, immigration",
+    "text": "MHA amended its 2025 exemption order to tighten the documents required to travel across the India–Nepal and India–Bhutan borders.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "C4S Courses (digest)",
+      "url": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-0708-november-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261109-17",
+    "domain": "Science & space",
+    "text": "India and the EU concluded negotiations on India's association with Horizon Europe, the EU research programme. The agreement still has to be signed.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "C4S Courses (digest)",
+      "url": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-0708-november-2026/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Event",
+   "text": "Silent march for the shooting victims, Monday 9 Nov at 20:00, from the corner of Rynek Główny and ul. Sławkowska (invited by Mayor Gibała).",
+   "link": "https://krakow.pl/aktualnosci/345193,29,komunikat,prezydent_krakowa_zaprasza_na_marsz_ciszy_dla_ofiar_strzelaniny.html"
+  },
+  {
+   "kind": "Closure",
+   "text": "No reopening of Rynek Główny, the Mariacka Basilica or the horse-cab stands had been announced in the sources checked. Expect cordons in the Old Town and check ZTP before travelling.",
+   "link": "https://krakow.pl/aktualnosci/345151,29,komunikat,strzelanina_w_centrum_krakowa__sa_zabici_i_ranni.html"
+  },
+  {
+   "kind": "Event",
+   "text": "City mourning runs to Nov 11 and all city-run events are cancelled. Whether any Independence Day celebrations go ahead is still undecided.",
+   "link": "https://www.rp.pl/przestepczosc/art45462031-spekulacje-to-dezinformacja-donald-tusk-o-zakazie-marszu-niepodleglosci"
+  },
+  {
+   "kind": "Transit",
+   "text": "New bus line 714 starts today (announced earlier).",
+   "link": "https://krakow.pl/komunikacja"
+  }
+ ],
+ "relations": {
+  "US–Poland": [],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [],
+ "deepDive": {
+  "domain": "Law, courts & regulation",
+  "title": "What happens next in the Kraków case, legally",
+  "body": "Prosecutors have opened the investigation as a **terrorist act**. That label has legal effects. The Criminal Code (art. 115 §20) defines a terrorist offence as a crime punishable by at least five years that is committed to seriously intimidate many people, to force public authorities to act or refrain, or to seriously disrupt the state or economy. The classification affects who leads the case and which aggravating rules apply. It also shapes how the state talks about the attack, which is why the interior minister's early remarks about the suspect's views have become [politically contested](https://tvrepublika.pl/Polityka/Insynuacje-szefa-MSWiA-Kierwinski-zaczyna-ideologiczna-gre-wokol-tragedii/225426).\n\n**Sequence.** Formal charges (*postawienie zarzutów*) need the suspect to be questioned, and he is in critical condition. Prosecutors say they will wait for doctors, then charge him, question him and ask a court for a preventive measure, almost certainly pre-trial detention ([Polsat News](https://www.polsatnews.pl/wiadomosc/2026-11-08/czyn-o-charakterze-terrorystycznym-ruch-prokuratury-po-tragedii-w-krakowie/)). Killing several people in one act is among the offences carrying Poland's heaviest penalty, **life imprisonment**. The three deaths at his family home in Ostrowiec are handled within the same investigation.\n\n**The gun question.** Reports say the suspect held his weapons legally under a sport-shooting permit ([Interia](https://wydarzenia.interia.pl/malopolskie/news-co-wiemy-o-ataku-na-rynku-glownym-w-krakowie-najwazniejsze-i,nId,23570696)). A 2025 audit by the Supreme Audit Office (NIK) found the number of legally held firearms rising fast and police supervision of permit holders weak ([NIK](https://www.nik.gov.pl/en/news/more-and-more-firearms-in-use-and-poor-supervision.html)). Expect proposals on medical and psychological checks and on sport permits; no draft has been tabled yet.\n\n**What to watch:** the date of charges, any change to the legal classification, and whether the government or Sejm introduces firearms changes once mourning ends.",
+  "links": [
+   {
+    "label": "Polsat News",
+    "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/czyn-o-charakterze-terrorystycznym-ruch-prokuratury-po-tragedii-w-krakowie/"
+   },
+   {
+    "label": "NIK audit",
+    "url": "https://www.nik.gov.pl/en/news/more-and-more-firearms-in-use-and-poor-supervision.html"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261109-01",
+   "title": "Zamach w Krakowie. Pierwsze działania prokuratury. \"Charakter terrorystyczny\"",
+   "reporter": "",
+   "outlet": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/czyn-o-charakterze-terrorystycznym-ruch-prokuratury-po-tragedii-w-krakowie/",
+   "why": "Explains what prosecutors are doing first, why they classified the attack as terrorism, and what has to happen before charges.",
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-09",
+   "text": "Silent march in Kraków at 20:00; national mourning ends; Section 301 port-fee suspension expires at 11:59 pm ET.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Kosiniak-Kamysz meets Hegseth at the Pentagon.",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "House GOP leadership vote; FAA chief testifies; Supreme Court hears DOL v. Sun Valley Orchards.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Fuel price caps lapse unless a new notice is issued; Constitutional Tribunal judges' assembly.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day; the Warsaw march goes ahead with a ban on weapons and pyrotechnics.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day under city mourning; Rynek reopening still pending.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Expected window for Trump's Iran decision; Tusk–Nawrocki meeting.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "DPDP consent-manager rules take effect; Modi in Bengaluru.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "ASEAN summits in Manila; possible Modi–Trump meeting.",
+   "place": "US–India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/markets/news/stock-market-live-november-8-muhurat-trading-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-today-samvat-2083-tata-steel-share-price-126110800267_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://thefederal.com/category/business/muhurat-trading-2026-sensex-nifty-262234",
+   "paywalled": false
+  },
+  {
+   "title": "CNN; CBS News",
+   "url": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran",
+   "paywalled": false
+  },
+  {
+   "title": "CNN; CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News; Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
+   "paywalled": false
+  },
+  {
+   "title": "Federal Register; Holland & Knight",
+   "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21755/request-for-comments-on-further-suspension-of-section-301-action-chinas-targeting-of-the-maritime",
+   "paywalled": false
+  },
+  {
+   "title": "Federal Register; Holland & Knight",
+   "url": "https://www.hklaw.com/en/insights/publications/2026/10/ustr-proposes-2-month-extension-of-suspension-of-section-301",
+   "paywalled": false
+  },
+  {
+   "title": "Supreme Court of the United States",
+   "url": "https://www.supremecourt.gov/oral_arguments/argument_calendars/MonthlyArgumentCalNovember2026.pdf",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita; Polskie Radio 24",
+   "url": "https://www.rp.pl/przestepczosc/art45462031-spekulacje-to-dezinformacja-donald-tusk-o-zakazie-marszu-niepodleglosci",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita; Polskie Radio 24",
+   "url": "https://polskieradio24.pl/polska/tusk-zdecydowal-ws-marszu-niepodleglosci-jest-wpis-premiera",
+   "paywalled": true
+  },
+  {
+   "title": "GazetaPrawna.pl; motoguru.pl (e-petrol)",
+   "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11342013,nowe-ceny-paliw-od-7-listopada-2026-i-prognoza-na-kolejny-tydzien.html",
+   "paywalled": false
+  },
+  {
+   "title": "GazetaPrawna.pl; motoguru.pl (e-petrol)",
+   "url": "https://motoguru.pl/na-czasie/ceny-paliw-od-9-listopada-2026-nowa-prognoza-e-petrol-pl/",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://rp.pl/polityka/art45460351-polityka-po-zamachu-w-krakowie-co-z-marszem-niepodleglosci-i-sporem-o-tk",
+   "paywalled": true
+  },
+  {
+   "title": "Polsat News; Radio Kraków; Interia",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/czyn-o-charakterze-terrorystycznym-ruch-prokuratury-po-tragedii-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News; Radio Kraków; Interia",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/strzelanina-na-rynku-glownym-prokuratura-zapowiada-sledztwo-w-sprawie-terroryzmu/187463",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/malopolskie/news-co-wiemy-o-ataku-na-rynku-glownym-w-krakowie-najwazniejsze-i,nId,23570696",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl",
+   "url": "https://krakow.pl/aktualnosci/345193,29,komunikat,prezydent_krakowa_zaprasza_na_marsz_ciszy_dla_ofiar_strzelaniny.html",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl",
+   "url": "https://kr24.pl/krakow/krakow-oddaje-hold-ofiarom-strzelaniny-lukasz-gibala-zaprasza-na-rynek-glowny-w-poniedzialek-o-2000/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://www.aninews.in/news/national/general-news/delhis-aqi-breaches-400-on-morning-after-diwali-thick-smog-blankets-capital-several-areas-in-severe-range20261109080202/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://openthemagazine.com/india/delhi-aqi-touches-400-after-diwali-burari-hits-441",
+   "paywalled": false
+  },
+  {
+   "title": "C4S Courses (digest)",
+   "url": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-0708-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "NIK",
+   "url": "https://www.nik.gov.pl/en/news/more-and-more-firearms-in-use-and-poor-supervision.html",
+   "paywalled": false
+  }
+ ]
+}
