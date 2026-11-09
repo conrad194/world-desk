@@ -1667,6 +1667,30 @@
    "lean": "centre, digital",
    "status": "Watch",
    "dateAdded": "2026-11-08"
+  },
+  {
+   "id": "cbs-news",
+   "name": "CBS News",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "National news; Iran war live updates",
+   "language": "English",
+   "url": "https://www.cbsnews.com",
+   "lean": "Centre / centre-left",
+   "status": "Watch",
+   "dateAdded": "2026-11-09"
+  },
+  {
+   "id": "cnn",
+   "name": "CNN",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "National politics and foreign policy",
+   "language": "English",
+   "url": "https://www.cnn.com",
+   "lean": "Centre-left",
+   "status": "Watch",
+   "dateAdded": "2026-11-09"
   }
  ]
 }
