@@ -34,7 +34,7 @@
    "id": "W-261025-04",
    "dateAdded": "2026-10-25",
    "segment": "Russia–Ukraine & European security",
-   "what": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov.",
+   "what": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov. Russia's team is led by [[p:Vladimir Medinsky]], Ukraine's by [[p:Rustem Umerov]].",
    "expected": "Kremlin spokesman Peskov; Zelensky confirmed technical talks Update 26 Oct: Kremlin aide Yuri Ushakov says Moscow is ready to resume talks after 4 Nov. Update 5 Nov: US envoy Steve Witkoff set the dates as 10–11 Nov in Abu Dhabi (Kyiv Post).",
    "checkDate": "2026-11-11",
    "happened": "",
@@ -265,8 +265,8 @@
    "dateAdded": "2026-10-26",
    "segment": "Russia–Ukraine & European security",
    "what": "Pentagon recommendation on US force posture in Europe (possible drawdown of 25,000–40,000).",
-   "expected": "Final recommendation due in November, per NBC reporting in September.",
-   "checkDate": "2026-11-30",
+   "expected": "Final recommendation due in November, per NBC reporting in September. Update 9 Nov: Elbridge Colby said in Bucharest (4 Nov) that Trump is expected to decide US force levels in Europe in early December (Romania Insider).",
+   "checkDate": "2026-12-04",
    "happened": "",
    "eventId": ""
   },
@@ -509,6 +509,96 @@
    "checkDate": "2026-12-05",
    "happened": "",
    "eventId": "E-261108-04"
+  },
+  {
+   "id": "W-261109-01",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "UN Security Council emergency meeting on the Komyshuvakha strike, requested by Latvia (date not yet set).",
+   "expected": "Latvian FM Baiba Braže (Censor.NET)",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-02",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Whether any Russian diesel cargo is actually delivered to the US under the October arrangement.",
+   "expected": "AP / Kpler tanker tracking",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-03",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Whether Transnistrian leader [[p:Vadim Krasnoselsky]] returns from Moscow and how the five-year exit ban is applied.",
+   "expected": "Moldova's Bureau for Reintegration Policy (NewsMaker)",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-04",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Operation Carthage: anti-corruption court rulings on custody for the SBU and police suspects.",
+   "expected": "NABU / SAP",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-05",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "State Duma second reading of Russia's 2027–29 budget.",
+   "expected": "Vesti / State Duma schedule",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-06",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Moldova's gas-shortage state of emergency expires; watch for an extension and the OSCE-facilitated Transnistria winter gas talks.",
+   "expected": "AFP (via Al Jazeera)",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-07",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "OFAC licence for Lukoil foreign-asset sale talks expires; possible approval of the Boehly-led bid.",
+   "expected": "Reuters (via Kyiv Post)",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-08",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Belarus amnesty bill text: does it cover political prisoners?",
+   "expected": "Lukashenko's press service (Zerkalo)",
+   "checkDate": "2026-11-23",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261109-09",
+   "dateAdded": "2026-11-09",
+   "segment": "Middle East",
+   "what": "Israel: [[p:Gadi Eisenkot]]'s 28-day mandate to form a government ends (extendable by 14 days).",
+   "expected": "Times of Israel / AP",
+   "checkDate": "2026-12-06",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

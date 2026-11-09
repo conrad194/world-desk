@@ -153,6 +153,39 @@
    "language": "French",
    "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
    "why": "The parliament channel's clear map of France's options after both budget bills fell: Senate, joint committee, 49.3, ordinances or a stopgap law."
+  },
+  {
+   "id": "RL-261109-01",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "title": "Operation Carthage: NABU and SAPO probe SBU corruption",
+   "reporter": "Iryna Romaliiska",
+   "outlet": "Censor.NET",
+   "language": "English (also Ukrainian)",
+   "url": "https://censor.net/en/resonance/4032159/operation-carthage-nabu-and-sapo-probe-sbu-corruption",
+   "why": "The fullest account of the fortnight's biggest graft case, alleged protection of scam call centres and drug sales by [[p:Security Service of Ukraine|SBU]] and police officers, with denials and caveats laid out."
+  },
+  {
+   "id": "RL-261109-02",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "title": "Abu Dhabi talks: why Russia appointed Medinsky and what to expect",
+   "reporter": "Leo Chiu",
+   "outlet": "Kyiv Post (Ukrainian edition)",
+   "language": "Ukrainian",
+   "url": "https://www.kyivpost.com/uk/analysis/89013",
+   "why": "A sober pre-talks read on both delegations and the agenda, using the 2025 Istanbul talks as precedent for why a breakthrough is unlikely. Analysis."
+  },
+  {
+   "id": "RL-261109-03",
+   "dateAdded": "2026-11-09",
+   "segment": "Russia–Ukraine & European security",
+   "title": "'They killed us': Novaya Gazeta announces its closure after decades of repression",
+   "reporter": "Meduza staff",
+   "outlet": "Meduza",
+   "language": "English (translated from Russian)",
+   "url": "https://meduza.io/en/feature/2026/10/30/they-killed-us-russian-independent-newspaper-novaya-gazeta-announces-its-closure-after-decades-of-repression",
+   "why": "How the state squeezed out Russia's last major independent paper, step by step."
   }
  ]
 }

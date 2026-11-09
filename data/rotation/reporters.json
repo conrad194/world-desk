@@ -685,6 +685,76 @@
    "trackRecord": "Follows the 2026 Swedish government formation day by day.",
    "dateAdded": "2026-11-08",
    "status": "Watch"
+  },
+  {
+   "id": "benas-gerdziunas",
+   "name": "Benas Gerdžiūnas",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Lithuania, Belarus",
+   "languages": "Lithuanian, English",
+   "outlets": "LRT English",
+   "basedIn": "Vilnius",
+   "slant": "Public broadcaster, centrist",
+   "url": "https://www.lrt.lt/en/news-in-english",
+   "trackRecord": "Regular LRT coverage of drones, Belarus balloons, Starlink arson and Lithuanian coalition politics",
+   "dateAdded": "2026-11-09",
+   "status": "Watch"
+  },
+  {
+   "id": "florin-budescu",
+   "name": "Florin Budescu",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Romania",
+   "languages": "Romanian",
+   "outlets": "Newsweek România",
+   "basedIn": "Bucharest",
+   "slant": "Mainstream",
+   "url": "https://newsweek.ro/international/elbridge-colby-bucuresti-romania-ofera-plateasca-mentinere-trupe-sua",
+   "trackRecord": "Detailed, sourced same-day report on the Colby–Dan meeting; only lightly vetted so far",
+   "dateAdded": "2026-11-09",
+   "status": "Watch"
+  },
+  {
+   "id": "iryna-romaliiska",
+   "name": "Iryna Romaliiska",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Ukraine",
+   "languages": "Ukrainian, Russian",
+   "outlets": "Censor.NET",
+   "basedIn": "Kyiv",
+   "slant": "Pro-reform; critical of security services",
+   "url": "https://censor.net/en/resonance/4032159/operation-carthage-nabu-and-sapo-probe-sbu-corruption",
+   "trackRecord": "Detailed reconstruction of Operation Carthage with named sources and flagged denials",
+   "dateAdded": "2026-11-09",
+   "status": "Watch"
+  },
+  {
+   "id": "valeriya-yegoshyna",
+   "name": "Valeriya Yegoshyna",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Ukraine",
+   "languages": "Ukrainian",
+   "outlets": "Schemes (RFE/RL Ukrainian Service)",
+   "basedIn": "Kyiv",
+   "slant": "Investigative, anti-corruption",
+   "url": "https://rferl.org/a/ukraine-sbu-anti-corruption-court-database-access-schemes-investigation/33892471.html",
+   "trackRecord": "Document-based investigations of the SBU, including its attempts to access the anti-corruption court database",
+   "dateAdded": "2026-11-09",
+   "status": "Watch"
+  },
+  {
+   "id": "artyom-shraibman",
+   "name": "Artyom Shraibman",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Belarus",
+   "languages": "Russian, Belarusian",
+   "outlets": "Zerkalo; Carnegie Russia Eurasia Center",
+   "basedIn": "Warsaw (exile)",
+   "slant": "Independent analyst, critical of Lukashenko",
+   "url": "https://news.zerkalo.io/economics/139378.html",
+   "trackRecord": "Long-running analyst of Minsk–West relations and US–Belarus prisoner deals",
+   "dateAdded": "2026-11-09",
+   "status": "Watch"
   }
  ]
 }
