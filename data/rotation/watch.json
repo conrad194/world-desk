@@ -387,7 +387,7 @@
    "what": "Argentina: state workers' union ATE stoppage at 27 airports on 6 Nov, two days before Pope Leo XIV arrives; he visits Peru in mid-November.",
    "expected": "ATE (via Rio Times); EFE on the papal trip",
    "checkDate": "2026-11-08",
-   "happened": "",
+   "happened": "The 6 Nov airport stoppage did not happen: ATE suspended it on 5 Nov at the request of Argentina's bishops, promising to resume protests after the visit. [[p:Pope Leo XIV]] landed in Buenos Aires on 8 Nov and was met by [[p:Javier Milei]] ([Vatican News](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-arrival-argentina-welcome-ceremony-airport.html); [DataGremial](https://www.datagremial.com/informacion-general/ate-suspende-las-protestas-en-la-anac-por-la-visita-del-papa-y-una-llamado-al-dialogo-de-economia-202611516340)).",
    "eventId": ""
   },
   {
@@ -397,8 +397,8 @@
    "what": "South Africa: official [[p:Electoral Commission of South Africa|IEC]] results of the 4 Nov local elections, then coalition talks in Johannesburg, Tshwane and eThekwini.",
    "expected": "The IEC says it will announce official results on Sunday 8 Nov.",
    "checkDate": "2026-11-08",
-   "happened": "",
-   "eventId": ""
+   "happened": "The IEC declared final results on 8 Nov: ANC 30.76% (its worst ever), DA 24.64%, MK 9.76%, EFF 6.22%, ActionSA 5.67%; only 74 of 213 councils have a majority, and coalition talks are starting in the Gauteng metros ([Mail & Guardian](https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/)).",
+   "eventId": "E-261109-04"
   },
   {
    "id": "W-261106-02",
