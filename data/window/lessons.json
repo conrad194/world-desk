@@ -358,6 +358,141 @@
    ],
    "recallQ": "In a lame-duck session, why might an outgoing majority rush to pass laws, and why does that matter less in Poland or India?",
    "recallA": "Between the November election and 3 January, the old US Congress still sits, so the losing majority can pass bills before it hands over control. Poland and India have no comparable stretch: after an election the old parliament stops legislating, the new Sejm or Lok Sabha takes over, and the outgoing government serves only as caretaker until a new one is formed."
+  },
+  {
+   "id": "L02",
+   "num": 2,
+   "unit": "How each country is governed",
+   "title": "The three constitutions and how each is amended",
+   "dateTaught": "2026-11-09",
+   "minutes": 7,
+   "pulledForward": false,
+   "prevQuestion": "In a lame-duck session, why might an outgoing majority rush to pass laws, and why does that matter less in Poland or India?",
+   "prevAnswer": "Between the November election and 3 January, the old US Congress still sits, so the losing majority can pass bills before it hands over control. Poland and India have no comparable stretch: after an election the old parliament stops legislating, the new Sejm or Lok Sabha takes over, and the outgoing government serves only as caretaker until a new one is formed.",
+   "body": "Lesson 1 sorted the three countries by system. This lesson looks at the documents that set those systems up, and at the hardest question any constitution must answer: **how can it be changed?** A constitution is higher law. Ordinary statutes must fit inside it, and courts (Lesson 8) can strike down those that don't. So the amendment rule decides how far any winning majority can rewrite the rules of the game on its own.\n\n**United States: the oldest, and the hardest to change.** Written at the [#Constitutional Convention (United States)](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)) in 1787 and in force since 1789, the US Constitution is short, about 4,500 words without amendments. Article V sets a double supermajority: an amendment must be proposed by **two-thirds of both the House and the Senate** (or by a convention requested by two-thirds of the states, a route never used) and then ratified by **three-quarters of the states**, today 38 of 50. The president has no formal role. Only 27 amendments have passed, ten of them at once as the [#United States Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights) in 1791. The [#Equal Rights Amendment](https://en.wikipedia.org/wiki/Equal_Rights_Amendment) cleared Congress in 1972 but fell short of 38 states before its deadline. Because formal change is so hard, much US constitutional change happens through Supreme Court interpretation instead.\n\n> Drafted largely by [@James Madison](https://en.wikipedia.org/wiki/James_Madison), the Constitution was signed on 17 September 1787 in Philadelphia's Independence Hall.\n\n**Poland: a young constitution with a high bar.** Poland's current Constitution was adopted by the National Assembly in April 1997 and approved in the [#1997 Polish constitutional referendum](https://en.wikipedia.org/wiki/1997_Polish_constitutional_referendum). Under Article 235, an amendment can be proposed by a fifth of deputies (92), the Senate or the president. The Sejm must pass it by **two-thirds of the votes cast, with at least half of its 460 members present**, and the Senate by an absolute majority within 60 days. Changes to Chapter I (the Republic), Chapter II (rights) or Chapter XII (amendment itself) can be put to a referendum if the president, the Senate or a fifth of deputies ask. The president must then sign within 21 days: unlike ordinary laws (Lesson 7), an amendment cannot be vetoed. The text has changed only twice, in 2006 and 2009. Since no camp has held two-thirds of the Sejm, fights over the system play out through ordinary laws and court rulings instead.\n\n> Poland's first written constitution, the [#Constitution of 3 May 1791](https://en.wikipedia.org/wiki/Constitution_of_3_May_1791), is often called Europe's first modern codified constitution (Lesson 27).\n\n**India: the longest, most amended, but with a limit.** The [#Constituent Assembly of India](https://en.wikipedia.org/wiki/Constituent_Assembly_of_India) drafted the world's longest national constitution between 1946 and 1949, with [@B. R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) chairing its drafting committee. Article 368 offers several routes. Some provisions, such as creating a new state, change by an ordinary law. Most need a **special majority in each house**: a majority of total membership *and* two-thirds of members present and voting. Provisions touching federalism, such as states' representation or the division of powers, also need approval by **half the state legislatures**. The president must give assent. Because the text is so detailed, many policy changes require amendments, and Parliament has passed 106. But in [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala) (1973), the Supreme Court ruled that Parliament cannot destroy the Constitution's **basic structure**, so even an amendment can be struck down. That limit was soon tested by the sweeping [#Forty-second Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India), passed during [#The Emergency (India)](https://en.wikipedia.org/wiki/The_Emergency_(India)) (Lesson 44).\n\n> The Constitution was adopted on 26 November 1949 (now Constitution Day) and came into force on 26 January 1950, celebrated as Republic Day.\n\n**What the bar measures.** The US rule demands agreement across both chambers and most of the states, so it is almost never met. Poland's two-thirds usually needs the government and the opposition to agree, which in today's polarized Sejm means stalemate. India's two-thirds is high but reachable for a large governing majority, so Parliament amends often, and the courts became the brake. In each country, the amendment rule shows whose consent a lasting change really needs.",
+   "comparison": [
+    {
+     "aspect": "Current constitution",
+     "US": "Constitution of 1787, in force 1789",
+     "Poland": "Constitution of the Republic of Poland, 1997",
+     "India": "Constitution of India, in force 1950"
+    },
+    {
+     "aspect": "Who can propose an amendment",
+     "US": "Two-thirds of both houses of Congress (or a convention requested by two-thirds of states, never used)",
+     "Poland": "A fifth of deputies (92), the Senate or the president",
+     "India": "A bill in either house of Parliament (not state legislatures)"
+    },
+    {
+     "aspect": "Votes needed",
+     "US": "Two-thirds of House and Senate, then three-quarters of states (38 of 50)",
+     "Poland": "Two-thirds in the Sejm (half of 460 present) and an absolute majority in the Senate; optional referendum for Chapters I, II and XII",
+     "India": "Majority of total membership plus two-thirds present and voting in each house; half the states for federal provisions"
+    },
+    {
+     "aspect": "Head of state's role",
+     "US": "None",
+     "Poland": "Must sign within 21 days; no veto",
+     "India": "Must give assent"
+    },
+    {
+     "aspect": "Amendments so far",
+     "US": "27 (the last ratified in 1992)",
+     "Poland": "2 (2006 and 2009)",
+     "India": "106 (the latest in 2023)"
+    },
+    {
+     "aspect": "Limits on amending",
+     "US": "Almost none; a state's equal Senate vote cannot be removed without its consent",
+     "Poland": "No explicit limits",
+     "India": "Basic structure doctrine from [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala) (1973)"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Constitutional amendment",
+     "meaning": "A formal change to a constitution's text, made by a harder procedure than an ordinary law."
+    },
+    {
+     "term": "Supermajority",
+     "meaning": "A vote threshold above a simple majority, such as two-thirds or three-quarters, meant to require broad agreement."
+    },
+    {
+     "term": "Article V",
+     "meaning": "The US Constitution's amendment clause: two-thirds of Congress to propose, three-quarters of the states to ratify."
+    },
+    {
+     "term": "Zmiana Konstytucji (Article 235)",
+     "meaning": "Polish for 'amending the Constitution': two-thirds of the Sejm, an absolute majority of the Senate, and no presidential veto."
+    },
+    {
+     "term": "Samvidhan sanshodhan (Article 368)",
+     "meaning": "Hindi for 'constitutional amendment': India's special-majority procedure, sometimes with ratification by half the states."
+    },
+    {
+     "term": "Basic structure doctrine",
+     "meaning": "The Indian Supreme Court's rule, set in [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala), that amendments cannot destroy the Constitution's core features, such as democracy, federalism and judicial review."
+    }
+   ],
+   "example": "In April 2026 India's government brought the Constitution (131st Amendment) Bill to the Lok Sabha. It would have enlarged the house from 543 to as many as 850 seats, redrawn constituencies using the 2011 census, and brought in one-third reservation for women right after that redrawing. On 17 April, 528 members were present: 298 voted yes and 230 no. That is a clear majority, and enough for any ordinary law, but Article 368 demands two-thirds of those present and voting, 352 here, so the bill failed by 54 votes. The case shows the special majority working as intended. A government can pass ordinary laws alone, but changing how Parliament itself is built needs part of the opposition on board.",
+   "inTheNews": "Poland's Constitutional Tribunal dispute is on pause for national mourning, but the PSL's 'constitutional reset', presented on 5 November by its leader [@Władysław Kosiniak-Kamysz](https://en.wikipedia.org/wiki/Władysław_Kosiniak-Kamysz), would amend the Constitution to replace the Tribunal's judges. Under Article 235 it needs two-thirds of the Sejm, far more than the governing coalition holds, which is why its fate depends on the opposition.",
+   "newsEvents": [
+    "E-261109-09"
+   ],
+   "check": [
+    {
+     "q": "Why can India amend its constitution far more often than the United States, even though both legislatures need two-thirds votes?",
+     "options": [
+      "India's president can amend the constitution by decree",
+      "Most Indian amendments need only Parliament's special majority, while every US amendment also needs three-quarters of the states",
+      "The US Congress needs unanimity",
+      "India's Supreme Court writes amendments itself"
+     ],
+     "answer": 1,
+     "explain": "The extra US step, ratification by 38 states, is what makes Article V so hard. In India, only provisions touching federalism need the states, so a large majority in Parliament can amend most of the text alone."
+    },
+    {
+     "q": "Poland's president has vetoed dozens of ordinary laws. What could he do if the Sejm and Senate passed a constitutional amendment he disliked?",
+     "options": [
+      "Veto it, and the Sejm would need three-fifths to override",
+      "Send it back for a second vote by simple majority",
+      "Nothing to block it: he must sign within 21 days, though a referendum can be requested for some chapters",
+      "Dissolve the Sejm automatically"
+     ],
+     "answer": 2,
+     "explain": "Article 235 gives the president no veto over amendments. He, the Senate or a fifth of deputies can only ask for a referendum when Chapters I, II or XII are changed."
+    },
+    {
+     "q": "What does India's basic structure doctrine add that the US and Polish constitutions do not have in the same form?",
+     "options": [
+      "A rule that judges can review amendments themselves, not only ordinary laws",
+      "A ban on any amendment after 1973",
+      "A requirement that every amendment pass a national referendum",
+      "A power for state governors to veto amendments"
+     ],
+     "answer": 0,
+     "explain": "Since Kesavananda Bharati (1973), India's Supreme Court can strike down an amendment that destroys the Constitution's core features. Formally valid amendments in the US and Poland face no such test."
+    }
+   ],
+   "recallQ": "Why does the PSL's 'constitutional reset' depend on opposition parties, when the governing coalition can pass ordinary laws on its own?",
+   "recallA": "A constitutional amendment in Poland needs two-thirds of the votes in the Sejm, not the simple majority that ordinary laws need. The governing coalition holds a majority but well short of two-thirds, so it needs opposition votes. The upside is that, once passed, an amendment cannot be vetoed by the president.",
+   "readMore": [
+    {
+     "title": "Article V: The amendment process (National Constitution Center)",
+     "url": "https://constitutioncenter.org/the-constitution/articles/article-v",
+     "why": "The text of Article V with scholarly commentary on how amendments are proposed and ratified."
+    },
+    {
+     "title": "The Procedure for Amending the Constitution in the Republic of Poland – Selected Issues (Journal of the University of Latvia, Law)",
+     "url": "https://journal.lu.lv/jull/article/view/391",
+     "why": "An academic look at how Article 235 works in practice and its open questions."
+    },
+    {
+     "title": "The Constitution of India (Constitution of India project, CLPR)",
+     "url": "https://www.constitutionofindia.net/constitution_of_india",
+     "why": "Article-by-article text of the Constitution, including Article 368, with the Constituent Assembly debates behind each."
+    }
+   ]
   }
  ]
 }
