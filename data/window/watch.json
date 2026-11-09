@@ -1055,6 +1055,17 @@
    "checkDate": "2026-11-11",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261109-01",
+   "dateAdded": "2026-11-09",
+   "place": "India",
+   "domain": "Science & space",
+   "what": "Signing of India's association agreement with Horizon Europe now that negotiations have concluded",
+   "expected": "Indian and EU negotiators (talks reported concluded, Nov 7)",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": "E-261109-17"
   }
  ]
 }

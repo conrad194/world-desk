@@ -1703,6 +1703,18 @@
    "lean": "Public broadcaster (government-controlled since 2024 reform)",
    "status": "Watch",
    "dateAdded": "2026-11-09"
+  },
+  {
+   "id": "business-standard",
+   "name": "Business Standard",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Markets, economy, policy",
+   "language": "English",
+   "url": "https://www.business-standard.com",
+   "lean": "Centre / business",
+   "status": "Watch",
+   "dateAdded": "2026-11-09"
   }
  ]
 }
