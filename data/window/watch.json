@@ -866,8 +866,8 @@
    "what": "Market reaction (złoty, 10-year yields) to S&P's negative outlook, and any Palace response",
    "expected": "Economists expect yields to stay high rather than jump.",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": "E-261107-18"
+   "happened": "The złoty firmed on Nov 9 (EUR/PLN below 4.39) as the dollar weakened; S&P also cut Pekao's outlook. No bond-yield figures found ([PAP Biznes](https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700)).",
+   "eventId": "E-261110-02"
   },
   {
    "id": "W-261107-06",
@@ -932,8 +932,8 @@
    "what": "The Section 301 suspension of port fees on Chinese-linked vessels and the 178 China product exclusions expire at 11:59pm ET on Nov 9. USTR proposed on Oct 23 to extend the suspension to Jan 9, 2027 (docket USTR-2026-0694), but no final notice had been found.",
    "expected": "USTR Federal Register notice; Bessent said the US-China truce runs to Jan 10, 2027",
    "checkDate": "2026-11-12",
-   "happened": "",
-   "eventId": ""
+   "happened": "Reported: the US formalised a two-month extension of the port-fee suspension and China extended its own 24% tariff and port-fee suspensions by two months. Federal Register text not yet seen ([Seatrade](https://seatrade-maritime.com/regulations/us-formalises-two-month-suspension-of-chinese-vessel-fees)).",
+   "eventId": "E-261110-03"
   },
   {
    "id": "W-261108-02",
@@ -987,8 +987,8 @@
    "what": "Energy Minister's notice on maximum fuel prices for Nov 10 onward, or the end of the caps",
    "expected": "Dziennik.pl notes the caps are set only through Nov 9",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "Yes. A new notice set caps from Nov 10: Pb95 6.04 zł, Pb98 6.67 zł, diesel 7.74 zł ([PAP Biznes](https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700)).",
+   "eventId": "E-261110-01"
   },
   {
    "id": "W-261108-07",
@@ -1020,8 +1020,8 @@
    "what": "Post-Diwali Delhi AQI and whether CAQM escalates to GRAP Stage IV; complete firecracker ban restored from Nov 9",
    "expected": "CAQM / Supreme Court order (PTI)",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "Nov 9 official AQI 344 ('very poor'); GRAP Stage III stays, no Stage IV as of Nov 10 morning ([Outlook India](https://www.outlookindia.com/national/delhi-smog-after-diwali-aqi-371-severe-air-pollution-stubble-burning-grap-stage-3)).",
+   "eventId": "E-261110-04"
   },
   {
    "id": "W-261108-10",
