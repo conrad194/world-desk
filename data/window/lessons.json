@@ -493,6 +493,143 @@
      "why": "Article-by-article text of the Constitution, including Article 368, with the Constituent Assembly debates behind each."
     }
    ]
+  },
+  {
+   "id": "L03",
+   "num": 3,
+   "unit": "How each country is governed",
+   "title": "Head of state vs head of government",
+   "dateTaught": "2026-11-10",
+   "minutes": 7,
+   "pulledForward": false,
+   "prevQuestion": "Why does the PSL's 'constitutional reset' depend on opposition parties, when the governing coalition can pass ordinary laws on its own?",
+   "prevAnswer": "A constitutional amendment in Poland needs two-thirds of the votes in the Sejm, not the simple majority that ordinary laws need. The governing coalition holds a majority but well short of two-thirds, so it needs opposition votes. The upside is that, once passed, an amendment cannot be vetoed by the president.",
+   "body": "Lesson 1 sorted the three countries into presidential, mixed and parliamentary systems. This lesson zooms in on the idea underneath that sorting. Every state needs two jobs done. The **head of state** embodies the country: a symbol of continuity who receives ambassadors, signs laws, awards honours and leads the nation in mourning. The **head of government** runs the country day to day: setting policy, directing ministers and answering to voters or parliament. The question is whether one person holds both jobs or two people share them.\n\n**United States: one person, both hats.** Article II gives all executive power to the president, so [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) is at once the national symbol and the chief policymaker. He greets foreign leaders and lays wreaths, but he also commands the armed forces, picks the cabinet and decides strategy, such as declaring the Iran war \"effectively\" over. The upside is clear accountability: there is one person to praise or blame. The downside is that a deeply partisan figure also has to be the unifying symbol, and many Americans find it hard to see their opponent's president as theirs too.\n\n> The title \"Mr. President\" was settled in 1789, when Congress rejected grander titles for [@George Washington](https://en.wikipedia.org/wiki/George_Washington).\n\n**India: a symbolic president, a ruling prime minister.** India copied the British model. The **President** (Rashtrapati), today [@Droupadi Murmu](https://en.wikipedia.org/wiki/Droupadi_Murmu), is head of state. She is chosen indirectly for five years by an electoral college of MPs and state legislators, not by voters. Under Article 74 she must act on the advice of the Council of Ministers, led by the **Prime Minister** (Pradhan Mantri), today [@Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi). Real power follows the Lok Sabha majority. The president keeps a few genuine choices: who to invite to form a government when no party has a majority, and the right to send advice back once for reconsideration.\n\n> India's first president, [@Rajendra Prasad](https://en.wikipedia.org/wiki/Rajendra_Prasad), took office on 26 January 1950, the day the Constitution came into force.\n\n**Poland: two real players.** Poland sits in between. The **President** (Prezydent RP), today [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki), is elected directly by voters for five years, at most two terms. That popular mandate gives him real weight: he can veto laws (Lesson 7), send them to the Constitutional Tribunal, nominate the prime minister, and he is commander-in-chief of the armed forces. But the government is run by the **Prime Minister** (Prezes Rady Ministrów), today [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk), who answers to the Sejm. Most of the president's official acts need the prime minister's **countersignature** (kontrasygnata); the 1997 Constitution lists the exceptions, called prerogatives, which he may use alone.\n\n> Poland restored the presidency in 1989 as part of the [#Polish Round Table Agreement](https://en.wikipedia.org/wiki/Polish_Round_Table_Agreement); the first popular election followed in 1990.\n\nWhen the president and prime minister come from rival camps, as Nawrocki (backed by PiS) and Tusk (Civic Coalition) do now, the French call it **cohabitation**. It produces constant friction: vetoes, disputes over ambassadors and judges, and competing claims to speak for Poland abroad. Political scientists disagree on whether this is a design flaw or a useful brake on whichever side controls the Sejm.\n\nThe split also explains moments like this week's. After the Kraków shooting, the president's job as head of state is to embody national grief, award honours and stand above party; the prime minister's job is to run the response through the Interior Ministry and police. Seeing them walk side by side was notable precisely because their daily relationship is so adversarial.",
+   "comparison": [
+    {
+     "aspect": "Head of state",
+     "US": "President",
+     "Poland": "President (Prezydent RP)",
+     "India": "President (Rashtrapati)"
+    },
+    {
+     "aspect": "Head of government",
+     "US": "President (same person)",
+     "Poland": "Prime Minister (Prezes Rady Ministrów)",
+     "India": "Prime Minister (Pradhan Mantri)"
+    },
+    {
+     "aspect": "How the head of state is chosen",
+     "US": "Electoral College, 4-year term, two-term limit",
+     "Poland": "Direct popular vote, 5-year term, two-term limit",
+     "India": "Electoral college of MPs and state legislators, 5-year term"
+    },
+    {
+     "aspect": "Head of state's real power",
+     "US": "Full executive power",
+     "Poland": "Veto, Tribunal referral, PM nomination, commander-in-chief; most acts need PM countersignature",
+     "India": "Mostly formal; acts on ministers' advice, may return it once"
+    },
+    {
+     "aspect": "Who the head of government answers to",
+     "US": "Voters and impeachment by Congress",
+     "Poland": "The Sejm (constructive vote of no confidence)",
+     "India": "The Lok Sabha (vote of no confidence)"
+    },
+    {
+     "aspect": "Current holders",
+     "US": "[@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)",
+     "Poland": "[@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) and [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk)",
+     "India": "[@Droupadi Murmu](https://en.wikipedia.org/wiki/Droupadi_Murmu) and [@Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi)"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Head of state",
+     "meaning": "The person who formally represents the country and symbolizes its unity and continuity."
+    },
+    {
+     "term": "Head of government",
+     "meaning": "The person who leads the executive and directs policy day to day."
+    },
+    {
+     "term": "Countersignature (kontrasygnata)",
+     "meaning": "In Poland, the prime minister's signature that most presidential acts need to be valid, making the government responsible for them."
+    },
+    {
+     "term": "Prerogatives (prerogatywy)",
+     "meaning": "The Polish president's powers that need no countersignature, such as a veto or nominating the prime minister."
+    },
+    {
+     "term": "Aid and advice",
+     "meaning": "India's Article 74 rule that the president acts on the Council of Ministers' advice."
+    },
+    {
+     "term": "Cohabitation",
+     "meaning": "A French term for a president and prime minister from rival political camps sharing power."
+    }
+   ],
+   "example": "In June 1975, after a court voided her election, Prime Minister [@Indira Gandhi](https://en.wikipedia.org/wiki/Indira_Gandhi) asked President [@Fakhruddin Ali Ahmed](https://en.wikipedia.org/wiki/Fakhruddin_Ali_Ahmed) to proclaim a national emergency. He signed late at night, before the cabinet had even met, beginning [#The Emergency (India)](https://en.wikipedia.org/wiki/The_Emergency_(India)): 21 months of suspended rights and jailed opponents. The episode showed the risk of a purely symbolic head of state. The [#Forty-second Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India) (1976) then made ministerial advice explicitly binding. After Gandhi lost the 1977 election, the [#Forty-fourth Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Forty-fourth_Amendment_of_the_Constitution_of_India) (1978) let the president return advice once, and required a cabinet decision in writing before any emergency. The president gained a moment to pause, but not a veto.",
+   "inTheNews": "President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) and PM [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) walked together in Kraków's silent march, and Nawrocki decorated the wounded officers, a head-of-state role. In Washington, [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) set Iran policy himself, while Poland's defence minister, a member of Tusk's government rather than the president's staff, negotiates with the Pentagon.",
+   "newsEvents": [
+    "E-261110-19",
+    "E-261110-05",
+    "E-261110-24"
+   ],
+   "check": [
+    {
+     "q": "Why can't India's president simply refuse to sign a decision of the cabinet she dislikes?",
+     "options": [
+      "She can, since she is directly elected",
+      "Article 74 binds her to act on ministers' advice; she may only return it once",
+      "The Supreme Court signs in her place",
+      "The Rajya Sabha must approve every refusal"
+     ],
+     "answer": 1,
+     "explain": "India's president is a constitutional head of state. She can ask the cabinet to reconsider once, but if it repeats the advice she must follow it."
+    },
+    {
+     "q": "What gives Poland's president more political weight than India's?",
+     "options": [
+      "He chairs the Council of Ministers",
+      "He is elected directly by voters and holds prerogatives such as the veto",
+      "He appoints every minister without the Sejm",
+      "He can dissolve the Sejm at will"
+     ],
+     "answer": 1,
+     "explain": "A popular mandate plus powers that need no countersignature, above all the veto, make the Polish president a real player, even though the prime minister runs the government."
+    },
+    {
+     "q": "What is the main trade-off of the US fusing both roles in one president?",
+     "options": [
+      "Clear accountability, but a partisan leader must also be the unifying national symbol",
+      "More stable coalitions, but weaker courts",
+      "Faster amendments, but no veto",
+      "A stronger parliament, but a weaker cabinet"
+     ],
+     "answer": 0,
+     "explain": "One person is responsible for everything, which is clear, but the same partisan figure must also represent the whole nation."
+    }
+   ],
+   "recallQ": "In Poland's cohabitation, why does the prime minister's countersignature matter so much to how the president can act?",
+   "recallA": "Most of the president's official acts are valid only if the prime minister countersigns them, so the government shares responsibility and can block them. Only the prerogatives listed in the Constitution, such as the veto or referring a law to the Tribunal, can be used alone. In cohabitation those prerogatives become the president's main tools against the government.",
+   "readMore": [
+    {
+     "title": "Article II of the US Constitution (National Constitution Center)",
+     "url": "https://constitutioncenter.org/interactive-constitution/article/article-ii",
+     "why": "The text and scholarly commentary on why the presidency combines both roles."
+    },
+    {
+     "title": "Constitution of the Republic of Poland (Sejm Library)",
+     "url": "https://biblioteka.sejm.gov.pl/konstytucje-swiata-polska/?lang=en",
+     "why": "Chapter V covers the president and Article 144 lists the prerogatives free of countersignature."
+    },
+    {
+     "title": "Article 74: Council of Ministers to aid and advise President",
+     "url": "https://www.constitutionofindia.net/articles/article-74-council-of-ministers-to-aid-and-advise-president/",
+     "why": "The article that makes India's president act on ministerial advice, with Constituent Assembly debates."
+    }
+   ]
   }
  ]
 }
