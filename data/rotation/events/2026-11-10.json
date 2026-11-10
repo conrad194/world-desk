@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-10",
+ "items": [
+  {
+   "id": "E-261110-01",
+   "dateLogged": "2026-11-10",
+   "eventDate": "2026-11-10",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "The first three-way US–Russia–Ukraine talks since February opened in Abu Dhabi for two days, with [[p:Jared Kushner]] and [[p:Steve Witkoff]] mediating and security guarantees on the agenda. Kushner called it an initial step to build momentum; no European delegation is reported at the table. Russia's team under [[p:Vladimir Medinsky]] includes GRU chief [[p:Igor Kostyukov]] and deputy foreign minister [[p:Sergei Ryabkov]].",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "CBS News / AP; Kyiv Post",
+   "language": "English",
+   "link1": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+   "link2": "https://kyivpost.com/post/89466",
+   "archive": "https://web.archive.org/web/2026/https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+   "paywalled": "N",
+   "thread": "Russia–Ukraine peace talks",
+   "followsUp": "",
+   "notes": "French FM Barrot said on 8 Nov that Europeans would take part; AP reports no European delegation. Watch item W-261025-04."
+  }
+ ]
+}
