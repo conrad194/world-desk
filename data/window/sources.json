@@ -1727,6 +1727,18 @@
    "lean": "Centre / wire",
    "status": "Watch",
    "dateAdded": "2026-11-10"
+  },
+  {
+   "id": "hdfc-sky",
+   "name": "HDFC Sky market reports",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Daily market close reports",
+   "language": "English",
+   "url": "https://hdfcsky.com/news",
+   "lean": "Brokerage / business",
+   "status": "Watch",
+   "dateAdded": "2026-11-10"
   }
  ]
 }

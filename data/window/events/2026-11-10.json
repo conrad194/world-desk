@@ -420,6 +420,46 @@
    "text": "Radio Kraków reports Rynek Główny has reopened. City mourning lasts to Nov 11; the city plans retractable barriers around the square and police are weighing vehicle restrictions for Independence Day. The condolence book at City Hall stays open until Nov 11.",
    "outlet": "Radio Kraków",
    "link1": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431"
+  },
+  {
+   "dateLogged": "2026-11-10",
+   "eventDate": "2026-11-09",
+   "reporter": "",
+   "language": "English",
+   "link2": "https://thesouthfirst.com/health/immunotherapy-targeted-therapies-and-more-137-cancer-drugs-set-to-become-more-affordable-from-9-november/",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "",
+   "followsUp": "",
+   "notes": "Logged as rule R-261110-01.",
+   "verification": "Confirmed",
+   "tier": 1,
+   "id": "E-261110-22",
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "text": "From Nov 9, trade margins on 137 non-scheduled anti-cancer medicines are capped at 30% under an NPPA order announced in October. The government says prices of some brands could fall by up to 70%.",
+   "outlet": "News On AIR",
+   "link1": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/"
+  },
+  {
+   "dateLogged": "2026-11-10",
+   "eventDate": "2026-11-09",
+   "reporter": "",
+   "language": "English",
+   "link2": "https://theindianawaaz.com/market-nov-9-sensex-nifty-end-higher-as-psu-banks-rally-nifty-reclaims-25000/",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "India oil shock and markets",
+   "followsUp": "",
+   "notes": "",
+   "verification": "Confirmed",
+   "tier": 2,
+   "id": "E-261110-23",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "text": "Sensex rose 107 points to 81,107 and Nifty 58 points to 25,045, both at their highest close since Feb 27, as falling crude and PSU banks (+3.7%) offset IT losses. Foreign investors have bought over $4.1bn of Indian shares so far in November. Markets are shut on Nov 10 (Balipratipada) and reopen Nov 11.",
+   "outlet": "HDFC Sky",
+   "link1": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
   }
  ]
 }
