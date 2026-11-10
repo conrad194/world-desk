@@ -300,6 +300,109 @@
    "prevAnswer": "The students saw the old opposition as discredited and too fragmented to beat the SNS, so they stayed leaderless and later ran their own Student List of non-politicians. This echoed Otpor, the leaderless student movement of 1998–2000 that helped topple Milošević.",
    "recallQ": "What was the core 'sequencing' dispute that sank the Minsk agreements, and how does it echo in today's talks?",
    "recallA": "Ukraine wanted Russian forces withdrawn and its border restored before local elections in Donbas, while Russia insisted elections and special status come first. Today the same gap appears as Kyiv seeking a ceasefire first and Moscow demanding political and territorial terms first."
+  },
+  {
+   "id": "2026-11-10",
+   "date": "2026-11-10",
+   "segment": "Middle East",
+   "title": "How Saudi Arabia and the Houthis became enemies",
+   "thread": "Saudi–Houthi war",
+   "eventIds": [
+    "E-261110-06",
+    "E-261110-05",
+    "E-261110-07"
+   ],
+   "minutes": 4,
+   "hook": "Turkey has ratified the [[e:Mecca Joint Defence Agreement]] and Syrian troops are reportedly heading to the Saudi–Yemeni border, as [[p:Houthis|Houthi]] missiles keep hitting Riyadh. The roots of this war run back to a 1934 border treaty and a religious rivalry in Yemen's northern mountains.",
+   "body": "The quarrel between Saudi Arabia and Yemen's northern highlands is older than the Houthis. In 1934 [[p:Ibn Saud]]'s new kingdom defeated Yemen's Zaydi imam in the [[e:Saudi–Yemeni war (1934)]] {{note: A short border war fought in spring 1934 between Ibn Saud's forces and Imam Yahya's Kingdom of Yemen.}}. The treaty signed at Taif left **Asir, Jizan and Najran** under Saudi rule, provinces many Yemenis still call lost land. The border was only finally fixed in 2000, and it runs straight past Saada, the Zaydi heartland.\n\nFor decades, though, Riyadh was the Zaydi imams' ally, not their enemy. When republican officers overthrew the imamate in 1962, Saudi Arabia armed the royalist tribes against Egyptian-backed republicans in the [[e:North Yemen civil war]] until 1970. The shift came later. From the 1980s, Saudi-funded Salafi preachers built schools in the north, most famously at Dammaj near Saada, and taught that Zaydi traditions were heresy. Zaydi revivalists pushed back. In the 1990s a cleric's son, Hussein al-Houthi, turned that revival into a political movement that denounced the Yemeni government, America, Israel and Saudi influence alike.\n\nThe movement became an armed one after Hussein was killed by government troops in 2004. Six rounds of the [[e:Houthi insurgency]] followed in Saada, and in late 2009 the Houthis crossed the frontier. Saudi Arabia went to war against them directly for the first time, losing more than a hundred soldiers in a few months of mountain fighting. Riyadh came away convinced the group was an Iranian proxy on its border, a reading the Houthis rejected as cover for Saudi meddling.\n\nThe [[e:Arab Spring]] broke the Yemeni state. In September 2014 the [[p:Houthis]], allied with former president Ali Abdullah Saleh, seized Sanaa. In March 2015 Saudi Arabia, led by its young defence minister [[p:Mohammed bin Salman]], launched the [[e:Saudi-led intervention in the Yemeni civil war|Saudi-led intervention]] to restore the ousted government. Instead of a quick win it became a long war of airstrikes and blockade on one side, and on the other, Houthi missiles and drones aimed at Saudi cities and oil sites, peaking with the [[e:Abqaiq–Khurais attack]] {{note: Drone and missile strike on Saudi Aramco plants on 14 September 2019; the Houthis claimed it, while Washington blamed Iran.}} in 2019.\n\nBy 2022 both sides were exhausted. A UN truce in April largely held even after it formally lapsed, and in 2023, after Saudi Arabia and Iran restored relations, Saudi envoys negotiated face to face with the Houthis in Sanaa. A deal seemed close.\n\nThe war with Iran ended that. Fighting in Yemen resumed in mid-2026, and the Houthis took their fight back into the kingdom, striking Riyadh's airport and oil infrastructure. This time Riyadh is not leading a coalition of Gulf neighbours but recruiting bigger powers: Egypt's defensive deployment, Turkey's ratification of the [[e:Mecca Joint Defence Agreement]] {{note: Defence pact joining Saudi Arabia, Pakistan and Turkey; Turkey completed ratification on 4 November 2026.}} and reported Syrian troops on the border. The ninety-year-old border quarrel has become a regional alliance contest.",
+   "timeline": [
+    {
+     "when": "1934",
+     "text": "Saudi Arabia wins the [[e:Saudi–Yemeni war (1934)]]; the Treaty of Taif leaves Asir, Jizan and Najran under Saudi rule."
+    },
+    {
+     "when": "1962–1970",
+     "text": "Riyadh backs Yemen's Zaydi royalists against Egyptian-backed republicans in the [[e:North Yemen civil war]]."
+    },
+    {
+     "when": "1990s",
+     "text": "Zaydi revival in Saada, partly a reaction to Saudi-funded Salafi schools, grows into Hussein al-Houthi's movement."
+    },
+    {
+     "when": "2004",
+     "text": "Hussein al-Houthi is killed by Yemeni troops, starting the [[e:Houthi insurgency]]."
+    },
+    {
+     "when": "Nov 2009",
+     "text": "Houthi fighters cross the border and Saudi Arabia fights them directly for the first time."
+    },
+    {
+     "when": "Mar 2015",
+     "text": "After the Houthis take Sanaa, the [[e:Saudi-led intervention in the Yemeni civil war|Saudi-led intervention]] begins."
+    },
+    {
+     "when": "Apr 2022",
+     "text": "A UN-brokered truce halts most fighting; Saudi–Houthi talks follow in 2023."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "With Yemen's war reignited, Turkey ratifies the [[e:Mecca Joint Defence Agreement]] and Syrian troops are reported on the Saudi–Yemeni border."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Saudi Arabia and its allies",
+     "view": "Riyadh sees the [[p:Houthis]] as an Iranian-armed militia that seized Yemen's capital by force and threatens Saudi cities. It frames its campaigns as defending its border and restoring Yemen's recognised government."
+    },
+    {
+     "side": "The Houthis",
+     "view": "The movement presents itself as resisting decades of Saudi interference, from the 1934 annexation of Yemeni provinces to Salafi proselytising and the 2015 war and blockade. It describes its strikes on the kingdom as retaliation against aggression."
+    },
+    {
+     "side": "Yemen's government and many Yemenis outside Houthi areas",
+     "view": "They see the Houthis as a coup movement that overthrew a transitional government and imposes rule by one family and sect. Many also blame the Saudi-led air war and blockade for much of the civilian suffering."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Zaydism",
+     "meaning": "A branch of Shia Islam centred in Yemen's northern highlands, whose imams ruled parts of Yemen for about a thousand years until 1962."
+    },
+    {
+     "term": "Treaty of Taif (1934)",
+     "meaning": "The settlement after the 1934 war that left Asir, Jizan and Najran inside Saudi Arabia; the border was finalised by the Treaty of Jeddah in 2000."
+    },
+    {
+     "term": "Saada",
+     "meaning": "Northern Yemeni province on the Saudi border, heartland of Zaydism and birthplace of the Houthi movement."
+    },
+    {
+     "term": "Ansar Allah",
+     "meaning": "\"Supporters of God\", the Houthi movement's official name."
+    }
+   ],
+   "whyItMatters": "The [[p:Houthis]] sit on Saudi Arabia's longest land border and next to the Bab al-Mandab strait, so this war threatens Saudi oil, Red Sea shipping and the kingdom's plans to diversify its economy. Because the Houthis read Saudi pressure through ninety years of grievance, outside troops from Egypt, Turkey or Syria may harden their resolve rather than deter them. Watch whether any US–Iran deal over Hormuz also covers Yemen, and whether the 2023 Saudi–Houthi channel reopens.",
+   "readMore": [
+    {
+     "title": "Houthi movement (Encyclopaedia Britannica)",
+     "url": "https://www.britannica.com/topic/Houthi-movement",
+     "why": "Concise reference on the movement's Zaydi roots and rise."
+    },
+    {
+     "title": "Yemen's Tragedy: War, Stalemate, and Suffering (Council on Foreign Relations)",
+     "url": "https://www.cfr.org/backgrounder/yemen-crisis",
+     "why": "Backgrounder on the civil war and the Saudi-led intervention."
+    },
+    {
+     "title": "How Yemen's Houthis evolved from a religious revival into a regional threat (Arab News)",
+     "url": "https://www.arabnews.pk/middle-east/how-yemens-houthis-evolved-from-a-religious-revival-into-a-regional-threat-3004184",
+     "why": "October 2026 long read tracing the path from Saada to Sanaa, by a Yemeni analyst (Saudi-owned outlet)."
+    }
+   ],
+   "prevQuestion": "What was the core 'sequencing' dispute that sank the Minsk agreements, and how does it echo in today's talks?",
+   "prevAnswer": "Ukraine wanted Russian forces withdrawn and its border restored before local elections in Donbas, while Russia insisted elections and special status come first. Today the same gap appears as Kyiv seeking a ceasefire first and Moscow demanding political and territorial terms first.",
+   "recallQ": "Why was Saudi Arabia's war with the Houthis in 2009 a turning point compared with the decades before?",
+   "recallA": "For most of the 20th century Riyadh had backed Yemen's Zaydi royalists, notably in the 1962–1970 civil war. In 2009 it fought the Zaydi-rooted Houthis directly for the first time, after they crossed the border, and came away seeing them as an Iranian proxy, a view that shaped its 2015 intervention."
   }
  ]
 }
