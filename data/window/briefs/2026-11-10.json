@@ -1,0 +1,846 @@
+{
+ "date": "2026-11-10",
+ "top5": [
+  {
+   "text": "The Kraków attacker died in hospital before he could be charged; his parents and sister were found shot dead at home, bringing the toll to nine.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/przestepczosc/art45463021-nie-zyje-zamachowiec-z-krakowa"
+    },
+    {
+     "label": "More",
+     "url": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431"
+    }
+   ]
+  },
+  {
+   "text": "Trump says the Iran war is \"effectively\" over and the blockades stay; Rubio reports no progress in talks.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+    },
+    {
+     "label": "More",
+     "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+    }
+   ]
+  },
+  {
+   "text": "Oil fell nearly 6% and US stocks rose over 2%; markets now price a likely December Fed hike.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Reuters (via MarketScreener)",
+     "url": "https://www.marketscreener.com/news/stocks-jump-as-oil-tumbles-nvidia-falls-amid-internal-probe-ce785fd3d180f621"
+    },
+    {
+     "label": "More",
+     "url": "https://www.cmg-plus.com/2026/11/09/the-closing-bell-us-stocks-rally-and-claw-back-more-of-last-weeks-losses-as-oil-prices-swing-lower/"
+    }
+   ]
+  },
+  {
+   "text": "Kosiniak-Kamysz meets Hegseth at the Pentagon today on US bases in Poland.",
+   "place": "US–Poland",
+   "links": [
+    {
+     "label": "Interia",
+     "url": "https://wydarzenia.interia.pl/kraj/news-jest-termin-wizyty-kosiniaka-kamysza-w-usa-pentagon-potwierd,nId,23570444"
+    },
+    {
+     "label": "More",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/kosiniak-kamysz-leci-do-usa-spotka-sie-z-sekretarzem-wojny/"
+    }
+   ]
+  },
+  {
+   "text": "India’s 30% margin cap on 137 cancer drugs took effect, with some prices due to fall sharply.",
+   "place": "India",
+   "links": [
+    {
+     "label": "News On AIR",
+     "url": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/"
+    },
+    {
+     "label": "More",
+     "url": "https://thesouthfirst.com/health/immunotherapy-targeted-therapies-and-more-137-cancer-drugs-set-to-become-more-affordable-from-9-november/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261110-05",
+    "domain": "Foreign relations",
+    "text": "After meeting Qatar's prime minister and VP Vance at the White House, Trump said the war with Iran is \"effectively\" over militarily and the US would keep the status quo, including the naval blockade and the Iron Gate land blockade, while staying ready to strike. Qatar's PM reportedly passed on an Iranian two-day proposal on Hormuz security.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+     },
+     {
+      "label": "More",
+      "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-06",
+    "domain": "Foreign relations",
+    "text": "Secretary of State Rubio said there has been no real progress in talks and called some of Iran's demands unrealistic. Iran's foreign ministry said Washington must end sanctions, the blockade and the war on all fronts before negotiations; a senior security official dismissed talk of talks as fake. Accounts from the two sides conflict.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+     },
+     {
+      "label": "More",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-08",
+    "domain": "Economy, business & markets",
+    "text": "Stocks rallied as oil fell on hopes the Iran war is winding down: the S&P 500 rose 2.35% to 7,549.94, the Dow 2.15% (+1,104 points) to 52,389.75 and the Nasdaq 2.74%. Brent fell 5.85% to $92.57 and WTI 4.38% to $86.85. The 10-year Treasury yield edged up to about 4.87% before the October CPI; fed funds futures priced about an 84% chance of a December rate hike.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Reuters (via MarketScreener)",
+      "url": "https://www.marketscreener.com/news/stocks-jump-as-oil-tumbles-nvidia-falls-amid-internal-probe-ce785fd3d180f621"
+     },
+     {
+      "label": "More",
+      "url": "https://www.cmg-plus.com/2026/11/09/the-closing-bell-us-stocks-rally-and-claw-back-more-of-last-weeks-losses-as-oil-prices-swing-lower/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-09",
+    "domain": "Technology, AI & cyber",
+    "text": "Nvidia is investigating CEO Jensen Huang after he acknowledged a relationship with a business executive whom US intelligence reportedly judged was gathering information for China. The board says it has no reason to believe national-security or company secrets were compromised; China called the claims smears. Shares fell about 4-5%.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "AP",
+      "url": "https://www.cmg-plus.com/2026/11/09/the-closing-bell-us-stocks-rally-and-claw-back-more-of-last-weeks-losses-as-oil-prices-swing-lower/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.marketscreener.com/news/stocks-jump-as-oil-tumbles-nvidia-falls-amid-internal-probe-ce785fd3d180f621"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-03",
+    "domain": "Trade & tariffs",
+    "text": "Trade press reports that the US has formalised a two-month extension of its suspension of Section 301 port fees on China-linked vessels (USTR had proposed running it to Jan 9, 2027). China said it is extending, by two months, its suspension of the extra 24% tariff on US goods and its special port fees; its 10% tariff stays.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Seatrade Maritime",
+      "url": "https://seatrade-maritime.com/regulations/us-formalises-two-month-suspension-of-chinese-vessel-fees"
+     },
+     {
+      "label": "More",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-10",
+    "domain": "Politics & government",
+    "text": "Mississippi Senate race: Nov 10 is the deadline for voters who cast affidavit ballots for lack of photo ID to cure them; counties must certify by Nov 13. Colom's last reported lead was 2,574 votes (AP, Nov 6). Republicans have demanded affidavit ballots be segregated and preserved, signalling a possible legal challenge.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Democracy Docket",
+      "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/"
+     },
+     {
+      "label": "More",
+      "url": "https://mississippitoday.org/2026/11/06/lawyers-advocates-hover-as-mississippi-election-officials-count-final-colom-hyde-smith-votes"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261110-01",
+    "domain": "Economy, business & markets",
+    "text": "The fuel price caps continue: the Energy Minister published new maximum prices valid from Nov 10 — petrol 95 at 6.04 zł/l, petrol 98 at 6.67 zł/l and diesel at 7.74 zł/l, all lower than the previous caps. Some outlets printed different figures; these are the numbers in the PAP Biznes summary.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland fuel price caps",
+    "links": [
+     {
+      "label": "PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+     },
+     {
+      "label": "More",
+      "url": "https://energia.rp.pl/paliwa/art45464611-ceny-benzyny-w-dol-ogloszono-maksymalne-ceny"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-02",
+    "domain": "Economy, business & markets",
+    "text": "The złoty firmed on the first trading day after S&P cut Poland's outlook to negative: EUR/PLN fell below 4.39 (reference 4.3947) as the dollar weakened. S&P also moved Bank Pekao's outlook to negative after the sovereign action.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland public finances and credit ratings",
+    "links": [
+     {
+      "label": "PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+     },
+     {
+      "label": "More",
+      "url": "https://xyz.pl/?p=273310"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-12",
+    "domain": "Society: education, labor, immigration",
+    "text": "Registered unemployment was 5.8% in October (preliminary), unchanged from September and in line with forecasts. GUS said the average gross wage in Q3 rose 6.2% year on year to 9,317 zł.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-13",
+    "domain": "Economy, business & markets",
+    "text": "Finance Minister Domański said the ministry will decide by the end of November whether Poland seeks additional loans from the EU's SAFE defence programme, and that Poland wants defence funding in the next EU budget.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland public finances and credit ratings",
+    "links": [
+     {
+      "label": "PAP Biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261110-17",
+    "domain": "Defense, security & crime",
+    "text": "The attacker, 24-year-old Michał O. from Ostrowiec Świętokrzyski, died in a Kraków hospital at about 4:30 am on Nov 9 after three operations, so he will never be charged. His autopsy is scheduled for Nov 10.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45463021-nie-zyje-zamachowiec-z-krakowa"
+     },
+     {
+      "label": "More",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-09/nie-zyje-sprawca-strzelaniny-w-krakowie-zmarl-w-szpitalu/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-18",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors said his parents and sister were found shot dead in the family flat in Ostrowiec; a preliminary assessment puts their deaths before the attack. That brings the toll to nine dead. Interior Minister Kierwiński says he had no record and acted alone; prosecutors are still checking whether anyone helped and found no obvious symbolism in his room.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45463021-nie-zyje-zamachowiec-z-krakowa"
+     },
+     {
+      "label": "More",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-19",
+    "domain": "Politics & government",
+    "text": "Thousands joined the silent march on Monday evening, led by Mayor Gibała with President Nawrocki and PM Tusk walking together; there were no speeches. Nawrocki later awarded the two wounded police officers the Officer’s Cross of Polonia Restituta, and the city council plans honorary citizenship for them.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/malopolskie/news-prezydent-ramie-w-ramie-z-premierem-marsz-pamieci-w-krakowie,nId,23571488"
+     },
+     {
+      "label": "More",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-21",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Radio Kraków reports Rynek Główny has reopened. City mourning lasts to Nov 11; the city plans retractable barriers around the square and police are weighing vehicle restrictions for Independence Day. The condolence book at City Hall stays open until Nov 11.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431"
+     },
+     {
+      "label": "More",
+      "url": "https://wydarzenia.interia.pl/malopolskie/news-prezydent-ramie-w-ramie-z-premierem-marsz-pamieci-w-krakowie,nId,23571488"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261110-22",
+    "domain": "Health, medicine & food safety",
+    "text": "From Nov 9, trade margins on 137 non-scheduled anti-cancer medicines are capped at 30% under an NPPA order announced in October. The government says prices of some brands could fall by up to 70%.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "News On AIR",
+      "url": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/"
+     },
+     {
+      "label": "More",
+      "url": "https://thesouthfirst.com/health/immunotherapy-targeted-therapies-and-more-137-cancer-drugs-set-to-become-more-affordable-from-9-november/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-23",
+    "domain": "Economy, business & markets",
+    "text": "Sensex rose 107 points to 81,107 and Nifty 58 points to 25,045, both at their highest close since Feb 27, as falling crude and PSU banks (+3.7%) offset IT losses. Foreign investors have bought over $4.1bn of Indian shares so far in November. Markets are shut on Nov 10 (Balipratipada) and reopen Nov 11.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "HDFC Sky",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+     },
+     {
+      "label": "More",
+      "url": "https://theindianawaaz.com/market-nov-9-sensex-nifty-end-higher-as-psu-banks-rally-nifty-reclaims-25000/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261110-04",
+    "domain": "Environment, energy & disasters",
+    "text": "Delhi's official 24-hour AQI for Nov 9, the day after Diwali, was 344 ('very poor'); missing monitoring data mean the true figure may be higher (HT estimated about 360). GRAP Stage III, in force since Nov 6, stays; no move to Stage IV. Forecasters expect 'very poor' air on Nov 10-11 and no rain until Nov 15.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "Outlook India",
+      "url": "https://www.outlookindia.com/national/delhi-smog-after-diwali-aqi-371-severe-air-pollution-stubble-burning-grap-stage-3"
+     },
+     {
+      "label": "More",
+      "url": "https://aninews.in/news/national/general-news/delhis-air-turns-toxic-after-diwali-dtu-records-highest-aqi-of-439-at-10-am-on-monday20261109113022/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Closure",
+   "text": "Radio Kraków reports Rynek Główny has reopened. Expect retractable barriers and possible vehicle limits around the square on Nov 11.",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431"
+  },
+  {
+   "kind": "Event",
+   "text": "City mourning continues to Wednesday, Nov 11. The condolence book at City Hall (pl. Wszystkich Świętych) is open until then; the online book closes at 19:00 on Nov 11.",
+   "link": "https://wydarzenia.interia.pl/malopolskie/news-prezydent-ramie-w-ramie-z-premierem-marsz-pamieci-w-krakowie,nId,23571488"
+  },
+  {
+   "kind": "Event",
+   "text": "The full Independence Day programme for Kraków hadn’t been published in the sources checked.",
+   "link": "https://krakow.pl"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261110-24",
+    "domain": "Foreign relations",
+    "text": "The Pentagon confirmed that Defence Minister Kosiniak-Kamysz meets Defense Secretary Hegseth today at 10:30 Washington time (16:30 in Poland). The talks cover US bases and troop presence in Poland; the visit was postponed from Sept 23 at the US side’s request.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/kraj/news-jest-termin-wizyty-kosiniaka-kamysza-w-usa-pentagon-potwierd,nId,23570444"
+     },
+     {
+      "label": "More",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/kosiniak-kamysz-leci-do-usa-spotka-sie-z-sekretarzem-wojny/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261110-01",
+   "name": "30% trade-margin cap on 137 anti-cancer medicines",
+   "place": "India",
+   "body": "NPPA",
+   "stage": "In force",
+   "changes": "Wholesalers and retailers can add at most 30% on top of the price to distributor for 137 cancer drugs not under price control.",
+   "affects": "Cancer patients, pharmacies and drug makers; some brands could fall by up to 70%.",
+   "effectiveDate": "2026-11-09",
+   "commentDeadline": "",
+   "officialLink": "https://www.nppaindia.nic.in/",
+   "newsLink": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/"
+  }
+ ],
+ "deepDive": {
+  "domain": "Economy, business & markets + Trade & tariffs",
+  "title": "Cheaper oil, a longer truce: who gains",
+  "body": "Monday's markets moved on one input: **oil**. Brent fell almost 6% to about $92.6 after Trump said renewed strikes on Iran were unlikely, though it is still far above pre-war levels. Each of the three economies feels that differently.\n\n**US.** Stocks rose more than 2%, but the bond market didn't celebrate: the 10-year yield edged up to about 4.87%, and futures price roughly an 84% chance of a **rate hike** in December. Investors seem to think cheaper fuel won't quickly undo the inflation that has built up since February. This week's October CPI is the next test. (This is a reading of market pricing, not a forecast.)\n\n**India** imports most of its oil, so cheaper crude helps its trade balance and inflation. The Nifty closed at its highest since February, and foreign investors have put in over $4bn this month, partly money leaving the AI-heavy US tech trade, according to broker commentary.\n\n**Poland** gets some relief at the pump: the government's cap on petrol 95 fell to 6.04 zł from 6.12 zł. The złoty firmed even after S&P's negative outlook, although the rating agency's concern, debt rising amid political deadlock, is a slow-moving problem that oil prices don't fix.\n\n**Trade.** The US–China truce got two more months. Reports say the US formalised its suspension of port fees on China-linked ships, and Beijing extended its pause on the extra 24% tariff. That gives shippers breathing room into January, but it is a pause, not a settlement. The India–US deal is still unsigned ahead of the ASEAN summit in Manila on Nov 15.\n\nWatch whether Rubio's 'no progress' or Trump's 'effectively over' proves right. Oil, and with it all three stories, depends on it.",
+  "links": [
+   {
+    "label": "Reuters via MarketScreener",
+    "url": "https://www.marketscreener.com/news/stocks-jump-as-oil-tumbles-nvidia-falls-amid-internal-probe-ce785fd3d180f621"
+   },
+   {
+    "label": "PAP Biznes",
+    "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+   },
+   {
+    "label": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261110-01",
+   "title": "Nie żyje zamachowiec z Krakowa. Michał O. zmarł w szpitalu",
+   "reporter": "",
+   "outlet": "Rzeczpospolita",
+   "url": "https://www.rp.pl/przestepczosc/art45463021-nie-zyje-zamachowiec-z-krakowa",
+   "why": "The clearest single account of the attacker’s death, the family killings, the legal classification and what investigators still need to establish.",
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-10",
+   "text": "Kosiniak-Kamysz–Hegseth meeting at the Pentagon (16:30 Polish time).",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "House GOP leadership vote; Mississippi affidavit-ballot cure deadline; FAA chief testifies.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "Constitutional Tribunal judges’ assembly; Indian markets closed.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day: Warsaw march with weapons ban; Kraków’s city mourning ends.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Expected window for Trump’s Iran decision; Tusk–Nawrocki meeting; Nawrocki’s decision on ministers and NBP board.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Mississippi county certification deadline; India’s DPDP consent-manager rules take effect; Modi in Bengaluru.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "ASEAN summits in Manila; possible Modi–Trump meeting.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Gibała’s draft 2027 budget due; Supreme Court of India air-pollution hearing.",
+   "place": "Kraków"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "PAP Biznes",
+   "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://energia.rp.pl/paliwa/art45464611-ceny-benzyny-w-dol-ogloszono-maksymalne-ceny",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://xyz.pl/?p=273310",
+   "paywalled": false
+  },
+  {
+   "title": "Seatrade Maritime",
+   "url": "https://seatrade-maritime.com/regulations/us-formalises-two-month-suspension-of-chinese-vessel-fees",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook India",
+   "url": "https://www.outlookindia.com/national/delhi-smog-after-diwali-aqi-371-severe-air-pollution-stubble-burning-grap-stage-3",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://aninews.in/news/national/general-news/delhis-air-turns-toxic-after-diwali-dtu-records-highest-aqi-of-439-at-10-am-on-monday20261109113022/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via MarketScreener)",
+   "url": "https://www.marketscreener.com/news/stocks-jump-as-oil-tumbles-nvidia-falls-amid-internal-probe-ce785fd3d180f621",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.cmg-plus.com/2026/11/09/the-closing-bell-us-stocks-rally-and-claw-back-more-of-last-weeks-losses-as-oil-prices-swing-lower/",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket",
+   "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://mississippitoday.org/2026/11/06/lawyers-advocates-hover-as-mississippi-election-officials-count-final-colom-hyde-smith-votes",
+   "paywalled": false
+  },
+  {
+   "title": "Punchbowl News",
+   "url": "https://punchbowl.news/article/washington/how-scalise-jordan-pitch-republicans/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://political.org/2026/11/06/leadership-elections-loom-in-both-chambers-scalise-and-jordan-square-off-for-house-gop-leader-as-jeffries-and-schumer-face-dissent/",
+   "paywalled": false
+  },
+  {
+   "title": "TVP Info",
+   "url": "https://www.tvp.info/96394164/najwazniejsze-wydarzenia-9112026",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/przestepczosc/art45463021-nie-zyje-zamachowiec-z-krakowa",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-09/nie-zyje-sprawca-strzelaniny-w-krakowie-zmarl-w-szpitalu/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/strzaly-na-rynku-glownym-w-krakowie/187431",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/malopolskie/news-prezydent-ramie-w-ramie-z-premierem-marsz-pamieci-w-krakowie,nId,23571488",
+   "paywalled": false
+  },
+  {
+   "title": "News On AIR",
+   "url": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://thesouthfirst.com/health/immunotherapy-targeted-therapies-and-more-137-cancer-drugs-set-to-become-more-affordable-from-9-november/",
+   "paywalled": false
+  },
+  {
+   "title": "HDFC Sky",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-9-2026-nifty-sensex-post-modest-gains-as-diwali-party-pauses-for-breath",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://theindianawaaz.com/market-nov-9-sensex-nifty-end-higher-as-psu-banks-rally-nifty-reclaims-25000/",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-jest-termin-wizyty-kosiniaka-kamysza-w-usa-pentagon-potwierd,nId,23570444",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/kosiniak-kamysz-leci-do-usa-spotka-sie-z-sekretarzem-wojny/",
+   "paywalled": false
+  }
+ ]
+}
