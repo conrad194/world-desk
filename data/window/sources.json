@@ -1715,6 +1715,18 @@
    "lean": "Centre / business",
    "status": "Watch",
    "dateAdded": "2026-11-09"
+  },
+  {
+   "id": "marketscreener",
+   "name": "MarketScreener (Reuters feed)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Markets wrap, Reuters copy",
+   "language": "English",
+   "url": "https://www.marketscreener.com",
+   "lean": "Centre / wire",
+   "status": "Watch",
+   "dateAdded": "2026-11-10"
   }
  ]
 }
