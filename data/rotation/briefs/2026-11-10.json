@@ -1,0 +1,573 @@
+{
+ "date": "2026-11-10",
+ "segment": "Middle East",
+ "windowFrom": "2026-10-27",
+ "tier1Summary": "After the US midterms, diplomacy on the [[e:2026 Iran war]] is moving: [[p:Donald Trump]] met Qatar's prime minister and cited \"positive momentum\", Iran offers to reopen Hormuz in two days on its terms, and Brent fell to about $92, though Washington still enforces its blockade and calls Tehran's demands outrageous.\n\nThe Saudi–[[p:Houthis|Houthi]] war is pulling in the region: Turkey ratified the [[e:Mecca defence pact|Mecca Joint Defence Agreement]], and AFP sources report Syrian troops heading to the Saudi–Yemeni border, which Damascus disputes. Israel's new Knesset is sworn in today as [[p:Gadi Eisenkot]] courts Likud and Netanyahu pitches his own unity government. Gaza's tent camps flooded and West Bank settler attacks hit a record.\n\nElsewhere: US-mediated Russia–Ukraine talks opened in Abu Dhabi.",
+ "segmentItems": [
+  {
+   "id": "E-261110-02",
+   "segment": "Middle East",
+   "country": "Iran / United States / Qatar",
+   "text": "[[p:Donald Trump]] met Qatar's prime minister on Iran and cited \"positive momentum\", calling new strikes \"quite unlikely\"; [[p:Marco Rubio]] says Iran's demands are outrageous. Tehran offers to reopen Hormuz within two days if the US ends the war, lifts sanctions and the blockade. Brent fell to about $91.6.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; AFP (via Arab News); Gulf News",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.arabnews.com/middle-east/iran-calls-on-us-to-meet-its-demands-to-end-war-3010897"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-03",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "The US disabled the cargo ship M/V Huda in the Gulf of Oman on 7 Nov for running the blockade; Iranian officials claim new US strikes on Qeshm Island on 8 Nov, unconfirmed by Washington.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera; Gulf News; Times of Israel",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-10-2026-1.500741968"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.timesofisrael.com/liveblog-november-9-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-06",
+   "segment": "Middle East",
+   "country": "Turkey / Saudi Arabia / Pakistan",
+   "text": "Turkey's parliament ratified the [[e:Mecca defence pact|Mecca Joint Defence Agreement]] 279–119 on 4 Nov. [[p:Yaşar Güler]] {{note: Turkish general who was chief of the General Staff before becoming defence minister in 2023.}} says support for Riyadh aims at deterrence, not fighting the Houthis.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Ezgi Akin",
+   "outlet": "Al-Monitor",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/turkeys-parliament-ratifies-mecca-pact-boost-saudi-arabia"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.jpost.com/middle-east/article-914024"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-05",
+   "segment": "Middle East",
+   "country": "Syria / Saudi Arabia / Yemen",
+   "text": "AFP's Yemeni sources say up to 3,000 Syrian troops are deploying to the Saudi–Yemeni border against the [[p:Houthis]] {{note: Zaydi Shia movement that began in northern Yemen in the 1990s under Hussein al-Houthi.}}, days after [[p:Ahmed al-Sharaa]] signed a defence deal and $403m in loans in Riyadh. Syria's state agency denies sending troops to Yemen \"at this time\".",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AFP (via Al-Monitor)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "AFP (via Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/11/thousands-syrian-troops-deploy-yemen-saudi-arabia-sources-afp"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.washingtontimes.com/news/2026/nov/8/saudi-arabia-turns-syria-help-fighting-houthis-escalates/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-07",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "Houthi missiles and drones kept targeting Riyadh and the East–West pipeline on 8–9 Nov. Yemen's government claims gains in Lahj and al-Jawf; the Houthis report over 100 Saudi strikes in a day. Neither claim is verified.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Mohammad Mansour",
+   "outlet": "Al Jazeera English",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-10-2026-1.500741968"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-08",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "The new [[p:Knesset]] is sworn in today. [[p:Gadi Eisenkot]] invites [[p:Likud]] to join a government under him; [[p:Benjamin Netanyahu]] counters with a unity government under himself. [[p:Avigdor Lieberman]] backs Eisenkot on the Speaker but rejects relying on Arab-led parties; [[p:Shas]] stays with Netanyahu.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Moran Azulai, Yuval Karni",
+   "outlet": "ynet (Yedioth Ahronoth); Al Jazeera",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "ynet (Yedioth Ahronoth)",
+     "url": "https://www.ynet.co.il/news/article/bj5o4ojagx"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-10",
+   "segment": "Middle East",
+   "country": "West Bank / Israel",
+   "text": "The army ended its ten-day Hebron operation on 2 Nov after displacing over 3,000 people, per the municipality. [[p:Office for the Coordination of Humanitarian Affairs|OCHA]] logged 457 damaging settler attacks in October, a monthly record since 2006.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AFP (via Arab News); Al Jazeera",
+   "opinion": "",
+   "thread": "West Bank",
+   "links": [
+    {
+     "label": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/israel-army-withdraws-after-hebron-operation-military-official-3009392"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-11",
+   "segment": "Middle East",
+   "country": "Gaza",
+   "text": "A storm flooded about 70,000 Gaza tents and killed at least five, Gaza authorities say; the health ministry counts 1,613 killed since the October 2025 ceasefire. The [[p:Board of Peace]] urged Israel to admit winter supplies.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera; JNS",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.jns.org/news/world/board-of-peace-urges-israel-to-immediately-facilitate-winter-supplies-for-gaza"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-12",
+   "segment": "Middle East",
+   "country": "Lebanon",
+   "text": "Israeli strikes continued across south Lebanon on 9 Nov; PM [[p:Nawaf Salam]] says avoiding a new war is the priority as residents stockpile.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Justin Salhani",
+   "outlet": "Beirut24; Al Jazeera English",
+   "opinion": "reporter's view (Al Jazeera piece includes analysts' views)",
+   "thread": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "links": [
+    {
+     "label": "Beirut24",
+     "url": "https://www.beirut24.org/2026/11/09/%D8%B3%D9%84%D8%A7%D9%85-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D8%AC%D9%86%D9%91%D8%A8-%D8%AD%D8%B1%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B2%D8%A7%D9%85/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-13",
+   "segment": "Middle East",
+   "country": "Iraq / United States / Iran",
+   "text": "The US asked Iraq to close all Iran crossings but two; FM [[p:Fuad Hussein]] calls that hard and says Iraq agreed a Hormuz export lane with Washington.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Reuters (via Arab News); Khaleej Times (citing INA)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Reuters (via Arab News)",
+     "url": "https://www.arabnews.pk/middle-east/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-3006481"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-10-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-17",
+   "segment": "Middle East",
+   "country": "France / Iran",
+   "text": "France blamed an [[p:Islamic Revolutionary Guard Corps|IRGC]] unit for October's supermarket refrigerator hack, summoned Iran's ambassador and will seek EU sanctions.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "SBS News; France 24; franceinfo",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "SBS News",
+     "url": "https://www.france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838153"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261110-14",
+   "segment": "Middle East",
+   "country": "Iran",
+   "text": "Iran executed three January protesters in Karaj; [[p:Iran Human Rights]] counts at least 81 political executions this year.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Iran International",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Iran International",
+     "url": "https://www.iranintl.com/en/202611088895"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.iranintl.com/en/202611053297"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261110-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "US-mediated Russia–Ukraine talks opened in Abu Dhabi, the first three-way round since February, with [[p:Jared Kushner]] and [[p:Steve Witkoff]] mediating and security guarantees on the agenda. Russia's delegation under [[p:Vladimir Medinsky]] includes the GRU chief.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "CBS News / AP; Kyiv Post",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "CBS News / AP",
+     "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivpost.com/post/89466"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261110-01",
+   "title": "Ahead of the Knesset swearing-in: agreements, disputes and what the Haredim will do",
+   "reporter": "Moran Azulai, Yuval Karni et al.",
+   "outlet": "ynet",
+   "url": "https://www.ynet.co.il/news/article/bj5o4ojagx",
+   "why": "The clearest map of Israel's coalition arithmetic: what Lieberman demands, what UTJ wants on the draft law, and why Shas is the swing problem for [[p:Gadi Eisenkot]].",
+   "segment": "Middle East",
+   "language": "Hebrew"
+  },
+  {
+   "readingId": "RL-261110-02",
+   "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+   "reporter": "Mohammad Mansour",
+   "outlet": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume",
+   "why": "A front-by-front picture of the Saudi–[[p:Houthis|Houthi]] war that separates each side's claims from what can be verified.",
+   "segment": "Middle East",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-10",
+   "text": "Mekelle: deadline for handing in unlicensed firearms, followed by house-to-house searches.",
+   "segment": "Africa",
+   "watchId": "W-261106-02"
+  },
+  {
+   "date": "2026-11-10",
+   "text": "France: Lecornu's 'social conference' on wages on 9 Nov; Senate takes up the social-security budget 9–18 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-02"
+  },
+  {
+   "date": "2026-11-11",
+   "text": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov. Russia's team is led by [[p:Vladimir Medinsky]], Ukraine's by [[p:Rustem Umerov]].",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the uncalled Senate races in Alaska (Sullivan vs Peltola) and Mississippi (Hyde-Smith vs Colom).",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Sweden: Kristersson reports back to the Speaker; the Centre Party wants answers from both blocs by 13 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-03"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "UN Security Council emergency meeting on the Komyshuvakha strike, requested by Latvia (date not yet set).",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-01"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Gagauzia People's Assembly and Bashkan elections in Moldova.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-03"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Post-election push on the Gaza plan: [[p:Board of Peace]] and [[p:International Stabilization Force]] deployment, plus France's promised conference for the Lebanese army 'after' Israel's election",
+   "segment": "Middle East",
+   "watchId": "W-261027-08"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether any Russian diesel cargo is actually delivered to the US under the October arrangement.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-02"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether Transnistrian leader [[p:Vadim Krasnoselsky]] returns from Moscow and how the five-year exit ban is applied.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-03"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Operation Carthage: anti-corruption court rulings on custody for the SBU and police suspects.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Poland: Constitutional Tribunal judges' assembly on lifting Święczkowski's immunity and detaining him.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Washington's reply to Iran's two-day plan and the Qatari-backed draft (day 1: blockade lifted and some funds released; day 2: Hormuz reopens, then nuclear talks).",
+   "segment": "Middle East",
+   "watchId": "W-261110-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Iraq: whether more Iran border crossings close under the US Treasury request (Mandali closes temporarily from 13 Nov).",
+   "segment": "Middle East",
+   "watchId": "W-261110-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Kuwait",
+   "status": "quiet"
+  },
+  {
+   "country": "Bahrain",
+   "status": "quiet"
+  },
+  {
+   "country": "Oman",
+   "status": "quiet"
+  },
+  {
+   "country": "United Arab Emirates",
+   "status": "quiet"
+  },
+  {
+   "country": "Qatar (beyond Iran mediation)",
+   "status": "quiet"
+  },
+  {
+   "country": "Syria (SDF/Kurds, domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Turkey (PKK/Kurdish peace process)",
+   "status": "quiet"
+  },
+  {
+   "country": "West Bank (Palestinian Authority politics)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera; AFP (via Arab News); Gulf News",
+   "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iran / United States / Qatar",
+   "url": "https://www.arabnews.com/middle-east/iran-calls-on-us-to-meet-its-demands-to-end-war-3010897",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Gulf News; Times of Israel",
+   "url": "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-10-2026-1.500741968",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iran / United States",
+   "url": "https://www.timesofisrael.com/liveblog-november-9-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Al-Monitor",
+   "url": "https://www.al-monitor.com/originals/2026/11/turkeys-parliament-ratifies-mecca-pact-boost-saudi-arabia",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Turkey / Saudi Arabia / Pakistan",
+   "url": "https://www.jpost.com/middle-east/article-914024",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Al-Monitor)",
+   "url": "https://www.al-monitor.com/originals/2026/11/thousands-syrian-troops-deploy-yemen-saudi-arabia-sources-afp",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Syria / Saudi Arabia / Yemen",
+   "url": "https://www.washingtontimes.com/news/2026/nov/8/saudi-arabia-turns-syria-help-fighting-houthis-escalates/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume",
+   "paywalled": false
+  },
+  {
+   "title": "ynet (Yedioth Ahronoth); Al Jazeera",
+   "url": "https://www.ynet.co.il/news/article/bj5o4ojagx",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Israel",
+   "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Arab News); Al Jazeera",
+   "url": "https://www.arabnews.com/middle-east/israel-army-withdraws-after-hebron-operation-military-official-3009392",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: West Bank / Israel",
+   "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Gaza",
+   "url": "https://www.jns.org/news/world/board-of-peace-urges-israel-to-immediately-facilitate-winter-supplies-for-gaza",
+   "paywalled": false
+  },
+  {
+   "title": "Beirut24; Al Jazeera English",
+   "url": "https://www.beirut24.org/2026/11/09/%D8%B3%D9%84%D8%A7%D9%85-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D8%AC%D9%86%D9%91%D8%A8-%D8%AD%D8%B1%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B2%D8%A7%D9%85/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Lebanon",
+   "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Arab News); Khaleej Times (citing INA)",
+   "url": "https://www.arabnews.pk/middle-east/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-3006481",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iraq / United States / Iran",
+   "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-10-2026",
+   "paywalled": false
+  },
+  {
+   "title": "SBS News; France 24; franceinfo",
+   "url": "https://www.france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: France / Iran",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838153",
+   "paywalled": false
+  },
+  {
+   "title": "Iran International",
+   "url": "https://www.iranintl.com/en/202611088895",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iran",
+   "url": "https://www.iranintl.com/en/202611053297",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News / AP; Kyiv Post",
+   "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine / Russia / United States",
+   "url": "https://kyivpost.com/post/89466",
+   "paywalled": false
+  }
+ ]
+}
