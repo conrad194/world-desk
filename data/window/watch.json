@@ -1066,6 +1066,17 @@
    "checkDate": "2026-12-31",
    "happened": "",
    "eventId": "E-261109-17"
+  },
+  {
+   "id": "W-261110-01",
+   "dateAdded": "2026-11-10",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "what": "Finance Ministry decision on whether Poland applies for additional SAFE defence loans",
+   "expected": "Finance Minister Domański (decision by end of November)",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261110-13"
   }
  ]
 }
