@@ -755,6 +755,48 @@
    "trackRecord": "Long-running analyst of Minsk–West relations and US–Belarus prisoner deals",
    "dateAdded": "2026-11-09",
    "status": "Watch"
+  },
+  {
+   "id": "ezgi-akin",
+   "name": "Ezgi Akin",
+   "segment": "Middle East",
+   "countries": "Turkey",
+   "languages": "Turkish, English",
+   "outlets": "Al-Monitor",
+   "basedIn": "Ankara",
+   "slant": "Independent outlet; straight reporting on Turkish politics and defence",
+   "url": "https://www.al-monitor.com/originals/2026/11/turkeys-parliament-ratifies-mecca-pact-boost-saudi-arabia",
+   "trackRecord": "Al-Monitor's Ankara correspondent covering parliament, foreign and defence policy for several years.",
+   "dateAdded": "2026-11-10",
+   "status": "Watch"
+  },
+  {
+   "id": "moran-azulai",
+   "name": "Moran Azulai",
+   "segment": "Middle East",
+   "countries": "Israel",
+   "languages": "Hebrew",
+   "outlets": "ynet (Yedioth Ahronoth)",
+   "basedIn": "Jerusalem",
+   "slant": "Mainstream centrist outlet; political correspondent",
+   "url": "https://www.ynet.co.il/news/article/bj5o4ojagx",
+   "trackRecord": "Longtime ynet political correspondent covering the Knesset and coalition talks.",
+   "dateAdded": "2026-11-10",
+   "status": "Watch"
+  },
+  {
+   "id": "mohammad-mansour",
+   "name": "Mohammad Mansour",
+   "segment": "Middle East",
+   "countries": "Yemen, Saudi Arabia",
+   "languages": "Arabic, English",
+   "outlets": "Al Jazeera English",
+   "basedIn": "Regional",
+   "slant": "Qatari state-funded outlet; flags unverified claims from both sides",
+   "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume",
+   "trackRecord": "Covers the Yemen war fronts for Al Jazeera; track record still being assessed.",
+   "dateAdded": "2026-11-10",
+   "status": "Watch"
   }
  ]
 }

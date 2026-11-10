@@ -327,8 +327,8 @@
    "what": "[[e:2026 Israeli legislative election]]: exit polls at 22:00 on 27 Oct, then final results and the official publication of results, followed by President [[p:Isaac Herzog]]'s consultations with party delegations before he assigns the task of forming a government",
    "expected": "Central Elections Committee; President's Residence under the Basic Law timetable Update 5 Nov: results certified 4 Nov and consultations under way; Herzog has several days after them to name a nominee (Al Jazeera).",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "Final results gave Netanyahu's bloc 53, Eisenkot's 48 and Arab-led parties 19; after consultations, Herzog gave [[p:Gadi Eisenkot]] the first mandate on 8 Nov, and the new Knesset is sworn in on 10 Nov ([Times of Israel](https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/)).",
+   "eventId": "E-261109-01"
   },
   {
    "id": "W-261027-07",
@@ -337,8 +337,8 @@
    "what": "Turkish parliament's Foreign Affairs Committee on the Mecca Joint Defence Agreement, a possible motion to deploy personnel to Saudi Arabia, and whether Riyadh requests Egyptian help under the new Egyptian mandate",
    "expected": "AKP MP to Reuters (motion after ratification); Al Jazeera on the Egyptian mandate",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "Parliament ratified the Mecca pact on 4 Nov, 279–119. No separate deployment motion has been reported; the defence minister said the scope of support would be set later. No Saudi request for Egyptian help has been reported ([Al-Monitor](https://www.al-monitor.com/originals/2026/11/turkeys-parliament-ratifies-mecca-pact-boost-saudi-arabia)).",
+   "eventId": "E-261110-06"
   },
   {
    "id": "W-261027-08",
@@ -597,6 +597,36 @@
    "what": "Israel: [[p:Gadi Eisenkot]]'s 28-day mandate to form a government ends (extendable by 14 days).",
    "expected": "Times of Israel / AP",
    "checkDate": "2026-12-06",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261110-01",
+   "dateAdded": "2026-11-10",
+   "segment": "Middle East",
+   "what": "Washington's reply to Iran's two-day plan and the Qatari-backed draft (day 1: blockade lifted and some funds released; day 2: Hormuz reopens, then nuclear talks).",
+   "expected": "Gulf News and Al Jazeera say a US response is awaited after Trump met Qatar's PM on 9 Nov; Trump cites 'positive momentum'.",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261110-02",
+   "dateAdded": "2026-11-10",
+   "segment": "Middle East",
+   "what": "Iraq: whether more Iran border crossings close under the US Treasury request (Mandali closes temporarily from 13 Nov).",
+   "expected": "Iraqi FM Fuad Hussein (Reuters) says talks with Washington continue; Border Ports Authority (INA) announced the Mandali closure.",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261110-03",
+   "dateAdded": "2026-11-10",
+   "segment": "Middle East",
+   "what": "Syria–Saudi defence coordination visits and whether Syria joins the [[e:Mecca defence pact|Mecca Joint Defence Agreement]]; confirmation of Syrian troop deployments.",
+   "expected": "SANA's diplomatic source says coordination visits to Syria are planned next month and the deal could become a mutual defence pact.",
+   "checkDate": "2026-12-10",
    "happened": "",
    "eventId": ""
   }
