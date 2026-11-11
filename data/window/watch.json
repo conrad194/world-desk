@@ -1132,6 +1132,17 @@
    "checkDate": "2026-11-23",
    "happened": "",
    "eventId": "E-261111-24"
+  },
+  {
+   "id": "W-261111-05",
+   "dateAdded": "2026-11-11",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "White House decision on a permanent US base in Poland",
+   "expected": "Defence Minister Kosiniak-Kamysz expects a decision in early December (rp.pl)",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261111-01"
   }
  ]
 }
