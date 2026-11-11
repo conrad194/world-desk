@@ -1,0 +1,770 @@
+{
+ "date": "2026-11-11",
+ "top5": [
+  {
+   "text": "Poland’s defence minister says the Pentagon gave a “green light” for a permanent US base; the White House decides in early December.",
+   "place": "US–Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu"
+    },
+    {
+     "label": "More",
+     "url": "https://www.pap.pl/en/news/pentagon-chief-hails-poland-model-ally"
+    }
+   ]
+  },
+  {
+   "text": "US October inflation came in hot (0.4%); stocks fell and a bigger December Fed hike is now in play.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Stock Titan (citing BLS, CNBC)",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    },
+    {
+     "label": "More",
+     "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700"
+    }
+   ]
+  },
+  {
+   "text": "The House shelved the Hegseth impeachment 211–204, and Jim Jordan will lead House Republicans.",
+   "place": "US",
+   "links": [
+    {
+     "label": "OPB (NPR)",
+     "url": "https://www.opb.org/article/2026/11/10/house-vote-effectively-ends-impeachment-push-against-hegseth/"
+    },
+    {
+     "label": "More",
+     "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/"
+    }
+   ]
+  },
+  {
+   "text": "Kraków marks Independence Day with a scaled-back programme as city mourning ends; 13 injured remain in hospital.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Puls Krakowa",
+     "url": "https://pulskrakowa.pl/11-listopada-w-krakowie-odwolano-tradycyjny-pochod/"
+    },
+    {
+     "label": "More",
+     "url": "https://historia.org.pl/2026/11/10/11-listopada-2026-w-krakowie-program-uroczystosci-bezplatny-wawel-i-bieg-wirtualny/"
+    }
+   ]
+  },
+  {
+   "text": "Poland will review its gun law after the Kraków attack.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "PAP Biznes (via Strefa Inwestorów)",
+     "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261111-06",
+    "domain": "Economy, business & markets",
+    "text": "October consumer prices rose 0.4% (core 0.3%), above the 0.3% expected; no annual rate was published because October 2025 data were lost in the shutdown. Stocks fell (S&P 500 −0.4%, Nasdaq −0.7%, Dow −0.3%) and Nvidia dropped about 5.5%. Fed Governor Waller said a half-point December hike should be considered if core inflation runs at 0.3% or more.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Stock Titan (citing BLS, CNBC)",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+     },
+     {
+      "label": "More",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-08",
+    "domain": "Foreign relations",
+    "text": "Trump said new strikes on Iran are \"quite unlikely\" though the US is \"locked and loaded\", and spoke of momentum toward ending the conflict. Iran’s foreign minister denied a reported Vance–Rezaei meeting in Qatar; Iranian officials say they won’t negotiate until the US meets their conditions. Brent fell to about $92.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks"
+     },
+     {
+      "label": "More",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/trump-signals-new-iran-strikes-unnecessary-after-qatar-meeting"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-03",
+    "domain": "Politics & government",
+    "text": "The House voted 211–204 to send Rep. Massie’s articles of impeachment against Defense Secretary Hegseth (over the Iran war) to committee, which in effect ends the effort in this Congress. Democrats, who take the majority in January, promise investigations; it is unclear whether they will try impeachment again.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "OPB (NPR)",
+      "url": "https://www.opb.org/article/2026/11/10/house-vote-effectively-ends-impeachment-push-against-hegseth/"
+     },
+     {
+      "label": "More",
+      "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-02",
+    "domain": "Politics & government",
+    "text": "House Republicans chose Jim Jordan over Steve Scalise, 106–73, as their leader for the next Congress, when they will be in the minority. Speaker Johnson is stepping aside; he says he stays in charge until early January.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "CBS News",
+      "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/"
+     },
+     {
+      "label": "More",
+      "url": "https://rollcall.com/2026/11/10/new-minority-leader-for-house-gop-120th/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261111-14",
+    "domain": "Law, courts & regulation",
+    "text": "After the Kraków attack, the Interior Ministry will review the 1999 Weapons and Ammunition Act; ideas include a register of black-powder guns and mandatory periodic checks of gun owners. Tusk asked ministers for an urgent review of rules on guns and shooting ranges.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "PAP Biznes (via Strefa Inwestorów)",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-10",
+    "domain": "Law, courts & regulation",
+    "text": "A General Assembly of Constitutional Tribunal judges, called by Judge Korwin-Piotrowska, changed the Tribunal’s rules to curb the president’s solo powers: his budget report now needs the Assembly’s positive opinion. PM Tusk said the resolution would be published, and WP reports it has been.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45472691-kluczowa-decyzja-w-tk-uchwalono-zmiany-w-regulaminie-wzmacniaja-role-sedziow"
+     },
+     {
+      "label": "More",
+      "url": "https://wiadomosci.wp.pl/nowy-regulamin-tk-opublikowany-zmiany-oslabiaja-pozycje-prezesa-7349606563146176a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-11",
+    "domain": "Politics & government",
+    "text": "The President’s chief of staff Bogucki said there are no conditions yet for a Nawrocki–Tusk meeting while police cordons stay at the Constitutional Tribunal and \"legal\" judges can’t enter. The PM’s office head Grabiec called these preconditions. The meeting expected around Nov 12 now looks unlikely.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita (PAP)",
+      "url": "https://rp.pl/polityka/art45469411-spotkanie-nawrockiego-z-tuskiem-sie-oddala-bogucki-najpierw-policja-musi-wyjsc-z-tk"
+     },
+     {
+      "label": "More",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-oddala-sie-spotkanie-nawrocki-tusk-prezydent-jasno-powiedzia,nIdn,1025565"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261111-22",
+    "domain": "Culture, media & sport",
+    "text": "Independence Day in Kraków is scaled back because of the city mourning, which ends today: the patriotic march, picnic, service-vehicle parade, the singing session on the Main Square and the Patriotic Tram are cancelled, and the Independence Run is virtual. The 10:00 mass at Wawel Cathedral and the 12:00 ceremony at the Tomb of the Unknown Soldier on Plac Matejki go ahead.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Puls Krakowa",
+      "url": "https://pulskrakowa.pl/11-listopada-w-krakowie-odwolano-tradycyjny-pochod/"
+     },
+     {
+      "label": "More",
+      "url": "https://historia.org.pl/2026/11/10/11-listopada-2026-w-krakowie-program-uroczystosci-bezplatny-wawel-i-bieg-wirtualny/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-20",
+    "domain": "Health, medicine & food safety",
+    "text": "The Małopolska voivode said 13 people injured in the attack were still in six Kraków hospitals on Tuesday morning, all stable; a woman and an Austrian man were discharged Monday. One of the two wounded police officers is conscious and recovering. President Nawrocki visited both officers and awarded them the Officer’s Cross of Polonia Restituta.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/spoleczenstwo/art45470481-zamach-w-krakowie-najnowsze-dane-o-rannych-pierwsza-dobra-informacja"
+     },
+     {
+      "label": "More",
+      "url": "https://kronika24.pl/krakow-stan-poszkodowanych-po-sobotnim-zamachu/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261111-23",
+    "domain": "Society: education, labor, immigration",
+    "text": "The official labour survey (PLFS) put unemployment for people aged 15+ at 5.1% in July–September, down from 5.4% in the previous quarter. Rural joblessness fell to 4.3% while urban unemployment edged up to 6.8%.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://business-standard.com/economy/news/unemployment-dips-slightly-to-5-1-in-july-september-govt-survey-126111000641_1.html"
+     },
+     {
+      "label": "More",
+      "url": "https://zeebiz.com/hindi/economy/india-unemployment-rate-falls-mospi-plfs-data-july-september-2026-268072"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-24",
+    "domain": "Technology, AI & cyber",
+    "text": "In its suo motu case on \"digital arrest\" scams, the Supreme Court asked WhatsApp and other intermediaries to set out their anti-scam measures and send proposals to the Indian Cyber Crime Coordination Centre (I4C). Next hearing: Nov 23.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "Indian Opinion (news roundup)",
+      "url": "https://indianopinion.org/today-in-india-10-november-2026/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.barandbench.com/news/litigation/whatsapp-banned-9400-accounts-used-for-digital-arrest-scams-in-2026-ag-tells-supreme-courtv"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Event",
+   "text": "Today: 10:00 mass at Wawel Cathedral; 12:00 ceremony at the Tomb of the Unknown Soldier, Plac Matejki. The march, picnic, Main Square singing and Patriotic Tram are cancelled; the Independence Run is virtual.",
+   "link": "https://pulskrakowa.pl/11-listopada-w-krakowie-odwolano-tradycyjny-pochod/"
+  },
+  {
+   "kind": "Closure",
+   "text": "Expect short closures around Plac Matejki around noon. The city is planning retractable bollards to limit vehicles in the busiest parts of the centre.",
+   "link": "https://pulskrakowa.pl/11-listopada-w-krakowie-odwolano-tradycyjny-pochod/"
+  },
+  {
+   "kind": "Transit",
+   "text": "Trams and buses carry black mourning ribbons until the end of mourning tonight. No sources read gave holiday timetable details; check MPK/ZTP.",
+   "link": "https://ztp.krakow.pl/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261111-01",
+    "domain": "Foreign relations",
+    "text": "At the Pentagon, Hegseth called Poland a \"model ally\" and thanked it for hosting about 8,000 US troops. Defence Minister Kosiniak-Kamysz said Hegseth’s answer amounts to a Pentagon \"green light\" for a permanent US base, with the final decision up to the White House in early December. No US statement confirmed a base. He also raised servicing PAC-3 MSE missiles in Poland.",
+    "tier": 1,
+    "verification": "Claimed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu"
+     },
+     {
+      "label": "More",
+      "url": "https://www.pap.pl/en/news/pentagon-chief-hails-poland-model-ally"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261111-31",
+    "domain": "Trade & tariffs",
+    "text": "A two-member US team held customs and trade-facilitation talks in New Delhi, and an Indian official told Reuters the two sides are still working to finalise the first tranche of the trade deal. Goyal has said most issues are settled.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "Reuters (via US News)",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-11-10/india-us-continuing-talks-to-finalise-first-tranche-of-trade-deal-official-says"
+     },
+     {
+      "label": "More",
+      "url": "https://news.webindia123.com/news/Articles/Business/20261110/4518154.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261111-30",
+    "domain": "Foreign relations",
+    "text": "MEA spokesperson Jaiswal called the US Commission on International Religious Freedom \"biased and ill-informed\" with a political agenda, and accused it of ignoring attacks on Hindu temples and hate crimes against Indians in the US. He called the US midterms an internal matter and said ties have bipartisan support.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/diplomatic-dialogue/uscirf-biased-ill-informed-organisation-with-political-agenda-mea-hits-back-at-us-religious-freedom-panel"
+     },
+     {
+      "label": "More",
+      "url": "https://organiser.org/2026/11/10/425513/world/india-rebukes-uscirf-report-exposes-religious-freedom-claims-political-agenda-us-silence-on-anti-india-hate-crimes/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261111-01",
+   "name": "Amendment to the nuclear special act (act on preparing and carrying out nuclear power investments)",
+   "place": "Poland",
+   "body": "Council of Ministers (Ministry of Energy)",
+   "stage": "Proposed",
+   "changes": "Site decisions for nuclear plants would no longer expire after 10 years; the investor would get land rights automatically once the site decision is final; some documents could be filed in English; PEJ’s yearly public-funding caps are reshuffled (2026 down to 8bn zł, 2030 up to 9.6bn zł).",
+   "affects": "Polskie Elektrownie Jądrowe and the first nuclear plant project in Pomerania, landowners near the site, and the nuclear regulator (PAA).",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://www.gov.pl/web/premier/porzadek-obrad-rm-2026",
+   "newsLink": "https://www.wnp.pl/energia/budowa-polskiego-atomu-ma-byc-latwiejsza-rzad-przyjal-projekt-nowelizacji-specustawy-jadrowej,1118531.html"
+  },
+  {
+   "id": "R-261111-02",
+   "name": "Resolution amending the Constitutional Tribunal’s Rules of Procedure",
+   "place": "Poland",
+   "body": "General Assembly of Constitutional Tribunal judges",
+   "stage": "Signed / published",
+   "changes": "The Tribunal president can approve the budget report only after a positive opinion from all judges; judges’ meetings outside the Assembly count for informing judges. Takes effect the day after publication.",
+   "affects": "How the Constitutional Tribunal is run, and the power of its president, Bogdan Święczkowski.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://trybunal.gov.pl/",
+   "newsLink": "https://wiadomosci.wp.pl/nowy-regulamin-tk-opublikowany-zmiany-oslabiaja-pozycje-prezesa-7349606563146176a"
+  }
+ ],
+ "deepDive": {
+  "domain": "Health, medicine & food safety + Science & space",
+  "title": "Ebola’s long tail, cheaper cancer drugs and Poland’s health budget squeeze",
+  "body": "**Ebola is now the second-largest outbreak on record.** CDC figures cited by Contagion Live put the Bundibugyo-strain outbreak in DR Congo at about 10,900 confirmed cases and 5,200 deaths as of Nov 6, with spread to Kenya (9 cases) and Nigeria (1) (Reported). The US response has changed form rather than eased: since Nov 3 every international passenger must attest they were not in DRC in the previous 21 days, DRC travellers cannot board US-bound flights, and US citizens returning from Uganda or South Sudan must use designated airports. CDC still rates the risk to Americans as low and reports no US cases.\n\n**India is testing price caps on cancer care.** Since Nov 9, trade margins on 137 cancer medicines outside price control are capped at 30% (Confirmed, NPPA). The government says some brands could fall by up to 70% (Claimed). What to watch: whether pharmacies actually stock the relabelled packs, and whether makers pull low-margin brands. The Supreme Court’s Nov 16 air-pollution hearing is the other big health date in India.\n\n**Poland’s health system is short of money.** The NFZ’s 2027 financial plan was approved with a growing funding gap (TVN24), and the government has proposed limits on doctors’ pay and working hours (R-261106-05, still a proposal). The Kraków attack has also put trauma care under strain: 13 people remain in six city hospitals, all stable (Confirmed, voivode).\n\n**Science & space:** nothing new from our sources in any of the four places today. India’s junior astronomy olympiad team won five medals in Thailand (Nov 1–8), a minor item.\n\n*Analysis:* across the three countries, governments are reaching for administrative levers (travel attestations, margin caps, pay limits) rather than new money.",
+  "links": [
+   {
+    "label": "Contagion Live",
+    "url": "https://www.contagionlive.com/view/ebola-update-drc-outbreak-tops-10000-cases-as-kenya-nigeria-report-spread"
+   },
+   {
+    "label": "News On AIR: cancer drug margins",
+    "url": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/"
+   },
+   {
+    "label": "TVN24: NFZ plan 2027",
+    "url": "https://tvn24.pl/zdrowie/plan-finansowy-nfz-na-2027-rosna-wplywy-i-luka-co-krytykuje-opozycja-st9126139"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261111-01",
+   "title": "Szef MON po spotkaniu z Hegsethem: jest zielone światło z Pentagonu",
+   "reporter": "",
+   "outlet": "Rzeczpospolita",
+   "url": "https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu",
+   "why": "Shows exactly how far the Pentagon went and how much of the “green light” is the Polish minister’s own reading.",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261111-02",
+   "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+   "reporter": "",
+   "outlet": "OPB (NPR)",
+   "url": "https://www.opb.org/article/2026/11/10/house-vote-effectively-ends-impeachment-push-against-hegseth/",
+   "why": "Explains the procedural route that killed the Iran-war impeachment and what the incoming Democratic majority may do.",
+   "place": "US",
+   "domain": "Politics & government",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-11",
+   "text": "Independence Day: Warsaw Independence March (weapons and pyrotechnics ban); Kraków’s city mourning ends.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Senate Republican leadership vote; possible Trump decision on Iran strikes versus a deal.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Deadline in practice for Nawrocki on Bartol, Domański and NBP board appointments; the Tusk–Nawrocki meeting now looks unlikely.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Mississippi county certification deadline; India’s DPDP consent-manager rules take effect; Modi in Bengaluru; Bay of Bengal low expected.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "ASEAN summits in Manila and a possible Modi–Trump meeting; MeitY AI consultation paper expected.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Gibała’s draft 2027 budget due; Supreme Court of India air-pollution hearing; Polish standing committee on the gas price bill.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Constitutional Tribunal Assembly on Święczkowski’s immunity; Supreme Court of India hearing on CEC Gyanesh Kumar.",
+   "place": "Poland"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stock Titan (citing BLS, CNBC)",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-1700",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews",
+   "url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-10/trump-signals-new-iran-strikes-unnecessary-after-qatar-meeting",
+   "paywalled": true
+  },
+  {
+   "title": "OPB (NPR)",
+   "url": "https://www.opb.org/article/2026/11/10/house-vote-effectively-ends-impeachment-push-against-hegseth/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News",
+   "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://rollcall.com/2026/11/10/new-minority-leader-for-house-gop-120th/",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/sady-i-trybunaly/art45472691-kluczowa-decyzja-w-tk-uchwalono-zmiany-w-regulaminie-wzmacniaja-role-sedziow",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://wiadomosci.wp.pl/nowy-regulamin-tk-opublikowany-zmiany-oslabiaja-pozycje-prezesa-7349606563146176a",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (PAP)",
+   "url": "https://rp.pl/polityka/art45469411-spotkanie-nawrockiego-z-tuskiem-sie-oddala-bogucki-najpierw-policja-musi-wyjsc-z-tk",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.rmf24.pl/fakty/polityka/news-oddala-sie-spotkanie-nawrocki-tusk-prezydent-jasno-powiedzia,nIdn,1025565",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa",
+   "url": "https://pulskrakowa.pl/11-listopada-w-krakowie-odwolano-tradycyjny-pochod/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://historia.org.pl/2026/11/10/11-listopada-2026-w-krakowie-program-uroczystosci-bezplatny-wawel-i-bieg-wirtualny/",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/spoleczenstwo/art45470481-zamach-w-krakowie-najnowsze-dane-o-rannych-pierwsza-dobra-informacja",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://kronika24.pl/krakow-stan-poszkodowanych-po-sobotnim-zamachu/",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://business-standard.com/economy/news/unemployment-dips-slightly-to-5-1-in-july-september-govt-survey-126111000641_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://zeebiz.com/hindi/economy/india-unemployment-rate-falls-mospi-plfs-data-july-september-2026-268072",
+   "paywalled": false
+  },
+  {
+   "title": "Indian Opinion (news roundup)",
+   "url": "https://indianopinion.org/today-in-india-10-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.barandbench.com/news/litigation/whatsapp-banned-9400-accounts-used-for-digital-arrest-scams-in-2026-ag-tells-supreme-courtv",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://www.pap.pl/en/news/pentagon-chief-hails-poland-model-ally",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via US News)",
+   "url": "https://www.usnews.com/news/top-news/articles/2026-11-10/india-us-continuing-talks-to-finalise-first-tranche-of-trade-deal-official-says",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://news.webindia123.com/news/Articles/Business/20261110/4518154.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/diplomatic-dialogue/uscirf-biased-ill-informed-organisation-with-political-agenda-mea-hits-back-at-us-religious-freedom-panel",
+   "paywalled": false
+  },
+  {
+   "title": "Supporting report",
+   "url": "https://organiser.org/2026/11/10/425513/world/india-rebukes-uscirf-report-exposes-religious-freedom-claims-political-agenda-us-silence-on-anti-india-hate-crimes/",
+   "paywalled": false
+  }
+ ]
+}
