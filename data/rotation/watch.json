@@ -629,6 +629,56 @@
    "checkDate": "2026-12-10",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261111-01",
+   "dateAdded": "2026-11-11",
+   "segment": "East & Southeast Asia",
+   "what": "49th ASEAN Summit and related summits in Manila, 16–18 Nov, with Trump attending on 16 Nov: any South China Sea code-of-conduct breakthrough and Myanmar's representation.",
+   "expected": "Philippine presidential palace; White House (Trump's attendance)",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": "E-261111-07"
+  },
+  {
+   "id": "W-261111-02",
+   "dateAdded": "2026-11-11",
+   "segment": "East & Southeast Asia",
+   "what": "Taiwan local elections, 28 Nov, amid PLA pressure and Lai's warnings of Chinese interference.",
+   "expected": "Taiwan Central Election Commission",
+   "checkDate": "2026-11-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261111-03",
+   "dateAdded": "2026-11-11",
+   "segment": "East & Southeast Asia",
+   "what": "Rodrigo Duterte's ICC crimes-against-humanity trial opens in The Hague, 30 Nov.",
+   "expected": "ICC Trial Chamber III (per MindaNews)",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261111-09"
+  },
+  {
+   "id": "W-261111-04",
+   "dateAdded": "2026-11-11",
+   "segment": "East & Southeast Asia",
+   "what": "US–China truce: China's suspension of rare-earth export controls and the 24% tariff runs to 10 Jan; watch whether Trump and Xi extend it in Shenzhen.",
+   "expected": "China's Commerce and Finance ministries",
+   "checkDate": "2027-01-10",
+   "happened": "",
+   "eventId": "E-261111-02"
+  },
+  {
+   "id": "W-261111-05",
+   "dateAdded": "2026-11-11",
+   "segment": "East & Southeast Asia",
+   "what": "Seoul High Court verdict in Yoon Suk Yeol's insurrection appeal (prosecutors seek death; first instance gave life).",
+   "expected": "Seoul High Court (per Newsis)",
+   "checkDate": "2027-01-26",
+   "happened": "",
+   "eventId": "E-261111-08"
   }
  ]
 }

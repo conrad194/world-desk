@@ -797,6 +797,48 @@
    "trackRecord": "Covers the Yemen war fronts for Al Jazeera; track record still being assessed.",
    "dateAdded": "2026-11-10",
    "status": "Watch"
+  },
+  {
+   "id": "su-jing-chen",
+   "name": "Su Jing-chen (蘇靖宸)",
+   "segment": "East & Southeast Asia",
+   "countries": "Taiwan",
+   "languages": "Mandarin",
+   "outlets": "ETtoday",
+   "basedIn": "Taipei",
+   "slant": "Mainstream Taiwanese outlet; straight defence and politics reporting",
+   "url": "https://www.ettoday.net/",
+   "trackRecord": "Covers the Defence Ministry and Legislative Yuan for ETtoday; reported Koo's 10 Nov confirmation of PLA area-denial drills.",
+   "dateAdded": "2026-11-11",
+   "status": "Watch"
+  },
+  {
+   "id": "kim-ye-seul",
+   "name": "Kim Ye-seul (김예슬)",
+   "segment": "East & Southeast Asia",
+   "countries": "North Korea, South Korea",
+   "languages": "Korean",
+   "outlets": "News1",
+   "basedIn": "Seoul",
+   "slant": "Wire-style; quotes Korean academic analysts",
+   "url": "https://www.news1.kr/",
+   "trackRecord": "News1 North Korea desk reporter tracking KCNA and Rodong Sinmun output and inter-Korean policy.",
+   "dateAdded": "2026-11-11",
+   "status": "Watch"
+  },
+  {
+   "id": "carolyn-o-arguillas",
+   "name": "Carolyn O. Arguillas",
+   "segment": "East & Southeast Asia",
+   "countries": "Philippines",
+   "languages": "English, Filipino",
+   "outlets": "MindaNews",
+   "basedIn": "Davao City",
+   "slant": "Independent Mindanao outlet; detailed, document-based",
+   "url": "https://mindanews.com/",
+   "trackRecord": "Founding editor of MindaNews and veteran Mindanao journalist; long coverage of the Dutertes, Davao politics and the Bangsamoro peace process.",
+   "dateAdded": "2026-11-11",
+   "status": "Watch"
   }
  ]
 }
