@@ -1775,6 +1775,30 @@
    "lean": "Business",
    "status": "Watch",
    "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "strefa-inwestorow",
+   "name": "Strefa Inwestorów (PAP Biznes digests)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Republishes PAP Biznes daily news digests",
+   "language": "Polish",
+   "url": "https://strefainwestorow.pl",
+   "lean": "Business / wire",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "manager-plus",
+   "name": "Manager Plus",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Business and regulation",
+   "language": "Polish",
+   "url": "https://managerplus.pl",
+   "lean": "Business",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
   }
  ]
 }

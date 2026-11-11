@@ -973,11 +973,11 @@
    "dateAdded": "2026-11-08",
    "place": "Poland",
    "domain": "Law, courts & regulation",
-   "what": "Government or parliamentary proposals to tighten access to firearms and sport-shooting permits after the Kraków attack",
+   "what": "Government or parliamentary proposals to tighten access to firearms and sport-shooting permits after the Kraków attack Update (Nov 11): the Interior Ministry will review the Weapons and Ammunition Act (black-powder register, periodic checks), per PAP Biznes.",
    "expected": "Implied by the public debate over the attacker's legally held arsenal (Interia, bezprawnik.pl)",
    "checkDate": "2026-11-20",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261111-14"
   },
   {
    "id": "W-261108-06",
@@ -1099,6 +1099,17 @@
    "checkDate": "2026-11-12",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261111-02",
+   "dateAdded": "2026-11-11",
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "what": "Energy Ministry sends a maximum gas price bill (protecting some consumers in 2027) to parliament; the Standing Committee of the Council of Ministers takes it up Nov 16",
+   "expected": "Energy Minister Motyka, per PAP Biznes",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261111-15"
   }
  ]
 }

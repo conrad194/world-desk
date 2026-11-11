@@ -399,6 +399,38 @@
    "newsLink": "https://newsonair.gov.in/govt-caps-trade-margins-on-137-anti-cancer-drugs-at-30-prices-to-reduce-by-70-from-nov-9/",
    "eventId": "E-261110-22",
    "lastChecked": "2026-11-10"
+  },
+  {
+   "id": "R-261111-01",
+   "dateLogged": "2026-11-11",
+   "place": "Poland",
+   "body": "Council of Ministers (Ministry of Energy)",
+   "name": "Amendment to the nuclear special act (act on preparing and carrying out nuclear power investments)",
+   "changes": "Site decisions for nuclear plants would no longer expire after 10 years; the investor would get land rights automatically once the site decision is final; some documents could be filed in English; PEJ’s yearly public-funding caps are reshuffled (2026 down to 8bn zł, 2030 up to 9.6bn zł).",
+   "affects": "Polskie Elektrownie Jądrowe and the first nuclear plant project in Pomerania, landowners near the site, and the nuclear regulator (PAA).",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.gov.pl/web/premier/porzadek-obrad-rm-2026",
+   "newsLink": "https://www.wnp.pl/energia/budowa-polskiego-atomu-ma-byc-latwiejsza-rzad-przyjal-projekt-nowelizacji-specustawy-jadrowej,1118531.html",
+   "eventId": "E-261111-12",
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "R-261111-02",
+   "dateLogged": "2026-11-11",
+   "place": "Poland",
+   "body": "General Assembly of Constitutional Tribunal judges",
+   "name": "Resolution amending the Constitutional Tribunal’s Rules of Procedure",
+   "changes": "The Tribunal president can approve the budget report only after a positive opinion from all judges; judges’ meetings outside the Assembly count for informing judges. Takes effect the day after publication.",
+   "affects": "How the Constitutional Tribunal is run, and the power of its president, Bogdan Święczkowski.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://trybunal.gov.pl/",
+   "newsLink": "https://wiadomosci.wp.pl/nowy-regulamin-tk-opublikowany-zmiany-oslabiaja-pozycje-prezesa-7349606563146176a",
+   "eventId": "E-261111-10",
+   "lastChecked": "2026-11-11"
   }
  ]
 }
