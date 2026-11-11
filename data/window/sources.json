@@ -1799,6 +1799,30 @@
    "lean": "Business",
    "status": "Watch",
    "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "indian-opinion",
+   "name": "Indian Opinion (Today in India roundup)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Daily roundup of national and state news",
+   "language": "English",
+   "url": "https://indianopinion.org",
+   "lean": "Unclear; aggregator",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "zee-business-hindi",
+   "name": "Zee Business Hindi",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Economy and markets in Hindi",
+   "language": "Hindi",
+   "url": "https://zeebiz.com/hindi",
+   "lean": "Business; seen as pro-government",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
   }
  ]
 }

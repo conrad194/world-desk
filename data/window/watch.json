@@ -1110,6 +1110,28 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261111-15"
+  },
+  {
+   "id": "W-261111-03",
+   "dateAdded": "2026-11-11",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Whether the Bay of Bengal low-pressure area becomes a depression or cyclone, and where it heads",
+   "expected": "IMD expects a low around Nov 13, possibly a depression by Nov 15",
+   "checkDate": "2026-11-16",
+   "happened": "",
+   "eventId": "E-261111-25"
+  },
+  {
+   "id": "W-261111-04",
+   "dateAdded": "2026-11-11",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "what": "Supreme Court hearing in the digital-arrest suo motu case: WhatsApp and other platforms’ anti-scam proposals",
+   "expected": "Next hearing listed for Nov 23 (per news roundup)",
+   "checkDate": "2026-11-23",
+   "happened": "",
+   "eventId": "E-261111-24"
   }
  ]
 }
