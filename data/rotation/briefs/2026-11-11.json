@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-11",
+ "segment": "East & Southeast Asia",
+ "windowFrom": "2026-11-04",
+ "tier1Summary": "Beijing and Washington extended their trade truce to 10 Jan, keeping China's rare-earth curbs suspended before [[p:Donald Trump]] meets [[p:Xi Jinping]] at APEC in Shenzhen (18–19 Nov). Trump stops first at the ASEAN summit in Manila on 16 Nov, where a South China Sea code of conduct looks out of reach.\n\nTaiwan says more than 100 Chinese navy and coast guard ships are deployed around it, and confirmed undeclared PLA \"area denial\" drills ahead of its 28 Nov local elections. Japan's [[p:Sanae Takaichi]] may get no Xi meeting at APEC. [[p:Kim Yo Jong]] rejected talks with Washington after a new missile test.\n\nElsewhere: Russia–Ukraine talks in Abu Dhabi ended day one without announced deals and continued on 11 Nov.",
+ "segmentItems": [
+  {
+   "id": "E-261111-02",
+   "segment": "East & Southeast Asia",
+   "country": "China / United States",
+   "text": "Beijing extended its pause on rare-earth export controls and its 24% tariff on US goods to 10 Jan; Washington suspended its Section 301 shipping action and extended 178 tariff exclusions. The truce had been due to lapse on 10 Nov, a week before [[p:Donald Trump]] and [[p:Xi Jinping]] meet at APEC.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The National (Abu Dhabi); RawMaterials.net",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "The National (Abu Dhabi)",
+     "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://rawmaterials.net/rare-earth-export-controls-china-confirms-extension-of-trade-arrangements-with-u-s/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-03",
+   "segment": "East & Southeast Asia",
+   "country": "Taiwan / China",
+   "text": "Defence Minister [[p:Wellington Koo|Wellington Koo (politician, born 1958)]] confirmed undeclared PLA \"area denial\" drills in the western Pacific involving the [[p:Chinese aircraft carrier Liaoning|Liaoning]] group; Taipei says over 100 Chinese navy and coast guard ships are deployed. ISW and AEI analysts read it as a rehearsal of isolating Taiwan; Beijing calls the carrier's training routine.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Su Jing-chen (蘇靖宸)",
+   "outlet": "Taipei Times / Reuters; ETtoday",
+   "opinion": "analysis (ISW/AEI) on the drills' purpose",
+   "thread": "Taiwan Strait",
+   "links": [
+    {
+     "label": "Taipei Times / Reuters",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/11/2003867520"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ettoday.net/news/20261110/3269380.htm"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-04",
+   "segment": "East & Southeast Asia",
+   "country": "Japan / China",
+   "text": "Kyodo reports talks on a [[p:Sanae Takaichi]]–Xi meeting at APEC have stalled, as Beijing still refuses dialogue over her 2025 Taiwan remarks; a Chinese source says Japan may be the only major country without a Xi meeting.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Central News Agency (citing Kyodo); The Japan Times",
+   "opinion": "",
+   "thread": "APEC 2026 and great-power summitry",
+   "links": [
+    {
+     "label": "Central News Agency (citing Kyodo)",
+     "url": "https://www.cna.com.tw/news/aopl/202611110155.aspx"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/japan-takaichi-xi-china-summit/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-05",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea",
+   "text": "Pyongyang fired several missiles toward the East Sea, which state media called a test of a new air-defence system; Seoul has not given types or numbers.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Stars and Stripes; USNI News",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "Stars and Stripes",
+     "url": "https://www.stripes.com/theaters/asia_pacific/2026-11-05/north-korea-missile-technology-diplomacy-23369224.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-06",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea / United States",
+   "text": "[[p:Kim Yo Jong]] said there is no need for talks until Washington drops its \"hostile policy\", rejecting US blame for the Binance hack. State media have been silent since the US midterms; Seoul sees no groundwork for a Trump–Kim meeting.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Kim Kyung-su (김경수); Kim Ye-seul (김예슬)",
+   "outlet": "Financial News (파이낸셜뉴스); News1",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "Financial News (파이낸셜뉴스)",
+     "url": "https://www.fnnews.com/news/202611040654549395"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.fnnews.com/news/202611110500548979"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-07",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines / ASEAN",
+   "text": "Manila hosts the [[e:2026 ASEAN Summits|49th ASEAN Summit]] on 16–18 Nov, with Trump attending on 16 Nov. [[p:Bongbong Marcos|Marcos]] wants a South China Sea code of conduct, but he concedes a November deal is very hard.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Daily Tribune; IndraStra Global",
+   "opinion": "",
+   "thread": "South China Sea",
+   "links": [
+    {
+     "label": "Daily Tribune",
+     "url": "https://tribune.net.ph/2026/11/10/palace-defends-asean-summit-preparations"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.indrastra.com/2026/11/south-china-sea-code-of-conduct-will.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-08",
+   "segment": "East & Southeast Asia",
+   "country": "South Korea",
+   "text": "Prosecutors again sought death for [[p:Yoon Suk Yeol]] at his insurrection appeal; he denied any plan to blockade parliament. Verdict on 26 Jan 2027.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Hong Yeon-woo; Lee Yoon-seok",
+   "outlet": "Newsis via Financial News; MBC",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Newsis via Financial News",
+     "url": "https://www.fnnews.com/news/202611051954189304"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863513_37004.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-09",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines",
+   "text": "Vice President [[p:Sara Duterte]]'s Senate impeachment trial resumed on the unexplained-wealth article; [[p:Rodrigo Duterte]]'s ICC trial opens on 30 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Carolyn O. Arguillas",
+   "outlet": "MindaNews; The Philippine Star",
+   "opinion": "",
+   "thread": "Duterte impeachment and ICC trials",
+   "links": [
+    {
+     "label": "MindaNews",
+     "url": "https://mindanews.com/top-stories/2026/10/the-dutertes-on-trial-in-november-sara-at-the-senate-rodrigo-at-the-icc/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.philstar.com/headlines/2026/11/11/2569396/live-sara-duterte-impeachment-trial-nov-11"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-10",
+   "segment": "East & Southeast Asia",
+   "country": "Myanmar",
+   "text": "The [[p:Arakan Army]] says it attacked the Shwemingan naval base at Sittwe's edge, as the junta reportedly masses about 7,000 troops there. Junta airstrikes hit a hospital and a school in Sagaing, local outlets say.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Ayeyarwaddy Times; People's Spring (via Burma Coup Resistance Notes); The Irrawaddy",
+   "opinion": "",
+   "thread": "Myanmar civil war",
+   "links": [
+    {
+     "label": "Ayeyarwaddy Times",
+     "url": "https://burmacoupresistancenotes.substack.com/p/burma-coup-resistance-notes-november-0e5"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.irrawaddy.com/news/war-against-the-junta/myanmar-navy-loses-3-more-ships-as-arakan-army-tightens-sittwe-noose.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261111-13",
+   "segment": "East & Southeast Asia",
+   "country": "Cambodia",
+   "text": "Cambodia revoked 18 [[p:Prince Group]]-linked casino licences and froze over $300m, as the US imposed a third round of sanctions on the network.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Khmer Times; CamboJA News; The Straits Times",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Khmer Times",
+     "url": "https://www.khmertimeskh.com/502052812/govt-freezes-300-million-dollars-and-revokes-casino-licences-in-anti-scam-drive/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://cambojanews.com/us-hits-prince-group-with-third-round-of-sanctions/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261111-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "Day one of US-mediated talks in Abu Dhabi ended without announced deals; [[p:Volodymyr Zelenskyy]] said they covered humanitarian steps, prisoner releases and security guarantees. Day two opened on 11 Nov, with separate European meetings.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Kyiv Independent; Arab News",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.arabnews.com/world/russia-ukraine-start-second-day-of-us-led-talks-3011162"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261111-01",
+   "title": "日中領袖會談喬不攏 共同社：高市恐在APEC受冷落",
+   "reporter": "",
+   "outlet": "Central News Agency (Taiwan)",
+   "url": "https://www.cna.com.tw/news/aopl/202611110155.aspx",
+   "why": "Short, clear account of why Beijing is freezing out [[p:Sanae Takaichi]] at APEC and how Xi is expected to rank the US and Russian leaders above Japan in Shenzhen.",
+   "segment": "East & Southeast Asia",
+   "language": "Mandarin"
+  },
+  {
+   "readingId": "RL-261111-02",
+   "title": "The Dutertes on trial in November: Sara at the Senate, Rodrigo at the ICC",
+   "reporter": "Carolyn O. Arguillas",
+   "outlet": "MindaNews",
+   "url": "https://mindanews.com/top-stories/2026/10/the-dutertes-on-trial-in-november-sara-at-the-senate-rodrigo-at-the-icc/",
+   "why": "A Davao-based veteran lays out both trials side by side: which impeachment article survived, the ICC schedule, and what each means for the Duterte camp before 2028.",
+   "segment": "East & Southeast Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-11",
+   "text": "Trilateral US–Russia–Ukraine working-level talks in Abu Dhabi, 10–11 Nov. Russia's team is led by [[p:Vladimir Medinsky]], Ukraine's by [[p:Rustem Umerov]].",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261025-04"
+  },
+  {
+   "date": "2026-11-12",
+   "text": "Final calls in the uncalled Senate races in Alaska (Sullivan vs Peltola) and Mississippi (Hyde-Smith vs Colom).",
+   "segment": "The Americas",
+   "watchId": "W-261105-02"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "Sweden: Kristersson reports back to the Speaker; the Centre Party wants answers from both blocs by 13 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-03"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "UN Security Council emergency meeting on the Komyshuvakha strike, requested by Latvia (date not yet set).",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-01"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Gagauzia People's Assembly and Bashkan elections in Moldova.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-03"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Post-election push on the Gaza plan: [[p:Board of Peace]] and [[p:International Stabilization Force]] deployment, plus France's promised conference for the Lebanese army 'after' Israel's election",
+   "segment": "Middle East",
+   "watchId": "W-261027-08"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether any Russian diesel cargo is actually delivered to the US under the October arrangement.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-02"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether Transnistrian leader [[p:Vadim Krasnoselsky]] returns from Moscow and how the five-year exit ban is applied.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-03"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Operation Carthage: anti-corruption court rulings on custody for the SBU and police suspects.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Poland: Constitutional Tribunal judges' assembly on lifting Święczkowski's immunity and detaining him.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Washington's reply to Iran's two-day plan and the Qatari-backed draft (day 1: blockade lifted and some funds released; day 2: Hormuz reopens, then nuclear talks).",
+   "segment": "Middle East",
+   "watchId": "W-261110-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Iraq: whether more Iran border crossings close under the US Treasury request (Mandali closes temporarily from 13 Nov).",
+   "segment": "Middle East",
+   "watchId": "W-261110-02"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "49th ASEAN Summit and related summits in Manila, 16–18 Nov, with Trump attending on 16 Nov: any South China Sea code-of-conduct breakthrough and Myanmar's representation.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-01"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Malaysia",
+   "status": "quiet"
+  },
+  {
+   "country": "Singapore",
+   "status": "quiet"
+  },
+  {
+   "country": "Mongolia",
+   "status": "quiet"
+  },
+  {
+   "country": "Laos",
+   "status": "no sources found"
+  },
+  {
+   "country": "Brunei",
+   "status": "no sources found"
+  },
+  {
+   "country": "Timor-Leste",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kyiv Independent; Arab News",
+   "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent; Arab News",
+   "url": "https://www.arabnews.com/world/russia-ukraine-start-second-day-of-us-led-talks-3011162",
+   "paywalled": false
+  },
+  {
+   "title": "The National (Abu Dhabi); RawMaterials.net",
+   "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+   "paywalled": false
+  },
+  {
+   "title": "The National (Abu Dhabi); RawMaterials.net",
+   "url": "https://rawmaterials.net/rare-earth-export-controls-china-confirms-extension-of-trade-arrangements-with-u-s/",
+   "paywalled": false
+  },
+  {
+   "title": "Taipei Times / Reuters; ETtoday",
+   "url": "https://www.taipeitimes.com/News/front/archives/2026/11/11/2003867520",
+   "paywalled": false
+  },
+  {
+   "title": "Taipei Times / Reuters; ETtoday",
+   "url": "https://www.ettoday.net/news/20261110/3269380.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Central News Agency (citing Kyodo); The Japan Times",
+   "url": "https://www.cna.com.tw/news/aopl/202611110155.aspx",
+   "paywalled": false
+  },
+  {
+   "title": "Central News Agency (citing Kyodo); The Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/japan-takaichi-xi-china-summit/",
+   "paywalled": false
+  },
+  {
+   "title": "Stars and Stripes; USNI News",
+   "url": "https://www.stripes.com/theaters/asia_pacific/2026-11-05/north-korea-missile-technology-diplomacy-23369224.html",
+   "paywalled": false
+  },
+  {
+   "title": "Stars and Stripes; USNI News",
+   "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard",
+   "paywalled": false
+  },
+  {
+   "title": "Financial News (파이낸셜뉴스); News1",
+   "url": "https://www.fnnews.com/news/202611040654549395",
+   "paywalled": false
+  },
+  {
+   "title": "Financial News (파이낸셜뉴스); News1",
+   "url": "https://www.fnnews.com/news/202611110500548979",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Tribune; IndraStra Global",
+   "url": "https://tribune.net.ph/2026/11/10/palace-defends-asean-summit-preparations",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Tribune; IndraStra Global",
+   "url": "https://www.indrastra.com/2026/11/south-china-sea-code-of-conduct-will.html",
+   "paywalled": false
+  },
+  {
+   "title": "Newsis via Financial News; MBC",
+   "url": "https://www.fnnews.com/news/202611051954189304",
+   "paywalled": false
+  },
+  {
+   "title": "Newsis via Financial News; MBC",
+   "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863513_37004.html",
+   "paywalled": false
+  },
+  {
+   "title": "MindaNews; The Philippine Star",
+   "url": "https://mindanews.com/top-stories/2026/10/the-dutertes-on-trial-in-november-sara-at-the-senate-rodrigo-at-the-icc/",
+   "paywalled": false
+  },
+  {
+   "title": "MindaNews; The Philippine Star",
+   "url": "https://www.philstar.com/headlines/2026/11/11/2569396/live-sara-duterte-impeachment-trial-nov-11",
+   "paywalled": false
+  },
+  {
+   "title": "Ayeyarwaddy Times; People's Spring (via Burma Coup Resistance Notes); The Irrawaddy",
+   "url": "https://burmacoupresistancenotes.substack.com/p/burma-coup-resistance-notes-november-0e5",
+   "paywalled": false
+  },
+  {
+   "title": "Ayeyarwaddy Times; People's Spring (via Burma Coup Resistance Notes); The Irrawaddy",
+   "url": "https://www.irrawaddy.com/news/war-against-the-junta/myanmar-navy-loses-3-more-ships-as-arakan-army-tightens-sittwe-noose.html",
+   "paywalled": false
+  },
+  {
+   "title": "Khmer Times; CamboJA News; The Straits Times",
+   "url": "https://www.khmertimeskh.com/502052812/govt-freezes-300-million-dollars-and-revokes-casino-licences-in-anti-scam-drive/",
+   "paywalled": false
+  },
+  {
+   "title": "Khmer Times; CamboJA News; The Straits Times",
+   "url": "https://cambojanews.com/us-hits-prince-group-with-third-round-of-sanctions/",
+   "paywalled": false
+  }
+ ]
+}
