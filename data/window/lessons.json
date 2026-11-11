@@ -630,6 +630,143 @@
      "why": "The article that makes India's president act on ministerial advice, with Constituent Assembly debates."
     }
    ]
+  },
+  {
+   "id": "L04",
+   "num": 4,
+   "unit": "How each country is governed",
+   "title": "The executive in each country",
+   "dateTaught": "2026-11-11",
+   "minutes": 7,
+   "pulledForward": false,
+   "prevQuestion": "In Poland's cohabitation, why does the prime minister's countersignature matter so much to how the president can act?",
+   "prevAnswer": "Most of the president's official acts are valid only if the prime minister countersigns them, so the government shares responsibility and can block them. Only the prerogatives listed in the Constitution, such as the veto or referring a law to the Tribunal, can be used alone. In cohabitation those prerogatives become the president's main tools against the government.",
+   "body": "Lesson 3 separated the head of state from the head of government. This lesson looks at the team the head of government leads: the **executive**, the ministers who run departments and turn policy into action. In all three countries that team is often called \"the cabinet\", but how it is built, who can join it and who can remove its members differ sharply, and those differences explain a lot of this week's news.\n\n**United States: the president's advisers.** The Constitution never uses the word \"cabinet\". Article II gives executive power to the president alone and lets him ask the heads of departments for written opinions. Today the cabinet is the heads of the 15 executive departments plus officials the president chooses to add. The president nominates each secretary, and the Senate must confirm them by majority vote. Two rules make the American executive distinctive. First, secretaries cannot sit in Congress at the same time, so a senator picked for the cabinet must resign. Second, they serve at the president's pleasure: he can fire any of them at will, but Congress can remove one only through impeachment, a majority in the House and two-thirds in the Senate. That is why [@Thomas Massie](https://en.wikipedia.org/wiki/Thomas_Massie)'s articles against Defense Secretary [@Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) mattered so little in practice: even a House majority could not have removed him without a Senate supermajority.\n\n> The first executive departments, State, War and Treasury, were created by Congress in 1789 under President [@George Washington](https://en.wikipedia.org/wiki/George_Washington).\n\n**Poland: the Council of Ministers governs collectively.** In Poland the government is a body, the **Council of Ministers** (Rada Ministrów), led by the prime minister. Under Article 146 of the Constitution it runs domestic and foreign policy, and it holds every power not given to another state organ. Its formation is a three-step process. The president nominates a prime minister, who proposes ministers; within 14 days the new government must win a vote of confidence in the Sejm. If it fails, the Sejm picks its own candidate, and only after that does the choice return to the president. Ministers may also be MPs, and many are. The Sejm can remove a single minister through an individual vote of no confidence, which needs 69 deputies to propose it and an absolute majority of all 460 deputies to pass. Because the Council acts as a body, it adopts bills to send to parliament and issues regulations, as it did this week on nuclear siting and red tape.\n\n> Reborn Poland's first government was formed in November 1918 under [@Jędrzej Moraczewski](https://en.wikipedia.org/wiki/Jędrzej_Moraczewski), days after independence.\n\n**India: collective responsibility to the Lok Sabha.** India's **Union Council of Ministers** has three ranks: Cabinet ministers, who head major ministries and meet as the Cabinet; Ministers of State with independent charge; and junior Ministers of State. The president appoints all of them on the prime minister's advice. Article 75 sets two rules borrowed from Britain. Ministers must be members of Parliament, or become one within six months. And the Council is **collectively responsible** to the Lok Sabha: if it loses a confidence vote, the whole government falls, not one minister. Ministers who disagree in private are expected to defend Cabinet decisions in public or resign. A 2003 amendment caps the Council at 15% of the Lok Sabha, so no more than 81 ministers.\n\n> India's first Union Cabinet was sworn in on 15 August 1947 under Prime Minister [@Jawaharlal Nehru](https://en.wikipedia.org/wiki/Jawaharlal_Nehru).\n\n**What the comparison shows.** The American cabinet is a set of advisers who answer to one boss, so Congress checks them mainly through confirmation, hearings and money. In Poland and India ministers sit inside the legislature and depend on its confidence, so parliament can bring them down without a trial. Poland adds a twist India lacks: the Sejm can target one minister, while India's rule is that ministers stand or fall together.",
+   "comparison": [
+    {
+     "aspect": "Name of the executive team",
+     "US": "The Cabinet (heads of 15 executive departments)",
+     "Poland": "Council of Ministers (Rada Ministrów)",
+     "India": "Union Council of Ministers; its senior tier is the Cabinet"
+    },
+    {
+     "aspect": "How ministers are appointed",
+     "US": "Nominated by the president, confirmed by the Senate",
+     "Poland": "Proposed by the PM, appointed by the president; whole government needs a Sejm confidence vote",
+     "India": "Appointed by the president on the PM's advice"
+    },
+    {
+     "aspect": "Can ministers sit in the legislature?",
+     "US": "No (Incompatibility Clause)",
+     "Poland": "Yes, many are MPs",
+     "India": "Must be MPs, or become one within six months"
+    },
+    {
+     "aspect": "How a single minister is removed",
+     "US": "Fired by the president, or impeached by the House and convicted by two-thirds of the Senate",
+     "Poland": "Dismissed at the PM's request, or an individual vote of no confidence in the Sejm",
+     "India": "Dismissed by the president on the PM's advice"
+    },
+    {
+     "aspect": "How the whole executive falls",
+     "US": "Only if the president leaves office",
+     "Poland": "Constructive vote of no confidence in the Sejm",
+     "India": "Loss of a confidence vote in the Lok Sabha"
+    },
+    {
+     "aspect": "Current leader of the team",
+     "US": "[@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)",
+     "Poland": "[@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk)",
+     "India": "[@Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi)"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Cabinet",
+     "meaning": "The senior ministers who run the main departments and advise or decide with the head of government."
+    },
+    {
+     "term": "Rada Ministrów",
+     "meaning": "Poland's Council of Ministers: the government as a collective body that adopts bills and regulations."
+    },
+    {
+     "term": "Advice and consent",
+     "meaning": "The US Senate's power to confirm or reject the president's nominees, including cabinet secretaries."
+    },
+    {
+     "term": "Collective responsibility",
+     "meaning": "India's Article 75 rule that the whole Council of Ministers answers to the Lok Sabha and stands or falls together."
+    },
+    {
+     "term": "Individual vote of no confidence (wotum nieufności wobec ministra)",
+     "meaning": "A Sejm vote that forces the president to recall a single minister."
+    },
+    {
+     "term": "Minister of State (Rajya Mantri)",
+     "meaning": "A junior minister in India, below Cabinet rank, sometimes with independent charge of a ministry."
+    }
+   ],
+   "example": "Poland's 2023 government formation shows the three-step process in action. After the [#2023 Polish parliamentary election](https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election), President [@Andrzej Duda](https://en.wikipedia.org/wiki/Andrzej_Duda) used the first step to nominate [@Mateusz Morawiecki](https://en.wikipedia.org/wiki/Mateusz_Morawiecki) of PiS, the largest single party, even though PiS lacked a majority. Morawiecki's ministers were sworn in on 27 November and quickly nicknamed the \"two-week government\". On 11 December 2023 it lost its confidence vote. The same day the Sejm used the second step and elected [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) prime minister, backed by Civic Coalition, Third Way and the Left. His Council of Ministers was sworn in on 13 December. Supporters of Duda's move said convention gives the largest party the first try; critics said it only delayed a handover the election result had already decided.",
+   "inTheNews": "The House shelved [@Thomas Massie](https://en.wikipedia.org/wiki/Thomas_Massie)'s impeachment articles against Defense Secretary [@Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth), the only tool Congress has to remove a US cabinet member. In Poland, the Council of Ministers acted as a body, adopting a nuclear bill and a programme to cut red tape.",
+   "newsEvents": [
+    "E-261111-03",
+    "E-261111-12",
+    "E-261111-16"
+   ],
+   "check": [
+    {
+     "q": "Why could the House alone never have removed Pete Hegseth from office?",
+     "options": [
+      "Cabinet secretaries can only be removed by the Supreme Court",
+      "Removal through impeachment also needs conviction by two-thirds of the Senate",
+      "Only the Speaker can start impeachment of a secretary",
+      "Secretaries serve fixed four-year terms"
+     ],
+     "answer": 1,
+     "explain": "The House impeaches by majority, but removal requires a two-thirds Senate conviction. Otherwise only the president can dismiss a secretary."
+    },
+    {
+     "q": "A Polish minister faces an individual vote of no confidence that passes. What happens?",
+     "options": [
+      "The whole government must resign",
+      "The president must recall that minister",
+      "Parliament is dissolved and new elections are called",
+      "Nothing until the Constitutional Tribunal rules"
+     ],
+     "answer": 1,
+     "explain": "Article 159 lets the Sejm target one minister; the president must then recall them. The rest of the government continues."
+    },
+    {
+     "q": "Which feature is shared by Poland and India but not the United States?",
+     "options": [
+      "Ministers are confirmed by the upper house",
+      "Ministers can sit in the legislature and the government depends on its confidence",
+      "The head of state picks ministers freely",
+      "Ministers serve fixed terms"
+     ],
+     "answer": 1,
+     "explain": "Both parliamentary-style systems let ministers sit in parliament and make the government answerable to the lower house; US secretaries cannot sit in Congress and answer to the president."
+    }
+   ],
+   "recallQ": "Why does India's rule of collective responsibility make it unlikely that Parliament would ever vote out a single minister, while Poland's Sejm can?",
+   "recallA": "In India the Council of Ministers answers to the Lok Sabha as one body, so a confidence vote brings down the whole government rather than one minister; individual ministers are removed by the prime minister. Poland's Constitution adds a separate tool, the individual vote of no confidence, which forces the president to recall one minister while the government survives.",
+   "readMore": [
+    {
+     "title": "Constitution of the Republic of Poland (English, Senate Chancellery)",
+     "url": "https://www.senat.gov.pl/gfx/senat/userfiles/_public/k10/kancelaria/wydawnictwa/pdf/konstytucja_rp_miniatura_w._ang.pdf",
+     "why": "Chapter VI (Articles 146–162) sets out how the Council of Ministers is formed and removed."
+    },
+    {
+     "title": "Article II, Section 2: Interpretation & Debate (National Constitution Center)",
+     "url": "https://constitutioncenter.org/the-constitution/articles/article-ii/clauses/346",
+     "why": "Scholars from both sides explain the appointments and removal powers behind the US cabinet."
+    },
+    {
+     "title": "Functions of the Cabinet Secretariat (Government of India)",
+     "url": "https://cabsec.gov.in/functions/",
+     "why": "Shows how India's Cabinet and its committees actually conduct government business."
+    }
+   ]
   }
  ]
 }
