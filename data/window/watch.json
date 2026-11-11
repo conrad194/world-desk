@@ -327,8 +327,8 @@
    "what": "Kosiniak-Kamysz–Hegseth meeting at the Pentagon on bases and troop presence",
    "expected": "The Pentagon confirmed Nov 10 at 10:30 ET.",
    "checkDate": "2026-11-11",
-   "happened": "",
-   "eventId": "E-261107-57"
+   "happened": "Happened Nov 10: Hegseth called Poland a \"model ally\"; Kosiniak-Kamysz said the Pentagon gave a \"green light\" for a permanent US base, with the final decision up to the White House, expected in early December. [rp.pl](https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu)",
+   "eventId": "E-261111-01"
   },
   {
    "id": "W-261026-31",
@@ -547,8 +547,8 @@
    "what": "House Republican leadership election (Scalise v. Jordan) after Johnson stepped aside.",
    "expected": "Roll Call reports the conference vote is set for Nov 10",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "Jim Jordan beat Steve Scalise 106–73 on Nov 10 to become House Republican leader for the next Congress (CBS, citing sources). [CBS News](https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/)",
+   "eventId": "E-261111-02"
   },
   {
    "id": "W-261105-03",
@@ -580,8 +580,8 @@
    "what": "General Assembly of Constitutional Tribunal judges called by Korwin-Piotrowska to change the Tribunal's rules, and the Święczkowski camp's response.",
    "expected": "Korwin-Piotrowska called it for Nov 10 (RMF24)",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "The Nov 10 General Assembly adopted changes to the Tribunal’s rules that limit the president’s solo powers (e.g. budget report needs the Assembly’s opinion); the resolution has been published. [rp.pl](https://www.rp.pl/sady-i-trybunaly/art45472691-kluczowa-decyzja-w-tk-uchwalono-zmiany-w-regulaminie-wzmacniaja-role-sedziow)",
+   "eventId": "E-261111-10"
   },
   {
    "id": "W-261105-06",
@@ -833,8 +833,8 @@
    "what": "FAA Administrator Bedford's House T&I testimony on the air-traffic-control overhaul and the $30bn funding request",
    "expected": "Reuters: testimony on Tuesday next week",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": "E-261107-14"
+   "happened": "The House aviation subcommittee cancelled the Nov 10 hearing with FAA chief Bedford less than 24 hours beforehand; no new date given. [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4797394/faa-house-hearing-postponed-air-traffic-controller-issues/)",
+   "eventId": "E-261111-04"
   },
   {
    "id": "W-261107-03",
@@ -844,8 +844,8 @@
    "what": "Whether CDC entry suspensions for travellers from DR Congo, Uganda and South Sudan (set to run to Nov 10) are extended or lifted",
    "expected": "CDC order: suspensions run to Nov 10; the attestation order continues",
    "checkDate": "2026-11-10",
-   "happened": "",
-   "eventId": ""
+   "happened": "Reported: the CDC moved to a rule that from Nov 3 every international passenger to the US must attest they were not in DR Congo in the past 21 days; DRC travellers cannot board, and US citizens from Uganda/South Sudan go through designated airports. [Contagion Live](https://www.contagionlive.com/view/ebola-update-drc-outbreak-tops-10000-cases-as-kenya-nigeria-report-spread)",
+   "eventId": "E-261111-05"
   },
   {
    "id": "W-261107-04",
