@@ -1088,6 +1088,17 @@
    "checkDate": "2026-11-24",
    "happened": "",
    "eventId": "E-261110-18"
+  },
+  {
+   "id": "W-261111-01",
+   "dateAdded": "2026-11-11",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Senate Republican leadership election (Thune expected to be re-elected; Sen. Ron Johnson’s group had sought a delay)",
+   "expected": "Thune said the vote would be \"sometime tomorrow\" (CBS, Nov 10)",
+   "checkDate": "2026-11-12",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

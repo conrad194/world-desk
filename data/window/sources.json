@@ -1739,6 +1739,42 @@
    "lean": "Brokerage / business",
    "status": "Watch",
    "dateAdded": "2026-11-10"
+  },
+  {
+   "id": "opb",
+   "name": "OPB (NPR member station)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "National politics via NPR",
+   "language": "English",
+   "url": "https://www.opb.org",
+   "lean": "Centre-left public media",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "contagion-live",
+   "name": "Contagion Live",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Infectious disease news, CDC data",
+   "language": "English",
+   "url": "https://www.contagionlive.com",
+   "lean": "Trade / medical",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "stocktitan",
+   "name": "Stock Titan market wrap",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Daily market close and data releases",
+   "language": "English",
+   "url": "https://www.stocktitan.net",
+   "lean": "Business",
+   "status": "Watch",
+   "dateAdded": "2026-11-11"
   }
  ]
 }
