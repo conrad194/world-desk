@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-11",
+ "items": [
+  {
+   "id": "E-261111-01",
+   "dateLogged": "2026-11-11",
+   "eventDate": "2026-11-10",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "Day one of the US-mediated talks in Abu Dhabi ended without announced agreements; [[p:Volodymyr Zelenskyy]] called it constructive, saying delegations discussed parameters for humanitarian steps, prisoner releases and the substance of long-term security guarantees. A second day opened on 11 Nov with a trilateral session, followed by Ukrainian meetings with French, German, British and Italian national security advisers.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Kyiv Independent; Arab News",
+   "language": "English",
+   "link1": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/",
+   "link2": "https://www.arabnews.com/world/russia-ukraine-start-second-day-of-us-led-talks-3011162",
+   "archive": "https://web.archive.org/web/2026/https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/",
+   "paywalled": "N",
+   "thread": "Russia–Ukraine peace talks",
+   "followsUp": "E-261110-01",
+   "notes": "Outcome of day two not yet reported at time of logging. Watch item W-261025-04 (check date today)."
+  }
+ ]
+}
