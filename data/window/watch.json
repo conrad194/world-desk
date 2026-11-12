@@ -1143,6 +1143,28 @@
    "checkDate": "2026-12-10",
    "happened": "",
    "eventId": "E-261111-01"
+  },
+  {
+   "id": "W-261112-01",
+   "dateAdded": "2026-11-12",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "Nvidia board decision on whether to remove CEO Jensen Huang, and who would run the company in the interim",
+   "expected": "Wall Street Journal (move could come within days)",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": "E-261112-05"
+  },
+  {
+   "id": "W-261112-02",
+   "dateAdded": "2026-11-12",
+   "place": "US",
+   "domain": "Foreign relations",
+   "what": "Trump–Xi meeting around the APEC summit in Shenzhen and the first meeting of the US–China AI dialogue",
+   "expected": "Treasury Secretary Bessent (Reuters), around Nov 18–19",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
