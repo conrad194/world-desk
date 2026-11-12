@@ -505,6 +505,102 @@
    "prevAnswer": "For most of the 20th century Riyadh had backed Yemen's Zaydi royalists, notably in the 1962–1970 civil war. In 2009 it fought the Zaydi-rooted Houthis directly for the first time, after they crossed the border, and came away seeing them as an Iranian proxy, a view that shaped its 2015 intervention.",
    "recallQ": "Why did the 1995–96 Taiwan Strait crisis push China to build a much larger navy?",
    "recallA": "Beijing fired missiles near Taiwan to deter voters from backing Lee Teng-hui, but when the US sent two aircraft-carrier groups, the PLA had no way to challenge them and Lee won anyway. Many analysts see that humiliation as a driver of the naval, missile and coast-guard build-up that now lets China rehearse encircling the island."
+  },
+  {
+   "id": "2026-11-12",
+   "date": "2026-11-12",
+   "segment": "Africa",
+   "title": "How Ethiopia and Eritrea went from comrades to enemies, allies and enemies again",
+   "thread": "Ethiopia–Tigray war",
+   "eventIds": [
+    "E-261112-04"
+   ],
+   "minutes": 4,
+   "hook": "Ethiopia told the UN Horn of Africa envoy that Eritrea and Sudan arm rebels inside its borders; Eritrea has denied backing them. The charge flips the alliance of 2018–2022, when Eritrean troops fought for Addis Ababa against the [[p:Tigray People's Liberation Front|TPLF]].",
+   "body": "Ethiopia's complaint to the UN that Eritrea arms rebels on its soil is the latest turn in a relationship that has swung from comradeship to war, to alliance, and back to open hostility. The two countries share languages, churches and the Tigrinya-speaking highlands, but a century of separate history pulls them apart.\n\nThat history began when Italy proclaimed the colony of Eritrea in 1890. Britain took it over in 1941, and in 1952 the UN joined it to [[p:Haile Selassie]]'s Ethiopia as an autonomous unit in a federation. The emperor wore that autonomy down, and in 1962 the Eritrean assembly, under heavy pressure, voted the federation away. Eritreans call this an annexation. Many Ethiopians saw it as reuniting the old highland kingdom with its coast. An armed revolt led by the [[p:Eritrean Liberation Front]] had already begun in 1961, opening the thirty-year [[e:Eritrean War of Independence]].\n\nThe war outlasted the emperor. After the [[p:Derg]] {{note: Military committee that overthrew Haile Selassie in 1974, led by Mengistu Haile Mariam until its fall in 1991.}} seized power, two rebel movements fought it: the [[p:Eritrean People's Liberation Front]] {{note: Formed in the early 1970s by fighters who split from the Eritrean Liberation Front; renamed the PFDJ in 1994.}} and the [[p:Tigray People's Liberation Front]] {{note: Founded in 1975 in Tigray by student activists; it led the coalition that ruled Ethiopia from 1991 to 2018.}}. They were allies of necessity, and they quarrelled in the 1980s over strategy and ideology. In May 1991 they won together: Eritrean fighters took Asmara, and a TPLF-led coalition took Addis Ababa. Ethiopia's new leader, [[p:Meles Zenawi]], accepted Eritrea's right to leave. After a 1993 referendum Eritrea became independent, and Ethiopia lost its coast.\n\nThe friendship broke over trade, currency and a border no one had marked on the ground. In May 1998 a clash at Badme grew into the [[e:Eritrean–Ethiopian War]], a trench war that killed tens of thousands. The [[e:Algiers Agreement (2000)|Algiers Agreement]] set up a boundary commission, which in 2002 placed Badme in Eritrea. Ethiopia refused to withdraw. Two decades of \"no war, no peace\" followed, which [[p:Isaias Afwerki]] used to justify open-ended national service and the absence of elections.\n\n[[p:Abiy Ahmed]] broke the deadlock in 2018 by accepting the ruling, and the [[e:2018 Eritrea–Ethiopia summit]] earned him the Nobel Peace Prize. The thaw was also a pact against a shared rival, the TPLF. When the [[e:Tigray war]] {{note: Fought from November 2020 between Ethiopia's federal government and the TPLF; ended by an agreement signed in Pretoria in November 2022.}} broke out, Eritrean troops fought beside federal forces, and rights groups accused them of massacres. But Eritrea was left out of the 2022 peace deal, and in 2023 Abiy called access to the Red Sea an existential question for Ethiopia. Asmara heard a threat to its port of Assab.\n\nBy 2026 the alliances had flipped. Ethiopia closed its embassy in Asmara in October, and Eritrea cut ties. Addis Ababa now accuses Eritrea of invading and of backing the TPLF-led rebels, its bitterest enemy only four years ago. Asmara denies backing them and says Ethiopia wants Assab. Alliances in this rivalry have always formed around a shared enemy, while the core questions of the border, the sea and Tigray's place have never been settled.",
+   "timeline": [
+    {
+     "when": "1952",
+     "text": "The UN federates the former Italian colony of Eritrea with Ethiopia as an autonomous unit."
+    },
+    {
+     "when": "1961–62",
+     "text": "An armed revolt begins; Haile Selassie ends the federation and makes Eritrea a province, opening the [[e:Eritrean War of Independence]]."
+    },
+    {
+     "when": "1991–93",
+     "text": "Eritrean and Tigrayan rebels topple the [[p:Derg]]; Eritrea votes for independence and Ethiopia becomes landlocked."
+    },
+    {
+     "when": "1998–2000",
+     "text": "A clash at Badme becomes the [[e:Eritrean–Ethiopian War]]; a 2002 boundary ruling gives Badme to Eritrea, and Ethiopia refuses to withdraw."
+    },
+    {
+     "when": "Jul 2018",
+     "text": "[[p:Abiy Ahmed]] accepts the ruling, and the [[e:2018 Eritrea–Ethiopia summit]] ends the state of war."
+    },
+    {
+     "when": "2020–22",
+     "text": "Eritrean troops fight alongside federal forces in the [[e:Tigray war]] but are left out of the 2022 peace deal."
+    },
+    {
+     "when": "Oct 2026",
+     "text": "Ethiopia closes its embassy in Asmara and Eritrea cuts ties as a TPLF-led alliance fights the federal government; Addis Ababa accuses Eritrea of invading."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Ethiopia tells the UN envoy that Eritrea and Sudan arm rebels on its soil."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Ethiopian government",
+     "view": "Ethiopia sees the loss of its coast in 1993 as a historical mistake made without regard for its people's needs, and calls Red Sea access an existential question it wants to settle peacefully. It accuses Eritrea of invading the north and colluding with the TPLF."
+    },
+    {
+     "side": "Eritrean government",
+     "view": "Eritrea says it won its independence in a thirty-year struggle against an illegal annexation, and that the 2002 boundary ruling settled the border. It reads Ethiopia's talk of sea access as a threat to its sovereignty and its port of Assab, and denies backing the TPLF."
+    },
+    {
+     "side": "Tigrayan leaders (TPLF)",
+     "view": "The TPLF stresses its part in defeating the Derg and argues that Abiy and Isaias allied in 2018 to crush Tigray. It holds Eritrean troops responsible for atrocities during the 2020–22 war and says Tigray's autonomy was never restored after the peace deal."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Badme",
+     "meaning": "A small border town whose disputed ownership sparked the 1998–2000 war; the 2002 boundary ruling placed it in Eritrea."
+    },
+    {
+     "term": "Assab",
+     "meaning": "Eritrea's southern Red Sea port, once Ethiopia's main outlet to the sea, and the focus of Eritrean fears about Ethiopia's sea-access ambitions."
+    },
+    {
+     "term": "Eritrea–Ethiopia Boundary Commission",
+     "meaning": "The panel set up under the [[e:Algiers Agreement (2000)|Algiers Agreement]]; its 2002 ruling was binding, but Ethiopia refused to implement it until 2018."
+    },
+    {
+     "term": "No war, no peace",
+     "meaning": "The armed standoff of 2000–2018, with closed borders, troops dug in on both sides and rivalries carried into Somalia."
+    }
+   ],
+   "whyItMatters": "Ethiopia and Eritrea have fought one full-scale war and backed opposite sides in others, and the old disputes over the border and the sea are live again while fighting continues in Tigray. Watch whether Ethiopia brings its charges to the UN Security Council or the African Union, whether Eritrean troops stay inside Tigray, and whether Addis Ababa's rows with Sudan and Eritrea merge into one regional war.",
+   "readMore": [
+    {
+     "title": "History of Eritrea",
+     "url": "https://www.britannica.com/topic/history-of-Eritrea",
+     "why": "Encyclopaedia Britannica's account, from the Italian colony through federation, annexation, independence and the 1998–2000 war."
+    },
+    {
+     "title": "Ethiopia and Eritrea accuse one another of launching war",
+     "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war",
+     "why": "Al Jazeera on the October 2026 break, with each government's case and the background in one place."
+    }
+   ],
+   "prevQuestion": "Why did the 1995–96 Taiwan Strait crisis push China to build a much larger navy?",
+   "prevAnswer": "Beijing fired missiles near Taiwan to deter voters from backing Lee Teng-hui, but when the US sent two aircraft-carrier groups, the PLA had no way to challenge them and Lee won anyway. Many analysts see that humiliation as a driver of the naval, missile and coast-guard build-up that now lets China rehearse encircling the island.",
+   "recallQ": "Why did Ethiopia lose its Red Sea coastline in 1993, and why did its government at the time accept it?",
+   "recallA": "Eritrea voted for independence in a UN-observed referendum after the Eritrean People's Liberation Front won its thirty-year war against Ethiopian rule. The new Ethiopian government, led by Meles Zenawi's TPLF, had fought the Derg alongside the EPLF and accepted Eritrea's right to self-determination, a decision many Ethiopian nationalists still resent."
   }
  ]
 }
