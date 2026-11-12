@@ -1176,6 +1176,17 @@
    "checkDate": "2026-11-14",
    "happened": "",
    "eventId": "E-261112-15"
+  },
+  {
+   "id": "W-261112-04",
+   "dateAdded": "2026-11-12",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "October CPI inflation release, and whether it breaks the RBI’s 6% upper band for the first time since October 2024",
+   "expected": "ICRA’s Aditi Nayar forecasts 6.1%, with food inflation above 8% (NewsBytes)",
+   "checkDate": "2026-11-12",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
