@@ -839,6 +839,34 @@
    "trackRecord": "Founding editor of MindaNews and veteran Mindanao journalist; long coverage of the Dutertes, Davao politics and the Bangsamoro peace process.",
    "dateAdded": "2026-11-11",
    "status": "Watch"
+  },
+  {
+   "id": "dahana-ospina",
+   "name": "Dahana Ospina",
+   "segment": "The Americas",
+   "countries": "Colombia",
+   "languages": "Spanish",
+   "outlets": "Infobae",
+   "basedIn": "Colombia",
+   "slant": "",
+   "url": "https://www.infobae.com/colombia/",
+   "trackRecord": "Infobae Colombia staff writer covering security and military operations.",
+   "dateAdded": "2026-11-12",
+   "status": "Watch"
+  },
+  {
+   "id": "levy-guimaraes",
+   "name": "Levy Guimarães",
+   "segment": "The Americas",
+   "countries": "Brazil",
+   "languages": "Portuguese",
+   "outlets": "O Tempo",
+   "basedIn": "Brasília",
+   "slant": "",
+   "url": "https://www.otempo.com.br/politica",
+   "trackRecord": "O Tempo's Brasília correspondent covering the Planalto Palace.",
+   "dateAdded": "2026-11-12",
+   "status": "Watch"
   }
  ]
 }

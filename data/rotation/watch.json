@@ -679,6 +679,36 @@
    "checkDate": "2027-01-26",
    "happened": "",
    "eventId": "E-261111-08"
+  },
+  {
+   "id": "W-261112-01",
+   "dateAdded": "2026-11-12",
+   "segment": "The Americas",
+   "what": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the future of Salvadoran troops in Haiti.",
+   "expected": "Visit expected next week, per Al Jazeera (AFP/AP/Reuters).",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261112-02",
+   "dateAdded": "2026-11-12",
+   "segment": "The Americas",
+   "what": "US government funding deadline; whether Democrats tie a stopgap to limits on the Iran war.",
+   "expected": "Deadline 11 Dec; a stopgap is widely expected (WMAL/ABC News Radio).",
+   "checkDate": "2026-12-12",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261112-03",
+   "dateAdded": "2026-11-12",
+   "segment": "The Americas",
+   "what": "Ecuador local elections (prefects, mayors, councillors, CPCCS), with Noboa campaigning for ADN.",
+   "expected": "Vote on 29 Nov, per the CNE calendar (Prensa Latina).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
