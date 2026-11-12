@@ -1,0 +1,653 @@
+{
+ "date": "2026-11-12",
+ "segment": "The Americas",
+ "windowFrom": "2026-11-05",
+ "tier1Summary": "A week after their midterm defeat, Republicans are regrouping: Trump made [[p:Stephen Miller (political advisor)|Stephen Miller]] chief of staff, [[p:Jim Jordan]] will lead House Republicans, and the House shelved an Iran-war impeachment of [[p:Pete Hegseth]]. Democrats lead both uncalled Senate races and eye the 11 Dec funding deadline to curb the war.\n\nCanada reports softer US demands; Canada and Mexico both meet Xi at APEC. [[p:María Corina Machado]] backed Washington's Venezuela roadmap, new sanctions hit Chinese suppliers of Cuba, ousted Paraguayan president [[p:Santiago Peña]] is in detention, and Salvadoran troops struck a major Haitian gang.\n\nElsewhere, the Abu Dhabi talks ended with a prisoner-swap deal but no breakthrough, Merz is tying the EU budget to Ukraine funding, and Iran denies talks as tankers burn in Hormuz.",
+ "segmentItems": [
+  {
+   "id": "E-261112-05",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "Trump named [[p:Stephen Miller (political advisor)|Stephen Miller]] chief of staff, replacing [[p:Susie Wiles]], the most senior exit since the midterm rout.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; CBS News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "Al Jazeera; CBS News",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-06",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "The House shelved, 211–204, an impeachment of [[p:Pete Hegseth]] centred on the Iran war; [[p:Thomas Massie]] was the only Republican in favour. [[p:Hakeem Jeffries]] called it \"just the beginning\".",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Stars and Stripes; CBS News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "Stars and Stripes; CBS News",
+     "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-07",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "House Republicans picked [[p:Jim Jordan]] over [[p:Steve Scalise]] as leader; [[p:Bernie Sanders]] says he won't back [[p:Chuck Schumer]] for majority leader.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "CBS News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-08",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "The lame duck faces an 11 Dec funding deadline; some Democrats want to use it to restrict the [[e:2026 Iran war|Iran war]].",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "WMAL (ABC News Radio)",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "WMAL (ABC News Radio)",
+     "url": "https://www.wmal.com/2026/11/09/congress-returns-for-lame-duck-session/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://prospect.org/2026/11/05/democrats-power-in-the-lame-duck-session/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-09",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "Alaska and Mississippi are still uncalled, with Democrats [[p:Mary Peltola]] and [[p:Scott Colom]] ahead.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "CNBC; KCRA (Hearst)",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "CNBC; KCRA (Hearst)",
+     "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.kcra.com/article/mississippi-alaska-senate-races-still-too-close-to-call/74364418"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-10",
+   "segment": "The Americas",
+   "country": "Canada / United States",
+   "text": "[[p:Mark Carney]] says Washington dropped its demands on Canadian culture and language but tough issues remain; he says the White House, not Congress, will decide.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Boston Globe (AP); Washington Post",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Boston Globe (AP); Washington Post",
+     "url": "https://www.bostonglobe.com/2026/11/10/business/canada-trade-talks-midterms/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.washingtonpost.com/business/2026/11/10/canada-carney-trump-trade-midterms-tariffs/ff7dd13e-dd33-11f1-912c-4fbb80d73f7f_story.html"
+    }
+   ],
+   "paywalled": true
+  },
+  {
+   "id": "E-261112-11",
+   "segment": "The Americas",
+   "country": "Mexico / United States / China",
+   "text": "[[p:Claudia Sheinbaum]] will meet [[p:Xi Jinping]] at APEC and still rejects labelling cartels as terrorists.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Rio Times; San Diego Red",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Rio Times; San Diego Red",
+     "url": "https://www.riotimesonline.com/sheinbaum-confirms-meeting-with-xi-china-apec-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.sandiegored.com/en/news/sheinbaum-rejects-terrorist-label-for-mexican-cartels/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-12",
+   "segment": "The Americas",
+   "country": "Venezuela / United States",
+   "text": "[[p:María Corina Machado]] endorsed the US roadmap: a new supreme court and electoral council, then a vacancy declaration and elections within six months.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Arab News (AFP); Al Jazeera",
+   "opinion": "",
+   "thread": "Venezuela transition",
+   "links": [
+    {
+     "label": "Arab News (AFP); Al Jazeera",
+     "url": "https://www.arabnews.com/world/machado-backs-us-election-roadmap-for-venezuela-3010044"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-13",
+   "segment": "The Americas",
+   "country": "Cuba / United States / China",
+   "text": "Washington sanctioned eight firms, including China's state-owned CEIEC, for supplying Cuba with oil or arms, and blocked five tankers.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Infobae; China y las Américas",
+   "opinion": "",
+   "thread": "US pressure on Cuba",
+   "links": [
+    {
+     "label": "Infobae; China y las Américas",
+     "url": "https://www.infobae.com/america/america-latina/2026/11/05/estados-unidos-sanciono-a-empresas-chinas-por-proveer-petroleo-o-material-militar-a-cuba/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "http://chinalasamericas.com/2026/11/11/el-canciller-de-cuba-viaja-a-pekin-en-medio-de-nuevas-sanciones-de-eeuu/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-14",
+   "segment": "The Americas",
+   "country": "Haiti / El Salvador",
+   "text": "Salvadoran troops and Haitian police hit the headquarters of [[p:400 Mawozo]] {{note: Gang based in Croix-des-Bouquets east of Port-au-Prince, known for kidnapping 17 North American missionaries in 2021.}}; about 20 were reported killed and Amnesty wants the deployment deal published.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera (AFP/AP/Reuters); Africanews",
+   "opinion": "",
+   "thread": "Haiti gangs and foreign forces",
+   "links": [
+    {
+     "label": "Al Jazeera (AFP/AP/Reuters); Africanews",
+     "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.africanews.com/2026/11/11/salvadoran-troops-target-headquarters-of-powerful-gang-in-haiti/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-15",
+   "segment": "The Americas",
+   "country": "Paraguay",
+   "text": "Ousted Paraguayan president [[p:Santiago Peña]] {{note: Colorado Party economist elected president of Paraguay in April 2023.}} is in pretrial detention over the Ueno Bank collapse; [[p:Pedro Alliana]] asked all ministers to resign.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Infobae; ABC Color",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Infobae; ABC Color",
+     "url": "https://www.infobae.com/america/america-latina/2026/11/07/la-fiscalia-de-paraguay-pidio-la-prision-preventiva-del-ex-presidente-santiago-pena-por-el-colapso-del-ueno-bank/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.abc.com.py/internacionales/2026/11/11/fiscales-en-paraguay-dicen-que-pena-se-expone-a-15-anos-de-carcel-por-caso-de-ueno-bank/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-16",
+   "segment": "The Americas",
+   "country": "Colombia",
+   "text": "[[p:Abelardo de la Espriella]] ordered his eighth air strike on armed groups in three months.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Dahana Ospina",
+   "outlet": "Infobae",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Infobae",
+     "url": "https://www.infobae.com/colombia/2026/11/11/abelardo-de-la-espriella-autorizo-nuevo-bombardeo-en-colombia-es-el-octavo-de-su-gobierno-en-tres-meses/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.infobae.com/america/agencias/2026/11/11/agenda-informativa-multisoporte-america-para-el-miercoles-11-de-noviembre-de-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-17",
+   "segment": "The Americas",
+   "country": "Argentina",
+   "text": "[[p:Pope Leo XIV]] left Argentina after criticizing austerity; [[p:Javier Milei]] skipped his final mass.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "El Destape; Infobae (EFE)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "El Destape; Infobae (EFE)",
+     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-11-noviembre-minuto-minuto-202611117856"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.infobae.com/america/agencias/2026/11/11/agenda-informativa-multisoporte-america-para-el-miercoles-11-de-noviembre-de-2026/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261112-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "[[e:2026 United States–Ukraine–Russia meetings in Abu Dhabi|Abu Dhabi talks]] ended with a large prisoner swap agreed but no breakthrough; US envoys are in Moscow and then meet Zelenskyy in Dublin.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Al Jazeera; Kyiv Independent",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-02",
+   "segment": "EU politics + cross-cutting",
+   "country": "Germany / EU",
+   "text": "[[p:Friedrich Merz]] threatens to block the 2028–34 EU budget unless all members commit to long-term Ukraine funding.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Meduza (citing Financial Times); Euronews",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "Meduza (citing Financial Times); Euronews",
+     "url": "https://meduza.io/en/news/2026/11/09/german-chancellor-merz-threatens-to-block-eu-budget-unless-four-holdouts-hungary-slovakia-bulgaria-and-the-czech-republic-commit-to-funding-ukraine"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-03",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "Iran denies talks with Washington and keeps Hormuz shut; the IRGC says three tankers are burning in the strait.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; Dawn (agencies)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera; Dawn (agencies)",
+     "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261112-04",
+   "segment": "Africa",
+   "country": "Ethiopia / Eritrea / Sudan",
+   "text": "Ethiopia told the UN envoy that Eritrea and Sudan arm rebels on its soil, which Eritrea has denied before.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Addis Standard (via allAfrica)",
+   "opinion": "",
+   "thread": "Ethiopia–Tigray war",
+   "links": [
+    {
+     "label": "Addis Standard (via allAfrica)",
+     "url": "https://allafrica.com/stories/202611110604.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://addisstandard.com/ethiopia-tells-un-envoy-eritrea-sudan-backing-armed-groups-and-drone-attacks/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261112-01",
+   "title": "Trump and Venezuela's Elusive Elections",
+   "reporter": "Ian Bremmer",
+   "outlet": "TIME",
+   "url": "https://time.com/article/2026/11/10/trump-machado-venezuela-elections/",
+   "why": "Analysis: why Washington, not Caracas, is steering Venezuela's transition, and why the oil deal leaves Machado in a bind.",
+   "segment": "The Americas",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261112-02",
+   "title": "El Salvador's Presence and a Gang's Offer Test Haiti's Security",
+   "reporter": "",
+   "outlet": "Americas Quarterly",
+   "url": "https://americasquarterly.org/article/el-salvadors-presence-and-a-gangs-offer-test-haitis-security/",
+   "why": "Background on the Salvadoran deployment and the [[p:400 Mawozo]] offer of talks.",
+   "segment": "The Americas",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-16",
+   "text": "ASEAN summit in Manila (16–18 Nov), with Trump attending on 16 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-01"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "APEC in Shenzhen (18–19 Nov): Trump–Xi, plus Xi's meetings with [[p:Mark Carney]] and [[p:Claudia Sheinbaum]].",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-20"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "House leadership elections; [[p:Hakeem Jeffries]] runs for Speaker.",
+   "segment": "The Americas",
+   "watchId": "W-261105-01"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the Salvadoran troops (week of 16 Nov).",
+   "segment": "The Americas",
+   "watchId": "W-261112-01"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Honduras",
+   "status": "quiet"
+  },
+  {
+   "country": "Guatemala",
+   "status": "quiet"
+  },
+  {
+   "country": "Nicaragua",
+   "status": "quiet"
+  },
+  {
+   "country": "Panama",
+   "status": "quiet"
+  },
+  {
+   "country": "Costa Rica",
+   "status": "quiet"
+  },
+  {
+   "country": "El Salvador (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Uruguay",
+   "status": "quiet"
+  },
+  {
+   "country": "Dominican Republic",
+   "status": "quiet"
+  },
+  {
+   "country": "Peru (politics beyond the papal visit)",
+   "status": "quiet"
+  },
+  {
+   "country": "Caribbean states other than Cuba and Haiti",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera; CBS News",
+   "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; CBS News",
+   "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+   "paywalled": false
+  },
+  {
+   "title": "Stars and Stripes; CBS News",
+   "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html",
+   "paywalled": false
+  },
+  {
+   "title": "Stars and Stripes; CBS News",
+   "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News",
+   "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+   "paywalled": false
+  },
+  {
+   "title": "WMAL (ABC News Radio)",
+   "url": "https://www.wmal.com/2026/11/09/congress-returns-for-lame-duck-session/",
+   "paywalled": false
+  },
+  {
+   "title": "WMAL (ABC News Radio)",
+   "url": "https://prospect.org/2026/11/05/democrats-power-in-the-lame-duck-session/",
+   "paywalled": false
+  },
+  {
+   "title": "CNBC; KCRA (Hearst)",
+   "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+   "paywalled": false
+  },
+  {
+   "title": "CNBC; KCRA (Hearst)",
+   "url": "https://www.kcra.com/article/mississippi-alaska-senate-races-still-too-close-to-call/74364418",
+   "paywalled": false
+  },
+  {
+   "title": "Boston Globe (AP); Washington Post",
+   "url": "https://www.bostonglobe.com/2026/11/10/business/canada-trade-talks-midterms/",
+   "paywalled": true
+  },
+  {
+   "title": "Boston Globe (AP); Washington Post",
+   "url": "https://www.washingtonpost.com/business/2026/11/10/canada-carney-trump-trade-midterms-tariffs/ff7dd13e-dd33-11f1-912c-4fbb80d73f7f_story.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rio Times; San Diego Red",
+   "url": "https://www.riotimesonline.com/sheinbaum-confirms-meeting-with-xi-china-apec-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Rio Times; San Diego Red",
+   "url": "https://www.sandiegored.com/en/news/sheinbaum-rejects-terrorist-label-for-mexican-cartels/",
+   "paywalled": false
+  },
+  {
+   "title": "Arab News (AFP); Al Jazeera",
+   "url": "https://www.arabnews.com/world/machado-backs-us-election-roadmap-for-venezuela-3010044",
+   "paywalled": false
+  },
+  {
+   "title": "Arab News (AFP); Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae; China y las Américas",
+   "url": "https://www.infobae.com/america/america-latina/2026/11/05/estados-unidos-sanciono-a-empresas-chinas-por-proveer-petroleo-o-material-militar-a-cuba/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae; China y las Américas",
+   "url": "http://chinalasamericas.com/2026/11/11/el-canciller-de-cuba-viaja-a-pekin-en-medio-de-nuevas-sanciones-de-eeuu/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (AFP/AP/Reuters); Africanews",
+   "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (AFP/AP/Reuters); Africanews",
+   "url": "https://www.africanews.com/2026/11/11/salvadoran-troops-target-headquarters-of-powerful-gang-in-haiti/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae; ABC Color",
+   "url": "https://www.infobae.com/america/america-latina/2026/11/07/la-fiscalia-de-paraguay-pidio-la-prision-preventiva-del-ex-presidente-santiago-pena-por-el-colapso-del-ueno-bank/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae; ABC Color",
+   "url": "https://www.abc.com.py/internacionales/2026/11/11/fiscales-en-paraguay-dicen-que-pena-se-expone-a-15-anos-de-carcel-por-caso-de-ueno-bank/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae",
+   "url": "https://www.infobae.com/colombia/2026/11/11/abelardo-de-la-espriella-autorizo-nuevo-bombardeo-en-colombia-es-el-octavo-de-su-gobierno-en-tres-meses/",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae",
+   "url": "https://www.infobae.com/america/agencias/2026/11/11/agenda-informativa-multisoporte-america-para-el-miercoles-11-de-noviembre-de-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "El Destape; Infobae (EFE)",
+   "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-11-noviembre-minuto-minuto-202611117856",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Kyiv Independent",
+   "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Kyiv Independent",
+   "url": "https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/",
+   "paywalled": false
+  },
+  {
+   "title": "Meduza (citing Financial Times); Euronews",
+   "url": "https://meduza.io/en/news/2026/11/09/german-chancellor-merz-threatens-to-block-eu-budget-unless-four-holdouts-hungary-slovakia-bulgaria-and-the-czech-republic-commit-to-funding-ukraine",
+   "paywalled": false
+  },
+  {
+   "title": "Meduza (citing Financial Times); Euronews",
+   "url": "https://euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Dawn (agencies)",
+   "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera; Dawn (agencies)",
+   "url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening",
+   "paywalled": false
+  },
+  {
+   "title": "Addis Standard (via allAfrica)",
+   "url": "https://allafrica.com/stories/202611110604.html",
+   "paywalled": false
+  },
+  {
+   "title": "Addis Standard (via allAfrica)",
+   "url": "https://addisstandard.com/ethiopia-tells-un-envoy-eritrea-sudan-backing-armed-groups-and-drone-attacks/",
+   "paywalled": false
+  }
+ ]
+}
