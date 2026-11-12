@@ -767,6 +767,143 @@
      "why": "Shows how India's Cabinet and its committees actually conduct government business."
     }
    ]
+  },
+  {
+   "id": "L05",
+   "num": 5,
+   "unit": "How each country is governed",
+   "title": "The legislatures: Congress; Sejm and Senate; Lok Sabha and Rajya Sabha",
+   "dateTaught": "2026-11-12",
+   "minutes": 8,
+   "pulledForward": false,
+   "prevQuestion": "Why does India's rule of collective responsibility make it unlikely that Parliament would ever vote out a single minister, while Poland's Sejm can?",
+   "prevAnswer": "In India the Council of Ministers answers to the Lok Sabha as one body, so a confidence vote brings down the whole government rather than one minister; individual ministers are removed by the prime minister. Poland's Constitution adds a separate tool, the individual vote of no confidence, which forces the president to recall one minister while the government survives.",
+   "body": "Lesson 4 showed that in Poland and India the government must keep the confidence of parliament, while in the US the cabinet answers only to the president. That raises the obvious next question: what exactly is that parliament? All three countries have **bicameral** legislatures, with two chambers, but the two chambers are far from equal partners in Poland and India, and almost perfectly equal in the US.\n\n**United States: two equal houses.** Article I gives all federal lawmaking power to Congress. The **House of Representatives** has 435 members elected every two years from single-member districts drawn by population. The **Senate** has 100 members, two per state regardless of size, serving six-year terms, with a third elected every two years. That split came from the [#Connecticut Compromise](https://en.wikipedia.org/wiki/Connecticut_Compromise) of 1787 between large and small states. Senators were chosen by state legislatures until the [#Seventeenth Amendment](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution) made them directly elected in 1913. No bill becomes law unless both chambers pass the identical text, so a party that controls only one house can block almost everything. Each chamber also has its own jobs: the House starts tax bills and impeaches; the Senate confirms nominees, approves treaties by two-thirds and holds impeachment trials. Day to day, real power sits with party leaders chosen by each party's members, such as the Senate majority leader.\n\n> Congress first met on 4 March 1789 at Federal Hall in New York City, and moved to Washington, D.C., in 1800.\n\n**Poland: a strong Sejm and a reviewing Senate.** Poland's parliament has a lower house, the **Sejm**, with 460 deputies elected for four years by proportional representation from party lists, and an upper house, the **Senate** (Senat), with 100 senators elected at the same time in single-member districts where the top vote-getter wins. The two systems produce different results: a party with 35% of the vote gets at least a third of the Sejm, but can win far more or far fewer Senate seats depending on how its rivals split. The Sejm clearly dominates. Bills start there; the Senate has 30 days to accept, amend or reject them, and the Sejm can overturn any Senate change by an absolute majority of votes cast. Only the Sejm can bring down the government. The Sejm is run by its **Marshal** (Marszałek), currently [@Włodzimierz Czarzasty](https://en.wikipedia.org/wiki/W%C5%82odzimierz_Czarzasty) under the coalition's rotation deal.\n\n> The Sejm traces its start to the 1493 general assembly in Piotrków under King [@John I Albert](https://en.wikipedia.org/wiki/John_I_Albert).\n\n> The Senate, abolished in 1946, returned under the [#Polish Round Table Agreement](https://en.wikipedia.org/wiki/Polish_Round_Table_Agreement); its first members were chosen in the [#1989 Polish parliamentary election](https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election).\n\n**India: the House of the People and the Council of States.** The **Lok Sabha** (House of the People) has 543 elected members chosen for up to five years by first-past-the-post in single-member constituencies; it can be dissolved early. The **Rajya Sabha** (Council of States) speaks for the federal side: up to 250 members, currently 233 elected by state legislatures in proportion to population plus 12 nominated by the President for expertise in fields like the arts and science. It is never dissolved; a third of its members retire every two years. The Lok Sabha is stronger in three ways. The government answers only to it. Money bills can start only there, and the Rajya Sabha can merely suggest changes within 14 days. And if the houses deadlock on an ordinary bill, the President can call a joint sitting, where the larger Lok Sabha usually prevails; this has happened only three times, most recently over the [#Prevention of Terrorism Act, 2002](https://en.wikipedia.org/wiki/Prevention_of_Terrorism_Act,_2002). Still, a government without a Rajya Sabha majority must bargain for constitutional amendments, which need two-thirds in each house.\n\n> The first Lok Sabha was constituted in April 1952, after the [#1951–52 Indian general election](https://en.wikipedia.org/wiki/1951%E2%80%9352_Indian_general_election).\n\n**The pattern.** In the parliamentary systems the lower house makes and breaks governments, so the upper house becomes a chamber of review and delay. In the presidential US, neither chamber can remove the government, so both keep full veto power over legislation. That is why American elections for either chamber can reshape a whole presidency.",
+   "comparison": [
+    {
+     "aspect": "Lower house",
+     "US": "House of Representatives: 435 members, 2-year terms, single-member districts",
+     "Poland": "Sejm: 460 deputies, 4-year terms, party-list proportional representation",
+     "India": "Lok Sabha: 543 elected members, up to 5 years, first-past-the-post"
+    },
+    {
+     "aspect": "Upper house",
+     "US": "Senate: 100 members, 2 per state, 6-year staggered terms",
+     "Poland": "Senate: 100 senators, single-member districts, elected with the Sejm",
+     "India": "Rajya Sabha: up to 250 (233 elected by state legislatures + 12 nominated); permanent, a third retire every 2 years"
+    },
+    {
+     "aspect": "Which house the government answers to",
+     "US": "Neither (only impeachment removes officials)",
+     "Poland": "Sejm only",
+     "India": "Lok Sabha only"
+    },
+    {
+     "aspect": "When the houses disagree",
+     "US": "Both must pass identical text; either can block",
+     "Poland": "Sejm overrides Senate amendments or rejection by absolute majority",
+     "India": "Joint sitting for ordinary bills; on money bills Rajya Sabha only recommends"
+    },
+    {
+     "aspect": "Special upper-house powers",
+     "US": "Confirms nominees, approves treaties (2/3), tries impeachments",
+     "Poland": "Consents to a national referendum called by the President",
+     "India": "Can let Parliament legislate on a State List subject (Art. 249)"
+    },
+    {
+     "aspect": "Who runs the lower house",
+     "US": "Speaker of the House",
+     "Poland": "Marshal of the Sejm",
+     "India": "Speaker of the Lok Sabha"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Bicameral",
+     "meaning": "A legislature with two chambers; all three countries have one."
+    },
+    {
+     "term": "Sejm",
+     "meaning": "Poland's lower and dominant chamber of 460 deputies, which forms and removes governments."
+    },
+    {
+     "term": "Senat",
+     "meaning": "Poland's 100-member upper house; it reviews Sejm bills within 30 days but can be overridden."
+    },
+    {
+     "term": "Lok Sabha",
+     "meaning": "\"House of the People\": India's directly elected lower house, to which the government answers."
+    },
+    {
+     "term": "Rajya Sabha",
+     "meaning": "\"Council of States\": India's upper house, mostly elected by state legislatures; never dissolved."
+    },
+    {
+     "term": "Money bill",
+     "meaning": "In India, a bill on taxes or spending; it starts in the Lok Sabha and the Rajya Sabha can only suggest changes."
+    }
+   ],
+   "example": "In October 2019, the [#2019 Polish parliamentary election](https://en.wikipedia.org/wiki/2019_Polish_parliamentary_election) gave Law and Justice (PiS) a majority in the Sejm, but opposition parties had agreed not to run against each other in Senate districts, and together they won 51 of 100 Senate seats. [@Tomasz Grodzki](https://en.wikipedia.org/wiki/Tomasz_Grodzki) of Civic Coalition became Marshal of the Senate. The new majority could not stop PiS laws, because the Sejm could override its amendments and rejections. But it could use its full 30 days. In spring 2020 the Senate held the bill for an all-postal presidential election until the last moment, which helped leave too little time to organize the vote planned for 10 May; the [#2020 Polish presidential election](https://en.wikipedia.org/wiki/2020_Polish_presidential_election) was postponed to late June. The case shows both the limits and the real leverage of a weaker upper house.",
+   "inTheNews": "Senate Republicans re-elected [@John Thune](https://en.wikipedia.org/wiki/John_Thune) as their leader, now heading into the minority after Democrats won both chambers of Congress, and Congress faces a funding deadline in a month. In Poland, [@Jarosław Kaczyński](https://en.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski) wants one joint right-wing list for both the Sejm and the Senate, a strategy that matters most in the Senate's winner-take-all districts.",
+   "newsEvents": [
+    "E-261112-01",
+    "E-261112-13",
+    "E-261112-07"
+   ],
+   "check": [
+    {
+     "q": "Why can a party that controls only the US Senate block almost any law, while an opposition-controlled Polish Senate cannot?",
+     "options": [
+      "The US Senate can dismiss the president",
+      "US law needs identical passage by both chambers, while the Sejm can override the Polish Senate",
+      "The Polish Senate has no right to amend bills",
+      "The US Senate is elected by proportional representation"
+     ],
+     "answer": 1,
+     "explain": "In the US both chambers are equal partners. In Poland the Sejm can overturn any Senate amendment or rejection by an absolute majority, so the Senate can delay but not block."
+    },
+    {
+     "q": "An Indian government has a solid Lok Sabha majority but is short in the Rajya Sabha. Which goal is hardest for it?",
+     "options": [
+      "Passing its annual budget",
+      "Surviving a confidence vote",
+      "Amending the Constitution",
+      "Appointing ministers"
+     ],
+     "answer": 2,
+     "explain": "Money bills and confidence depend on the Lok Sabha alone, but constitutional amendments need two-thirds in each house, and a joint sitting cannot be used for them."
+    },
+    {
+     "q": "Why does it make sense for Poland's right-wing parties to run one joint list for the Senate in particular?",
+     "options": [
+      "Senate seats are allocated nationally by party share",
+      "Senators are chosen by the Sejm",
+      "Senators are elected in single-member districts, where splitting the vote can hand seats to rivals",
+      "Only one party may run in each Senate district"
+     ],
+     "answer": 2,
+     "explain": "In winner-take-all districts, two parties sharing a camp's votes can both lose to a united rival, as the 2019 opposition Senate pact showed."
+    }
+   ],
+   "recallQ": "Why do upper houses in parliamentary systems like Poland and India tend to be weaker than the US Senate?",
+   "recallA": "In parliamentary systems the government depends on the lower house's confidence, so that house is given the final say over most laws and the upper house becomes a chamber of review and delay. In the US neither chamber can remove the government, and the Constitution requires both to pass every law, so the Senate keeps a full veto.",
+   "readMore": [
+    {
+     "title": "Article I: The Legislative Branch (National Constitution Center)",
+     "url": "https://constitutioncenter.org/the-constitution/articles/article-i",
+     "why": "The full text of Article I with scholars' explanations of how Congress is built."
+    },
+    {
+     "title": "About the upper house (Senate of the Republic of Poland)",
+     "url": "https://www.senat.gov.pl/en/about-the-upper-house/",
+     "why": "The Senate's own summary of its election, 30-day review power and how the Sejm can override it."
+    },
+    {
+     "title": "Rajya Sabha: Introduction (Parliament of India)",
+     "url": "https://sansad.in/rs/about/introduction",
+     "why": "Official overview of the Council of States: composition, nominated members and its limits on money bills."
+    }
+   ]
   }
  ]
 }
