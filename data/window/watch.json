@@ -569,8 +569,8 @@
    "what": "Tusk–Nawrocki one-on-one meeting after the National Security Council, and whether it eases the Constitutional Tribunal dispute.",
    "expected": "No date as of Nov 6; Tusk said the Palace had given no signal (WP).",
    "checkDate": "2026-11-12",
-   "happened": "",
-   "eventId": ""
+   "happened": "No one-on-one meeting by Nov 12. On Nov 11 Tusk instead invited Nawrocki and his family to a pre-Christmas gathering at his Sopot home; the President’s chief of staff Bogucki mocked the offer on X. [TVN24](https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-12-listopada-2026-roku-st9334821)",
+   "eventId": "E-261112-12"
   },
   {
    "id": "W-261105-05",
@@ -599,9 +599,9 @@
    "dateAdded": "2026-11-05",
    "place": "Poland",
    "domain": "Politics & government",
-   "what": "Nawrocki signs (or refuses) the appointments of Bartol as funds minister, Domański as deputy PM and the four NBP board members.",
+   "what": "Nawrocki signs (or refuses) the appointments of Bartol as funds minister, Domański as deputy PM and the four NBP board members. Update (Nov 12): still unsigned; in his Nov 11 speech Nawrocki publicly criticised Domański over public finances.",
    "expected": "Tusk expects a quick decision (Interia)",
-   "checkDate": "2026-11-12",
+   "checkDate": "2026-11-19",
    "happened": "",
    "eventId": ""
   },
@@ -690,8 +690,8 @@
    "what": "Trump's decision on resuming strikes on Iran versus a deal, and the US response to Iran's reported nuclear proposal sent through Qatar",
    "expected": "Trump on Nov 5 said a decision is coming 'soon'",
    "checkDate": "2026-11-12",
-   "happened": "",
-   "eventId": ""
+   "happened": "No decision to resume strikes was announced. On Nov 11 Trump said the US had already won the war and now wants “total victory”, while Rubio told G7 ministers in Paris the US is not on a path to restart a hot war and will keep up economic pressure rather than accept a “stupid deal”. [Fox News](https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26)",
+   "eventId": "E-261112-02"
   },
   {
    "id": "W-261106-04",
@@ -745,8 +745,8 @@
    "what": "Nov 11 Independence March: turnout, incidents and Nawrocki's speech Update (Nov 7): after the Kraków attack, Interior Minister Kierwiński said holding the march would be analysed and the services are on heightened alert.",
    "expected": "Nawrocki confirmed he will attend, and organisers expect 500,000 or more.",
    "checkDate": "2026-11-11",
-   "happened": "",
-   "eventId": "E-261107-24"
+   "happened": "Warsaw city hall estimated up to 250,000 marchers (organisers claimed at least double); the march was largely peaceful but flares were lit despite a ban, a Lewica flag was burned on Poniatowski Bridge, and police detained 60 people, mostly for drugs. Nawrocki’s Piłsudski Square speech attacked the government over the Tribunal and public finances. [Polsat News](https://www.polsatnews.pl/wiadomosc/2026-11-11/jaka-frekwencja-na-marszu-niepodleglosci-sa-wyliczenia-wladz-warszawy/)",
+   "eventId": "E-261112-10"
   },
   {
    "id": "W-261106-09",
@@ -1050,9 +1050,9 @@
    "dateAdded": "2026-11-08",
    "place": "US–Poland",
    "domain": "Defense, security & crime",
-   "what": "Location, cost and start date of the PAC-3 MSE Patriot missile service centre in Poland (decided in mid-October), possibly announced at or after the Nov 10 Pentagon meeting",
+   "what": "Location, cost and start date of the PAC-3 MSE Patriot missile service centre in Poland (decided in mid-October), possibly announced at or after the Nov 10 Pentagon meeting Update (Nov 12): no location announced after the Nov 10 Pentagon meeting.",
    "expected": "Zero.pl / Interia (MON has said it is on the agenda)",
-   "checkDate": "2026-11-11",
+   "checkDate": "2026-12-05",
    "happened": "",
    "eventId": ""
   },
@@ -1097,8 +1097,8 @@
    "what": "Senate Republican leadership election (Thune expected to be re-elected; Sen. Ron Johnson’s group had sought a delay)",
    "expected": "Thune said the vote would be \"sometime tomorrow\" (CBS, Nov 10)",
    "checkDate": "2026-11-12",
-   "happened": "",
-   "eventId": ""
+   "happened": "Senate Republicans re-elected John Thune as leader on Nov 10 by secret ballot; he ran unopposed after the conference voted to proceed despite Sen. Ron Johnson’s push for a delay, and Johnson walked out. [PBS NewsHour](https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout)",
+   "eventId": "E-261112-01"
   },
   {
    "id": "W-261111-02",
