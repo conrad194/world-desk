@@ -1,0 +1,761 @@
+{
+ "date": "2026-11-12",
+ "top5": [
+  {
+   "text": "A cyberattack on Poland’s ePUAP e-government platform was stopped; the platform is offline as a precaution and the ABW is investigating.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Wirtualnemedia.pl (citing PAP)",
+     "url": "https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a"
+    }
+   ]
+  },
+  {
+   "text": "Nvidia’s board is reportedly preparing to oust CEO Jensen Huang after a second alleged affair; nothing is confirmed.",
+   "place": "US",
+   "links": [
+    {
+     "label": "ABC7 / San Francisco Standard (citing WSJ, NYT)",
+     "url": "https://abc7news.com/post/nvidia-board-preparing-oust-ceo-jensen-huang-2nd-affair-subordinate-revealed-reports-say/20034548/"
+    }
+   ]
+  },
+  {
+   "text": "Orlen is cancelling its oil-linked Qatari LNG contract over the war-related force majeure; it says supply is secure.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/"
+    }
+   ]
+  },
+  {
+   "text": "About 250,000 marched peacefully in Warsaw; Nawrocki used Independence Day to attack the government over the Tribunal and finances.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Wirtualna Polska",
+     "url": "https://wiadomosci.wp.pl/tk-berlin-domanski-najmocniejsze-momenty-wystapienia-nawrockiego-7349871115614656a"
+    }
+   ]
+  },
+  {
+   "text": "Trump says the Iran war is won; Rubio says the US isn’t heading back to a hot war and will keep up the economic squeeze.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Fox News",
+     "url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261112-02",
+    "domain": "Foreign relations",
+    "text": "Trump says the Iran war is already won and wants “total victory”; Rubio told the G7 the US isn’t heading back to a hot war and will keep up economic pressure. Iran threatened US bases in Europe if they are used against it.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Fox News",
+      "url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26"
+     },
+     {
+      "label": "More",
+      "url": "https://www.timesofisrael.com/liveblog-november-11-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-05",
+    "domain": "Economy, business & markets",
+    "text": "The WSJ reports Nvidia’s board is preparing to oust Jensen Huang after the NYT reported a second alleged affair. Nothing is confirmed; shares fell about 7.5% after hours.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "ABC7 / San Francisco Standard (citing WSJ, NYT)",
+      "url": "https://abc7news.com/post/nvidia-board-preparing-oust-ceo-jensen-huang-2nd-affair-subordinate-revealed-reports-say/20034548/"
+     },
+     {
+      "label": "More",
+      "url": "https://sfstandard.com/2026/11/11/jensen-huang-reportedly-fired-nvidia-board-affair-direct-report-alleged/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-06",
+    "domain": "Technology, AI & cyber",
+    "text": "Reuters found records of an Entity-Listed Chinese military university buying Nvidia H200 chips via a reseller; two Democratic senators want export-licence records preserved.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Al Jazeera (citing Reuters) / AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today"
+     },
+     {
+      "label": "More",
+      "url": "https://aiweekly.co/alerts/seven-chinese-military-linked-universities-seeking-nvidia-h200-ai-chips-despite"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-03",
+    "domain": "Defense, security & crime",
+    "text": "Bessent has moved onto a military base over Iranian threats (NYT); Rubio and Miller are also in protected housing.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Fox News",
+      "url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26"
+     },
+     {
+      "label": "More",
+      "url": "https://www.timesofisrael.com/liveblog-november-11-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-01",
+    "domain": "Politics & government",
+    "text": "Thune was re-elected Senate GOP leader unopposed; Ron Johnson walked out.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout"
+     },
+     {
+      "label": "More",
+      "url": "https://rollcall.com/2026/11/10/thune-will-lead-republicans-through-the-minority/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261112-15",
+    "domain": "Technology, AI & cyber",
+    "text": "A cyberattack on the ePUAP e-government platform was stopped on Tuesday, the digital minister says; the platform was taken offline as a precaution, has no restoration date, and the ABW is investigating. No data leak reported.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Cyberattacks on Polish infrastructure",
+    "links": [
+     {
+      "label": "Wirtualnemedia.pl (citing PAP)",
+      "url": "https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a"
+     },
+     {
+      "label": "More",
+      "url": "https://tvn24.pl/biznes/tech/cyberatak-na-panstwowy-system-epuap-abw-bada-sprawe-st9333117"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-14",
+    "domain": "Environment, energy & disasters",
+    "text": "Orlen is ending its 1 Mt/yr LNG contract with QatarEnergy, citing Qatar’s long force majeure; it says gas security isn’t affected.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.money.pl/gospodarka/orlen-wypowiada-umowe-z-qatarenergy-na-dostawy-lng-powolal-sie-klauzule-7349613479647712a.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-10",
+    "domain": "Politics & government",
+    "text": "The Warsaw Independence March drew up to 250,000 by city hall’s count; mostly peaceful, with flares, a burned Lewica flag and 60 detentions.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/jaka-frekwencja-na-marszu-niepodleglosci-sa-wyliczenia-wladz-warszawy/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/incydent-na-marszu-niepodleglosci-spalono-flage-lewicy/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-11",
+    "domain": "Politics & government",
+    "text": "Nawrocki’s Independence Day speech said the Tribunal’s prestige was “buried” and told Domański to do better; Kosiniak-Kamysz pushed back.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Wirtualna Polska",
+      "url": "https://wiadomosci.wp.pl/tk-berlin-domanski-najmocniejsze-momenty-wystapienia-nawrockiego-7349871115614656a"
+     },
+     {
+      "label": "More",
+      "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-12-listopada-2026-roku-st9334821"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-12",
+    "domain": "Politics & government",
+    "text": "Tusk invited Nawrocki’s family to a pre-Christmas dinner in Sopot; the Palace scoffed. The ministerial and NBP appointments remain unsigned.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-12-listopada-2026-roku-st9334821"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-13",
+    "domain": "Politics & government",
+    "text": "Kaczyński wants “one big list” of the right for both chambers next year.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "TVN24 (citing Onet)",
+      "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-12-listopada-2026-roku-st9334821"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [],
+  "India": [
+   {
+    "id": "E-261112-30",
+    "domain": "Economy, business & markets",
+    "text": "The Cabinet extended Stand-Up India to 2031 with a ₹4,111 crore guarantee corpus and cut the Mudra loan guarantee fee to 0.75%.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/amp/economy/news/govt-extends-stand-up-india-scheme-till-2031-approves-4-111-cr-corpus-126111101435_1.html"
+     },
+     {
+      "label": "More",
+      "url": "https://cracktarget.com/current-affairs-11-november-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-31",
+    "domain": "Economy, business & markets",
+    "text": "Rabi fertiliser subsidies were approved at a reported ₹62,370 crore, far above last year’s ₹37,952 crore.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "CrackTarget (current-affairs digest)",
+      "url": "https://cracktarget.com/current-affairs-11-november-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-32",
+    "domain": "Trade & tariffs",
+    "text": "Exports of lithium-ion battery black mass are now banned to protect domestic recyclers.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "CrackTarget (current-affairs digest)",
+      "url": "https://cracktarget.com/current-affairs-11-november-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261112-33",
+    "domain": "Health, medicine & food safety",
+    "text": "The medical-devices PLI scheme runs on to 2035-36 with easier entry terms.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "CrackTarget (current-affairs digest)",
+      "url": "https://cracktarget.com/current-affairs-11-november-2026/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Event",
+   "text": "Independence Day passed quietly after the city mourning ended; the voivode told the ceremony “Kraków returns to life”. Constable Morański, wounded detaining the gunman, had more surgery and may regain use of his hand.",
+   "link": "https://krknews.pl/emocjonalne-wystapienie-wojewody-malopolskiego-11-listopad/"
+  },
+  {
+   "kind": "Transit",
+   "text": "No new MPK or ZTP notices were found in sources read; check ZTP for current changes.",
+   "link": "https://ztp.krakow.pl/"
+  },
+  {
+   "kind": "Air quality",
+   "text": "No current air-quality readings were reached this run; check GIOŚ or the city’s smog alerts before going out.",
+   "link": "https://www.krakow.pl/230530,artykul,faq---smog.html"
+  }
+ ],
+ "relations": {
+  "US–Poland": [],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261112-01",
+   "name": "Commission Implementing Regulation (EU) 2026/2487 on AI regulatory sandboxes",
+   "place": "EU (applies in Poland)",
+   "body": "European Commission",
+   "stage": "Signed / published",
+   "changes": "Common EU-wide rules for setting up, running and supervising national AI regulatory sandboxes under the AI Act.",
+   "affects": "AI developers testing products under supervision, and Poland’s AI Act authorities.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://aiweekly.co/ai-news-today"
+  }
+ ],
+ "deepDive": {
+  "domain": "Technology, AI & cyber",
+  "title": "The week the plumbing showed: e-government, chips and AI rules",
+  "body": "**Poland’s digital front door went dark.** ePUAP is how Poles file official requests, sign documents with a Trusted Profile and receive letters from offices. On Tuesday evening the digital minister said an attack had been detected and stopped, and the platform was pulled offline as a precaution ([Wirtualnemedia](https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a)). The ministry insists nothing was compromised, but it gave no return date, and the ABW is investigating. No one has been blamed yet. The incident adds to a run of attacks on Polish public systems and lands as the government pushes a data-protection law after a breach of 19 million people’s records.\n\n**In the US, Nvidia is both a company and a policy tool.** Its chips sit at the centre of export controls on China. The board is reportedly close to removing Jensen Huang after he admitted a relationship with a woman US intelligence reportedly saw as gathering information for China ([SF Standard](https://sfstandard.com/2026/11/11/jensen-huang-reportedly-fired-nvidia-board-affair-direct-report-alleged/)). Separately, Reuters records suggest restricted H200 chips still reach blacklisted Chinese military universities through resellers. Both stories feed congressional pressure on export licensing, a week before Trump and Xi are due to meet around APEC in Shenzhen, where a new US–China AI dialogue is to begin.\n\n**Europe and India are writing the rulebooks.** A new Commission regulation sets common rules for AI sandboxes, the supervised testbeds Poland must offer under the AI Act. India’s data-protection rules reach a new stage tomorrow, when consent-manager provisions take effect, and a MeitY consultation on AI safety and deepfakes is expected within days.\n\n**What to watch:** when ePUAP comes back and whether attribution follows; Nvidia’s board decision; and whether Shenzhen produces anything concrete on AI.",
+  "links": [
+   {
+    "label": "Wirtualnemedia",
+    "url": "https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a"
+   },
+   {
+    "label": "SF Standard",
+    "url": "https://sfstandard.com/2026/11/11/jensen-huang-reportedly-fired-nvidia-board-affair-direct-report-alleged/"
+   },
+   {
+    "label": "AI Weekly",
+    "url": "https://aiweekly.co/ai-news-today"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261112-01",
+   "title": "Kolejny cyberatak na system z danymi Polaków. ePUAP tymczasowo wyłączono",
+   "reporter": "",
+   "outlet": "Wirtualnemedia.pl",
+   "url": "https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a",
+   "why": "Sets out exactly what the ministry has and hasn’t said about the ePUAP attack, and links it to the pending law after a 19-million-record health data breach.",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261112-02",
+   "title": "Poland’s Orlen becomes first buyer to cancel QatarEnergy LNG contract",
+   "reporter": "",
+   "outlet": "The National",
+   "url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
+   "why": "Explains why Orlen could walk away, what it keeps, and what the first cancellation means for Qatar’s other buyers.",
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-12",
+   "text": "India’s October CPI (ICRA expects 6.1%, above the RBI’s ceiling); possible Nvidia board decision on Huang.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-13",
+   "text": "India’s DPDP consent-manager rules take effect; Modi in Bengaluru; Mississippi affidavit-ballot count.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-14",
+   "text": "Check whether ePUAP is fully back online.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "MeitY AI consultation paper expected; possible first operations by CENTCOM’s Task Force Iron Gate.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "ASEAN summit in Manila and a possible Modi–Trump meeting on the trade deal; Gibała’s draft 2027 budget; Supreme Court of India air-pollution hearing.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Constitutional Tribunal Assembly on Święczkowski’s immunity; Supreme Court of India hearing on CEC Gyanesh Kumar.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Kraków City Council: ticket resolution vote and the Lviv partnership; Alaska ranked-choice count.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Trump–Xi meeting around APEC in Shenzhen; deadline in practice for Nawrocki on the Domański, Bartol and NBP appointments.",
+   "place": "US"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "PBS NewsHour",
+   "url": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
+   "paywalled": false
+  },
+  {
+   "title": "PBS NewsHour",
+   "url": "https://rollcall.com/2026/11/10/thune-will-lead-republicans-through-the-minority/",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News",
+   "url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News",
+   "url": "https://www.timesofisrael.com/liveblog-november-11-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "ABC7 / San Francisco Standard (citing WSJ, NYT)",
+   "url": "https://abc7news.com/post/nvidia-board-preparing-oust-ceo-jensen-huang-2nd-affair-subordinate-revealed-reports-say/20034548/",
+   "paywalled": false
+  },
+  {
+   "title": "ABC7 / San Francisco Standard (citing WSJ, NYT)",
+   "url": "https://sfstandard.com/2026/11/11/jensen-huang-reportedly-fired-nvidia-board-affair-direct-report-alleged/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (citing Reuters) / AI Weekly",
+   "url": "https://aiweekly.co/ai-news-today",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (citing Reuters) / AI Weekly",
+   "url": "https://aiweekly.co/alerts/seven-chinese-military-linked-universities-seeking-nvidia-h200-ai-chips-despite",
+   "paywalled": false
+  },
+  {
+   "title": "Washington Post / Bloomberg",
+   "url": "https://www.washingtonpost.com/politics/2026/11/11/one-month-shutdown-congress-is-far-deal-fund-government/",
+   "paywalled": true
+  },
+  {
+   "title": "Washington Post / Bloomberg",
+   "url": "https://bloomberg.com/news/articles/2026-11-09/shutdown-risks-emerge-as-democrats-consider-ways-to-end-iran-war",
+   "paywalled": false
+  },
+  {
+   "title": "Cloud Security Alliance",
+   "url": "https://labs.cloudsecurityalliance.org/research/frontier-ready-daily-20261111/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/jaka-frekwencja-na-marszu-niepodleglosci-sa-wyliczenia-wladz-warszawy/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/incydent-na-marszu-niepodleglosci-spalono-flage-lewicy/",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/tk-berlin-domanski-najmocniejsze-momenty-wystapienia-nawrockiego-7349871115614656a",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-12-listopada-2026-roku-st9334821",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.money.pl/gospodarka/orlen-wypowiada-umowe-z-qatarenergy-na-dostawy-lng-powolal-sie-klauzule-7349613479647712a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualnemedia.pl (citing PAP)",
+   "url": "https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualnemedia.pl (citing PAP)",
+   "url": "https://tvn24.pl/biznes/tech/cyberatak-na-panstwowy-system-epuap-abw-bada-sprawe-st9333117",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/emocjonalne-wystapienie-wojewody-malopolskiego-11-listopad/",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/amp/economy/news/govt-extends-stand-up-india-scheme-till-2031-approves-4-111-cr-corpus-126111101435_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://cracktarget.com/current-affairs-11-november-2026/",
+   "paywalled": false
+  }
+ ]
+}
