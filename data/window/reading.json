@@ -563,6 +563,30 @@
    "language": "English",
    "url": "https://www.opb.org/article/2026/11/10/house-vote-effectively-ends-impeachment-push-against-hegseth/",
    "why": "Explains the procedural route that killed the Iran-war impeachment and what the incoming Democratic majority may do."
+  },
+  {
+   "id": "RL-261112-01",
+   "dateAdded": "2026-11-12",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "title": "Kolejny cyberatak na system z danymi Polaków. ePUAP tymczasowo wyłączono",
+   "reporter": "",
+   "outlet": "Wirtualnemedia.pl",
+   "language": "Polish",
+   "url": "https://www.wirtualnemedia.pl/atak-hakerzy-epuap-system-dane-osobowe-polakow-minister-cyfryzacji-krzysztof-gawkowski-zawiadomi-abw,7349814817622496a",
+   "why": "Sets out exactly what the ministry has and hasn’t said about the ePUAP attack, and links it to the pending law after a 19-million-record health data breach."
+  },
+  {
+   "id": "RL-261112-02",
+   "dateAdded": "2026-11-12",
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "title": "Poland’s Orlen becomes first buyer to cancel QatarEnergy LNG contract",
+   "reporter": "",
+   "outlet": "The National",
+   "language": "English",
+   "url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
+   "why": "Explains why Orlen could walk away, what it keeps, and what the first cancellation means for Qatar’s other buyers."
   }
  ]
 }

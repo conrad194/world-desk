@@ -1165,6 +1165,17 @@
    "checkDate": "2026-11-19",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261112-03",
+   "dateAdded": "2026-11-12",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "what": "Full restoration of ePUAP after the Nov 10 cyberattack, and any ABW findings on who was behind it",
+   "expected": "Digital Affairs Ministry spokesperson Gieorgica (no date given)",
+   "checkDate": "2026-11-14",
+   "happened": "",
+   "eventId": "E-261112-15"
   }
  ]
 }

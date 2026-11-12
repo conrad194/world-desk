@@ -431,6 +431,22 @@
    "newsLink": "https://wiadomosci.wp.pl/nowy-regulamin-tk-opublikowany-zmiany-oslabiaja-pozycje-prezesa-7349606563146176a",
    "eventId": "E-261111-10",
    "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "R-261112-01",
+   "dateLogged": "2026-11-12",
+   "place": "EU (applies in Poland)",
+   "body": "European Commission",
+   "name": "Commission Implementing Regulation (EU) 2026/2487 on AI regulatory sandboxes",
+   "changes": "Sets common EU-wide rules for how national AI regulatory sandboxes are set up, run and supervised under the AI Act, so they do not differ country to country.",
+   "affects": "AI developers and start-ups testing products under regulator supervision, and Poland’s AI Act authorities.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://aiweekly.co/ai-news-today",
+   "eventId": "E-261112-16",
+   "lastChecked": "2026-11-12"
   }
  ]
 }
