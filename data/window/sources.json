@@ -1979,6 +1979,78 @@
    "lean": "mainstream commercial",
    "status": "Watch",
    "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "theprint",
+   "name": "ThePrint",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Politics, diplomacy",
+   "language": "English",
+   "url": "https://theprint.in",
+   "lean": "centre, digital",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "aaj-tak-business",
+   "name": "Aaj Tak (Business)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Business, trade",
+   "language": "Hindi",
+   "url": "https://www.aajtak.in/business",
+   "lean": "mainstream TV/digital",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "dziennik-polityczny",
+   "name": "Dziennik Polityczny",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Politics, defence",
+   "language": "Polish",
+   "url": "https://dziennik-polityczny.com",
+   "lean": "small private portal, less established",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "iria-news",
+   "name": "IRIA News",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "Defence/security aggregation",
+   "language": "English",
+   "url": "https://www.ir-ia.com",
+   "lean": "specialist, less established",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "the-pioneer",
+   "name": "The Pioneer",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National news",
+   "language": "English",
+   "url": "https://dailypioneer.com",
+   "lean": "centre-right",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "federal-register-public-inspection",
+   "name": "Federal Register Public Inspection",
+   "type": "Official source",
+   "place": "US",
+   "focus": "Regulations",
+   "language": "English",
+   "url": "https://public-inspection.federalregister.gov",
+   "lean": "official",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
   }
  ]
 }
