@@ -1,0 +1,986 @@
+{
+ "date": "2026-11-13",
+ "top5": [
+  {
+   "text": "Jensen Huang has resigned as Nvidia CEO; CFO Colette Kress is interim chief and earnings are still due Nov 17.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo"
+    }
+   ]
+  },
+  {
+   "text": "India’s October inflation hit 6.09%, above the RBI’s ceiling for the first time since 2024; a December rate hike is now expected.",
+   "place": "India",
+   "links": [
+    {
+     "label": "BW Businessworld",
+     "url": "https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336"
+    }
+   ]
+  },
+  {
+   "text": "Police again kept Święczkowski out of the Constitutional Tribunal despite a Supreme Court ruling in his favour; the justice minister calls that ruling void.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "RMF24",
+     "url": "https://www.rmf24.pl/fakty/polska/news-awantura-przed-trybunalem-konstytucyjnym-swieczkowski-zada-w,nIdn,1025840"
+    }
+   ]
+  },
+  {
+   "text": "Trump says the US doesn’t need an Iran deal and took Vance off the talks; he says strikes could resume.",
+   "place": "US",
+   "links": [
+    {
+     "label": "CNN via Yahoo News",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-tells-vance-turn-focus-200158576.html"
+    }
+   ]
+  },
+  {
+   "text": "Democrat Scott Colom won Mississippi’s Senate seat; Hyde-Smith conceded.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Mississippi Free Press (AP)",
+     "url": "https://www.mississippifreepress.org/why-ap-called-the-mississippi-senate-race-for-scott-colom/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261113-01",
+    "domain": "Economy, business & markets",
+    "text": "Jensen Huang resigned as Nvidia CEO and director; CFO Colette Kress is interim CEO and Harvey Jones becomes board chair while a successor is sought.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo"
+     },
+     {
+      "label": "More",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-03",
+    "domain": "Economy, business & markets",
+    "text": "Stocks fell about 0.4% and Nvidia 4.3%; the 10-year Treasury yield topped 5.10% after a weak 30-year auction, and oil rose near $89.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Investopedia via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html"
+     },
+     {
+      "label": "More",
+      "url": "https://www.tokenpost.com/news/investing/55914"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-05",
+    "domain": "Politics & government",
+    "text": "AP called Mississippi's Senate race for Democrat Scott Colom, who led by about 4,700 votes; Hyde-Smith conceded, giving Democrats 55 seats with Alaska pending.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Mississippi Free Press (AP)",
+      "url": "https://www.mississippifreepress.org/why-ap-called-the-mississippi-senate-race-for-scott-colom/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.deseret.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race-in-midterm-elections/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-06",
+    "domain": "Foreign relations",
+    "text": "Trump said the US doesn't need an Iran deal, pulled Vance off the talks, and said strikes could resume.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "CNN via Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-tells-vance-turn-focus-200158576.html"
+     },
+     {
+      "label": "More",
+      "url": "https://www.nation.com.pk/13-Nov-2026/trump-rejects-iran-deal-hormuz-crisis-fuels-regional-uncertainty"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-07",
+    "domain": "Foreign relations",
+    "text": "Iranian leaders said the US must accept seven unpublished conditions before talks, and that Hormuz stays shut until then.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Iran International",
+      "url": "https://www.iranintl.com/en/202611123622"
+     },
+     {
+      "label": "More",
+      "url": "https://aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261113-10",
+    "domain": "Technology, AI & cyber",
+    "text": "Minister Gawkowski says the ePUAP attack came from abroad and aimed to paralyse offices in December; the platform was still down on Nov 12.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Cyberattacks on Polish infrastructure",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/biznes/z-kraju/chcieli-zrobic-polsce-krzywde-proba-cyberataku-na-system-epuap-st9336000"
+     },
+     {
+      "label": "More",
+      "url": "https://biznes.interia.pl/finanse/news-atak-na-epuap-to-nie-przypadek-mogl-doprowadzic-do-paralizu,nId,23572372"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-12",
+    "domain": "Law, courts & regulation",
+    "text": "Police again kept Święczkowski out of the Constitutional Tribunal despite a Supreme Court ruling lifting his suspension; he threatens a bailiff and new attempts.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-awantura-przed-trybunalem-konstytucyjnym-swieczkowski-zada-w,nIdn,1025840"
+     },
+     {
+      "label": "More",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45478291-bogdan-swieczkowski-chce-wejsc-do-tk-pojawil-sie-przed-siedziba-organu"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-11",
+    "domain": "Law, courts & regulation",
+    "text": "Nawrocki must decide by Friday on the DSA content-blocking law; Gawkowski urges a signature, while the Palace questions blocking without courts.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/biznes/z-kraju/krzysztof-gawkowski-apeluje-do-prezydenta-musimy-zmusic-platformy-cyfrowe-do-dzialania-st9335252"
+     },
+     {
+      "label": "More",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/leskiewicz-najpozniej-w-piatek-decyzja-prezydenta-ws-ustawy-cyfrowej,684082.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-16",
+    "domain": "Environment, energy & disasters",
+    "text": "The EU Court of Justice rejected all seven Polish challenges to the Fit for 55 climate package; the rules stay in force.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/polska-przegrywa-przed-tsue-chodzi-o-fit-for-55/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.money.pl/gospodarka/porazka-polski-przed-tsue-jest-decyzja-ws-skarg-na-fit-for-55-7350163714763200a.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-21",
+    "domain": "Defense, security & crime",
+    "text": "The ABW has charged two Ukrainians with spying and sabotage for Russia, including burning cars made to look like Ukrainian army vehicles.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ABW (official)",
+      "url": "https://www.abw.gov.pl/pl/aktualnosci/2851,ABW-zatrzymala-dwoch-podejrzanych-o-szpiegostwo-i-dywersje-na-rzecz-Rosji.html"
+     },
+     {
+      "label": "More",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/abw-zatrzymala-ukraincow-podejrzanych-o-szpiegostwo-rozpoznawali-i-robili-zdjecia/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261113-27",
+    "domain": "Politics & government",
+    "text": "The 18 Nov council agenda includes final readings on suspending the Lviv partnership and bringing back 20/40-minute tickets.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków–Lviv partnership and the Year of the UPA",
+    "links": [
+     {
+      "label": "BIP Kraków",
+      "url": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-22",
+    "domain": "Health, medicine & food safety",
+    "text": "Eleven injured remain in five Kraków hospitals and are improving, the voivode says; one woman was moved to Warsaw with liver injuries and an Austrian to Vienna.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "WP Wiadomości",
+      "url": "https://wiadomosci.wp.pl/piec-dni-po-tragedii-w-krakowie-nowe-informacje-o-poszkodowanych-7350171359455712a"
+     },
+     {
+      "label": "More",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/ranna-w-zamachu-przewieziona-do-warszawy-nowe-informacje-o-stanie-kobiety/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-24",
+    "domain": "Economy, business & markets",
+    "text": "City Hall wants big savings in municipal units from 2027; a pay freeze and bonus cuts are being considered, a union says.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/krakow-oszczednosci-nagrody-premie-podwyzki-2026-2027/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261113-32",
+    "domain": "Economy, business & markets",
+    "text": "October CPI inflation hit 6.09%, above the RBI's 6% ceiling for the first time since 2024; food inflation was 8.94%, and a December rate hike is now widely expected.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "BW Businessworld",
+      "url": "https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336"
+     },
+     {
+      "label": "More",
+      "url": "https://indianopinion.org/retail-inflation-hits-6-09-in-october-breaches-rbi-upper-limit/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-34",
+    "domain": "Politics & government",
+    "text": "Modi said the government held the diesel hike to ₹7 a litre instead of the ₹50 he said was needed, and absorbed the rest to shield farmers.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "IANS via WebIndia123",
+      "url": "https://news.webindia123.com/news/Articles/India/20261112/4518978.html"
+     },
+     {
+      "label": "More",
+      "url": "https://news.webindia123.com/news/Articles/India/20261112/4518959.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-35",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Modi opens Bengaluru Metro's Pink Line on Nov 13; CM Shivakumar says the PM asked him to come to Delhi for a private talk on drought relief and the state's other demands.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "The Hans India",
+      "url": "https://www.thehansindia.com/news/cities/bengaluru/will-respectfully-welcome-the-pm-and-raise-states-issues-cm-d-k-shivakumar-1141482"
+     },
+     {
+      "label": "More",
+      "url": "https://www.aninews.in/news/national/general-news/karnataka-has-done-a-great-job-cm-dk-shivakumar-ahead-of-pm-modis-inauguration-of-bengaluru-metro-pink-line20261112182140"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-36",
+    "domain": "Environment, energy & disasters",
+    "text": "A low formed over the southeast Bay of Bengal on Nov 13 and may become a depression by Nov 15; heavy rain is possible in southern Tamil Nadu on Nov 15–18.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "News Today (Chennai)",
+      "url": "https://newstodaynet.com/2026/11/13/new-low-pressure-area-forms-over-bay-of-bengal/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.theweek.in/news/india/2026/11/12/imd-weather-forecast-another-cyclone-to-hit-andhra-pradesh-rain-alert-in-tamil-nadu-uttarakhand-and-himachal-pradesh.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-37",
+    "domain": "Technology, AI & cyber",
+    "text": "Consent-manager provisions of India's data-protection rules took effect Nov 13, but it is unclear whether the Data Protection Board is ready to register any.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Compliance Hub",
+      "url": "https://compliancehub.wiki/india-dpdp-consent-manager-november-2026-phase-two-deadline-compliance/"
+     },
+     {
+      "label": "More",
+      "url": "https://ppc.land/a-year-after-india-fixed-its-data-board-at-4-members-none-are-appointed/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-38",
+    "domain": "Politics & government",
+    "text": "New draft voter rolls in 13 states and 3 UTs show rises over the post-SIR lists; objections are open until Dec 11, and UP's draft is delayed to Nov 17.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "News24",
+      "url": "https://news24online.com/india/ec-publishes-draft-voter-lists-across-13-states-and-3-uts-under-ssr-2027-uttar-pradesh-delays-release-to-november-17/953026"
+     },
+     {
+      "label": "More",
+      "url": "https://hindi.asianetnews.com/news/top-10-morning-news-india-world-updates-november-13-2026-sonam-wangchuk-manipur-inflation-microsoft-outage-articleshow-6e56ks6"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-39",
+    "domain": "Politics & government",
+    "text": "Ladakh authorities barred Sonam Wangchuk from rallies for 60 days ahead of winter local polls; he calls it house arrest and plans a court challenge.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Ladakh statehood protests and council polls",
+    "links": [
+     {
+      "label": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/j-k/ladakh-imposes-60-day-restriction-on-sonam-wangchuk-amid-opposition-to-polls/"
+     },
+     {
+      "label": "More",
+      "url": "https://scroll.in/latest/1097049/sonam-wangchuk-claims-house-arrest-ahead-of-protest"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Weather",
+   "text": "IMGW snow warning for Podhale on Friday morning (5–10 cm above 500 m); sleet possible in Kraków, highs 2–7°C. Saturday drier, nights near −3°C.",
+   "link": "https://podhale24.pl/aktualnosci/artykul/119259/W_piatek_rano_intensywne_opady_sniegu_na_Podhalu_Obowiazuje_ostrzezenie_pierwszego_stopnia.html"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Live readings couldn’t be reached this run and no smog alert was found; check GIOŚ before going out.",
+   "link": "https://powietrze.gios.gov.pl/"
+  },
+  {
+   "kind": "Transit",
+   "text": "Tram diversions continue (ZTP 2249/2026), replacement buses to Bronowice Małe have changed, and bus 270 is affected by the Teatr Bagatela junction works.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Event",
+   "text": "Free memorial organ concert for the 7 November victims at St Mary’s Basilica, Saturday evening.",
+   "link": "https://cowkrakowie.pl/2026/11/koncert-w-bazylice-mariackiej-krakow-uczci-pamiec-ofiar-tragedii-z-7-listopada"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261113-47",
+    "domain": "Defense, security & crime",
+    "text": "MON says the Patriot PAC-3 service centre's site will be picked within three months, probably in western Poland; the centre is worth about 1 bn zł.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Dziennik Polityczny",
+      "url": "https://dziennik-polityczny.com/2026/11/12/nowe-centrum-serwisowe-pac-3-w-polsce-kluczowe-decyzje-w-najblizszych-miesiacach/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-48",
+    "domain": "Economy, business & markets",
+    "text": "Finance Minister Domański said the budget will cover a permanent US base, though costs and the funding model await the final decision.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Wirtualna Polska (PAP)",
+      "url": "https://wiadomosci.wp.pl/zielone-swiatlo-z-usa-na-stale-bazy-minister-finansow-reaguje-7349814917761504a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-49",
+    "domain": "Defense, security & crime",
+    "text": "Poland and the US signed a declaration of intent at the Pentagon to produce and service more US weapons in Poland.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "IRIA News",
+      "url": "https://www.ir-ia.com/news/us-and-poland-sign-defense-industry-cooperation-deal-as-talks-advance-on-permanent-american-military-base/"
+     },
+     {
+      "label": "More",
+      "url": "https://ua.news/pl/dovkolo-svitu/polshcha-i-ssha-pidpisali-zaiavu-pro-spivpratsiu-oboronnikh-galuzei-notes-from-poland"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261113-45",
+    "domain": "Foreign relations",
+    "text": "MEA confirmed Modi will be in Manila 16–18 Nov, but said a Quad summit, and with it any Modi–Trump meeting, is not yet confirmed.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "ThePrint",
+      "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/"
+     },
+     {
+      "label": "More",
+      "url": "https://www.deccanchronicle.com/nation/quad-summit-in-manila-not-confirmed-mea-2003839"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261113-46",
+    "domain": "Trade & tariffs",
+    "text": "Goyal said only a few issues remain in India–US trade talks; ex-US official Biswal expects a push to finish the first phase before the 14–15 Dec G20.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "Aaj Tak",
+      "url": "https://www.aajtak.in/business/news/story/india-us-trade-deal-g20-summit-market-access-piyush-goyal-former-diplomat-nisha-biswal-dpmx-smsr-2695202-2026-11-13"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261113-01",
+   "name": "Amendment to the Act on providing services by electronic means: procedure for orders blocking illegal online content (second DSA-implementing law)",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Passed / final",
+   "changes": "Creates a fast procedure for orders that restrict access to illegal content online. Blocking needs court approval, except for some categories such as sexual content involving children.",
+   "affects": "Online platforms and internet users in Poland. It also completes Poland's implementation of the EU Digital Services Act, which could otherwise bring EU penalties.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/biznes/z-kraju/krzysztof-gawkowski-apeluje-do-prezydenta-musimy-zmusic-platformy-cyfrowe-do-dzialania-st9335252"
+  },
+  {
+   "id": "R-261113-02",
+   "name": "DPDP Rules 2025 – Rule 4 and First Schedule (consent managers)",
+   "place": "India",
+   "body": "MeitY / Data Protection Board of India",
+   "stage": "In force",
+   "changes": "Consent managers, the platforms through which people give, manage and withdraw consent to data use, can now register with the Data Protection Board under set conditions and obligations.",
+   "affects": "Consent-manager platforms, and later all data fiduciaries that integrate with them (most company duties start May 13, 2027).",
+   "effectiveDate": "2026-11-13",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://compliancehub.wiki/india-dpdp-consent-manager-november-2026-phase-two-deadline-compliance/"
+  },
+  {
+   "id": "R-261113-03",
+   "name": "Removing Deference to Prior USCIS Determinations of Eligibility (NPRM, Docket USCIS-2026-0529)",
+   "place": "US",
+   "body": "DHS / USCIS",
+   "stage": "Open for comment",
+   "changes": "Removes the rule that tells officers to defer to an earlier approval when extending a worker petition for the same person and facts.",
+   "affects": "H-1B and other I-129 workers and their employers seeking extensions, including many Indian professionals. DHS expects more evidence requests and slower processing.",
+   "effectiveDate": "",
+   "commentDeadline": "2026-11-13",
+   "officialLink": "https://public-inspection.federalregister.gov/2026-20941.pdf",
+   "newsLink": "https://sundayguardianlive.com/world/h-1b-visa-update-will-indian-workers-face-more-scrutiny-during-visa-extensions-know-what-the-us-proposal-says-321121"
+  }
+ ],
+ "deepDive": {
+  "domain": "Foreign relations",
+  "title": "Three relationships, one month of US decisions",
+  "body": "**US–Poland: money on the table, decision in Washington.** Poland formally asked for a permanent US base in May, and Defence Minister Kosiniak-Kamysz has named four candidate cities and a cost of about 15 bn zł ([WNP](https://www.wnp.pl/bezpieczenstwo/amerykanska-baza-w-polsce-za-15-mld-zl-wladyslaw-kosiniak-kamysz-ujawnia-szczegoly,1112013.html)). After meeting Hegseth on 10 November he spoke of a Pentagon “green light”, and the two signed a defence-industry declaration of intent; the US side has not confirmed a base, and the decision rests with the White House, expected in early December ([TVN24](https://tvn24.pl/polska/pete-hegseth-spotkal-sie-z-wladyslawem-kosiniakiem-kamyszem-szef-pentagonu-oglosil-kolejny-krok-w-sojuszu-st9332784)). This week the finance minister said the budget will pay, and MON said the Patriot service centre’s site comes within three months. The big unknown is the Pentagon’s Europe posture review, with US media reporting possible cuts of 25,000–40,000 troops in Europe ([OKO.press](https://oko.press/na-zywo/na-zywo-relacja/amerykanskie-miasteczko-w-zachodniej-polsce-moze-powstac-w-2029-roku)).\n\n**US–India: close on trade, rough at the edges.** Goyal says only a few issues remain, and observers now point to the 14–15 December G20 rather than Manila as the target ([Aaj Tak](https://www.aajtak.in/business/news/story/india-us-trade-deal-g20-summit-market-access-piyush-goyal-former-diplomat-nisha-biswal-dpmx-smsr-2695202-2026-11-13)). Russian oil faded as an irritant after an October sanctions waiver, but the Pannun lawsuit against NSA Doval and tighter H-1B rules are live friction points. A Quad leaders’ meeting in Manila around 17 November is still unconfirmed ([ThePrint](https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/)).\n\n**Poland–India: quiet follow-through.** Tusk’s October visit set a goal of doubling trade by 2030 and launched defence-industry and counter-terrorism dialogues ([Cavalier](https://www.cavalier.in/cds-ota-current-affairs/2026-10-22/india-poland-tusk-visit-joint-statement-2026)). The classified-information agreement that joint defence work needs is still unsigned, with no public movement this week.\n\n**Analysis:** all three tracks now hinge on US decisions due within about a month: the base and posture review for Poland, the trade deal for India.",
+  "links": [
+   {
+    "label": "TVN24",
+    "url": "https://tvn24.pl/polska/pete-hegseth-spotkal-sie-z-wladyslawem-kosiniakiem-kamyszem-szef-pentagonu-oglosil-kolejny-krok-w-sojuszu-st9332784"
+   },
+   {
+    "label": "ThePrint",
+    "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261113-02",
+   "title": "Bogdan Święczkowski próbuje wejść do TK. Zapowiadał wezwanie komornika i policji",
+   "reporter": "Ada Michalak",
+   "outlet": "Rzeczpospolita",
+   "url": "https://www.rp.pl/sady-i-trybunaly/art45478291-bogdan-swieczkowski-chce-wejsc-do-tk-pojawil-sie-przed-siedziba-organu",
+   "why": "A detailed account of the Nov 12 stand-off at the Tribunal and the dispute over which Supreme Court ruling is valid.",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261113-06",
+   "title": "Retail Inflation Breaches RBI's 6% Threshold After Nine-month Rise",
+   "reporter": "",
+   "outlet": "BW Businessworld",
+   "url": "https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336",
+   "why": "Full breakdown (rural/urban, food items) plus several economists on what the RBI does next.",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-13",
+   "text": "Nawrocki’s deadline on the DSA content-blocking law; Poland’s flash Q3 GDP and final October CPI; US October PPI.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-14",
+   "text": "Check whether ePUAP is back online; memorial organ concert at St Mary’s Basilica.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Gibała’s draft 2027 budget due; MeitY AI consultation paper expected; Bay of Bengal low may become a depression.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Supreme Court of India air-pollution hearing; possible first operations by CENTCOM’s Task Force Iron Gate.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Nvidia earnings under interim CEO Kress; possible Quad meeting in Manila (Modi there 16–18 Nov); Tribunal Assembly on Święczkowski’s immunity; UP draft voter roll; Supreme Court of India hearing on CEC Gyanesh Kumar.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Kraków City Council votes on suspending the Lviv partnership and on 20/40-minute tickets; Alaska ranked-choice count.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Anthropic’s first trading day; Trump–Xi meeting around APEC; practical deadline for Nawrocki on the Domański, Bartol and NBP appointments.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "EU consumer-credit rules (CCD2) start to apply; Sejm vote on the anti-alcohol law expected.",
+   "place": "Poland"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "no sources found"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
+   "paywalled": false
+  },
+  {
+   "title": "Investopedia via Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html",
+   "paywalled": false
+  },
+  {
+   "title": "Mississippi Free Press (AP)",
+   "url": "https://www.mississippifreepress.org/why-ap-called-the-mississippi-senate-race-for-scott-colom/",
+   "paywalled": false
+  },
+  {
+   "title": "CNN via Yahoo News",
+   "url": "https://www.yahoo.com/news/politics/articles/trump-tells-vance-turn-focus-200158576.html",
+   "paywalled": false
+  },
+  {
+   "title": "Iran International",
+   "url": "https://www.iranintl.com/en/202611123622",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/biznes/z-kraju/chcieli-zrobic-polsce-krzywde-proba-cyberataku-na-system-epuap-st9336000",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polska/news-awantura-przed-trybunalem-konstytucyjnym-swieczkowski-zada-w,nIdn,1025840",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/biznes/z-kraju/krzysztof-gawkowski-apeluje-do-prezydenta-musimy-zmusic-platformy-cyfrowe-do-dzialania-st9335252",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-12/polska-przegrywa-przed-tsue-chodzi-o-fit-for-55/",
+   "paywalled": false
+  },
+  {
+   "title": "ABW (official)",
+   "url": "https://www.abw.gov.pl/pl/aktualnosci/2851,ABW-zatrzymala-dwoch-podejrzanych-o-szpiegostwo-i-dywersje-na-rzecz-Rosji.html",
+   "paywalled": false
+  },
+  {
+   "title": "BIP Kraków",
+   "url": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości",
+   "url": "https://wiadomosci.wp.pl/piec-dni-po-tragedii-w-krakowie-nowe-informacje-o-poszkodowanych-7350171359455712a",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/krakow-oszczednosci-nagrody-premie-podwyzki-2026-2027/",
+   "paywalled": false
+  },
+  {
+   "title": "BW Businessworld",
+   "url": "https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336",
+   "paywalled": false
+  },
+  {
+   "title": "IANS via WebIndia123",
+   "url": "https://news.webindia123.com/news/Articles/India/20261112/4518978.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/bengaluru/will-respectfully-welcome-the-pm-and-raise-states-issues-cm-d-k-shivakumar-1141482",
+   "paywalled": false
+  },
+  {
+   "title": "News Today (Chennai)",
+   "url": "https://newstodaynet.com/2026/11/13/new-low-pressure-area-forms-over-bay-of-bengal/",
+   "paywalled": false
+  },
+  {
+   "title": "Compliance Hub",
+   "url": "https://compliancehub.wiki/india-dpdp-consent-manager-november-2026-phase-two-deadline-compliance/",
+   "paywalled": false
+  },
+  {
+   "title": "News24",
+   "url": "https://news24online.com/india/ec-publishes-draft-voter-lists-across-13-states-and-3-uts-under-ssr-2027-uttar-pradesh-delays-release-to-november-17/953026",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/j-k/ladakh-imposes-60-day-restriction-on-sonam-wangchuk-amid-opposition-to-polls/",
+   "paywalled": false
+  },
+  {
+   "title": "Dziennik Polityczny",
+   "url": "https://dziennik-polityczny.com/2026/11/12/nowe-centrum-serwisowe-pac-3-w-polsce-kluczowe-decyzje-w-najblizszych-miesiacach/",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska (PAP)",
+   "url": "https://wiadomosci.wp.pl/zielone-swiatlo-z-usa-na-stale-bazy-minister-finansow-reaguje-7349814917761504a",
+   "paywalled": false
+  },
+  {
+   "title": "IRIA News",
+   "url": "https://www.ir-ia.com/news/us-and-poland-sign-defense-industry-cooperation-deal-as-talks-advance-on-permanent-american-military-base/",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/",
+   "paywalled": false
+  },
+  {
+   "title": "Aaj Tak",
+   "url": "https://www.aajtak.in/business/news/story/india-us-trade-deal-g20-summit-market-access-piyush-goyal-former-diplomat-nisha-biswal-dpmx-smsr-2695202-2026-11-13",
+   "paywalled": false
+  }
+ ]
+}
