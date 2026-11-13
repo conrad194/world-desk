@@ -1823,6 +1823,54 @@
    "lean": "Business; seen as pro-government",
    "status": "Watch",
    "dateAdded": "2026-11-11"
+  },
+  {
+   "id": "techcrunch",
+   "name": "TechCrunch",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Tech and startups",
+   "language": "English",
+   "url": "https://techcrunch.com/",
+   "lean": "Centre / tech trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "tom-s-hardware",
+   "name": "Tom's Hardware",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Tech and hardware",
+   "language": "English",
+   "url": "https://www.tomshardware.com/",
+   "lean": "Tech trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "deseret-news",
+   "name": "Deseret News",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "National politics",
+   "language": "English",
+   "url": "https://www.deseret.com/",
+   "lean": "Centre-right",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "iran-international",
+   "name": "Iran International",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Iran",
+   "language": "English",
+   "url": "https://www.iranintl.com/en",
+   "lean": "Iranian opposition-leaning, Saudi-linked funding reported",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
   }
  ]
 }

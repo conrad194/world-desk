@@ -349,8 +349,8 @@
    "what": "Anthropic files an S-1 amendment with a price range and launches its roadshow, or delays",
    "expected": "Reuters: roadshow planned for next week but under investor scrutiny; investors reportedly suggest a $1.5–1.6tn valuation",
    "checkDate": "2026-11-16",
-   "happened": "",
-   "eventId": "E-261107-12"
+   "happened": "Anthropic set a $70–78 range on Nov 10 (up to $1.4tn valuation, ticker ANT, trading around Nov 19), and the book is reportedly about 6x oversubscribed ([TechCrunch](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)).",
+   "eventId": "E-261113-08"
   },
   {
    "id": "W-261027-02",
@@ -679,8 +679,8 @@
    "what": "Mississippi affidavit-ballot processing (10-day window) and whether Colom's lead (2,010 on Nov 6) holds; scrutiny of Experian-based voter inactivations",
    "expected": "Secretary of State Watson estimates 12,000–20,000 affidavit ballots remain, with about 76% accepted",
    "checkDate": "2026-11-13",
-   "happened": "",
-   "eventId": "E-261107-07"
+   "happened": "AP called the race for Colom on Nov 11 with a 4,669-vote lead and fewer than 12,000 ballots left; Hyde-Smith conceded ([AP via Mississippi Free Press](https://www.mississippifreepress.org/why-ap-called-the-mississippi-senate-race-for-scott-colom/)).",
+   "eventId": "E-261113-05"
   },
   {
    "id": "W-261106-03",
@@ -943,7 +943,7 @@
    "what": "House vote on Rep. Massie's privileged resolution to impeach Defense Secretary Hegseth during the lame duck",
    "expected": "Massie (Roll Call, WSB-TV)",
    "checkDate": "2026-11-20",
-   "happened": "",
+   "happened": "On Nov 10 the House voted 211–204 to refer Massie's Hegseth impeachment articles to committee, in effect ending the effort ([Breaking Defense](https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/)).",
    "eventId": ""
   },
   {
@@ -1152,8 +1152,8 @@
    "what": "Nvidia board decision on whether to remove CEO Jensen Huang, and who would run the company in the interim",
    "expected": "Wall Street Journal (move could come within days)",
    "checkDate": "2026-11-13",
-   "happened": "",
-   "eventId": "E-261112-05"
+   "happened": "Huang resigned as CEO and director on Nov 12; CFO Colette Kress is interim CEO and Harvey Jones is board chair ([Tom's Hardware](https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo)).",
+   "eventId": "E-261113-01"
   },
   {
    "id": "W-261112-02",
@@ -1185,6 +1185,50 @@
    "what": "October CPI inflation release, and whether it breaks the RBI’s 6% upper band for the first time since October 2024",
    "expected": "ICRA’s Aditi Nayar forecasts 6.1%, with food inflation above 8% (NewsBytes)",
    "checkDate": "2026-11-12",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261113-01",
+   "dateAdded": "2026-11-13",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "Nvidia Q3 earnings, the first under interim CEO Kress, and any CEO search news",
+   "expected": "Nvidia says it will still report on Nov 17",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": "E-261113-01"
+  },
+  {
+   "id": "W-261113-02",
+   "dateAdded": "2026-11-13",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "what": "Jensen Huang testimony before House Foreign Affairs, China Select and Intelligence committees",
+   "expected": "Rep. Mast: by Thanksgiving (Nov 26)",
+   "checkDate": "2026-11-26",
+   "happened": "",
+   "eventId": "E-261113-02"
+  },
+  {
+   "id": "W-261113-03",
+   "dateAdded": "2026-11-13",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "what": "Anthropic IPO pricing and first trading day on Nasdaq (ANT)",
+   "expected": "Reuters/TechCrunch: trading expected around Nov 19",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": "E-261113-08"
+  },
+  {
+   "id": "W-261113-04",
+   "dateAdded": "2026-11-13",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "October PPI release (was due Nov 13, 8:30 ET)",
+   "expected": "BLS schedule",
+   "checkDate": "2026-11-14",
    "happened": "",
    "eventId": ""
   }
