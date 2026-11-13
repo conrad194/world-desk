@@ -904,6 +904,143 @@
      "why": "Official overview of the Council of States: composition, nominated members and its limits on money bills."
     }
    ]
+  },
+  {
+   "id": "L06",
+   "num": 6,
+   "unit": "How each country is governed",
+   "title": "How a bill becomes law in each country",
+   "dateTaught": "2026-11-13",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "Why do upper houses in parliamentary systems like Poland and India tend to be weaker than the US Senate?",
+   "prevAnswer": "In parliamentary systems the government depends on the lower house's confidence, so that house is given the final say over most laws and the upper house becomes a chamber of review and delay. In the US neither chamber can remove the government, and the Constitution requires both to pass every law, so the Senate keeps a full veto.",
+   "body": "Lesson 5 described the two chambers in each country. Today's question is what a proposal has to survive on its way from an idea to a binding law. The short answer: in the US it must win three separate approvals that can each say no; in Poland and India the government usually controls the path, and the hard part is the stages outside the lower house.\n\n**United States: many doors, each with a lock.** Only a member of Congress can formally introduce a bill, even one the White House wrote. It goes to a **committee**, where most bills quietly die. If a committee reports it, the House majority leadership schedules a vote, and a simple majority passes it. In the Senate, most bills in practice need 60 votes to end debate, because of the [#filibuster](https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate). Both chambers must then pass **exactly the same text**, so differences are settled by a conference committee or by sending amendments back and forth. Only then does the bill go to the president, who has ten days (Sundays excepted) to sign or veto it. Tax bills must start in the House.\n\n> The ten-day rule and the House's control of revenue bills were written at the [#Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)) in Philadelphia in 1787.\n\n**Poland: the government proposes, the Sejm decides.** Bills can come from the Council of Ministers, the president, the Senate, a group of 15 deputies, or 100,000 citizens, but government bills dominate. The Sejm debates each bill in **three readings** (czytania), with committee work between them, and passes it by a simple majority. The Senate then has 30 days; if it does nothing, the Sejm's text stands, and any Senate amendment or rejection can be overturned by an absolute majority in the Sejm. The president then has **21 days** to sign, veto, or send the act to the Constitutional Tribunal. A signed act takes effect only once it is published in the official journal, the **Dziennik Ustaw**. Budget bills and bills the government marks urgent run on shorter clocks.\n\n> Today's procedure comes from the Constitution adopted in 1997 and approved by referendum that May.\n\n**India: two houses, one tie-breaker.** An ordinary bill can start in either house and also goes through three readings, often with a stop at a standing or select committee. Both houses must pass it. If they deadlock, the president can call a **joint sitting**, where the Lok Sabha's larger numbers usually win; this has happened only three times, most recently for the [#Prevention of Terrorism Act, 2002](https://en.wikipedia.org/wiki/Prevention_of_Terrorism_Act,_2002). **Money bills**, certified by the Speaker, can start only in the Lok Sabha; the Rajya Sabha may suggest changes within 14 days, which the Lok Sabha can ignore. The president must assent to a money bill and can return other bills once, but must sign if Parliament passes them again. The Constitution sets no deadline for that decision, which once let President [@Zail Singh](https://en.wikipedia.org/wiki/Zail_Singh) simply sit on a postal bill in 1986.\n\n> The Constitution's lawmaking articles, 107 to 122, came into force on 26 January 1950.\n\n**The pattern.** In Poland and India, a government with a lower-house majority can almost always get its bills through parliament, so the real checks come at the end: a president from a rival camp in Poland, an opposition-held upper house in India, and courts in both. In the US the checks are built into every step, so most bills die early and the ones that pass are usually the product of bargaining across both chambers and the White House. That is why lesson 7's veto matters so much more in Warsaw today than in Delhi.",
+   "comparison": [
+    {
+     "aspect": "Who can introduce a bill",
+     "US": "Only members of Congress (revenue bills start in the House)",
+     "Poland": "Council of Ministers, president, Senate, 15 deputies or 100,000 citizens",
+     "India": "Any member of either house; ministers' government bills dominate"
+    },
+    {
+     "aspect": "Lower-house stage",
+     "US": "House committee, then majority vote",
+     "Poland": "Sejm: three readings with committee work, simple majority",
+     "India": "Lok Sabha: three readings, often a committee referral"
+    },
+    {
+     "aspect": "Upper-house role",
+     "US": "Senate must pass identical text; 60 votes usually needed to end debate",
+     "Poland": "Senate has 30 days to amend or reject; Sejm overrides by absolute majority",
+     "India": "Rajya Sabha equal on ordinary bills; only 14 days to recommend on money bills"
+    },
+    {
+     "aspect": "Resolving disagreement",
+     "US": "Conference committee or amendment ping-pong",
+     "Poland": "Sejm votes on Senate changes and has the last word",
+     "India": "Joint sitting called by the president (used three times)"
+    },
+    {
+     "aspect": "Head of state's decision",
+     "US": "10 days to sign or veto; pocket veto if Congress adjourns",
+     "Poland": "21 days to sign, veto or refer to the Constitutional Tribunal",
+     "India": "Assent, withhold, or return once (not money bills); no time limit"
+    },
+    {
+     "aspect": "When it becomes law",
+     "US": "On signature (or override), unless the act says otherwise",
+     "Poland": "After publication in Dziennik Ustaw, usually with a waiting period",
+     "India": "On assent; published in the Gazette of India, often in force by notification"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Reading (czytanie)",
+     "meaning": "A formal stage of debate on a bill; the Sejm, Lok Sabha and Rajya Sabha each hold three."
+    },
+    {
+     "term": "Committee",
+     "meaning": "A small group of legislators who examine a bill in detail; in Congress most bills die there."
+    },
+    {
+     "term": "Cloture",
+     "meaning": "A US Senate vote, normally needing 60 senators, to end debate and so defeat a [#filibuster](https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate)."
+    },
+    {
+     "term": "Money bill",
+     "meaning": "An Indian bill on taxes or spending, certified by the Lok Sabha Speaker, that the Rajya Sabha can only delay for 14 days."
+    },
+    {
+     "term": "Joint sitting",
+     "meaning": "In India, a combined session of both houses to break a deadlock on an ordinary bill."
+    },
+    {
+     "term": "Dziennik Ustaw",
+     "meaning": "Poland's Journal of Laws; an act has legal force only once published there."
+    }
+   ],
+   "example": "The [#Affordable Care Act](https://en.wikipedia.org/wiki/Affordable_Care_Act) shows how hard the US rule of identical texts can bite. In late 2009 the House and Senate passed different health bills, and Democrats planned to merge them. Then [@Scott Brown](https://en.wikipedia.org/wiki/Scott_Brown_(politician)) won the [#2010 Massachusetts Senate special election](https://en.wikipedia.org/wiki/2010_United_States_Senate_special_election_in_Massachusetts) in January, leaving Democrats with 59 votes, one short of ending a filibuster on a merged bill. Their workaround: the House passed the Senate's text unchanged, so no further Senate vote was needed, and President [@Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama) signed it in March 2010. The House's desired fixes went into a separate budget bill, the [#Health Care and Education Reconciliation Act of 2010](https://en.wikipedia.org/wiki/Health_Care_and_Education_Reconciliation_Act_of_2010), which under Senate rules needed only a simple majority. In Poland or India, a majority government would simply have amended its own bill.",
+   "inTheNews": "Today is President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki)'s 21-day deadline to sign, veto or refer Poland's second law implementing the EU's [#Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act), the final step after the Sejm and Senate. In India, part of the rules under the [#Digital Personal Data Protection Act, 2023](https://en.wikipedia.org/wiki/Digital_Personal_Data_Protection_Act,_2023) took effect today, a reminder that an act passed by Parliament often comes into force only in stages.",
+   "newsEvents": [
+    "E-261113-11",
+    "E-261113-37",
+    "E-261113-27"
+   ],
+   "check": [
+    {
+     "q": "Why do most US bills die before reaching the president, while most Polish government bills become law?",
+     "options": [
+      "The US president vetoes most bills in secret",
+      "US bills must clear committees, both chambers in identical form and often 60 Senate votes, while a Polish government with a Sejm majority controls the main stages",
+      "Polish bills skip the Senate",
+      "Polish presidents cannot veto government bills"
+     ],
+     "answer": 1,
+     "explain": "In Poland the government usually commands the Sejm, which can override the Senate. In the US each step is a separate approval that can block the bill."
+    },
+    {
+     "q": "India's Rajya Sabha opposes an ordinary bill that the Lok Sabha has passed. What can break the deadlock?",
+     "options": [
+      "The Supreme Court decides",
+      "The Speaker certifies it as passed",
+      "The president calls a joint sitting, where the Lok Sabha's larger numbers usually prevail",
+      "Nothing: the bill is dead for five years"
+     ],
+     "answer": 2,
+     "explain": "Article 108 allows a joint sitting for ordinary bills. With about twice as many members, the Lok Sabha usually decides the outcome."
+    },
+    {
+     "q": "A Polish act has passed the Sejm and Senate and the president signs it. When does it bind citizens?",
+     "options": [
+      "Immediately at signature",
+      "Once published in Dziennik Ustaw, usually after a waiting period",
+      "After the Constitutional Tribunal approves it",
+      "After the next Sejm election"
+     ],
+     "answer": 1,
+     "explain": "Polish acts take effect only after publication in the Journal of Laws, normally with a set period (often 14 days) before they enter into force."
+    }
+   ],
+   "recallQ": "Why is the final stage of lawmaking, the head of state's decision, a much bigger hurdle in Poland today than in India?",
+   "recallA": "Poland's president is directly elected, can come from a rival camp, and can veto an act (overridable only by three-fifths of the Sejm) or send it to the Constitutional Tribunal. India's president acts on the government's advice and can only return a bill once, after which assent is required, so the real checks there come from the Rajya Sabha and the courts.",
+   "readMore": [
+    {
+     "title": "The Legislative Process (house.gov)",
+     "url": "https://www.house.gov/the-house-explained/the-legislative-process",
+     "why": "The House's own step-by-step guide from introduction through conference to the president's ten days."
+    },
+    {
+     "title": "How laws are passed (Polish Senate education portal)",
+     "url": "https://senat.edu.pl/en/about-the-senate/how-laws-are-passed/",
+     "why": "The Senate's English summary of who can propose bills, the Sejm's readings, Senate review and the president's role."
+    },
+    {
+     "title": "Legislation: Introduction (Lok Sabha, Digital Sansad)",
+     "url": "https://sansad.in/ls/legislation/introduction",
+     "why": "Official explanation of readings in each house, joint sittings and presidential assent in India."
+    }
+   ]
   }
  ]
 }
