@@ -159,22 +159,22 @@
    "dateAdded": "2026-10-26",
    "place": "Kraków",
    "domain": "Foreign relations",
-   "what": "Whether Kraków suspends its partnership with Lviv. On 21 October, Mayor Gibała proposed suspending it after the Lviv Oblast Council declared 2027 the Year of the UPA and Shukhevych. The draft goes through two readings and will be withdrawn if the Ukrainian side reverses its decision. Przemyśl, Wrocław and Lublin have also protested.",
-   "expected": "Two readings at the City Council; next ordinary session on 18 November (KRKnews, PAP Samorząd).",
+   "what": "Second reading and vote on suspending the Kraków–Lviv partnership (druk 1586)",
+   "expected": "On the 18 Nov City Council session agenda, presented by Mayor Gibała (BIP)",
    "checkDate": "2026-11-18",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261113-27"
   },
   {
    "id": "W-261026-16",
    "dateAdded": "2026-10-26",
    "place": "Kraków",
    "domain": "Infrastructure, transport & housing",
-   "what": "Second reading and vote on the 20- and 40-minute ticket resolution",
-   "expected": "City Council session on 18 November; changes would apply from January 2027 (M jak Małopolska).",
+   "what": "Vote on the fare resolution (druk 1587) with the Nowa Lewica amendment and mayoral self-amendment",
+   "expected": "On the 18 Nov agenda as item 6 (BIP)",
    "checkDate": "2026-11-18",
    "happened": "",
-   "eventId": "E-261026-26"
+   "eventId": "E-261113-27"
   },
   {
    "id": "W-261026-17",
@@ -1275,6 +1275,17 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": "E-261113-15"
+  },
+  {
+   "id": "W-261113-09",
+   "dateAdded": "2026-11-13",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "what": "First reading of 2027 property tax and vehicle tax rates (druki 1617, 1616)",
+   "expected": "On the 18 Nov council agenda (BIP)",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": "E-261113-27"
   }
  ]
 }

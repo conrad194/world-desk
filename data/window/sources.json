@@ -1907,6 +1907,18 @@
    "lean": "official",
    "status": "Watch",
    "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "podhale24-pl",
+   "name": "podhale24.pl",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Podhale/Tatra news and weather warnings",
+   "language": "Polish",
+   "url": "https://podhale24.pl/",
+   "lean": "local",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
   }
  ]
 }
