@@ -447,6 +447,22 @@
    "newsLink": "https://aiweekly.co/ai-news-today",
    "eventId": "E-261112-16",
    "lastChecked": "2026-11-12"
+  },
+  {
+   "id": "R-261113-01",
+   "dateLogged": "2026-11-13",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "name": "Amendment to the Act on providing services by electronic means: procedure for orders blocking illegal online content (second DSA-implementing law)",
+   "changes": "Creates a fast procedure for orders that restrict access to illegal content online. Blocking needs court approval, except for some categories such as sexual content involving children.",
+   "affects": "Online platforms and internet users in Poland. It also completes Poland's implementation of the EU Digital Services Act, which could otherwise bring EU penalties.",
+   "stage": "Passed / final",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/biznes/z-kraju/krzysztof-gawkowski-apeluje-do-prezydenta-musimy-zmusic-platformy-cyfrowe-do-dzialania-st9335252",
+   "eventId": "E-261113-11",
+   "lastChecked": "2026-11-13"
   }
  ]
 }

@@ -599,6 +599,30 @@
    "language": "English",
    "url": "https://www.mississippifreepress.org/why-ap-called-the-mississippi-senate-race-for-scott-colom/",
    "why": "Explains the vote maths behind a historic call while ballots were still being reviewed."
+  },
+  {
+   "id": "RL-261113-02",
+   "dateAdded": "2026-11-13",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "title": "Bogdan Święczkowski próbuje wejść do TK. Zapowiadał wezwanie komornika i policji",
+   "reporter": "Ada Michalak",
+   "outlet": "Rzeczpospolita",
+   "language": "Polish",
+   "url": "https://www.rp.pl/sady-i-trybunaly/art45478291-bogdan-swieczkowski-chce-wejsc-do-tk-pojawil-sie-przed-siedziba-organu",
+   "why": "A detailed account of the Nov 12 stand-off at the Tribunal and the dispute over which Supreme Court ruling is valid."
+  },
+  {
+   "id": "RL-261113-03",
+   "dateAdded": "2026-11-13",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "title": "\"Chcieli zrobić Polsce krzywdę\". Próba cyberataku na system ePUAP",
+   "reporter": "Alicja Skiba",
+   "outlet": "TVN24",
+   "language": "Polish",
+   "url": "https://tvn24.pl/biznes/z-kraju/chcieli-zrobic-polsce-krzywde-proba-cyberataku-na-system-epuap-st9336000",
+   "why": "The government's fullest account so far of the ePUAP attack and its aims."
   }
  ]
 }

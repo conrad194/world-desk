@@ -1171,11 +1171,11 @@
    "dateAdded": "2026-11-12",
    "place": "Poland",
    "domain": "Technology, AI & cyber",
-   "what": "Full restoration of ePUAP after the Nov 10 cyberattack, and any ABW findings on who was behind it",
-   "expected": "Digital Affairs Ministry spokesperson Gieorgica (no date given)",
+   "what": "Full restoration of ePUAP and attribution of the attack. Update (Nov 12): Gawkowski says the attack came from abroad and aimed to paralyse administration in December; still offline with no date.",
+   "expected": "Digital Affairs Minister Gawkowski: country to be named once experts confirm (TVN24, Interia)",
    "checkDate": "2026-11-14",
    "happened": "",
-   "eventId": "E-261112-15"
+   "eventId": "E-261113-10"
   },
   {
    "id": "W-261112-04",
@@ -1231,6 +1231,50 @@
    "checkDate": "2026-11-14",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261113-05",
+   "dateAdded": "2026-11-13",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Nawrocki's decision (sign, veto or refer to the Tribunal) on the DSA content-blocking law",
+   "expected": "Presidential spokesman Leśkiewicz: decision by Friday Nov 13 at the latest (constitutional deadline)",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": "E-261113-11"
+  },
+  {
+   "id": "W-261113-06",
+   "dateAdded": "2026-11-13",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Święczkowski's further attempts to enter the Constitutional Tribunal, possibly with a bailiff",
+   "expected": "Święczkowski announced new attempts next week (RMF24)",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261113-12"
+  },
+  {
+   "id": "W-261113-07",
+   "dateAdded": "2026-11-13",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "GUS flash Q3 2026 GDP and final October CPI, plus the NBP September current account",
+   "expected": "GUS/NBP release calendar, per ING; ING expects a clear Q3 slowdown",
+   "checkDate": "2026-11-13",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261113-08",
+   "dateAdded": "2026-11-13",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Whether and when President Nawrocki agrees to be questioned as a witness in the 'Jerzy Ż.' flat case",
+   "expected": "Gdańsk-Śródmieście prosecutors left the date to the President (RMF24)",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261113-15"
   }
  ]
 }

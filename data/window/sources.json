@@ -1871,6 +1871,42 @@
    "lean": "Iranian opposition-leaning, Saudi-linked funding reported",
    "status": "Watch",
    "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "wp-wiadomosci",
+   "name": "WP Wiadomości",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "General news portal (Wirtualna Polska)",
+   "language": "Polish",
+   "url": "https://wiadomosci.wp.pl/",
+   "lean": "centrist commercial portal",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "ing-serwis-ekonomiczny-dziennik-ing",
+   "name": "ING Serwis Ekonomiczny (Dziennik ING)",
+   "type": "Think tank",
+   "place": "Poland",
+   "focus": "Daily macro and markets digest",
+   "language": "Polish",
+   "url": "https://ekonomiczny.ing.pl/",
+   "lean": "bank research, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "abw-agencja-bezpieczenstwa-wewnetrznego",
+   "name": "ABW – Agencja Bezpieczeństwa Wewnętrznego",
+   "type": "Official source",
+   "place": "Poland",
+   "focus": "Counter-intelligence, espionage and sabotage cases",
+   "language": "Polish",
+   "url": "https://www.abw.gov.pl/",
+   "lean": "official",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
   }
  ]
 }
