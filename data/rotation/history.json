@@ -601,6 +601,104 @@
    "prevAnswer": "Beijing fired missiles near Taiwan to deter voters from backing Lee Teng-hui, but when the US sent two aircraft-carrier groups, the PLA had no way to challenge them and Lee won anyway. Many analysts see that humiliation as a driver of the naval, missile and coast-guard build-up that now lets China rehearse encircling the island.",
    "recallQ": "Why did Ethiopia lose its Red Sea coastline in 1993, and why did its government at the time accept it?",
    "recallA": "Eritrea voted for independence in a UN-observed referendum after the Eritrean People's Liberation Front won its thirty-year war against Ethiopian rule. The new Ethiopian government, led by Meles Zenawi's TPLF, had fought the Derg alongside the EPLF and accepted Eritrea's right to self-determination, a decision many Ethiopian nationalists still resent."
+  },
+  {
+   "id": "2026-11-13",
+   "date": "2026-11-13",
+   "segment": "Africa",
+   "title": "Why Somalia keeps fighting over when its leaders' terms end",
+   "thread": "Somalia constitutional crisis",
+   "eventIds": [
+    "E-261113-05",
+    "E-261113-06"
+   ],
+   "minutes": 4,
+   "hook": "Somalia's Supreme Court ruled President [[p:Hassan Sheikh Mohamud]]'s term extension unlawful, and federal forces then took over the court. It is the second mandate crisis in five years, rooted in a 2012 constitution that left the rules for elections and federal power unfinished.",
+   "body": "Somalia's Supreme Court ruling against President [[p:Hassan Sheikh Mohamud]]'s extended term, and the government's answer of sending troops into the courthouse, is the latest round of a fight that recurs at almost every Somali election: who decides when a mandate ends, and under which rules.\n\nThe roots lie in collapse. When [[p:Siad Barre]]'s military regime fell in January 1991, the central state fell with it. The [[e:Somali Civil War]] split the country among clan militias; the northwest declared itself Somaliland, and in 1998 the northeast set up Puntland as an autonomous state. Talks in Arta, Djibouti, in 2000 produced the [[p:Transitional National Government of Somalia|Transitional National Government]] {{note: Formed at the Arta conference in Djibouti in 2000; its authority barely reached beyond parts of Mogadishu.}} and a power-sharing rule known as **4.5**: equal shares for the four largest clan families and half a share for all minority groups combined. Talks in Kenya then created the [[p:Transitional Federal Government of Somalia|Transitional Federal Government]] in 2004, on a charter that promised the regions their own governments.\n\nIt was weak and long kept out of the capital. In 2006 the [[p:Islamic Courts Union]] took Mogadishu, Ethiopian troops drove it out, and its militant youth wing became [[p:Al-Shabaab (militant group)|al-Shabaab]] {{note: Grew out of the Islamic Courts' youth militia in the mid-2000s and formally joined al-Qaeda in 2012.}}. African Union troops kept the transitional government alive. On 1 August 2012 a constituent assembly adopted a **Provisional Constitution**, and a new [[p:Federal Parliament of Somalia|federal parliament]] elected Hassan Sheikh president for the first time. The word \"provisional\" mattered: how power and revenue are split between Mogadishu and the federal member states, the electoral system and the status of the capital were all left to be settled later, by consensus.\n\nWithout one-person-one-vote elections, every vote since has been indirect: clan elders pick delegates, delegates pick MPs, and MPs pick the president. Each round needs a political deal between Mogadishu and the states, and each deadline invites a fight. The sharpest came in 2021. [[p:Mohamed Abdullahi Farmajo]] {{note: Former prime minister (2010–11), elected president by parliament in February 2017.}} saw his term expire in February without an agreed vote, and in April the lower house extended his mandate by two years. Rival army units took up positions in Mogadishu, and within weeks parliament dropped the extension and the indirect process resumed. It returned Hassan Sheikh to power in the [[e:2022 Somali presidential election]].\n\nBack in office, he set out to finish the constitution and replace clan selection with universal suffrage. In March 2024 parliament amended the first chapters, which also let the president appoint the prime minister on his own; Puntland withdrew its recognition of the federal government the next day, and Jubaland broke with Mogadishu late that year. In March 2026 lawmakers approved a revised constitution with five-year terms applied to sitting officeholders, pushing elections due in May back by a year. The opposition Somali Future Council, Puntland and Jubaland call the 2012 text the only legitimate one.\n\nThe court's 5 November ruling sided with that reading. By taking over the building and installing a new chief justice, the government has turned a legal dispute into a test of who controls the capital, much as in 2021, while foreign mediators try to steer both sides back to a deal.",
+   "timeline": [
+    {
+     "when": "1991",
+     "text": "[[p:Siad Barre]]'s regime falls; the central state collapses and Somaliland declares independence."
+    },
+    {
+     "when": "2000",
+     "text": "The Arta conference in Djibouti forms a transitional government and the 4.5 clan power-sharing formula."
+    },
+    {
+     "when": "2004",
+     "text": "The [[p:Transitional Federal Government of Somalia|Transitional Federal Government]] is formed in Kenya on a federal charter."
+    },
+    {
+     "when": "Aug 2012",
+     "text": "A constituent assembly adopts the Provisional Constitution; parliament elects Hassan Sheikh Mohamud president."
+    },
+    {
+     "when": "Apr 2021",
+     "text": "Parliament extends [[p:Mohamed Abdullahi Farmajo]]'s expired term by two years; army factions clash and the extension is dropped within weeks."
+    },
+    {
+     "when": "Mar 2024",
+     "text": "Constitutional amendments restore universal suffrage and strengthen the presidency; Puntland withdraws recognition of Mogadishu."
+    },
+    {
+     "when": "Mar 2026",
+     "text": "A revised constitution sets five-year terms for sitting officeholders, delaying elections due in May by a year."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "The Supreme Court rules the extension unlawful; federal forces take over the court and a new chief justice is installed."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Federal government",
+     "view": "President Hassan Sheikh Mohamud presents the 2024 and 2026 changes as finally completing a constitution left unfinished since 2012 and ending clan-based selection in favour of direct elections, which have not been held nationally since 1969. It rejected the court ruling and says the new constitution now applies."
+    },
+    {
+     "side": "Opposition and Puntland/Jubaland",
+     "view": "The opposition Somali Future Council and the leaders of Puntland and Jubaland say the amendments were pushed through unilaterally by a parliament whose own mandate was ending, when the 2012 text requires consensus on the federal settlement. They see the extension as a repeat of 2021 and back the court's call for an election deal."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "4.5 formula",
+     "meaning": "Power-sharing rule from the 2000 Arta talks giving equal shares to the four largest clan families (Darod, Hawiye, Dir, Rahanweyn) and half a share to minority groups combined."
+    },
+    {
+     "term": "Provisional Constitution (2012)",
+     "meaning": "Somalia's governing text since 1 August 2012; it set up a federal parliamentary republic but left the division of powers and the electoral system to later negotiation."
+    },
+    {
+     "term": "Federal member states",
+     "meaning": "The regional governments, among them Puntland, Jubaland, Hirshabelle, Galmudug and South West, whose cooperation every national election has needed."
+    },
+    {
+     "term": "Indirect election",
+     "meaning": "Somalia's system since 2012: clan elders choose delegates, delegates choose MPs, and parliament elects the president."
+    }
+   ],
+   "whyItMatters": "Because no election can happen without a deal between Mogadishu and the federal member states, a president who extends his own term without one splits the country's already fragile institutions. Watch the mediated talks set for 14–18 November, whether the opposition goes ahead with parallel elections, and whether the clan uprising in Hirshabelle and Uganda's troop withdrawal open space for [[p:Al-Shabaab (militant group)|al-Shabaab]].",
+   "readMore": [
+    {
+     "title": "Hassan Sheikh Mohamud's constitutional gamble",
+     "url": "https://www.geeska.com/en/hassan-sheikh-mohamuds-constitutional-gamble",
+     "why": "Horn of Africa outlet Geeska on the March 2026 constitution, the term extension and why Puntland, Jubaland and the opposition reject it."
+    },
+    {
+     "title": "Constitution of Somalia",
+     "url": "https://en.wikipedia.org/wiki/Constitution_of_Somalia",
+     "why": "Overview of Somalia's constitutions from 1961 through the 2012 provisional text and the 2024 amendments."
+    },
+    {
+     "title": "2021–2022 Somali political crisis",
+     "url": "https://en.wikipedia.org/wiki/2021%E2%80%932022_Somali_political_crisis",
+     "why": "The previous mandate crisis in detail, the closest precedent for today's standoff."
+    }
+   ],
+   "prevQuestion": "Why did Ethiopia lose its Red Sea coastline in 1993, and why did its government at the time accept it?",
+   "prevAnswer": "Eritrea voted for independence in a UN-observed referendum after the Eritrean People's Liberation Front won its thirty-year war against Ethiopian rule. The new Ethiopian government, led by Meles Zenawi's TPLF, had fought the Derg alongside the EPLF and accepted Eritrea's right to self-determination, a decision many Ethiopian nationalists still resent.",
+   "recallQ": "What is Somalia's 4.5 formula, and why does President Hassan Sheikh Mohamud want to replace the system built on it?",
+   "recallA": "It is the clan power-sharing rule from the 2000 Arta talks: equal shares for the four largest clan families and half a share for minorities, used to fill parliament through clan elders and delegates. Hassan Sheikh argues it entrenches clan politics and wants one-person-one-vote elections instead, but critics say he is using that reform to extend his own term without consensus."
   }
  ]
 }
