@@ -646,8 +646,8 @@
    "what": "DPDP Rules: consent-manager provisions take effect.",
    "expected": "DPDP Rules phase-two timetable (Compliance Hub)",
    "checkDate": "2026-11-13",
-   "happened": "",
-   "eventId": ""
+   "happened": "Rule 4 of the DPDP Rules (consent-manager registration) took effect on Nov 13 as scheduled; I found no sign yet of the Data Protection Board registering any consent manager ([Compliance Hub](https://compliancehub.wiki/india-dpdp-consent-manager-november-2026-phase-two-deadline-compliance/)).",
+   "eventId": "E-261113-37"
   },
   {
    "id": "W-261105-12",
@@ -1006,11 +1006,11 @@
    "dateAdded": "2026-11-08",
    "place": "India",
    "domain": "Economy, business & markets",
-   "what": "Karnataka CM Shivakumar to raise sugar price/FRP and E20 with PM Modi during Modi's Bengaluru visit",
-   "expected": "CM D.K. Shivakumar (IANS)",
-   "checkDate": "2026-11-13",
+   "what": "Outcome of Modi's Nov 13 Karnataka visit, and whether Shivakumar gets the private Delhi meeting on drought relief, sugar MSP/FRP and E20",
+   "expected": "Shivakumar says the PM asked him to come to Delhi (Hans India, Nov 12)",
+   "checkDate": "2026-11-20",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261113-35"
   },
   {
    "id": "W-261108-09",
@@ -1116,11 +1116,11 @@
    "dateAdded": "2026-11-11",
    "place": "India",
    "domain": "Environment, energy & disasters",
-   "what": "Whether the Bay of Bengal low-pressure area becomes a depression or cyclone, and where it heads",
-   "expected": "IMD expects a low around Nov 13, possibly a depression by Nov 15",
+   "what": "Bay of Bengal low (formed Nov 13): whether it becomes a depression or Cyclone 'Aqwan', and where it heads",
+   "expected": "IMD: well-marked low Nov 14, depression Nov 15; heavy rain in south Tamil Nadu Nov 15–18",
    "checkDate": "2026-11-16",
    "happened": "",
-   "eventId": "E-261111-25"
+   "eventId": "E-261113-36"
   },
   {
    "id": "W-261111-04",
@@ -1185,8 +1185,8 @@
    "what": "October CPI inflation release, and whether it breaks the RBI’s 6% upper band for the first time since October 2024",
    "expected": "ICRA’s Aditi Nayar forecasts 6.1%, with food inflation above 8% (NewsBytes)",
    "checkDate": "2026-11-12",
-   "happened": "",
-   "eventId": ""
+   "happened": "October CPI came in at 6.09%, above the RBI's 6% ceiling for the first time since Oct 2024; food inflation was 8.94% ([BW Businessworld](https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336)).",
+   "eventId": "E-261113-32"
   },
   {
    "id": "W-261113-01",
@@ -1286,6 +1286,39 @@
    "checkDate": "2026-11-18",
    "happened": "",
    "eventId": "E-261113-27"
+  },
+  {
+   "id": "W-261113-10",
+   "dateAdded": "2026-11-13",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "RBI MPC decision: whether it raises the repo rate after CPI broke 6%",
+   "expected": "Economists cited by ETV Bharat and BW Businessworld expect a hike at the Dec 4 meeting",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": "E-261113-32"
+  },
+  {
+   "id": "W-261113-11",
+   "dateAdded": "2026-11-13",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Wangchuk's court challenge to the 60-day order, and whether the Ladakh local polls (Nov 21) and hill council polls (Dec 4) go ahead or are deferred",
+   "expected": "Wangchuk says he will go to court; Leh Apex Body and KDA demand postponement",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": "E-261113-39"
+  },
+  {
+   "id": "W-261113-12",
+   "dateAdded": "2026-11-13",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Uttar Pradesh draft electoral roll under SSR 2027",
+   "expected": "ECI/UP CEO: deferred to Nov 17, objections until Dec 16",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": "E-261113-38"
   }
  ]
 }

@@ -1919,6 +1919,66 @@
    "lean": "local",
    "status": "Watch",
    "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "bw-businessworld",
+   "name": "BW Businessworld",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "business and economy",
+   "language": "English",
+   "url": "https://www.businessworld.in/",
+   "lean": "business, centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "news-today-chennai",
+   "name": "News Today (Chennai)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Tamil Nadu news, weather",
+   "language": "English",
+   "url": "https://newstodaynet.com/",
+   "lean": "regional, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "the-hans-india",
+   "name": "The Hans India",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "South India / Karnataka, Telangana",
+   "language": "English",
+   "url": "https://www.thehansindia.com/",
+   "lean": "centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "patrika",
+   "name": "Patrika",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "national and Rajasthan/MP news",
+   "language": "Hindi",
+   "url": "https://www.patrika.com/",
+   "lean": "centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
+  },
+  {
+   "id": "news24-news24online",
+   "name": "News24 (news24online)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "national news",
+   "language": "English",
+   "url": "https://news24online.com/",
+   "lean": "mainstream commercial",
+   "status": "Watch",
+   "dateAdded": "2026-11-13"
   }
  ]
 }

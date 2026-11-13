@@ -270,7 +270,7 @@
    "officialLink": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332474&reg=48&lang=1",
    "newsLink": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/",
    "eventId": "E-261105-28",
-   "lastChecked": "2026-11-06"
+   "lastChecked": "2026-11-13"
   },
   {
    "id": "R-261106-01",
@@ -382,7 +382,7 @@
    "officialLink": "https://x.com/rajnathsingh/status/2117911265716875355",
    "newsLink": "https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/",
    "eventId": "E-261106-43",
-   "lastChecked": "2026-11-07"
+   "lastChecked": "2026-11-13"
   },
   {
    "id": "R-261110-01",
@@ -462,6 +462,22 @@
    "officialLink": "",
    "newsLink": "https://tvn24.pl/biznes/z-kraju/krzysztof-gawkowski-apeluje-do-prezydenta-musimy-zmusic-platformy-cyfrowe-do-dzialania-st9335252",
    "eventId": "E-261113-11",
+   "lastChecked": "2026-11-13"
+  },
+  {
+   "id": "R-261113-02",
+   "dateLogged": "2026-11-13",
+   "place": "India",
+   "body": "MeitY / Data Protection Board of India",
+   "name": "DPDP Rules 2025 – Rule 4 and First Schedule (consent managers)",
+   "changes": "Consent managers, the platforms through which people give, manage and withdraw consent to data use, can now register with the Data Protection Board under set conditions and obligations.",
+   "affects": "Consent-manager platforms, and later all data fiduciaries that integrate with them (most company duties start May 13, 2027).",
+   "stage": "In force",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-13",
+   "officialLink": "",
+   "newsLink": "https://compliancehub.wiki/india-dpdp-consent-manager-november-2026-phase-two-deadline-compliance/",
+   "eventId": "E-261113-37",
    "lastChecked": "2026-11-13"
   }
  ]
