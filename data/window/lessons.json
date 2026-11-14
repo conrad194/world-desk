@@ -1041,6 +1041,143 @@
      "why": "Official explanation of readings in each house, joint sittings and presidential assent in India."
     }
    ]
+  },
+  {
+   "id": "L08",
+   "num": 8,
+   "unit": "How each country is governed",
+   "title": "Courts and judicial review: US Supreme Court; Constitutional Tribunal and Supreme Court of Poland; Supreme Court of India and the basic structure doctrine",
+   "dateTaught": "2026-11-14",
+   "minutes": 8,
+   "pulledForward": false,
+   "prevQuestion": "Why is the final stage of lawmaking, the head of state's decision, a much bigger hurdle in Poland today than in India?",
+   "prevAnswer": "Poland's president is directly elected, can come from a rival camp, and can veto an act (overridable only by three-fifths of the Sejm) or send it to the Constitutional Tribunal. India's president acts on the government's advice and can only return a bill once, after which assent is required, so the real checks there come from the Rajya Sabha and the courts.",
+   "body": "Lessons 6 and 7 followed a law to the president's desk. Today's question is what happens after it is signed: who can say that a valid-looking law breaks the constitution, and throw it out? That power is called **judicial review**, and the three countries give it to very different bodies.\n\n**United States: every court, one final word.** Article III of the Constitution creates \"one supreme Court\" and lets Congress set up lower federal courts, but it never says courts may strike down laws. The Supreme Court claimed that power itself in [#Marbury v. Madison](https://en.wikipedia.org/wiki/Marbury_v._Madison) (1803), when Chief Justice [@John Marshall](https://en.wikipedia.org/wiki/John_Marshall) reasoned that a judge applying the law must prefer the Constitution when the two conflict. Because the power comes from ordinary judging, any federal or state judge can use it, but only in a real case brought by someone actually harmed. The nine justices, nominated by the president and confirmed by the Senate, serve for life and choose which appeals to hear. Today the Court has a 6–3 majority of justices appointed by Republican presidents.\n\n> The Supreme Court first met in February 1790 at the Royal Exchange in New York, then the national capital.\n\n**Poland: a special court for the constitution.** Poland follows the European model of a separate **constitutional court**. The **Constitutional Tribunal** (Trybunał Konstytucyjny) is not at the top of the ordinary courts; it does only one job: checking laws against the 1997 Constitution. Its 15 judges are elected by the Sejm for single nine-year terms. Cases come from the president (who can refer a law before signing, as lesson 7 noted), the prime minister, 50 deputies or 30 senators, any court with a doubt, and citizens through a **constitutional complaint**. Its rulings are final, but they take effect only when published in the **Dziennik Ustaw**. The separate **Supreme Court** (Sąd Najwyższy) is the top court for ordinary civil and criminal cases.\n\n> The Tribunal was created by a 1982 constitutional amendment, passed under [#martial law](https://en.wikipedia.org/wiki/Martial_law_in_Poland), and issued its first ruling in 1986.\n\nThat design has been the centre of a decade-long fight. In 2015 both the outgoing Civic Platform majority and the incoming PiS government chose judges for the same seats, and the court that emerged was widely criticised as captured by PiS. The [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) government elected in 2023 treats it as improperly staffed and since 2024 has refused to publish its rulings. In 2026 the Sejm elected eight new judges; President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) swore in only three, and the dispute escalated into the [#2026 Polish Constitutional Tribunal crisis](https://en.wikipedia.org/wiki/2026_Polish_Constitutional_Tribunal_crisis), with rival claims to lead the court. Each side says the other is breaking the constitution; there is no neutral referee, because the referee is the thing in dispute.\n\n**India: one Supreme Court that does everything.** India's Supreme Court is both the final court of appeal and the guardian of the Constitution. Under Article 32, anyone whose fundamental rights are violated can go to it directly, and Article 13 expressly voids laws that breach those rights, so judicial review is written into the text. Judges are chosen largely by a **collegium** of senior judges. Most strikingly, in [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala) (1973), a 7–6 majority held that Parliament can amend the Constitution but cannot destroy its **basic structure**: democracy, secularism, federalism, judicial review itself. No US or Polish court claims power over constitutional amendments.\n\n> The Supreme Court of India held its first sitting on 28 January 1950, two days after the Constitution took effect.\n\n**The pattern.** The US spreads review across all courts but limits it to real disputes; Poland concentrates it in one body, which makes that body a prize worth capturing; India concentrates it too but goes furthest, guarding even the constitution's core against amendment. Which model is wiser is still argued in all three countries.",
+   "comparison": [
+    {
+     "aspect": "Who can strike down a law",
+     "US": "Any federal or state court; the Supreme Court has the final word",
+     "Poland": "Only the Constitutional Tribunal (Trybunał Konstytucyjny)",
+     "India": "The Supreme Court and the state High Courts"
+    },
+    {
+     "aspect": "Where the power comes from",
+     "US": "Claimed by the Court in [#Marbury v. Madison](https://en.wikipedia.org/wiki/Marbury_v._Madison) (1803); not in the text",
+     "Poland": "Written into the 1997 Constitution (Art. 188)",
+     "India": "Written into the Constitution (Arts. 13 and 32)"
+    },
+    {
+     "aspect": "How judges are chosen",
+     "US": "Nominated by the president, confirmed by the Senate; life tenure",
+     "Poland": "15 judges elected by the Sejm for one nine-year term, then sworn in before the president",
+     "India": "Appointed by the president on the recommendation of a collegium of senior judges; retire at 65"
+    },
+    {
+     "aspect": "How cases arrive",
+     "US": "Only through a real dispute; the Court picks its cases",
+     "Poland": "Abstract referrals (president, PM, 50 deputies, 30 senators), questions from courts, constitutional complaints",
+     "India": "Appeals, direct petitions on fundamental rights (Art. 32), advisory references from the president (Art. 143)"
+    },
+    {
+     "aspect": "Can it review constitutional amendments?",
+     "US": "No",
+     "Poland": "No",
+     "India": "Yes, under the basic structure doctrine from [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala) (1973)"
+    },
+    {
+     "aspect": "Top court for ordinary cases",
+     "US": "The same Supreme Court",
+     "Poland": "A separate Supreme Court (Sąd Najwyższy)",
+     "India": "The same Supreme Court"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Judicial review",
+     "meaning": "A court's power to declare a law, or an official act, invalid because it conflicts with the constitution."
+    },
+    {
+     "term": "Trybunał Konstytucyjny",
+     "meaning": "Poland's Constitutional Tribunal, a separate court whose only job is to check laws against the constitution; its rulings take effect when published."
+    },
+    {
+     "term": "Basic structure doctrine",
+     "meaning": "The Indian Supreme Court's rule, from [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala), that Parliament cannot amend away the Constitution's essential features."
+    },
+    {
+     "term": "Collegium",
+     "meaning": "The group of the Chief Justice of India and senior Supreme Court judges that in practice selects judges for the higher courts."
+    },
+    {
+     "term": "Constitutional complaint (skarga konstytucyjna)",
+     "meaning": "A Polish citizen's route to the Tribunal, claiming that the law used to decide their own case violated their constitutional rights."
+    },
+    {
+     "term": "Review petition",
+     "meaning": "In India, a request asking the Supreme Court to reconsider its own final judgment, allowed only on narrow grounds such as an obvious error."
+    }
+   ],
+   "example": "In 2014 Parliament passed, almost unanimously, the [#Ninety-ninth Amendment](https://en.wikipedia.org/wiki/Ninety-ninth_Amendment_of_the_Constitution_of_India) to replace the judges' collegium with a National Judicial Appointments Commission, which would have included the law minister and two \"eminent persons\" alongside senior judges. More than half of the state legislatures ratified it. In October 2015 a five-judge bench of the Supreme Court struck it down by 4–1, holding that judicial independence is part of the basic structure and that giving politicians a say over appointments threatened it.\n\nThe case shows the Indian model at full strength: a court voided a constitutional amendment passed by both houses and the states. Supporters saw a defence of independent courts; critics, including many MPs, saw judges protecting their own power to choose their successors. In the US, by contrast, an amendment ratified by the states binds the Supreme Court, and in Poland the Tribunal cannot review amendments either.",
+   "inTheNews": "Explaining his veto of Poland's law implementing the EU's [#Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act), President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) said he could not refer it to the Constitutional Tribunal because the Tribunal 'does not function', a direct result of the court crisis described above. In India, Yes Bank has asked the Supreme Court to review its own October judgment on AT-1 bonds, using the court's power to reconsider its final decisions.",
+   "newsEvents": [
+    "E-261114-03",
+    "E-261114-48",
+    "E-261114-18"
+   ],
+   "check": [
+    {
+     "q": "Why can any US judge strike down a law, while in Poland only one body can?",
+     "options": [
+      "The US Constitution lists every court that may do so",
+      "In the US review grew out of ordinary judging in real cases; Poland created a separate court just for constitutional questions",
+      "Polish ordinary courts are not allowed to read the Constitution",
+      "US judges are elected, so they have more legitimacy"
+     ],
+     "answer": 1,
+     "explain": "Marbury v. Madison tied review to deciding cases, so every court applies the Constitution; Poland follows the European model of one specialised constitutional court."
+    },
+    {
+     "q": "Which power does India's Supreme Court claim that neither the US Supreme Court nor Poland's Tribunal claims?",
+     "options": [
+      "Hearing appeals in criminal cases",
+      "Striking down ordinary laws",
+      "Voiding a constitutional amendment that destroys the Constitution's basic structure",
+      "Advising the president"
+     ],
+     "answer": 2,
+     "explain": "Under Kesavananda Bharati (1973), amendments themselves can be struck down if they damage the basic structure, as happened to the judicial appointments amendment in 2015."
+    },
+    {
+     "q": "Why does the dispute over Poland's Tribunal matter for how laws are made, as seen in today's DSA veto?",
+     "options": [
+      "The Tribunal must approve every bill before the Sejm votes",
+      "Without a Tribunal both sides accept, the president loses a usable alternative to the veto, and the government ignores the rulings it does issue",
+      "The Tribunal elects the president",
+      "The Tribunal can override a presidential veto"
+     ],
+     "answer": 1,
+     "explain": "Lesson 7 showed the president can refer a law instead of vetoing it; Nawrocki said that route was closed, and the government has not published Tribunal rulings since 2024."
+    }
+   ],
+   "recallQ": "Why is Poland's Constitutional Tribunal a bigger political prize than any single US court, and how does India's basic structure doctrine go further than either?",
+   "recallA": "Poland gives the power to strike down laws to one 15-member Tribunal elected by the Sejm, so whoever controls it controls constitutional review; in the US review is spread across all courts and limited to real cases. India's Supreme Court goes further still, claiming the power to void even constitutional amendments that damage the Constitution's basic structure.",
+   "readMore": [
+    {
+     "title": "Article III: Judicial Power (Constitution Annotated, via Cornell LII)",
+     "url": "https://www.law.cornell.edu/constitution-conan/article-3/judicial-power",
+     "why": "The Library of Congress's annotated Constitution, including how Marbury v. Madison established judicial review."
+    },
+    {
+     "title": "The Constitutional Tribunal's scope of jurisdiction (trybunal.gov.pl)",
+     "url": "https://trybunal.gov.pl/en/about-the-tribunal/constitutional-tribunal/the-constitutional-tribunals-scope-of-jurisdiction",
+     "why": "The Tribunal's own English summary of what it reviews and who can bring cases."
+    },
+    {
+     "title": "Jurisdiction (Supreme Court of India)",
+     "url": "https://www.sci.gov.in/jurisdiction/",
+     "why": "The Court's official account of its original, appellate, advisory, writ and review powers."
+    }
+   ]
   }
  ]
 }
