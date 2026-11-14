@@ -1,0 +1,959 @@
+{
+ "date": "2026-11-14",
+ "top5": [
+  {
+   "text": "A communications failure grounded every US departure for about four hours on Friday.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Fox Business",
+     "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary"
+    }
+   ]
+  },
+  {
+   "text": "Nawrocki vetoed Poland’s DSA content-blocking law, leaving the EU Digital Services Act only partly implemented.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Portal Samorządowy (PAP) / TVN24",
+     "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/prezydent-zawetowal-ustawe-dot-blokowania-nielegalnych-tresci-w-internecie-miala-wdrozyc-dsa-aktualizacja,684294.html"
+    }
+   ]
+  },
+  {
+   "text": "Poland joins a five-country European team for the US-brokered Ukraine peace talks.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita (PAP) / Defence24",
+     "url": "https://www.rp.pl/konflikty-zbrojne/art45487371-polska-wezmie-udzial-w-negocjacjach-dotyczacych-zakonczenia-wojny-w-ukrainie"
+    }
+   ]
+  },
+  {
+   "text": "Cyclone Akvan may form in the Bay of Bengal around Nov 16; north Andhra and south Odisha are being watched.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Sambad English",
+     "url": "https://sambadenglish.com/latest-news/low-pressure-over-bay-of-bengal-becomes-well-marked-to-intensify-into-cyclonic-storm-around-nov-16-12808254"
+    }
+   ]
+  },
+  {
+   "text": "US wholesale inflation rose to 6.5%, firming bets on a December Fed hike.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261114-08",
+    "domain": "Infrastructure, transport & housing",
+    "text": "The FAA halted departures nationwide for about four hours on Friday after air-traffic communications failures; Duffy blames the old system and wants $50 billion. Officials doubt a cyberattack.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Fox Business",
+      "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.yahoo.com/news/us/article/faa-issues-nationwide-ground-stop-on-all-departing-flights-citing-communication-issue-213136811.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-01",
+    "domain": "Economy, business & markets",
+    "text": "October producer prices rose 0.3%, 6.5% on the year (up from 6.3%); goods prices are up 10.2%, adding pressure for a December Fed hike.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-09",
+    "domain": "Politics & government",
+    "text": "Van Hollen pledged to end the filibuster in his challenge to Schumer for Democratic leader; the secret-ballot vote is expected in early December.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "ABC News",
+      "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-10",
+    "domain": "Trade & tariffs",
+    "text": "Trump threatened to double tariffs on Mexico unless it stops a group of about 1,500 migrants heading north (Nov 12).",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Reuters (via BNN Bloomberg)",
+      "url": "https://bnnbloomberg.ca/business/international/2026/11/12/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-11",
+    "domain": "Foreign relations",
+    "text": "**Single source:** the WSJ says Vance is weighing direct talks with Iran’s Rezaei with Trump’s approval, despite Trump saying he pulled Vance from the talks.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Wall Street Journal (via Gulf News)",
+      "url": "https://gulfnews.com/world/mena/us-israel-iran-war-turkey-qatar-sign-defence-pact-as-trump-warns-tehran-hormuz-risks-persist-1.500745854"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-12",
+    "domain": "Defense, security & crime",
+    "text": "CENTCOM says it downed two Iranian drones aimed at Bahrain and denies the IRGC claim that it destroyed a US radar.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/us-israel-iran-war-turkey-qatar-sign-defence-pact-as-trump-warns-tehran-hormuz-risks-persist-1.500745854"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.timesofisrael.com/liveblog-november-13-2026/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261114-03",
+    "domain": "Technology, AI & cyber",
+    "text": "Nawrocki vetoed the second DSA content-blocking law, saying the Tribunal ‘does not function’; Gawkowski promises a new online-safety bill. TVN24 frames it as internet safety, the right-wing press as censorship.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Portal Samorządowy (PAP) / TVN24",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/prezydent-zawetowal-ustawe-dot-blokowania-nielegalnych-tresci-w-internecie-miala-wdrozyc-dsa-aktualizacja,684294.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/biznes/z-kraju/prezydent-zawetowal-ustawe-o-bezpieczenstwie-w-internecie-st9336908"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-20",
+    "domain": "Foreign relations",
+    "text": "Poland is one of five countries on Europe’s team for the US-brokered Ukraine talks; Kushner says Europe joins the next round in Abu Dhabi.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Ukraine security guarantees",
+    "links": [
+     {
+      "label": "Rzeczpospolita (PAP) / Defence24",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45487371-polska-wezmie-udzial-w-negocjacjach-dotyczacych-zakonczenia-wojny-w-ukrainie"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.euronews.com/2026/11/13/eu-leaders-gather-in-dublin-to-decide-who-will-speak-for-europe-in-peace-talks"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-19",
+    "domain": "Politics & government",
+    "text": "Tusk called Nawrocki’s delay in swearing in Domański and Bartol ‘idiotic’, saying it hurts Poland before the Nov 26 EU budget summit.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Wirtualna Polska",
+      "url": "https://wiadomosci.wp.pl/tusk-o-zwloce-prezydenta-utrzymuje-idiotyczna-sytuacje-7350653195171840a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-04",
+    "domain": "Economy, business & markets",
+    "text": "Q3 GDP growth slowed to 3.5% y/y, just below forecasts; October CPI confirmed at 3.5%. ING calls the data dovish for the MPC.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland monetary policy and NBP",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/gospodarka/art45483691-wzrost-gospodarczy-polski-nieco-spowolnil-sa-nowe-dane-gus-o-pkb"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.wnp.pl/rynki/polska-gospodarka-zwolnila-to-sygnal-dla-rady-polityki-pienieznej,1119458.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-21",
+    "domain": "Law, courts & regulation",
+    "text": "Nawrocki signed six laws, including patriotic education (school trips to memorial and military sites from 2027), a standing anti-terror ‘special event’ regime, pharma law, VAT and CPK.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "LEX",
+      "url": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-07",
+    "domain": "Technology, AI & cyber",
+    "text": "ePUAP was still offline on Nov 13 evening, with no restoration date and no attacker country named.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Cyberattacks on Polish infrastructure",
+    "links": [
+     {
+      "label": "Rzeczpospolita (cyfrowa.rp.pl)",
+      "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.tvp.info/96421006/po-cyberataku-system-epuap-nie-odzyskal-jeszcze-pelnej-funkcjonalnosci-ministerstwo-cyfryzacji-nie-podaje-terminu-przywrocenia-uslug-i-zapewnia-ze-priorytetem-jest-bezpieczenstwa-platformy"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261114-25",
+    "domain": "Law, courts & regulation",
+    "text": "A Brussels court lifted Pfizer’s seizure of Polish air-traffic agency funds in the vaccine dispute; not final.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Notes from Poland",
+      "url": "https://notesfrompoland.com/2026/11/13/belgian-court-overturns-seizure-of-polish-air-navigation-agencys-funds-in-pfizer-legal-battle/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261114-29",
+    "domain": "Infrastructure, transport & housing",
+    "text": "SCT exemption holders must renew from Tuesday Nov 17, online or at ZDMK (ul. Centralna 53); checks take up to 14 days.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "krakow.pl",
+      "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/345724,2353,komunikat,korekta_sct_w_przygotowaniu__pamietaj_o_odnowieniu_zwolnienia_od_wtorku__17_listopada_.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cowkrakowie.pl/2026/11/masz-zwolnienie-z-sct-w-krakowie-musisz-pamietac-o-waznym-terminie"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-30",
+    "domain": "Defense, security & crime",
+    "text": "Gibała asked Tusk for 10m zł to equip a joint security and monitoring centre; cross-party Kraków MPs back it.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "krakow.pl / IKC",
+      "url": "https://krakow.pl/aktualnosci/345709,29,komunikat,prezydent_krakowa_apeluje_o_10_mln_zl_z_budzetu_panstwa_na_bezpieczenstwo_miasta.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://ikc.pl/krakow-gibala-prosi-premiera-o-10-mln-zl-na-bezpieczenstwo-wszystkie-sluzby-w-jednym-centrum/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-31",
+    "domain": "Culture, media & sport",
+    "text": "Carriages return to the Main Square from 11:00 Saturday, a week after the attack.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/dorozki-wracaja-na-rynek-glowny-znamy-date"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cowkrakowie.pl/2026/11/dorozki-wracaja-na-rynek-glowny-w-krakowie"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-33",
+    "domain": "Infrastructure, transport & housing",
+    "text": "City Hall relaunched the overdue General Plan, keeping the drafts but reopening requests and adding pre-consultations.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "krakow.pl",
+      "url": "https://krakow.pl/aktualnosci/345718,29,komunikat,plan_ogolny_miasta_krakowa__nowe_otwarcie.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.tvp.pl/95928661/krakow-wciaz-bez-planu-ogolnego-gibala-chce-rozpoczac-prace-od-poczatku"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-32",
+    "domain": "Law, courts & regulation",
+    "text": "A Finance Ministry draft would exempt donations to attack victims and families from gift tax until end-2027.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Radio Kraków (PAP)",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/darowizny-dla-ofiar-ataku-w-krakowie-bez-podatku-jest-projekt-rozporzadzenia/187719"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261114-41",
+    "domain": "Environment, energy & disasters",
+    "text": "The Bay of Bengal low is now well marked; IMD expects a depression within 24 hours and Cyclone Akvan around the evening of Nov 16. Landfall area not yet given.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Sambad English",
+      "url": "https://sambadenglish.com/latest-news/low-pressure-over-bay-of-bengal-becomes-well-marked-to-intensify-into-cyclonic-storm-around-nov-16-12808254"
+     },
+     {
+      "label": "Second source",
+      "url": "https://madhyamamonline.com/india/bay-of-bengal-system-likely-to-intensify-into-cyclone-akvan-by-november-16-1572033"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-42",
+    "domain": "Trade & tariffs",
+    "text": "October goods exports hit a record $49.47bn (+45% y/y, on a weak base); the trade deficit narrowed to $20.09bn.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "All India Radio News (newsonair.gov.in)",
+      "url": "https://newsonair.gov.in/countrys-total-exports-grow-by-over-16-from-april-to-oct-this-fiscal-as-compared-to-last-fiscal-same-period/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-43",
+    "domain": "Environment, energy & disasters",
+    "text": "Delhi’s air turned ‘severe’ (AQI 403) on Nov 13 before easing; GRAP Stage III stays in force.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/bharat/delhi-ncr-chokes-as-aqi-crosses-400-33-monitoring-stations-in-capital-record-hazardous-air-quality-enn26111300998"
+     },
+     {
+      "label": "Second source",
+      "url": "https://newsonair.gov.in/cpcb-says-delhis-air-quality-in-very-poor-category/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-44",
+    "domain": "Infrastructure, transport & housing",
+    "text": "23 killed when a van hit a trailer truck near Kaziranga, Assam.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "All India Radio News (newsonair.gov.in)",
+      "url": "https://newsonair.gov.in/23-people-killed-in-road-accident-near-kaziranga-in-assam-pm-announces-ex-gratia/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-46",
+    "domain": "Defense, security & crime",
+    "text": "The Home Ministry extended the UAPA ban on Zakir Naik’s Islamic Research Foundation for five years.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "All India Radio News (newsonair.gov.in)",
+      "url": "https://newsonair.gov.in/centre-extends-ban-on-zakir-naik-led-islamic-research-foundation-for-five-years/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-48",
+    "domain": "Law, courts & regulation",
+    "text": "Yes Bank asked the Supreme Court to review its ruling restoring ₹8,415 crore of written-off AT-1 bonds.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Indian Opinion (citing Business Standard)",
+      "url": "https://indianopinion.org/yes-bank-files-review-petition-in-supreme-court-on-at-1-bonds/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.business-standard.com/companies/news/yes-bank-seeks-sc-review-of-ruling-on-8-415-crore-at-1-bond-write-down-126111301764_1.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Event",
+   "text": "Carriages return to the Main Square from 11:00. Free memorial concerts at St Mary’s Basilica: Mozart’s Requiem at 16:00, organ recital at 20:00. Police will watch a ‘DJ Staszek’ assembly on the square.",
+   "link": "https://cowkrakowie.pl/2026/11/dwa-koncerty-w-bazylice-mariackiej-krakow-uczci-pamiec-ofiar-tragedii"
+  },
+  {
+   "kind": "Transit",
+   "text": "ul. Kasztanowa in Modlniczka reopens from 10:00 Saturday; suburban lines 238, 248, 258, 268, 278, 288 and 948 return to their routes.",
+   "link": "https://cowkrakowie.pl/2026/11/zmiany-w-kursowaniu-autobusow-pod-krakowem-siedem-linii-pojedzie-inaczej-od-14-listopada"
+  },
+  {
+   "kind": "Weather",
+   "text": "IMGW icing warning until 09:00 Saturday for the Tatra, Nowy Targ, Nowy Sącz and Gorlice counties; Kraków not included. High pressure is forecast for the weekend.",
+   "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-intensywne-opady-deszczu-snieg-silny-wiatr-st9335689"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Air was ‘good’ at the last reading found (Friday morning) and no smog alert was found; GIOŚ wasn’t checked directly.",
+   "link": "https://powietrze.gios.gov.pl/"
+  },
+  {
+   "kind": "Closure",
+   "text": "ul. Kościuszkowców near Zakopiańska closes from Nov 23 for about a week (detour via Niemcewicza, Montwiłła-Mireckiego and Zbrojarzy).",
+   "link": "https://krakowportal.pl/weekend-krakow-13-15-listopada-2026/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [],
+  "US–India": [
+   {
+    "id": "E-261114-53",
+    "domain": "Foreign relations",
+    "text": "The White House confirmed Trump will meet Quad leaders in Manila (Tuesday, Nov 17); no Trump–Modi bilateral announced.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "IANS (via ianslive.in, The Hans India)",
+      "url": "https://ianslive.in/trump-to-meet-quad-leaders-in-manila--20261114065703"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thehansindia.com/news/international/trump-to-meet-quad-leaders-in-manila-white-house-1142014"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261114-54",
+    "domain": "Trade & tariffs",
+    "text": "Indian sources say the US promised lower tariffs than peers after its Section 301 probes; Goyal says a deal announcement could come soon.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "ThePrint",
+      "url": "https://theprint.in/diplomacy/us-assures-india-of-comparative-tariff-advantage-as-trade-talks-continue/3098026/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.businesstoday.in/latest/economy/story/announcement-likely-soon-piyush-goyal-gives-big-update-on-india-us-trade-deal-567260-2026-11-13"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261113-01",
+   "name": "Amendment to the Act on providing services by electronic means: procedure for orders blocking illegal online content (second DSA-implementing law)",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Struck down / withdrawn",
+   "changes": "Creates a fast procedure for orders that restrict access to illegal content online. Blocking needs court approval, except for some categories such as sexual content involving children. Vetoed by the President on 13 Nov 2026.",
+   "affects": "Online platforms and internet users in Poland. It also completes Poland's implementation of the EU Digital Services Act, which could otherwise bring EU penalties.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html",
+   "newsLink": "https://tvn24.pl/biznes/z-kraju/krzysztof-gawkowski-apeluje-do-prezydenta-musimy-zmusic-platformy-cyfrowe-do-dzialania-st9335252"
+  },
+  {
+   "id": "R-261114-01",
+   "name": "Act amending certain acts for patriotic education (print 671)",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "stage": "Signed / published",
+   "changes": "Schools must take every pupil at least once on a trip to memorial, heritage or military sites, and secondary schools must run engineering clubs.",
+   "affects": "Schools, pupils and local governments that run schools",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html",
+   "newsLink": "https://www.portaloswiatowy.pl/projekty-aktow-prawnych-dla-oswiaty/nowe-obowiazki-szkol-zwiazane-z-wychowaniem-patriotycznym.-sejm-uchwalil-ustawe-25291.html"
+  },
+  {
+   "id": "R-261114-02",
+   "name": "Amendment to the act on anti-terrorist activities (print 2870)",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "stage": "Signed / published",
+   "changes": "Creates a standing 'special event' security regime for big events: security plans, police data processing and vetting of staff.",
+   "affects": "Event organisers, police, ABW, voivodes, people working at such events",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://api.sejm.gov.pl/sejm/term10/prints/2870/2870.pdf",
+   "newsLink": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html"
+  },
+  {
+   "id": "R-261114-03",
+   "name": "Draft regulation exempting donations to victims of the 7 Nov 2026 Kraków attack from inheritance and gift tax",
+   "place": "Poland",
+   "body": "Ministry of Finance",
+   "stage": "Proposed",
+   "changes": "Gifts made from 7 Nov 2026 to 31 Dec 2027 to the injured and to families of those killed would be tax-free.",
+   "affects": "Victims, their families and donors",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://radiokrakow.pl/wiadomosci/krakow/darowizny-dla-ofiar-ataku-w-krakowie-bez-podatku-jest-projekt-rozporzadzenia/187719"
+  },
+  {
+   "id": "R-261113-03",
+   "name": "Removing Deference to Prior USCIS Determinations of Eligibility (NPRM, Docket USCIS-2026-0529)",
+   "place": "US",
+   "body": "DHS / USCIS",
+   "stage": "Proposed",
+   "changes": "Removes the rule that tells officers to defer to an earlier approval when extending a worker petition for the same person and facts.",
+   "affects": "H-1B and other I-129 workers and their employers seeking extensions, including many Indian professionals. DHS expects more evidence requests and slower processing.",
+   "effectiveDate": "",
+   "commentDeadline": "2026-11-13",
+   "officialLink": "https://public-inspection.federalregister.gov/2026-20941.pdf",
+   "newsLink": "https://sundayguardianlive.com/world/h-1b-visa-update-will-indian-workers-face-more-scrutiny-during-visa-extensions-know-what-the-us-proposal-says-321121"
+  },
+  {
+   "id": "R-261114-04",
+   "name": "Notification under the IFSCA Act, 2019 declaring 'commodity trading contract' a financial product",
+   "place": "India",
+   "body": "Ministry of Finance / IFSCA",
+   "stage": "In force",
+   "changes": "Commodity trading contracts by units at GIFT City become a regulated financial product.",
+   "affects": "Commodity traders and trade-finance firms considering GIFT City",
+   "effectiveDate": "2026-11-13",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.theweek.in/wire-updates/business/2026/11/13/govt-notifies-commodity-trading-contract-as-financial-product-for-ifsc-gift-city.html"
+  },
+  {
+   "id": "R-261114-05",
+   "name": "UAPA notification extending the ban on the Islamic Research Foundation",
+   "place": "India",
+   "body": "Ministry of Home Affairs",
+   "stage": "Signed / published",
+   "changes": "Keeps the IRF an unlawful association for five more years.",
+   "affects": "IRF and its affiliates",
+   "effectiveDate": "2026-11-13",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://newsonair.gov.in/centre-extends-ban-on-zakir-naik-led-islamic-research-foundation-for-five-years/"
+  }
+ ],
+ "deepDive": {
+  "domain": "Society: education, labor, immigration + Environment, energy & disasters + Infrastructure, transport & housing",
+  "title": "When the systems people rely on stop working",
+  "body": "This week the shared systems that daily life runs on failed in all three countries, and each failure shows a different weak point.\n\n**Old equipment in the US.** On Friday the FAA stopped every departure in the country for about four hours after communications failed at several air-traffic centres. Transportation Secretary Duffy blamed an outdated system and asked Congress for $50 billion to replace it. Officials doubt it was a cyberattack, but the FAA has not yet said what caused it. The request goes to a lame-duck Congress that already has to fund the government by Dec 11. [Fox Business](https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary)\n\n**A deliberate attack in Poland.** ePUAP, the portal Poles use to sign documents and contact offices, has been offline for days. The government says the attack came from abroad and was meant to paralyse offices in December. No restoration date has been given, so services from civil-registry extracts to residence registration are stuck. [Rzeczpospolita](https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac)\n\n**Air, weather and dry fields in India.** On Nov 13 Delhi’s air reached the ‘severe’ band. Rajasthan declared drought relief worth ₹9,321 crore, and a storm that may become Cyclone Akvan is forming in the Bay of Bengal. The Supreme Court hears the air-pollution case again on Nov 16.\n\n**Kraków.** The city’s problems are slower ones: a General Plan that is overdue and now being relaunched, and Clean Transport Zone exemptions that drivers must renew from Nov 17, with fees set to rise in 2027 unless the council freezes them. After the attack the city is also trying to fund a joint emergency dispatch centre. All of these depend on the 2027 budget the mayor is due to present. [krakow.pl](https://krakow.pl/aktualnosci/345718,29,komunikat,plan_ogolny_miasta_krakowa__nowe_otwarcie.html)\n\n*Analysis.*",
+  "links": [
+   {
+    "label": "Fox Business",
+    "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary"
+   },
+   {
+    "label": "Rzeczpospolita",
+    "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac"
+   },
+   {
+    "label": "krakow.pl",
+    "url": "https://krakow.pl/aktualnosci/345718,29,komunikat,plan_ogolny_miasta_krakowa__nowe_otwarcie.html"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261114-02",
+   "title": "Atak hakerski miał sparaliżować Polskę, ePUAP wciąż nie działa",
+   "reporter": "",
+   "outlet": "Rzeczpospolita (cyfrowa.rp.pl)",
+   "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac",
+   "why": "The fullest running account of the ePUAP outage: which services are blocked, the December-paralysis claim, and the missing restoration date. Paywalled.",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261114-04",
+   "title": "Delhi Pollution Today: AQI 402, Severe Air Quality In Several Areas",
+   "reporter": "Saher Hiba Khan",
+   "outlet": "Outlook India",
+   "url": "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
+   "why": "Hour-by-hour build-up of the Nov 13 severe episode with the pollution source split and expert comment, useful before the Nov 16 Supreme Court hearing.",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-15",
+   "text": "Bay of Bengal low may become a depression; MeitY AI consultation paper still expected.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Gibała’s draft 2027 budget; Supreme Court of India air-pollution hearing; India’s October WPI; possible Cyclone Akvan.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Quad meeting in Manila with Trump; Nvidia earnings; Tribunal Assembly on Święczkowski’s immunity; SCT exemption renewals open in Kraków; UP draft voter roll; Supreme Court of India on CEC Gyanesh Kumar.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Kraków council votes on the Lviv partnership and 20/40-minute tickets; Alaska ranked-choice count.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Anthropic’s first trading day; Trump–Xi around APEC; practical deadline on the Domański, Bartol and NBP appointments.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "EU consumer-credit rules (CCD2) apply, but Poland has no implementing law; Sejm vote on the anti-alcohol law expected; Nikhil Gupta sentencing in New York.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "First Agniveer batch exits; Ladakh panchayat and municipal polls.",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Fox Business",
+   "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary",
+   "paywalled": false
+  },
+  {
+   "title": "Bureau of Labor Statistics",
+   "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News",
+   "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via BNN Bloomberg)",
+   "url": "https://bnnbloomberg.ca/business/international/2026/11/12/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants",
+   "paywalled": false
+  },
+  {
+   "title": "Wall Street Journal (via Gulf News)",
+   "url": "https://gulfnews.com/world/mena/us-israel-iran-war-turkey-qatar-sign-defence-pact-as-trump-warns-tehran-hormuz-risks-persist-1.500745854",
+   "paywalled": false
+  },
+  {
+   "title": "Portal Samorządowy (PAP) / TVN24",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/prezydent-zawetowal-ustawe-dot-blokowania-nielegalnych-tresci-w-internecie-miala-wdrozyc-dsa-aktualizacja,684294.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (PAP) / Defence24",
+   "url": "https://www.rp.pl/konflikty-zbrojne/art45487371-polska-wezmie-udzial-w-negocjacjach-dotyczacych-zakonczenia-wojny-w-ukrainie",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/tusk-o-zwloce-prezydenta-utrzymuje-idiotyczna-sytuacje-7350653195171840a",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/gospodarka/art45483691-wzrost-gospodarczy-polski-nieco-spowolnil-sa-nowe-dane-gus-o-pkb",
+   "paywalled": false
+  },
+  {
+   "title": "LEX",
+   "url": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (cyfrowa.rp.pl)",
+   "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac",
+   "paywalled": true
+  },
+  {
+   "title": "Notes from Poland",
+   "url": "https://notesfrompoland.com/2026/11/13/belgian-court-overturns-seizure-of-polish-air-navigation-agencys-funds-in-pfizer-legal-battle/",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl",
+   "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/345724,2353,komunikat,korekta_sct_w_przygotowaniu__pamietaj_o_odnowieniu_zwolnienia_od_wtorku__17_listopada_.html",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl / IKC",
+   "url": "https://krakow.pl/aktualnosci/345709,29,komunikat,prezydent_krakowa_apeluje_o_10_mln_zl_z_budzetu_panstwa_na_bezpieczenstwo_miasta.html",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/dorozki-wracaja-na-rynek-glowny-znamy-date",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl",
+   "url": "https://krakow.pl/aktualnosci/345718,29,komunikat,plan_ogolny_miasta_krakowa__nowe_otwarcie.html",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków (PAP)",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/darowizny-dla-ofiar-ataku-w-krakowie-bez-podatku-jest-projekt-rozporzadzenia/187719",
+   "paywalled": false
+  },
+  {
+   "title": "Sambad English",
+   "url": "https://sambadenglish.com/latest-news/low-pressure-over-bay-of-bengal-becomes-well-marked-to-intensify-into-cyclonic-storm-around-nov-16-12808254",
+   "paywalled": false
+  },
+  {
+   "title": "All India Radio News (newsonair.gov.in)",
+   "url": "https://newsonair.gov.in/countrys-total-exports-grow-by-over-16-from-april-to-oct-this-fiscal-as-compared-to-last-fiscal-same-period/",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/bharat/delhi-ncr-chokes-as-aqi-crosses-400-33-monitoring-stations-in-capital-record-hazardous-air-quality-enn26111300998",
+   "paywalled": false
+  },
+  {
+   "title": "All India Radio News (newsonair.gov.in)",
+   "url": "https://newsonair.gov.in/23-people-killed-in-road-accident-near-kaziranga-in-assam-pm-announces-ex-gratia/",
+   "paywalled": false
+  },
+  {
+   "title": "All India Radio News (newsonair.gov.in)",
+   "url": "https://newsonair.gov.in/centre-extends-ban-on-zakir-naik-led-islamic-research-foundation-for-five-years/",
+   "paywalled": false
+  },
+  {
+   "title": "Indian Opinion (citing Business Standard)",
+   "url": "https://indianopinion.org/yes-bank-files-review-petition-in-supreme-court-on-at-1-bonds/",
+   "paywalled": false
+  },
+  {
+   "title": "IANS (via ianslive.in, The Hans India)",
+   "url": "https://ianslive.in/trump-to-meet-quad-leaders-in-manila--20261114065703",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/diplomacy/us-assures-india-of-comparative-tariff-advantage-as-trade-talks-continue/3098026/",
+   "paywalled": false
+  }
+ ]
+}
