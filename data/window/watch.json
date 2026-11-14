@@ -1385,6 +1385,28 @@
    "checkDate": "2026-11-27",
    "eventId": "E-261114-20",
    "id": "W-261114-04"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "happened": "",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "SCT exemption renewals open (queues at ul. Centralna, system load), and the Nov 27 consultation deadline on the fee freeze and tourist fee",
+   "expected": "City of Kraków (krakow.pl); consultation deadline per krakowskiraport.pl",
+   "checkDate": "2026-11-17",
+   "eventId": "E-261114-29",
+   "id": "W-261114-05"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "happened": "",
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "what": "Government reply to Gibała's request for 10m zł for the security and monitoring centre",
+   "expected": "Mayor Gibała (krakow.pl); no date for a reply",
+   "checkDate": "2026-11-25",
+   "eventId": "E-261114-30",
+   "id": "W-261114-06"
   }
  ]
 }

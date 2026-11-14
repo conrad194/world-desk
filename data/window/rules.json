@@ -527,6 +527,22 @@
    "newsLink": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html",
    "eventId": "E-261114-23",
    "id": "R-261114-02"
+  },
+  {
+   "dateLogged": "2026-11-14",
+   "lastChecked": "2026-11-14",
+   "place": "Poland",
+   "body": "Ministry of Finance",
+   "name": "Draft regulation exempting donations to victims of the 7 Nov 2026 Kraków attack from inheritance and gift tax",
+   "changes": "Gifts made from 7 Nov 2026 to 31 Dec 2027 to the injured and to families of those killed would be tax-free.",
+   "affects": "Victims, their families and donors",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://radiokrakow.pl/wiadomosci/krakow/darowizny-dla-ofiar-ataku-w-krakowie-bez-podatku-jest-projekt-rozporzadzenia/187719",
+   "eventId": "E-261114-32",
+   "id": "R-261114-03"
   }
  ]
 }

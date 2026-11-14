@@ -2087,6 +2087,18 @@
    "language": "Polish",
    "url": "https://lex.media.pl",
    "lean": "Neutral; legal publisher (Wolters Kluwer)"
+  },
+  {
+   "status": "Watch",
+   "dateAdded": "2026-11-14",
+   "id": "ikc-krakow",
+   "name": "IKC (Ilustrowany Kurier Codzienny)",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Kraków city hall and local politics",
+   "language": "Polish",
+   "url": "https://ikc.pl",
+   "lean": "Centre; local"
   }
  ]
 }
