@@ -2051,6 +2051,30 @@
    "lean": "official",
    "status": "Watch",
    "dateAdded": "2026-11-13"
+  },
+  {
+   "status": "Watch",
+   "dateAdded": "2026-11-14",
+   "id": "gulf-news",
+   "name": "Gulf News",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Iran war and Gulf security live coverage",
+   "language": "English",
+   "url": "https://gulfnews.com",
+   "lean": "Centre; UAE-based, government-aligned"
+  },
+  {
+   "status": "Watch",
+   "dateAdded": "2026-11-14",
+   "id": "the-national",
+   "name": "The National",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Iran war live blog, Hormuz shipping",
+   "language": "English",
+   "url": "https://www.thenationalnews.com",
+   "lean": "Centre; Abu Dhabi state-owned"
   }
  ]
 }
