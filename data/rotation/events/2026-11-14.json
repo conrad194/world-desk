@@ -1,0 +1,47 @@
+{
+ "date": "2026-11-14",
+ "items": [
+  {
+   "id": "E-261114-01",
+   "dateLogged": "2026-11-14",
+   "eventDate": "2026-11-13",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "EU politics + cross-cutting",
+   "country": "United States / China / Russia",
+   "text": "The White House announced the first three-way meeting of [[p:Donald Trump]], [[p:Xi Jinping]] and [[p:Vladimir Putin]], set for 19 Nov in Shenzhen on the sidelines of the [[p:Asia-Pacific Economic Cooperation|APEC]] {{note: Pacific Rim economic forum founded in 1989 in Canberra on an Australian proposal.}} summit. Officials say Trump will raise cutting nuclear arsenals and the Iran war, but not Ukraine, which runs on a separate track. That contradicts Kremlin aide Yuri Ushakov, who said Ukraine would be discussed. Trump also has a bilateral meeting with Xi, but no one-on-one with Putin.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Kyiv Post; Malay Mail",
+   "language": "English",
+   "link1": "https://www.kyivpost.com/post/90092",
+   "link2": "https://www.malaymail.com/news/world/2026/11/14/trump-putin-and-xi-set-for-historic-trilateral-meeting-in-china/243172",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "APEC 2026 and great-power summitry",
+   "followsUp": "",
+   "notes": "Updates watch W-261025-20."
+  },
+  {
+   "id": "E-261114-02",
+   "dateLogged": "2026-11-14",
+   "eventDate": "2026-11-13",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / United States / Russia",
+   "text": "[[p:Steve Witkoff]] and [[p:Jared Kushner]] briefed [[p:Volodymyr Zelenskyy]] in Dublin after seeing Putin. Zelenskyy said the agreed prisoner swap will be the largest of the war and that Europeans will join the next trilateral round; Kushner said no deal is possible without Europe at the table. Putin proposed a humanitarian mission in Kostiantynivka modelled on Oleshky; Kyiv says details need clarifying. No date or venue for the next round, and the Kremlin offered no concessions.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "RFE/RL; ANI",
+   "language": "English",
+   "link1": "https://www.rferl.org/a/russia-ukraine-war-us-talks/33896823.html",
+   "link2": "https://www.aninews.in/news/world/europe/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks20261113065859/",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "Russia–Ukraine peace talks",
+   "followsUp": "E-261113-01",
+   "notes": ""
+  }
+ ]
+}
