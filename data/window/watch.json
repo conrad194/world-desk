@@ -1407,6 +1407,17 @@
    "checkDate": "2026-11-25",
    "eventId": "E-261114-30",
    "id": "W-261114-06"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "happened": "",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "October WPI inflation (moved to Monday as Nov 14 is a Saturday); September was 11.39%",
+   "expected": "Ind-Ra projects above 12% (per India researcher’s sources)",
+   "checkDate": "2026-11-16",
+   "eventId": "",
+   "id": "W-261114-07"
   }
  ]
 }

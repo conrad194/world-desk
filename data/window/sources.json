@@ -2099,6 +2099,30 @@
    "language": "Polish",
    "url": "https://ikc.pl",
    "lean": "Centre; local"
+  },
+  {
+   "status": "Watch",
+   "dateAdded": "2026-11-14",
+   "id": "all-india-radio-news",
+   "name": "All India Radio News (newsonair.gov.in)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Official broadcaster; government announcements and data",
+   "language": "English",
+   "url": "https://newsonair.gov.in",
+   "lean": "State broadcaster; government line"
+  },
+  {
+   "status": "Watch",
+   "dateAdded": "2026-11-14",
+   "id": "sambad-english",
+   "name": "Sambad English",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Odisha and Bay of Bengal weather",
+   "language": "English",
+   "url": "https://sambadenglish.com",
+   "lean": "Centre; regional"
   }
  ]
 }

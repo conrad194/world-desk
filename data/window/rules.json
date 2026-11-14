@@ -543,6 +543,38 @@
    "newsLink": "https://radiokrakow.pl/wiadomosci/krakow/darowizny-dla-ofiar-ataku-w-krakowie-bez-podatku-jest-projekt-rozporzadzenia/187719",
    "eventId": "E-261114-32",
    "id": "R-261114-03"
+  },
+  {
+   "dateLogged": "2026-11-14",
+   "lastChecked": "2026-11-14",
+   "place": "India",
+   "body": "Ministry of Finance / IFSCA",
+   "name": "Notification under the IFSCA Act, 2019 declaring 'commodity trading contract' a financial product",
+   "changes": "Commodity trading contracts by units at GIFT City become a regulated financial product.",
+   "affects": "Commodity traders and trade-finance firms considering GIFT City",
+   "stage": "In force",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-13",
+   "officialLink": "",
+   "newsLink": "https://www.theweek.in/wire-updates/business/2026/11/13/govt-notifies-commodity-trading-contract-as-financial-product-for-ifsc-gift-city.html",
+   "eventId": "E-261114-47",
+   "id": "R-261114-04"
+  },
+  {
+   "dateLogged": "2026-11-14",
+   "lastChecked": "2026-11-14",
+   "place": "India",
+   "body": "Ministry of Home Affairs",
+   "name": "UAPA notification extending the ban on the Islamic Research Foundation",
+   "changes": "Keeps the IRF an unlawful association for five more years.",
+   "affects": "IRF and its affiliates",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-13",
+   "officialLink": "",
+   "newsLink": "https://newsonair.gov.in/centre-extends-ban-on-zakir-naik-led-islamic-research-foundation-for-five-years/",
+   "eventId": "E-261114-46",
+   "id": "R-261114-05"
   }
  ]
 }
