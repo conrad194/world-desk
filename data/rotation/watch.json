@@ -709,6 +709,36 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261114-01",
+   "dateAdded": "2026-11-14",
+   "segment": "South & Central Asia",
+   "what": "India: [[p:Supreme Court of India|Supreme Court]] hearing on the petitions against the Election Commission's [[e:Special Intensive Revision|voter-roll revision]].",
+   "expected": "Listed for 17 Nov by the Chief Justice's bench on 27 Oct, subject to listing (Nation Path India).",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261114-02",
+   "dateAdded": "2026-11-14",
+   "segment": "South & Central Asia",
+   "what": "Sri Lanka: second-reading vote on the 2027 budget; the final vote follows on 14 Dec.",
+   "expected": "Parliamentary timetable reported by Newswire: debate 13–20 Nov, vote 6 pm on 20 Nov.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261114-13"
+  },
+  {
+   "id": "W-261114-03",
+   "dateAdded": "2026-11-14",
+   "segment": "South & Central Asia",
+   "what": "Georgia: [[p:Constitutional Court of Georgia|Constitutional Court]] ruling on the suit to ban five opposition parties.",
+   "expected": "No date set; the court planned hearings through 13 Nov (DFWatch). Opposition leader Nika Gvaramia expects a ban.",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261114-17"
   }
  ]
 }
