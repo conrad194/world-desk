@@ -1,0 +1,562 @@
+{
+ "date": "2026-11-14",
+ "segment": "South & Central Asia",
+ "windowFrom": "2026-11-07",
+ "tier1Summary": "No single event changed South and Central Asia's picture this week, but pressure built at home. In Pakistan the [[p:Tehrik-i-Taliban Pakistan|TTP]] killed 10 police in Kohat as border skirmishes with the Afghan [[p:Taliban]] went on, and jailed ex-PM [[p:Imran Khan]] needed hospital treatment. Russia sent a large trade delegation to Kabul. India's inflation broke the central bank's 6% ceiling. Nepal's opposition is uniting against PM Balen Shah. Sri Lanka presented its last budget under the IMF programme. Kazakhstan detained the heads of its wealth fund and railway. In the Caucasus, Pashinyan and Aliyev met again without a treaty, and the CSTO sidelined Armenia.\n\nGlobally, the White House confirmed a first Trump–Xi–Putin meeting in Shenzhen on 19 Nov, and Kyiv says Europeans will join the next round of Ukraine talks.",
+ "segmentItems": [
+  {
+   "id": "E-261114-03",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "Militants ambushed police in Kohat, Khyber Pakhtunkhwa, killing 10 officers; officials say 18 militants died. The [[p:Tehrik-i-Taliban Pakistan|Pakistani Taliban (TTP)]] {{note: Militant alliance formed in 2007 in the tribal areas under Baitullah Mehsud.}} claimed it.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Arab News (AP); Long War Journal",
+   "opinion": "",
+   "thread": "Pakistan–Taliban war",
+   "links": [
+    {
+     "label": "Arab News (AP)",
+     "url": "https://www.arabnews.pk/pakistan/militants-ambush-police-vehicles-in-northwestern-pakistan-killing-at-least-10-officers-3006738"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-04",
+   "segment": "South & Central Asia",
+   "country": "Pakistan / Afghanistan",
+   "text": "Pakistan says it foiled a TTP infiltration in Kurram on 5 Nov and hit [[p:Taliban]] border posts after they fired first. Kabul has not commented.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "Will Selber",
+   "outlet": "Long War Journal",
+   "opinion": "",
+   "thread": "Pakistan–Taliban war",
+   "links": [
+    {
+     "label": "Long War Journal",
+     "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-06",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "Jailed ex-PM [[p:Imran Khan]] was taken to hospital overnight on 10 Nov for eye and blood-pressure treatment and returned to Adiala jail, officials say. His lawyer called his blood pressure frightening.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "bdnews24; Express Tribune",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "bdnews24",
+     "url": "https://bdnews24.com/world/south-asia/thjlppkalf"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://tribune.com.pk/story/2639764/imrans-lawyers-allowed-to-proceed-to-adiala-jail-for-meeting-following-ihc-order"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-08",
+   "segment": "South & Central Asia",
+   "country": "Afghanistan / Russia",
+   "text": "A Russian delegation of 70+ businesspeople under Deputy PM Alexei Overchuk visited Kabul; [[p:Abdul Ghani Baradar]] pitched mining and rail. Trade has doubled this year, Overchuk says. No deals were announced.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AP; Amu TV",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AP",
+     "url": "https://www.clickondetroit.com/business/2026/11/12/russian-delegation-visits-afghanistan-to-discuss-trade-and-investment-with-the-taliban/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://amu.tv/256533/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-11",
+   "segment": "South & Central Asia",
+   "country": "India",
+   "text": "October retail inflation hit 6.09%, a two-year high above the [[p:Reserve Bank of India]]'s 6% ceiling; food inflation was 8.94%.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Down To Earth; BW Businessworld",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Down To Earth",
+     "url": "https://www.downtoearth.org.in/economy/indias-retail-inflation-hits-two-year-high-of-609-as-food-prices-rise"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-12",
+   "segment": "South & Central Asia",
+   "country": "Nepal",
+   "text": "Opposition parties are uniting against PM [[p:Balen Shah]], demanding a parliament session and questioning of the PM, home minister and police chief over a middleman case linked to his office. Ruling-party chair [[p:Rabi Lamichhane]] again questioned the police chief's removal.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Nepal News",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Nepal News",
+     "url": "https://english.nepalnews.com/s/politics/252179/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-13",
+   "segment": "South & Central Asia",
+   "country": "Sri Lanka",
+   "text": "President [[p:Anura Kumara Dissanayake]] presented the 2027 budget: higher tax thresholds, the tourism levy scrapped and a 2.3% primary surplus kept, with the [[p:International Monetary Fund|IMF]] programme ending in March. The second-reading vote is on 20 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "EconomyNext; Newswire",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "EconomyNext",
+     "url": "https://economynext.com/sri-lankas-2027-budget-unveils-middle-class-tax-relief-eyes-record-capital-spending-290046/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.newswire.lk/2026/11/12/full-budget-2027-speech-delivered-by-president-akd-download/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-15",
+   "segment": "South & Central Asia",
+   "country": "Armenia / Azerbaijan",
+   "text": "[[p:Nikol Pashinyan]] and [[p:Ilham Aliyev]] met at the [[p:European Political Community]] summit in Dublin. They reviewed the US-backed TRIPP rail and road route and a grid link, but announced no treaty signing.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Armenpress; Massis Post",
+   "opinion": "",
+   "thread": "Armenia–Azerbaijan peace process",
+   "links": [
+    {
+     "label": "Armenpress",
+     "url": "https://armenpress.am/en/article/1265541"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://massispost.com/2026/11/armenian-pm-pashinyan-and-azerbaijani-president-aliyev-discuss-peace-process-and-regional-cooperation-in-dublin/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-16",
+   "segment": "South & Central Asia",
+   "country": "Armenia / Russia / Central Asia",
+   "text": "The Russia-led [[p:Collective Security Treaty Organization]] {{note: Military alliance of post-Soviet states; its founding treaty was signed in Tashkent in 1992.}} stripped Armenia of voting rights over unpaid dues but did not expel it.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The Times of Central Asia",
+   "opinion": "contains analysis",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Times of Central Asia",
+     "url": "https://timesca.com/csto-without-armenia-what-keeps-yerevan-from-leaving-and-what-the-summit-means-for-central-asia/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-17",
+   "segment": "South & Central Asia",
+   "country": "Georgia",
+   "text": "Hearings on [[p:Georgian Dream]]'s suit to ban five opposition parties resumed on 10 Nov at the [[p:Constitutional Court of Georgia|Constitutional Court]]. Opposition leader [[p:Nika Gvaramia]] says the ruling is predetermined.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "DFWatch; Georgia Today",
+   "opinion": "includes an opposition leader's view",
+   "thread": "Georgia democratic backsliding",
+   "links": [
+    {
+     "label": "DFWatch",
+     "url": "https://dfwatch.net/georgias-party-ban-lawsuit-hits-another-snag-as-judge-falls-ill-67903/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://georgiatoday.ge/?p=116859"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-18",
+   "segment": "South & Central Asia",
+   "country": "Kazakhstan",
+   "text": "The security service detained the heads of the wealth fund [[p:Samruk-Kazyna]] and the state railway [[p:Kazakhstan Temir Zholy|KTZ]] in a corruption probe; no charges have been announced yet.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Askar Kubaizhanov",
+   "outlet": "The Times of Central Asia",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Times of Central Asia",
+     "url": "https://timesca.com/kazakhstan-detains-heads-of-samruk-kazyna-and-national-railways-in-corruption-probe/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261114-01",
+   "segment": "EU politics + cross-cutting",
+   "country": "United States / China / Russia",
+   "text": "The White House says [[p:Donald Trump]], [[p:Xi Jinping]] and [[p:Vladimir Putin]] will hold their first three-way meeting in Shenzhen on 19 Nov at APEC, on nuclear arms and Iran but not Ukraine. The Kremlin had said Ukraine would come up.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Kyiv Post; Malay Mail",
+   "opinion": "",
+   "thread": "APEC 2026 and great-power summitry",
+   "links": [
+    {
+     "label": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90092"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.malaymail.com/news/world/2026/11/14/trump-putin-and-xi-set-for-historic-trilateral-meeting-in-china/243172"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261114-02",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / United States / Russia",
+   "text": "US envoys briefed [[p:Volodymyr Zelenskyy]] in Dublin after meeting Putin: the largest prisoner swap of the war is coming, and Europeans will join the next round. No date has been set.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "RFE/RL; ANI",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "RFE/RL",
+     "url": "https://www.rferl.org/a/russia-ukraine-war-us-talks/33896823.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aninews.in/news/world/europe/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks20261113065859/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261114-01",
+   "title": "Taliban–Pakistan border clashes continue, TTP attack kills 10 Pakistani police",
+   "reporter": "Will Selber",
+   "outlet": "FDD's Long War Journal",
+   "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php",
+   "why": "A dated log of the latest border clashes, drawing on Afghan and Pakistani local media. FDD is a hawkish think tank, so read it for the chronology.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261114-02",
+   "title": "CSTO Without Armenia: What Keeps Yerevan From Leaving and What the Summit Means for Central Asia",
+   "reporter": "",
+   "outlet": "The Times of Central Asia",
+   "url": "https://timesca.com/csto-without-armenia-what-keeps-yerevan-from-leaving-and-what-the-summit-means-for-central-asia/",
+   "why": "Analysis of why Armenia stays formally inside the [[p:Collective Security Treaty Organization|CSTO]] while boycotting it, and what the Moscow summit means for Central Asian members.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-15",
+   "text": "Gagauzia People's Assembly and Bashkan elections in Moldova.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-03"
+  },
+  {
+   "date": "2026-11-15",
+   "text": "Post-election push on the Gaza plan: [[p:Board of Peace]] and [[p:International Stabilization Force]] deployment, plus France's promised conference for the Lebanese army 'after' Israel's election",
+   "segment": "Middle East",
+   "watchId": "W-261027-08"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether any Russian diesel cargo is actually delivered to the US under the October arrangement.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-02"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Whether Transnistrian leader [[p:Vadim Krasnoselsky]] returns from Moscow and how the five-year exit ban is applied.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-03"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Operation Carthage: anti-corruption court rulings on custody for the SBU and police suspects.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Poland: Constitutional Tribunal judges' assembly on lifting Święczkowski's immunity and detaining him.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Washington's reply to Iran's two-day plan and the Qatari-backed draft (day 1: blockade lifted and some funds released; day 2: Hormuz reopens, then nuclear talks).",
+   "segment": "Middle East",
+   "watchId": "W-261110-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Iraq: whether more Iran border crossings close under the US Treasury request (Mandali closes temporarily from 13 Nov).",
+   "segment": "Middle East",
+   "watchId": "W-261110-02"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "India: [[p:Supreme Court of India|Supreme Court]] hearing on the petitions against the Election Commission's [[e:Special Intensive Revision|voter-roll revision]].",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-01"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "49th ASEAN Summit and related summits in Manila, 16–18 Nov, with Trump attending on 16 Nov: any South China Sea code-of-conduct breakthrough and Myanmar's representation.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-01"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "APEC in Shenzhen; possible Trump–Xi–Putin meeting on nuclear arms and Ukraine.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-20"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "House Democratic leadership elections, with [[p:Hakeem Jeffries]] running for Speaker; House Republicans also choose leaders after Mike Johnson stepped aside.",
+   "segment": "The Americas",
+   "watchId": "W-261105-01"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "State Duma second reading of Russia's 2027–29 budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-05"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "NATO consultations on letting pilots down radar-tracked drones without visual identification.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-04"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "COP31 climate conference in Antalya, 9–20 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-01"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "UN Secretary-General race: next straw poll, possibly with colour-coded ballots showing permanent-member vetoes.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Moldova's gas-shortage state of emergency expires; watch for an extension and the OSCE-facilitated Transnistria winter gas talks.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Sri Lanka: second-reading vote on the 2027 budget; the final vote follows on 14 Dec.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-02"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "OFAC licence for Lukoil foreign-asset sale talks expires; possible approval of the Boehly-led bid.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-07"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the future of Salvadoran troops in Haiti.",
+   "segment": "The Americas",
+   "watchId": "W-261112-01"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Bhutan",
+   "status": "no sources found"
+  },
+  {
+   "country": "Maldives",
+   "status": "quiet"
+  },
+  {
+   "country": "Uzbekistan",
+   "status": "quiet"
+  },
+  {
+   "country": "Turkmenistan",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Arab News (AP); Long War Journal",
+   "url": "https://www.arabnews.pk/pakistan/militants-ambush-police-vehicles-in-northwestern-pakistan-killing-at-least-10-officers-3006738",
+   "paywalled": false
+  },
+  {
+   "title": "Long War Journal",
+   "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php",
+   "paywalled": false
+  },
+  {
+   "title": "bdnews24; Express Tribune",
+   "url": "https://bdnews24.com/world/south-asia/thjlppkalf",
+   "paywalled": false
+  },
+  {
+   "title": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639764/imrans-lawyers-allowed-to-proceed-to-adiala-jail-for-meeting-following-ihc-order",
+   "paywalled": false
+  },
+  {
+   "title": "AP; Amu TV",
+   "url": "https://www.clickondetroit.com/business/2026/11/12/russian-delegation-visits-afghanistan-to-discuss-trade-and-investment-with-the-taliban/",
+   "paywalled": false
+  },
+  {
+   "title": "Amu TV",
+   "url": "https://amu.tv/256533/",
+   "paywalled": false
+  },
+  {
+   "title": "Down To Earth; BW Businessworld",
+   "url": "https://www.downtoearth.org.in/economy/indias-retail-inflation-hits-two-year-high-of-609-as-food-prices-rise",
+   "paywalled": false
+  },
+  {
+   "title": "BW Businessworld",
+   "url": "https://www.businessworld.in/article/retail-inflation-breaches-rbi-s-6-threshold-after-nine-month-rise-633336",
+   "paywalled": false
+  },
+  {
+   "title": "Nepal News",
+   "url": "https://english.nepalnews.com/s/politics/252179/",
+   "paywalled": false
+  },
+  {
+   "title": "EconomyNext; Newswire",
+   "url": "https://economynext.com/sri-lankas-2027-budget-unveils-middle-class-tax-relief-eyes-record-capital-spending-290046/",
+   "paywalled": false
+  },
+  {
+   "title": "Newswire",
+   "url": "https://www.newswire.lk/2026/11/12/full-budget-2027-speech-delivered-by-president-akd-download/",
+   "paywalled": false
+  },
+  {
+   "title": "Armenpress; Massis Post",
+   "url": "https://armenpress.am/en/article/1265541",
+   "paywalled": false
+  },
+  {
+   "title": "Massis Post",
+   "url": "https://massispost.com/2026/11/armenian-pm-pashinyan-and-azerbaijani-president-aliyev-discuss-peace-process-and-regional-cooperation-in-dublin/",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Central Asia",
+   "url": "https://timesca.com/csto-without-armenia-what-keeps-yerevan-from-leaving-and-what-the-summit-means-for-central-asia/",
+   "paywalled": false
+  },
+  {
+   "title": "DFWatch; Georgia Today",
+   "url": "https://dfwatch.net/georgias-party-ban-lawsuit-hits-another-snag-as-judge-falls-ill-67903/",
+   "paywalled": false
+  },
+  {
+   "title": "Georgia Today",
+   "url": "https://georgiatoday.ge/?p=116859",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Central Asia",
+   "url": "https://timesca.com/kazakhstan-detains-heads-of-samruk-kazyna-and-national-railways-in-corruption-probe/",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Post; Malay Mail",
+   "url": "https://www.kyivpost.com/post/90092",
+   "paywalled": false
+  },
+  {
+   "title": "Malay Mail",
+   "url": "https://www.malaymail.com/news/world/2026/11/14/trump-putin-and-xi-set-for-historic-trilateral-meeting-in-china/243172",
+   "paywalled": false
+  },
+  {
+   "title": "RFE/RL; ANI",
+   "url": "https://www.rferl.org/a/russia-ukraine-war-us-talks/33896823.html",
+   "paywalled": false
+  },
+  {
+   "title": "ANI",
+   "url": "https://www.aninews.in/news/world/europe/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks20261113065859/",
+   "paywalled": false
+  }
+ ]
+}
