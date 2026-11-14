@@ -1418,6 +1418,28 @@
    "checkDate": "2026-11-16",
    "eventId": "",
    "id": "W-261114-07"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "happened": "",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "Pentagon policy chief Elbridge Colby at the EU defence ministerial discussing the US force-posture review; watch for signals on a permanent base in Poland",
+   "expected": "Relations researcher’s sources (date per event schedule)",
+   "checkDate": "2026-11-17",
+   "eventId": "",
+   "id": "W-261114-08"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "happened": "",
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "what": "Nikhil Gupta sentencing in the Pannun murder-for-hire case (SDNY, Judge Marrero)",
+   "expected": "SDNY court schedule, per reports",
+   "checkDate": "2026-11-20",
+   "eventId": "",
+   "id": "W-261114-09"
   }
  ]
 }
