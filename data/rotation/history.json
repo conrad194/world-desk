@@ -699,6 +699,107 @@
    "prevAnswer": "Eritrea voted for independence in a UN-observed referendum after the Eritrean People's Liberation Front won its thirty-year war against Ethiopian rule. The new Ethiopian government, led by Meles Zenawi's TPLF, had fought the Derg alongside the EPLF and accepted Eritrea's right to self-determination, a decision many Ethiopian nationalists still resent.",
    "recallQ": "What is Somalia's 4.5 formula, and why does President Hassan Sheikh Mohamud want to replace the system built on it?",
    "recallA": "It is the clan power-sharing rule from the 2000 Arta talks: equal shares for the four largest clan families and half a share for minorities, used to fill parliament through clan elders and delegates. Hassan Sheikh argues it entrenches clan politics and wants one-person-one-vote elections instead, but critics say he is using that reform to extend his own term without consensus."
+  },
+  {
+   "id": "2026-11-14",
+   "date": "2026-11-14",
+   "segment": "EU politics + cross-cutting",
+   "title": "Why nuclear arms control has always been a two-player game, and what changes when Xi joins",
+   "thread": "APEC 2026 and great-power summitry",
+   "eventIds": [
+    "E-261114-01"
+   ],
+   "minutes": 4,
+   "hook": "[[p:Donald Trump]] wants to talk about cutting nuclear arsenals when he meets [[p:Xi Jinping]] and [[p:Vladimir Putin]] together in Shenzhen on 19 Nov. Every nuclear arms treaty of the past half-century was signed by Washington and Moscow alone, and Beijing has long refused to join the club.",
+   "body": "The Shenzhen meeting will be the first time the leaders of the three biggest nuclear powers sit at one table. It also brings back a shape that defined the Cold War: a **strategic triangle**, in which each capital watches how close the other two are getting.\n\nThe triangle began as an alliance. In 1950 [[p:Mao Zedong]] and Stalin signed the [[e:Sino-Soviet Treaty of Friendship, Alliance and Mutual Assistance]], and Soviet experts helped China's industry and, for a time, its nuclear programme. By the end of the 1950s the partners were quarrelling over ideology, leadership of world communism and Moscow's détente with the West. The [[e:Sino-Soviet split]] {{note: An ideological and political rift that grew from 1956, after Khrushchev denounced Stalin, and was public by the early 1960s.}} left China to build its own bomb, tested at Lop Nur in October 1964. In March 1969 Soviet and Chinese troops fought on the Ussuri River, in the [[e:Sino-Soviet border conflict]].\n\nWashington saw an opening. [[p:Richard Nixon]] and [[p:Henry Kissinger]] reasoned that talking to both communist giants would give the US leverage over each. Kissinger flew secretly to Beijing in July 1971; Nixon followed in February 1972. Three months later Nixon was in Moscow signing the first [[e:SALT|Strategic Arms Limitation Talks]] {{note: US–Soviet negotiations opened in Helsinki in November 1969; the first round ended with the SALT I and ABM agreements in May 1972.}} accords. That timing set a pattern: arms control became a US–Soviet business, while China was courted as a political counterweight.\n\nThe pattern held for fifty years. The INF Treaty of 1987, START in 1991 and [[e:New START]] in 2010 all bound only Washington and Moscow, which held the vast majority of the world's warheads. China kept a small arsenal, pledged never to use nuclear weapons first, and argued that the two giants should disarm before asking anyone else to.\n\nThe triangle then turned. After the Cold War, Beijing and Moscow settled their border and signed the [[e:2001 Sino-Russian Treaty of Friendship]]; in February 2022 they declared a partnership with \"no limits\". The US now faced two rivals growing closer, and China began to expand its arsenal quickly. The US left the INF Treaty in 2019, citing Russian violations and noting that China was free to build such missiles. Trump's first administration pressed for three-way talks; Beijing said no.\n\nRussia suspended New START inspections in 2023, and the treaty expired on 5 February 2026, leaving no legal limits on either arsenal for the first time since 1972. Putin had offered to keep its limits informally for a year; Washington never formally answered, and it says it wants a new deal that also covers China. Beijing's envoy repeated that China will not join disarmament talks \"at this stage\". [[p:SIPRI|Stockholm International Peace Research Institute]] estimates China now has about 620 warheads and could pass 1,000 by 2030, still far below the US and Russian stockpiles.\n\nThat gap is why the triangle is hard to turn into a treaty: Washington wants parity of obligations, Beijing wants the larger arsenals cut first, and Moscow wants any deal to cover Britain and France as well.",
+   "timeline": [
+    {
+     "when": "1950",
+     "text": "Mao and Stalin sign a treaty of alliance."
+    },
+    {
+     "when": "Oct 1964",
+     "text": "China tests its first nuclear bomb after the [[e:Sino-Soviet split]]."
+    },
+    {
+     "when": "Mar 1969",
+     "text": "Soviet and Chinese troops clash on the Ussuri River."
+    },
+    {
+     "when": "1972",
+     "text": "Nixon visits Beijing in February, then signs the first [[e:SALT|Strategic Arms Limitation Talks]] accords in Moscow in May."
+    },
+    {
+     "when": "2010",
+     "text": "The US and Russia sign [[e:New START]]; China stays outside all limits."
+    },
+    {
+     "when": "2019",
+     "text": "The US leaves the INF Treaty, pointing to Russian violations and China's unconstrained missiles."
+    },
+    {
+     "when": "Feb 2026",
+     "text": "New START expires with no successor; no legal caps remain on US or Russian arsenals."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "The White House announces the first Trump–Xi–Putin meeting, in Shenzhen, with nuclear cuts on the agenda."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "United States",
+     "view": "Washington argues that bilateral treaties with Moscow no longer fit a world with a fast-growing Chinese arsenal, and that any new deal should be 'modernised' to bring China in and cover all Russian warheads."
+    },
+    {
+     "side": "China",
+     "view": "Beijing says its arsenal is a fraction of the US and Russian ones and serves only self-defence under a no-first-use pledge, so the two largest powers must cut deeply before China is asked to negotiate."
+    },
+    {
+     "side": "Russia",
+     "view": "Moscow says it offered to keep New START limits voluntarily and was ignored, and argues that if talks become multilateral they should include the British and French arsenals, not just China."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Strategic triangle",
+     "meaning": "The Cold War pattern in which the US, the Soviet Union and China each tried to be closer to the other two than they were to each other; associated with [[p:Henry Kissinger]]'s diplomacy."
+    },
+    {
+     "term": "New START",
+     "meaning": "The 2010 US–Russian treaty capping each side at 1,550 deployed strategic warheads, with on-site inspections; it expired on 5 February 2026."
+    },
+    {
+     "term": "No first use",
+     "meaning": "China's declared policy since 1964 of never being the first to use nuclear weapons; Beijing cites it to argue its arsenal is purely defensive."
+    },
+    {
+     "term": "Lop Nur",
+     "meaning": "China's nuclear test site in Xinjiang, where it exploded its first bomb in October 1964."
+    }
+   ],
+   "whyItMatters": "For the first time since 1972, nothing legally limits the world's largest nuclear arsenals, and the third power is building fast. The Shenzhen meeting shows whether Beijing will move from refusal to any form of talks, even on transparency or risk reduction short of caps. Watch whether the three leaders agree on a follow-up channel, and whether Moscow keeps observing the old New START limits informally.",
+   "readMore": [
+    {
+     "title": "Rapprochement with China, 1972",
+     "url": "https://history.state.gov/milestones/1969-1976/rapprochement-china",
+     "why": "The US State Department historian's account of how Nixon's opening to China worked."
+    },
+    {
+     "title": "New START Expires As U.S. Urges 'Modernized' Treaty",
+     "url": "https://www.armscontrol.org/index%2Ephp/node/15196",
+     "why": "Arms Control Association report on the treaty's expiry and the US, Russian and Chinese positions."
+    },
+    {
+     "title": "SIPRI Yearbook 2026 press release",
+     "url": "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+     "why": "The latest independent estimates of world nuclear arsenals, including China's build-up."
+    }
+   ],
+   "prevQuestion": "What is Somalia's 4.5 formula, and why does President Hassan Sheikh Mohamud want to replace the system built on it?",
+   "prevAnswer": "It is the clan power-sharing rule from the 2000 Arta talks: equal shares for the four largest clan families and half a share for minorities, used to fill parliament through clan elders and delegates. Hassan Sheikh argues it entrenches clan politics and wants one-person-one-vote elections instead, but critics say he is using that reform to extend his own term without consensus.",
+   "recallQ": "Why did the US withdraw from the INF Treaty in 2019, and how did China figure in that decision?",
+   "recallA": "Washington accused Russia of deploying a banned ground-launched cruise missile, the 9M729, and left the treaty in August 2019. US officials also argued that the treaty only bound the US and Russia, while China, never a party, had built a large force of exactly the intermediate-range missiles the treaty banned."
   }
  ]
 }
