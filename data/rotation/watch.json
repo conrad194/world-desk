@@ -195,7 +195,7 @@
    "dateAdded": "2026-10-25",
    "segment": "EU politics + cross-cutting",
    "what": "APEC in Shenzhen; possible Trump–Xi–Putin meeting on nuclear arms and Ukraine.",
-   "expected": "Reuters (via RTÉ); the Kremlin",
+   "expected": "Reuters (via RTÉ); the Kremlin Update 13 Nov: the White House confirmed a first Trump–Xi–Putin meeting in Shenzhen on 19 Nov, on nuclear arms and Iran but not Ukraine ([Kyiv Post](https://www.kyivpost.com/post/90092)).",
    "checkDate": "2026-11-19",
    "happened": "",
    "eventId": "E-261025-55"
@@ -467,7 +467,7 @@
    "what": "Sweden: Kristersson reports back to the Speaker; the Centre Party wants answers from both blocs by 13 Nov.",
    "expected": "Speaker Andreas Norlén extended the mandate by \"a few days\" (Riksdag); Centre deadline per SVT.",
    "checkDate": "2026-11-13",
-   "happened": "",
+   "happened": "No outcome yet: on 10 Nov Speaker Andreas Norlén gave Kristersson about one more week, and the Centre Party's 13 Nov deadline passed without a public choice; it rules out any government that includes the Left Party ([Reuters via Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/swedish-pm-kristersson-given-another-week-to-try-to-form-new-government)).",
    "eventId": "E-261108-14"
   },
   {
@@ -517,7 +517,7 @@
    "what": "UN Security Council emergency meeting on the Komyshuvakha strike, requested by Latvia (date not yet set).",
    "expected": "Latvian FM Baiba Braže (Censor.NET)",
    "checkDate": "2026-11-13",
-   "happened": "",
+   "happened": "The Security Council met on 9 Nov. US deputy envoy Dan Negrea condemned strikes on Komyshuvakha, a Zaporizhzhia aid site and a Kharkiv hospital, and urged both sides to stop attacking civilian infrastructure ([Interfax-Ukraine](https://en.interfax.com.ua/news/general/1233700-amp.html)).",
    "eventId": ""
   },
   {
