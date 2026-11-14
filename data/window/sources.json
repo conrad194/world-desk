@@ -2075,6 +2075,18 @@
    "language": "English",
    "url": "https://www.thenationalnews.com",
    "lean": "Centre; Abu Dhabi state-owned"
+  },
+  {
+   "status": "Watch",
+   "dateAdded": "2026-11-14",
+   "id": "lex-media-pl",
+   "name": "LEX (lex.media.pl)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Legislation tracking: signed and vetoed laws",
+   "language": "Polish",
+   "url": "https://lex.media.pl",
+   "lean": "Neutral; legal publisher (Wolters Kluwer)"
   }
  ]
 }

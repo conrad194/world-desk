@@ -1374,6 +1374,17 @@
    "checkDate": "2026-11-20",
    "eventId": "E-261114-11",
    "id": "W-261114-03"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "happened": "",
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "what": "Next Russia–Ukraine round in Abu Dhabi with the European five-nation team including Poland, and the Nov 26 EU budget summit",
+   "expected": "Kushner via PAP/Defence24 (round in about two weeks); Tusk via WP (summit Nov 26)",
+   "checkDate": "2026-11-27",
+   "eventId": "E-261114-20",
+   "id": "W-261114-04"
   }
  ]
 }

@@ -495,6 +495,38 @@
    "newsLink": "https://sundayguardianlive.com/world/h-1b-visa-update-will-indian-workers-face-more-scrutiny-during-visa-extensions-know-what-the-us-proposal-says-321121",
    "eventId": "E-261113-52",
    "lastChecked": "2026-11-14"
+  },
+  {
+   "dateLogged": "2026-11-14",
+   "lastChecked": "2026-11-14",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "name": "Act amending certain acts for patriotic education (print 671)",
+   "changes": "Schools must take every pupil at least once on a trip to memorial, heritage or military sites, and secondary schools must run engineering clubs.",
+   "affects": "Schools, pupils and local governments that run schools",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html",
+   "newsLink": "https://www.portaloswiatowy.pl/projekty-aktow-prawnych-dla-oswiaty/nowe-obowiazki-szkol-zwiazane-z-wychowaniem-patriotycznym.-sejm-uchwalil-ustawe-25291.html",
+   "eventId": "E-261114-22",
+   "id": "R-261114-01"
+  },
+  {
+   "dateLogged": "2026-11-14",
+   "lastChecked": "2026-11-14",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "name": "Amendment to the act on anti-terrorist activities (print 2870)",
+   "changes": "Creates a standing 'special event' security regime for big events: security plans, police data processing and vetting of staff.",
+   "affects": "Event organisers, police, ABW, voivodes, people working at such events",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://api.sejm.gov.pl/sejm/term10/prints/2870/2870.pdf",
+   "newsLink": "https://lex.media.pl/prezydent-podpisal-szesc-ustaw-jedna-zawetowal-43809206.html",
+   "eventId": "E-261114-23",
+   "id": "R-261114-02"
   }
  ]
 }

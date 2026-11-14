@@ -683,6 +683,18 @@
    "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386",
    "why": "A clear count of who backs whom in the first contested Democratic leadership race in decades, and how Alaska changes the threshold.",
    "id": "RL-261114-01"
+  },
+  {
+   "dateAdded": "2026-11-14",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "title": "Atak hakerski miał sparaliżować Polskę, ePUAP wciąż nie działa",
+   "reporter": "",
+   "outlet": "Rzeczpospolita (cyfrowa.rp.pl)",
+   "language": "Polish",
+   "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac",
+   "why": "The fullest running account of the ePUAP outage: which services are blocked, the December-paralysis claim, and the missing restoration date. Paywalled.",
+   "id": "RL-261114-02"
   }
  ]
 }
