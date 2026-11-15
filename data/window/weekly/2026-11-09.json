@@ -1,0 +1,75 @@
+{
+ "weekStart": "2026-11-09",
+ "keyEvents": {
+  "US": [
+   "E-261110-05",
+   "E-261113-01",
+   "E-261114-01",
+   "E-261114-08",
+   "E-261115-01"
+  ],
+  "Poland": [
+   "E-261112-15",
+   "E-261114-03",
+   "E-261114-04",
+   "E-261114-20",
+   "E-261115-07"
+  ],
+  "Kraków": [
+   "E-261109-10",
+   "E-261109-11",
+   "E-261110-17",
+   "E-261111-22",
+   "E-261114-29"
+  ],
+  "India": [
+   "E-261113-32",
+   "E-261114-42",
+   "E-261114-43",
+   "E-261115-18"
+  ],
+  "Relations": [
+   "E-261111-01",
+   "E-261113-45",
+   "E-261115-21"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "What did India's October CPI release show?",
+   "options": [
+    "Inflation fell below 4%",
+    "Inflation rose to 6.09%, above the RBI's 6% upper band",
+    "Inflation was unchanged at 5.54%",
+    "Deflation for the first time"
+   ],
+   "answer": 1,
+   "explain": "MoSPI said retail inflation rose to 6.09% in October from 5.54%, breaching the RBI's tolerance band ahead of the Dec 4 policy meeting.",
+   "from": "news"
+  },
+  {
+   "q": "Which Polish law did President Nawrocki veto on Nov 13?",
+   "options": [
+    "The 2027 budget",
+    "The second law implementing the EU Digital Services Act",
+    "The anti-alcohol law",
+    "The nuclear special act"
+   ],
+   "answer": 1,
+   "explain": "He vetoed the fast procedure for blocking illegal online content, calling it censorship, leaving the DSA only partly implemented.",
+   "from": "news"
+  },
+  {
+   "q": "Why did the US reportedly lose its measles-elimination status?",
+   "options": [
+    "A single imported case",
+    "More than 12 months of continuous transmission",
+    "A CDC funding lapse",
+    "WHO changed its definitions"
+   ],
+   "answer": 1,
+   "explain": "PAHO revokes the status after a year of uninterrupted spread; the US had held it since 2000 and has over 5,400 cases this year.",
+   "from": "news"
+  }
+ ]
+}
