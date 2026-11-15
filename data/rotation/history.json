@@ -800,6 +800,108 @@
    "prevAnswer": "It is the clan power-sharing rule from the 2000 Arta talks: equal shares for the four largest clan families and half a share for minorities, used to fill parliament through clan elders and delegates. Hassan Sheikh argues it entrenches clan politics and wants one-person-one-vote elections instead, but critics say he is using that reform to extend his own term without consensus.",
    "recallQ": "Why did the US withdraw from the INF Treaty in 2019, and how did China figure in that decision?",
    "recallA": "Washington accused Russia of deploying a banned ground-launched cruise missile, the 9M729, and left the treaty in August 2019. US officials also argued that the treaty only bound the US and Russia, while China, never a party, had built a large force of exactly the intermediate-range missiles the treaty banned."
+  },
+  {
+   "id": "2026-11-15",
+   "date": "2026-11-15",
+   "segment": "EU politics + cross-cutting",
+   "title": "Who speaks for Europe? Why the EU keeps sending a committee to peace talks",
+   "thread": "Russia–Ukraine peace talks",
+   "eventIds": [
+    "E-261115-06",
+    "E-261115-01"
+   ],
+   "minutes": 4,
+   "hook": "Leaders at the [[e:9th European Political Community Summit]] in Dublin agreed that EU officials and five big governments will share Europe's seat at the next Ukraine talks, with no single envoy. It is the newest answer to a question Europe has struggled with for half a century: who picks up the phone for it?",
+   "body": "Europe has a habit of arriving at peace talks as a committee. In Dublin this week, leaders agreed that Europe's team for the next round on Ukraine will mix EU officials with five national governments, and named no single envoy. That is less the failure of one summit than the latest chapter in a fifty-year argument over **who speaks for Europe**.\n\nThe question is usually pinned on [[p:Henry Kissinger]], supposedly asking whom he should call if he wanted to call Europe. Kissinger later said he was not sure he ever said it. The problem was real all the same. The European Community began as an economic project, and its members kept foreign policy for themselves. From 1970 they coordinated loosely through [[p:European Political Cooperation]] {{note: Informal coordination among the Community's foreign ministers, launched in 1970 on the basis of the Davignon report.}}, regular meetings with no binding power.\n\nThe end of the Cold War put that to the test. As Yugoslavia broke apart in 1991, Luxembourg's foreign minister [[p:Jacques Poos]], speaking for the Community, declared that the hour of Europe had come. Four years of war later, it was American diplomacy that produced the [[e:Dayton Agreement]]. The lesson stuck. The [[e:Maastricht Treaty]] had already created a [[p:Common Foreign and Security Policy]], but its decisions needed unanimity. In 1999 the EU gave the policy a face, appointing [[p:Javier Solana]] its first High Representative, and the [[e:Treaty of Lisbon]] in 2009 strengthened the post and gave it a diplomatic service.\n\nYet when crises came, the biggest capitals often worked in smaller groups. From 2003 Britain, France and Germany negotiated with Iran over its nuclear programme as the [[p:EU three]], work that fed into the 2015 [[e:Joint Comprehensive Plan of Action]]. On Ukraine in 2014 it was Germany and France, not the EU, that sat in the [[p:Normandy Format]] and brokered the Minsk deals traced in last week's lesson. Smaller states grumbled at being bypassed, but these formats moved faster than a union that needed every government's consent.\n\nBrexit and the 2022 invasion scrambled the map again. The UK left the EU but stayed central to European security, so new forums grew up outside the treaties: the [[p:European Political Community]], the [[p:E5 (European Group of Five)|E5]] {{note: Defence ministers of the UK, Germany, France, Italy and Poland, first convened by Boris Pistorius in Berlin in November 2024.}} of defence ministers, and the British- and French-led [[p:Coalition of the willing (Russo-Ukrainian war)|coalition of the willing]] of 2025. When the Trump administration opened talks with Moscow in February 2025, Europeans were not in the room, and they have spent much of the time since trying to get in.\n\nThe Dublin compromise mirrors that history. The EU institutions bring sanctions, budgets and the accession process; the big capitals bring armies, nuclear weapons and, in Britain's case, a seat outside the EU altogether. Neither side will fully defer to the other. [[p:Kaja Kallas]] {{note: Estonia's prime minister from 2021 to 2024, she became the EU's High Representative in December 2024.}} argues the High Representative should be Europe's voice; several capitals prefer to speak for themselves. Moscow, which has long preferred to deal with Washington directly, says it will weigh a European role only once Europe is ready to contribute.",
+   "timeline": [
+    {
+     "when": "1970",
+     "text": "Community members launch [[p:European Political Cooperation]], loose foreign-policy coordination outside the treaties."
+    },
+    {
+     "when": "1991–95",
+     "text": "Europe tries and fails to stop the [[e:Yugoslav Wars]]; US diplomacy ends the Bosnian war at Dayton in 1995."
+    },
+    {
+     "when": "1993–99",
+     "text": "The [[e:Maastricht Treaty]] creates a common foreign policy run by unanimity; [[p:Javier Solana]] becomes the first High Representative in 1999."
+    },
+    {
+     "when": "2003",
+     "text": "France, Germany and the UK open nuclear talks with Iran as the [[p:EU three]], a model of big-state diplomacy alongside the EU."
+    },
+    {
+     "when": "2009",
+     "text": "The [[e:Treaty of Lisbon]] strengthens the High Representative and creates the EU's diplomatic service."
+    },
+    {
+     "when": "2014–15",
+     "text": "Germany and France, not the EU, represent Europe in the [[p:Normandy Format]] and broker the [[e:Minsk agreements]]."
+    },
+    {
+     "when": "2024–25",
+     "text": "The [[p:E5 (European Group of Five)|E5]] defence group forms; US–Russia talks open in February 2025 without Europeans present."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "In Dublin, leaders agree a mixed EU-plus-E5 team for the Ukraine talks, with no single envoy."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "EU institutions and federalists",
+     "view": "Europe's sanctions, funding and the offer of membership are EU tools, so the EU must sit at the table. A single voice, such as the High Representative, stops outside powers from playing capitals off against each other."
+    },
+    {
+     "side": "Large national capitals",
+     "view": "In a war, weight comes from armies, money and nuclear deterrence, which national governments hold. Small formats such as Normandy, the E3 and the E5 act faster than 27 governments needing unanimity, and they can include the UK."
+    },
+    {
+     "side": "Moscow",
+     "view": "The Kremlin prefers to settle European security directly with Washington and sees European governments as parties that arm Ukraine, not neutral mediators. It treats any European seat as conditional on what Europe brings."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Common Foreign and Security Policy (CFSP)",
+     "meaning": "The EU's foreign policy framework, created by the [[e:Maastricht Treaty]]. Most decisions need the unanimous agreement of member states."
+    },
+    {
+     "term": "High Representative",
+     "meaning": "The EU's foreign policy chief, a post created in 1999 and strengthened by the [[e:Treaty of Lisbon]]; held since December 2024 by [[p:Kaja Kallas]]."
+    },
+    {
+     "term": "E5",
+     "meaning": "The defence ministers' group of the UK, Germany, France, Italy and Poland, Europe's five largest military powers."
+    },
+    {
+     "term": "Minilateralism",
+     "meaning": "Diplomacy through small groups of states, such as the E3 or the Normandy Format, rather than a whole organisation."
+    }
+   ],
+   "whyItMatters": "Whoever sits at the table shapes what a settlement says about Europe's own security: sanctions relief, frozen Russian assets, Ukraine's EU path and any peacekeeping force. A divided team invites the US and Russia to deal around Europe, as they did in early 2025. Watch whether Europe names a lead negotiator before the next round, and whether Hungary or Slovakia break ranks on the money that gives Europe leverage.",
+   "readMore": [
+    {
+     "title": "Common Foreign and Security Policy",
+     "url": "https://www.britannica.com/topic/Common-Foreign-and-Security-Policy",
+     "why": "Encyclopaedia Britannica's overview of how EU foreign policy grew out of European Political Cooperation."
+    },
+    {
+     "title": "The E3, the EU, and the Post-Brexit Diplomatic Landscape",
+     "url": "https://carnegieendowment.org/research/2020/06/the-e3-the-eu-and-the-post-brexit-diplomatic-landscape?lang=en",
+     "why": "Carnegie Endowment analysis of how the big-three format works alongside, and sometimes around, the EU."
+    },
+    {
+     "title": "Origins and development of the E3",
+     "url": "https://www.chathamhouse.org/2020/07/future-e3/origins-and-development-e3",
+     "why": "Chatham House on why smaller EU states resent big-state formats, and why they persist."
+    }
+   ],
+   "prevQuestion": "Why did the US withdraw from the INF Treaty in 2019, and how did China figure in that decision?",
+   "prevAnswer": "Washington accused Russia of deploying a banned ground-launched cruise missile, the 9M729, and left the treaty in August 2019. US officials also argued that the treaty only bound the US and Russia, while China, never a party, had built a large force of exactly the intermediate-range missiles the treaty banned.",
+   "recallQ": "Why did the Yugoslav wars of the 1990s become a cautionary tale for EU foreign policy?",
+   "recallA": "In 1991 the European Community claimed the lead on the crisis, but it lacked a common military and divided over recognising the breakaway states. The fighting went on until US-led diplomacy produced the Dayton Agreement in 1995, which pushed the EU to build its foreign policy role and appoint a High Representative."
   }
  ]
 }
