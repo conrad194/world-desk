@@ -1178,6 +1178,97 @@
      "why": "The Court's official account of its original, appellate, advisory, writ and review powers."
     }
    ]
+  },
+  {
+   "id": "REV-261115",
+   "review": true,
+   "unit": "Weekly review",
+   "title": "Week of 2026-11-09",
+   "dateTaught": "2026-11-15",
+   "minutes": 5,
+   "prevQuestion": "Why is Poland's Constitutional Tribunal a bigger political prize than any single US court, and how does India's basic structure doctrine go further than either?",
+   "prevAnswer": "Poland gives the power to strike down laws to one 15-member Tribunal elected by the Sejm, so whoever controls it controls constitutional review; in the US review is spread across all courts and limited to real cases. India's Supreme Court goes further still, claiming the power to void even constitutional amendments that damage the Constitution's basic structure.",
+   "body": "This week's six lessons were really one lesson told in stages: how a country turns a majority into binding law, and who can stop it along the way. The clearest case came from Warsaw, where a single act walked through nearly every stage we studied.\n\n**The path of one law.** Poland's second law implementing the EU's [#Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act) began as a government bill, adopted by the Council of Ministers acting as one body (Lesson 4). The Sejm passed it by simple majority and the Senate reviewed it, the weaker upper house that can delay but not block (Lessons 5 and 6). Then it reached the head of state (Lesson 3). On 13 November President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) vetoed it, calling its fast procedure for blocking online content censorship. Prime Minister [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk)'s coalition lacks the three-fifths of the Sejm needed to override, so the veto will most likely stand.\n\n**Why the courts matter here.** Nawrocki said he could not send the law to the Constitutional Tribunal instead, because in his view the Tribunal does not function. That is Lesson 8 in action: Poland puts constitutional review in one 15-judge body, so when the government and the president dispute who legitimately sits on it, as in the [#2026 Polish Constitutional Tribunal crisis](https://en.wikipedia.org/wiki/2026_Polish_Constitutional_Tribunal_crisis), the whole system loses its referee. Each camp blames the other. Fixing the court through the PSL's proposed constitutional reset would need two-thirds of the Sejm (Lesson 2), which only opposition votes can supply.\n\n> Poland's two-chamber parliament dates to the 1493 Sejm in Piotrków under King [@John I Albert](https://en.wikipedia.org/wiki/John_I_Albert).\n\n**The same questions in Washington.** In the US the head of state and head of government are one person, [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump), and his cabinet answers to him alone. The House shelving impeachment articles against Defense Secretary [@Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) showed how hard it is for Congress to remove a secretary (Lesson 4). Lesson 5's two equal chambers explain why this month's election matters so much: from 3 January Democrats are projected to hold both houses, and Senate Republicans re-elected [@John Thune](https://en.wikipedia.org/wiki/John_Thune) to lead them into the minority. Every bill must pass both houses in identical text and then survive a possible veto (Lesson 6), so divided government means bargaining or gridlock, starting with the 11 December funding deadline.\n\n**India, the quiet contrast.** India's President, [@Droupadi Murmu](https://en.wikipedia.org/wiki/Droupadi_Murmu), acts on the advice of [@Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi)'s Council of Ministers and can return a bill only once (Lessons 3 and 6). The real brakes are the Rajya Sabha and a Supreme Court that, since [#Kesavananda Bharati v. State of Kerala](https://en.wikipedia.org/wiki/Kesavananda_Bharati_v._State_of_Kerala), can strike down even constitutional amendments. This week Yes Bank asked that Court to review its own AT-1 bond judgment, a reminder that India's top court can also reconsider itself.\n\n> The Rajya Sabha and the first Lok Sabha both held their first sittings on 13 May 1952.\n\n**The thread.** Where a system has many separate approvals (the US) or a head of state from the rival camp (Poland today), the blocking points decide politics. Where the government controls the lower house and the head of state follows its advice (India), the courts become the main brake. Next week's lessons on elections and federalism ask the follow-up question: how those majorities are won in the first place.",
+   "comparison": [
+    {
+     "aspect": "Who drafts most laws",
+     "US": "Members of Congress (often with White House text)",
+     "Poland": "Council of Ministers",
+     "India": "Union Cabinet"
+    },
+    {
+     "aspect": "Chamber with the final say",
+     "US": "Neither: both must agree",
+     "Poland": "Sejm (overrides Senate by absolute majority)",
+     "India": "Lok Sabha (joint sitting; money bills)"
+    },
+    {
+     "aspect": "Head of state's last word",
+     "US": "Veto, overridden by two-thirds of both houses",
+     "Poland": "Veto (three-fifths of Sejm to override) or referral to the Tribunal",
+     "India": "Return once; then assent is required"
+    },
+    {
+     "aspect": "Who can strike down a law",
+     "US": "Any court in a real case; Supreme Court finally",
+     "Poland": "Constitutional Tribunal (its status disputed)",
+     "India": "Supreme Court and High Courts"
+    },
+    {
+     "aspect": "Amending the constitution",
+     "US": "Two-thirds of Congress plus 38 states",
+     "Poland": "Two-thirds of Sejm, absolute majority of Senate",
+     "India": "Special majorities; basic structure limit"
+    }
+   ],
+   "check": [
+    {
+     "q": "Poland's government has a Sejm majority but not three-fifths. Which stage is most likely to stop one of its bills today?",
+     "options": [
+      "The Senate vote",
+      "The President's veto",
+      "The first reading in the Sejm",
+      "Publication in the Dziennik Ustaw"
+     ],
+     "answer": 1,
+     "explain": "The Sejm can overrule the Senate by an absolute majority, but overriding a presidential veto needs three-fifths, which the coalition lacks. In cohabitation the veto is the real choke point."
+    },
+    {
+     "q": "Why can a US House majority not remove a cabinet secretary on its own?",
+     "options": [
+      "Secretaries are elected officials",
+      "Removal needs impeachment by the House and conviction by two-thirds of the Senate",
+      "Only the Supreme Court can remove them",
+      "Secretaries sit in the Senate and are protected by it"
+     ],
+     "answer": 1,
+     "explain": "The cabinet answers to the president, who can fire members at will. Congress can only impeach, and conviction needs a Senate supermajority."
+    },
+    {
+     "q": "What makes India's Supreme Court unusual among the three top courts?",
+     "options": [
+      "It cannot review laws at all",
+      "Its judges are elected by Parliament",
+      "It can void constitutional amendments that damage the basic structure",
+      "It only hears cases referred by the President"
+     ],
+     "answer": 2,
+     "explain": "Since Kesavananda Bharati (1973) the Court holds that Parliament cannot amend away the Constitution's basic structure. Neither the US nor Polish courts claim that power."
+    },
+    {
+     "q": "Why is it a political prize to control Poland's Constitutional Tribunal, more than any single US court?",
+     "options": [
+      "It also hears all criminal appeals",
+      "It alone can declare laws unconstitutional, so whoever shapes it shapes constitutional review",
+      "It elects the President",
+      "Its judges serve for life"
+     ],
+     "answer": 1,
+     "explain": "Poland concentrates review in one 15-judge body; the US spreads review across all courts and limits it to real cases."
+    }
+   ],
+   "recallQ": "Trace a Polish government bill from the Council of Ministers to the Dziennik Ustaw. At which points can a rival camp still stop it, and why can't the Senate?",
+   "recallA": "The bill passes the Sejm by simple majority, goes to the Senate, then to the President, and becomes law when published. The Senate's objections can be overruled by an absolute majority of the Sejm, so it only delays. The real blocking points are the President's veto, which needs three-fifths of the Sejm to override, and a referral to the Constitutional Tribunal, whose status is now disputed."
   }
  ]
 }

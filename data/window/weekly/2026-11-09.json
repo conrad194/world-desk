@@ -71,5 +71,43 @@
    "explain": "PAHO revokes the status after a year of uninterrupted spread; the US had held it since 2000 and has over 5,400 cases this year.",
    "from": "news"
   }
+ ],
+ "lessonQuiz": [
+  {
+   "q": "Which statement about upper houses is correct?",
+   "options": [
+    "The Polish Senate can permanently block any bill",
+    "The US Senate must pass every bill in the same text as the House",
+    "The Rajya Sabha can bring down the government",
+    "All three upper houses are directly elected"
+   ],
+   "answer": 1,
+   "explain": "The US chambers are equal partners. Poland's Senate can be overruled by the Sejm, and India's Rajya Sabha cannot remove the government, which answers to the Lok Sabha.",
+   "from": "lesson"
+  },
+  {
+   "q": "In Poland, most presidential acts need the prime minister's countersignature. What does that mean in cohabitation?",
+   "options": [
+    "The president can do nothing alone",
+    "The president's main independent tools are constitutional prerogatives such as the veto and Tribunal referral",
+    "The prime minister can veto laws",
+    "Countersignature applies only to foreign policy"
+   ],
+   "answer": 1,
+   "explain": "Prerogatives listed in the Constitution, like the veto, need no countersignature, so a president from the rival camp relies on them.",
+   "from": "lesson"
+  },
+  {
+   "q": "Why does India's President rarely block legislation?",
+   "options": [
+    "The President has no role in lawmaking",
+    "The President acts on ministerial advice and must assent if a bill is passed again",
+    "The Supreme Court signs bills instead",
+    "Bills go straight from the Lok Sabha into force"
+   ],
+   "answer": 1,
+   "explain": "India's President can return a non-money bill once, but must assent if Parliament passes it again; the role is largely formal.",
+   "from": "lesson"
+  }
  ]
 }
