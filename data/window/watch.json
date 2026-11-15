@@ -1440,6 +1440,28 @@
    "checkDate": "2026-11-20",
    "eventId": "",
    "id": "W-261114-09"
+  },
+  {
+   "dateAdded": "2026-11-15",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "what": "Official PAHO/CDC statement confirming the loss of US measles-elimination status, and HHS response (including how measles deaths are counted).",
+   "expected": "Reported by the WSJ; PAHO had not published a statement in sources read.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261115-01",
+   "id": "W-261115-01"
+  },
+  {
+   "dateAdded": "2026-11-15",
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "what": "ZIS explanation for ending the Wisła stadium commercialisation contracts, and who takes over the search for a stadium operator.",
+   "expected": "LoveKraków.pl says it is awaiting ZIS answers.",
+   "checkDate": "2026-11-22",
+   "happened": "",
+   "eventId": "E-261115-15",
+   "id": "W-261115-02"
   }
  ]
 }

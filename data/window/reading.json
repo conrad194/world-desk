@@ -719,6 +719,30 @@
    "url": "https://www.outlookindia.com/national/delhi-aqi-today-severe-402-toxic-haze-iit-delhi-488-farm-fire-smoke",
    "why": "Hour-by-hour build-up of the Nov 13 severe episode with the pollution source split and expert comment, useful before the Nov 16 Supreme Court hearing.",
    "id": "RL-261114-04"
+  },
+  {
+   "dateAdded": "2026-11-15",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "title": "Na scenie Kaczyński, Czarnek i Szydło. Zapowiadają \"ofensywę\"",
+   "reporter": "",
+   "outlet": "Wirtualna Polska",
+   "language": "Polish",
+   "url": "https://wiadomosci.wp.pl/na-scenie-kaczynski-czarnek-i-szydlo-zapowiadaja-ofensywe-7350968151210016a",
+   "why": "The clearest run-through of what PiS now promises on taxes, energy and the state, the first sketch of its platform for the next election.",
+   "id": "RL-261115-01"
+  },
+  {
+   "dateAdded": "2026-11-15",
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "title": "Komercjalizował stadion Wisły. Po wygranej Ł. Gibały otrzymał nagłe wypowiedzenie",
+   "reporter": "",
+   "outlet": "LoveKraków.pl",
+   "language": "Polish",
+   "url": "https://lovekrakow.pl/komercjalizowal-stadion-wisly-po-wygranej-l-gibaly-otrzymal-nagle-wypowiedzenie-uderza-w-urzednikow",
+   "why": "A detailed look at how the city runs its biggest sports asset, and an early test of how Gibała's team handles inherited contracts.",
+   "id": "RL-261115-02"
   }
  ]
 }
