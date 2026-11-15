@@ -1,0 +1,106 @@
+{
+ "weekStart": "2026-11-09",
+ "keyEvents": {
+  "Russia–Ukraine & European security": [
+   "E-261109-15",
+   "E-261112-01",
+   "E-261113-01",
+   "E-261115-01"
+  ],
+  "Middle East": [
+   "E-261109-01",
+   "E-261110-06",
+   "E-261112-03",
+   "E-261113-02",
+   "E-261115-02"
+  ],
+  "East & Southeast Asia": [
+   "E-261111-02",
+   "E-261111-03",
+   "E-261113-04",
+   "E-261111-05"
+  ],
+  "The Americas": [
+   "E-261112-05",
+   "E-261112-07",
+   "E-261112-13",
+   "E-261115-03"
+  ],
+  "Africa": [
+   "E-261109-04",
+   "E-261112-04",
+   "E-261113-05",
+   "E-261113-07"
+  ],
+  "South & Central Asia": [
+   "E-261114-03",
+   "E-261114-11",
+   "E-261114-15",
+   "E-261114-16"
+  ],
+  "EU politics + cross-cutting": [
+   "E-261112-02",
+   "E-261114-01",
+   "E-261115-06",
+   "E-261115-09",
+   "E-261115-11"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Why does Friedrich Merz link the EU's 2028–34 budget to Ukraine funding?",
+   "options": [
+    "Germany wants to leave the EU budget",
+    "Germany wants every member state, not just a few big donors, to share the cost of Ukraine's 2027 gap, and the budget needs unanimity",
+    "EU law requires Ukraine to be funded from the budget",
+    "Germany wants to cut cohesion funds for Poland"
+   ],
+   "answer": 1,
+   "explain": "The long-term budget needs every member's consent, which gives Berlin leverage. [[p:Friedrich Merz]] wants all states to commit to Ukraine money; Slovakia and Czechia, which opted out of earlier loan guarantees, call the linkage blackmail."
+  },
+  {
+   "q": "What was new about the US question Zelenskyy says he was asked?",
+   "options": [
+    "It offered Ukraine EU membership in 2027",
+    "It linked NATO membership to Ukraine giving up Donbas, a trade Russia has long ruled out",
+    "It proposed a ceasefire along the Dnipro",
+    "It asked Ukraine to hold elections first"
+   ],
+   "answer": 1,
+   "explain": "[[p:Volodymyr Zelenskyy]] says it was the first time membership was tied to territory in the talks. Moscow treats Ukraine in [[p:NATO]] as a red line, so the idea faces resistance from both sides."
+  },
+  {
+   "q": "Why did Europeans care whether they sit at the main table or in a side room at the next round of Ukraine talks?",
+   "options": [
+    "Side rooms have no interpreters",
+    "Any settlement on sanctions, guarantees and frozen assets would need European money and enforcement, so they want to shape it, not just be briefed",
+    "EU law bans side-room meetings",
+    "Russia demanded Europeans attend"
+   ],
+   "answer": 1,
+   "explain": "In Abu Dhabi, Europeans met US and Ukrainian officials but not Russia. In Dublin, leaders agreed a mixed team of EU officials and the E5 so that Europe negotiates directly."
+  },
+  {
+   "q": "What makes the planned Trump–Xi–Putin meeting in Shenzhen hard to turn into an arms-control deal?",
+   "options": [
+    "China has more warheads than the US",
+    "China says it is unfair to join three-way cuts while the US and Russia hold far larger arsenals",
+    "Russia has left the UN",
+    "The meeting is only about trade"
+   ],
+   "answer": 1,
+   "explain": "China has a few hundred warheads against several thousand each for the US and Russia, and Beijing says the two biggest holders should cut first. That gap is why analysts expect little substance."
+  },
+  {
+   "q": "Why does Europe's gas-storage level matter more this winter than usual?",
+   "options": [
+    "Storage was full but prices are rising",
+    "Stocks entered winter at their lowest since 2013 while the Iran war has cut LNG flows through Hormuz, leaving less buffer for a cold spell",
+    "The EU banned all gas imports",
+    "Germany switched off its storage sites"
+   ],
+   "answer": 1,
+   "explain": "The [[p:International Energy Agency]] warns that tight LNG supply and competition with Asia could push prices up during demand spikes. Germany, the biggest consumer, started winter at only 61%."
+  }
+ ]
+}
