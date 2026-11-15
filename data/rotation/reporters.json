@@ -867,6 +867,34 @@
    "trackRecord": "O Tempo's Brasília correspondent covering the Planalto Palace.",
    "dateAdded": "2026-11-12",
    "status": "Watch"
+  },
+  {
+   "id": "emma-lofgren",
+   "name": "Emma Löfgren",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Sweden",
+   "languages": "Swedish, English",
+   "outlets": "TT News Agency; The Local Sweden",
+   "basedIn": "Stockholm",
+   "slant": "",
+   "url": "https://www.thelocal.se/",
+   "trackRecord": "Long-time Stockholm journalist covering Swedish politics, now writing for the TT wire.",
+   "dateAdded": "2026-11-15",
+   "status": "Watch"
+  },
+  {
+   "id": "sebastian-rodriguez",
+   "name": "Sebastian Rodriguez",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Global (UN climate talks)",
+   "languages": "Spanish, English",
+   "outlets": "Climate Home News",
+   "basedIn": "",
+   "slant": "",
+   "url": "https://www.climatechangenews.com/",
+   "trackRecord": "Climate Home News editor reporting daily from the COP31 negotiations.",
+   "dateAdded": "2026-11-15",
+   "status": "Watch"
   }
  ]
 }

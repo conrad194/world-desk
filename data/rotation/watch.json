@@ -204,9 +204,9 @@
    "id": "W-261025-21",
    "dateAdded": "2026-10-25",
    "segment": "EU politics + cross-cutting",
-   "what": "European Council budget summit on the 2028–34 MFF.",
-   "expected": "Agence Europe (26–27 Nov); Euronews (26 Nov)",
-   "checkDate": "2026-11-27",
+   "what": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "expected": "Agence Europe (26–27 Nov); Euronews (26 Nov) Update 15 Nov: Agence Europe dates the extraordinary summit to 26 Nov.",
+   "checkDate": "2026-11-26",
    "happened": "",
    "eventId": "E-261025-33"
   },
@@ -505,7 +505,7 @@
    "dateAdded": "2026-11-08",
    "segment": "EU politics + cross-cutting",
    "what": "Serbia: new National Assembly convenes and the Student List names a PM; presidential election due by 27 Dec.",
-   "expected": "Constitutional deadlines (Al Jazeera): assembly within 30 days of the 5 Nov final results.",
+   "expected": "Constitutional deadlines (Al Jazeera): assembly within 30 days of the 5 Nov final results. Update 15 Nov: the Assembly's constitutive session is set for 17 Nov (Serbian press).",
    "checkDate": "2026-12-05",
    "happened": "",
    "eventId": "E-261108-04"
@@ -739,6 +739,56 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261114-17"
+  },
+  {
+   "id": "W-261115-01",
+   "dateAdded": "2026-11-15",
+   "segment": "EU politics + cross-cutting",
+   "what": "Sweden: Kristersson reports to the Speaker on forming a government, and the Centre Party answers the two blocs' offers.",
+   "expected": "Speaker Andreas Norlén set the 17 Nov report date; the Centre Party said it would reply next week.",
+   "checkDate": "2026-11-17",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261115-02",
+   "dateAdded": "2026-11-15",
+   "segment": "EU politics + cross-cutting",
+   "what": "Spain: Sánchez–Feijóo televised debate, organised by the Academia de la Televisión.",
+   "expected": "Scheduled for 19 Nov, per Infobae's campaign coverage.",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261115-03",
+   "dateAdded": "2026-11-15",
+   "segment": "EU politics + cross-cutting",
+   "what": "Coalition of the willing meeting in Berlin, hosted by Merz, expected to discuss Europe's seat at the next round of Ukraine talks.",
+   "expected": "Merz announced the 19 Nov meeting; The Irish Times reports the next round will be discussed there.",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261115-04",
+   "dateAdded": "2026-11-15",
+   "segment": "EU politics + cross-cutting",
+   "what": "Netherlands: whether Jetten's minority cabinet survives the VVD's crisis talks over the tax plan.",
+   "expected": "VVD leader Yeşilgöz named a collapse as a possible outcome; talks continued over the weekend (NL Times).",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261115-05",
+   "dateAdded": "2026-11-15",
+   "segment": "EU politics + cross-cutting",
+   "what": "Europe names its delegation (three to five officials) for the next round of Ukraine peace talks.",
+   "expected": "Zelenskyy asked allies to finalise it by the end of November (Kyiv Post).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
