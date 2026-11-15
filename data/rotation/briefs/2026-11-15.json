@@ -1,0 +1,602 @@
+{
+ "date": "2026-11-15",
+ "segment": "EU politics + cross-cutting",
+ "windowFrom": "2026-11-08",
+ "tier1Summary": "Europe won a place, if not yet a face, in the Ukraine talks. In Dublin leaders agreed a team of EU officials plus France, Germany, the UK, Italy and Poland, but no single envoy. Money is the harder fight: [[p:Friedrich Merz]] ties the 2028–34 budget to shared Ukraine funding, and Prague and Bratislava refuse. Hungary still blocks Ukraine's last clusters, and gas storage enters winter at a 13-year low.\n\nAt home, the Dutch cabinet wobbles, France's budget sits with the Senate, Sweden waits on the Centre Party, and Spain's right leads before the 29 Nov vote.\n\nElsewhere, [[p:Volodymyr Zelenskyy]] says Washington floated NATO membership for Donbas, Iran claims a strike in Bahrain, and Trump wants Cuba \"done\" before 2029.",
+ "segmentItems": [
+  {
+   "id": "E-261115-06",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Ukraine / United Kingdom",
+   "text": "Leaders at the [[e:9th European Political Community Summit]] {{note: Forum of some 47 European leaders, first convened in Prague in October 2022 on Emmanuel Macron's initiative.}} in Dublin and the informal EU summit after it agreed Europe's team for the next Ukraine round will mix EU officials with the E5 (France, Germany, UK, Italy, Poland). No single envoy was named; [[p:Kaja Kallas]] says it should be her. The Kremlin is noncommittal.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Irish Times; RTÉ",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "The Irish Times",
+     "url": "https://www.irishtimes.com/politics/2026/11/13/europe-summit-meeting-dublin-traffic-disruption/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-07",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Ukraine / Russia",
+   "text": "[[p:Ursula von der Leyen]] says a 22nd Russia sanctions package and a 2027 Ukraine funding plan come before the next summit. The EU has pledged about €45bn of a roughly €70bn gap.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Xinhua; The Irish Times",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "Xinhua",
+     "url": "https://english.news.cn/20261112/d6745cb6a2a241deb4f8d86d093d08ff/c.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.irishtimes.com/politics/2026/11/13/europe-summit-meeting-dublin-traffic-disruption/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-08",
+   "segment": "EU politics + cross-cutting",
+   "country": "Germany / Czechia / Slovakia / Hungary",
+   "text": "[[p:Robert Fico]] called [[p:Friedrich Merz]]'s demand that all states help fund Ukraine \"blackmail\" (translated), and [[p:Andrej Babiš]] wrote to [[p:António Costa]] against tying Ukraine money to the 2028–34 budget. [[p:Péter Magyar]] was milder.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Deník; Echo24",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "Deník",
+     "url": "https://www.denik.cz/evropa/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://m.echo24.cz/a/HLjKf/zpravy-svet-cesko-madarsko-a-slovensko-nechteji-rucit-za-novy-uver-eu-pro-ukrajinu"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-09",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Hungary / Ukraine",
+   "text": "Hungary blocked the screening reports for Ukraine's clusters 4 and 5 for a third time on 10 Nov. Ireland wants them opened before its presidency ends on 31 Dec.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Zoriana Katola",
+   "outlet": "Euromaidan Press; bne IntelliNews",
+   "opinion": "",
+   "thread": "EU enlargement: Ukraine and Moldova",
+   "links": [
+    {
+     "label": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/11/12/ireland-wants-ukraines-final-eu-clusters-open-within-seven-weeks-hungary-still-hasnt-said-yes/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.intellinews.com/hungary-again-blocks-ukraine-s-last-two-eu-accession-clusters-483685/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-11",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU",
+   "text": "EU gas storage was 72.65% on 8 Nov; the [[p:International Energy Agency]] says stocks entered winter at their lowest since 2013. Germany was at 61%.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Anna Marvanová",
+   "outlet": "EU Perspectives",
+   "opinion": "",
+   "thread": "European energy security",
+   "links": [
+    {
+     "label": "EU Perspectives",
+     "url": "https://euperspectives.eu/2026/11/eu-gas-storage-levels-record-low-winter-supply-risks/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.intellinews.com/europe-s-heating-season-underway-as-gas-drawdowns-start-from-record-low-storage-481346"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-10",
+   "segment": "EU politics + cross-cutting",
+   "country": "Europe / Global",
+   "text": "[[e:2026 United Nations Climate Change Conference|COP31]] hit its midpoint with little progress: developing countries resist sectoral targets and African states want adaptation finance tripled.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Sebastian Rodriguez",
+   "outlet": "Climate Home News; Dawn",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Climate Home News",
+     "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-12",
+   "segment": "EU politics + cross-cutting",
+   "country": "Netherlands",
+   "text": "The Dutch minority cabinet of [[p:Rob Jetten]] is in crisis after a tax plan passed without the [[p:People's Party for Freedom and Democracy|VVD]]'s votes; its leader calls the coalition a \"failed experiment\".",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "DutchNews.nl; NL Times",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "DutchNews.nl",
+     "url": "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-talks-but-deadlock-continues/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://nltimes.nl/2026/11/14/dutch-coalition-leaders-continue-crisis-talks-cabinet-risks-collapse"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-14",
+   "segment": "EU politics + cross-cutting",
+   "country": "France",
+   "text": "France's Senate now holds both 2027 budget bills (to 9 Dec). [[p:Sébastien Lecornu]] keeps Article 49.3 or ordinances in reserve.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Sud Radio (AFP)",
+   "opinion": "",
+   "thread": "France fiscal and political crisis",
+   "links": [
+    {
+     "label": "Sud Radio (AFP)",
+     "url": "https://www.sudradio.fr/societe/budget-le-senat-prend-la-main-lincertitude-demeure-2"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://journalducoin.com/economie/budget-2027-vote-recettes-reporte-49-3-lecornu/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-15",
+   "segment": "EU politics + cross-cutting",
+   "country": "Sweden",
+   "text": "Sweden's Centre Party has offers from both blocs and answers next week; [[p:Ulf Kristersson]] reports to the Speaker on 17 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Emma Löfgren",
+   "outlet": "Riksdagen; The Local Sweden (TT)",
+   "opinion": "",
+   "thread": "Swedish government formation 2026",
+   "links": [
+    {
+     "label": "Riksdagen",
+     "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/10/talmannen-ger-besked-om-den-fortsatta-processen_cms4af359f6-45b3-4573-92ba-f4995b5144dbsv/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thelocal.se/20261113/swedish-party-leaders-race-to-meet-centre-partys-coalition-deadline"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-16",
+   "segment": "EU politics + cross-cutting",
+   "country": "Spain",
+   "text": "Spain's campaign opened. Most polls give the PP and Vox about 190–200 of 350 seats; the state pollster [[p:Centro de Investigaciones Sociológicas|CIS]] puts the PSOE ahead.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Mireia Merino",
+   "outlet": "Reuters (via Internazionale); Infobae",
+   "opinion": "",
+   "thread": "Spanish snap election 2026",
+   "links": [
+    {
+     "label": "Reuters (via Internazionale)",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/spain-s-right-well-ahead-in-polls-for-november-29-election"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.infobae.com/espana/2026/11/13/campana-de-las-elecciones-generales-29-n-en-directo-las-entrevistas-de-jordi-wild-un-nuevo-sondeo-y-ultima-hora-politica/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-17",
+   "segment": "EU politics + cross-cutting",
+   "country": "Poland",
+   "text": "President [[p:Karol Nawrocki]] vetoed a law to block illegal online content, tied to the EU's [[p:Digital Services Act]]; [[p:Donald Tusk]] condemned it.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "TVN24",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "TVN24",
+     "url": "https://tvn24.pl/polska/premier-donald-tusk-komentuje-zawetowanie-przez-prezydenta-karola-nawrockiego-ustawy-o-bezpieczenstwie-w-internecie-st9339389"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://dorzeczy.pl/kraj/971976/tusk-ponownie-atakuje-prezydenta-nawrockiego-po-wecie-tego-nie-da-sie-usprawiedliwic.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-20",
+   "segment": "EU politics + cross-cutting",
+   "country": "Serbia",
+   "text": "Serbia's new parliament sits on 17 Nov; the [[p:Student List]] has yet to name a PM.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Standard (Montenegro)",
+   "opinion": "",
+   "thread": "Serbia protests and election",
+   "links": [
+    {
+     "label": "Standard (Montenegro)",
+     "url": "https://standard.co.me/svijet/uoci-konstituisanja-skupstine-srbije-siri-se-krug-imena-za-mandatara-milutinovic-u-premijerskim-kombinacijama"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.sd.rs/vesti/info/sta-sada-ceka-srbiju-nakon-proglasenja-konacnih-rezultata-izbora-poceli-da-teku-kljucni-rokovi-evo-kada-dobijamo-novu-skupstinu-i-vladu-2026-11-06"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261115-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / United States / Russia",
+   "text": "[[p:Volodymyr Zelenskyy]] says US negotiators asked whether Ukraine would leave Donbas in exchange for [[p:NATO]] membership. He rejects ceding land and dismissed Putin's offer of a local truce in Kostiantynivka.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "ABC News (Australia); CNBC",
+   "opinion": "Zelenskyy's account of the talks.",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-02",
+   "segment": "Middle East",
+   "country": "Iran / Bahrain / United States",
+   "text": "The [[p:Islamic Revolutionary Guard Corps|IRGC]] claims it hit a radar at a US helicopter base in Bahrain; Bahrain says it intercepted Iranian projectiles and issued its first nationwide alerts since September.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "AP (via WSLS); The National",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "AP (via WSLS)",
+     "url": "https://www.wsls.com/news/world/2026/11/15/israel-says-it-killed-a-top-hamas-commander-and-other-mideast-news/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261115-03",
+   "segment": "The Americas",
+   "country": "Cuba / United States",
+   "text": "[[p:Donald Trump]] said he would \"certainly consider\" force against Cuba and wants it \"done\" before he leaves office.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera; Mezha",
+   "opinion": "",
+   "thread": "US pressure on Cuba",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://mezha.net/eng/news/mezha-01ad9c65d1b7c5a7bf2cdd0a_trump_says_he"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261115-01",
+   "title": "Babiš a Fico se ohradili vůči výzvě Merze k další finanční podpoře Ukrajiny",
+   "reporter": "",
+   "outlet": "Deník",
+   "url": "https://www.denik.cz/evropa/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny/",
+   "why": "Shows how Prague and Bratislava see Berlin's bid to tie Ukraine funding to the EU budget, in their own words.",
+   "segment": "EU politics + cross-cutting",
+   "language": "Czech"
+  },
+  {
+   "readingId": "RL-261115-02",
+   "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
+   "reporter": "Sebastian Rodriguez",
+   "outlet": "Climate Home News",
+   "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
+   "why": "A clear map of the open fights at [[e:2026 United Nations Climate Change Conference|COP31]] before ministers take over.",
+   "segment": "EU politics + cross-cutting",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-15",
+   "text": "Moldova: Gagauzia assembly and governor elections.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-03"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "ASEAN summits in Manila (16–18 Nov), Trump attends.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Serbia's new parliament sits; Student List to name a PM.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-07"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Poland: Tribunal judges vote on detaining Święczkowski.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Sweden: Kristersson reports to the Speaker.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "US reply to Iran's two-day plan and the Qatari draft.",
+   "segment": "Middle East",
+   "watchId": "W-261110-01"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Trump–Xi–Putin meeting at APEC in Shenzhen.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-20"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Coalition of the willing meets in Berlin.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-03"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Spain: Sánchez–Feijóo debate.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-02"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "COP31 closes in Antalya.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "OFAC licence for Lukoil asset-sale talks expires.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-07"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Romania",
+   "status": "quiet"
+  },
+  {
+   "country": "UN Security Council (Secretary-General race)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "The Irish Times",
+   "url": "https://www.irishtimes.com/politics/2026/11/13/europe-summit-meeting-dublin-traffic-disruption/",
+   "paywalled": false
+  },
+  {
+   "title": "RTÉ",
+   "url": "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/",
+   "paywalled": false
+  },
+  {
+   "title": "Xinhua",
+   "url": "https://english.news.cn/20261112/d6745cb6a2a241deb4f8d86d093d08ff/c.html",
+   "paywalled": false
+  },
+  {
+   "title": "Deník",
+   "url": "https://www.denik.cz/evropa/babis-a-fico-se-ohradili-vuci-vyzve-merze-k-dalsi-financni-podpore-ukrajiny/",
+   "paywalled": false
+  },
+  {
+   "title": "Echo24",
+   "url": "https://m.echo24.cz/a/HLjKf/zpravy-svet-cesko-madarsko-a-slovensko-nechteji-rucit-za-novy-uver-eu-pro-ukrajinu",
+   "paywalled": false
+  },
+  {
+   "title": "Euromaidan Press",
+   "url": "https://euromaidanpress.com/2026/11/12/ireland-wants-ukraines-final-eu-clusters-open-within-seven-weeks-hungary-still-hasnt-said-yes/",
+   "paywalled": false
+  },
+  {
+   "title": "bne IntelliNews",
+   "url": "https://www.intellinews.com/hungary-again-blocks-ukraine-s-last-two-eu-accession-clusters-483685/",
+   "paywalled": false
+  },
+  {
+   "title": "EU Perspectives",
+   "url": "https://euperspectives.eu/2026/11/eu-gas-storage-levels-record-low-winter-supply-risks/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.intellinews.com/europe-s-heating-season-underway-as-gas-drawdowns-start-from-record-low-storage-481346",
+   "paywalled": false
+  },
+  {
+   "title": "Climate Home News",
+   "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
+   "paywalled": false
+  },
+  {
+   "title": "Dawn",
+   "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint",
+   "paywalled": false
+  },
+  {
+   "title": "DutchNews.nl",
+   "url": "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-talks-but-deadlock-continues/",
+   "paywalled": false
+  },
+  {
+   "title": "NL Times",
+   "url": "https://nltimes.nl/2026/11/14/dutch-coalition-leaders-continue-crisis-talks-cabinet-risks-collapse",
+   "paywalled": false
+  },
+  {
+   "title": "Sud Radio (AFP)",
+   "url": "https://www.sudradio.fr/societe/budget-le-senat-prend-la-main-lincertitude-demeure-2",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://journalducoin.com/economie/budget-2027-vote-recettes-reporte-49-3-lecornu/",
+   "paywalled": false
+  },
+  {
+   "title": "Riksdagen",
+   "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/10/talmannen-ger-besked-om-den-fortsatta-processen_cms4af359f6-45b3-4573-92ba-f4995b5144dbsv/",
+   "paywalled": false
+  },
+  {
+   "title": "The Local Sweden (TT)",
+   "url": "https://www.thelocal.se/20261113/swedish-party-leaders-race-to-meet-centre-partys-coalition-deadline",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Internazionale)",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/spain-s-right-well-ahead-in-polls-for-november-29-election",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae",
+   "url": "https://www.infobae.com/espana/2026/11/13/campana-de-las-elecciones-generales-29-n-en-directo-las-entrevistas-de-jordi-wild-un-nuevo-sondeo-y-ultima-hora-politica/",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/polska/premier-donald-tusk-komentuje-zawetowanie-przez-prezydenta-karola-nawrockiego-ustawy-o-bezpieczenstwie-w-internecie-st9339389",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://dorzeczy.pl/kraj/971976/tusk-ponownie-atakuje-prezydenta-nawrockiego-po-wecie-tego-nie-da-sie-usprawiedliwic.html",
+   "paywalled": false
+  },
+  {
+   "title": "Standard (Montenegro)",
+   "url": "https://standard.co.me/svijet/uoci-konstituisanja-skupstine-srbije-siri-se-krug-imena-za-mandatara-milutinovic-u-premijerskim-kombinacijama",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.sd.rs/vesti/info/sta-sada-ceka-srbiju-nakon-proglasenja-konacnih-rezultata-izbora-poceli-da-teku-kljucni-rokovi-evo-kada-dobijamo-novu-skupstinu-i-vladu-2026-11-06",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
+   "paywalled": false
+  },
+  {
+   "title": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via WSLS)",
+   "url": "https://www.wsls.com/news/world/2026/11/15/israel-says-it-killed-a-top-hamas-commander-and-other-mideast-news/",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office",
+   "paywalled": false
+  },
+  {
+   "title": "Mezha",
+   "url": "https://mezha.net/eng/news/mezha-01ad9c65d1b7c5a7bf2cdd0a_trump_says_he",
+   "paywalled": false
+  }
+ ]
+}
