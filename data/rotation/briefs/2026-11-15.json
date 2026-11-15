@@ -31,7 +31,7 @@
    "id": "E-261115-07",
    "segment": "EU politics + cross-cutting",
    "country": "EU / Ukraine / Russia",
-   "text": "[[p:Ursula von der Leyen]] says a 22nd Russia sanctions package and a 2027 Ukraine funding plan come before the next summit. The EU has pledged about €45bn of a roughly €70bn gap.",
+   "text": "[[p:Ursula von der Leyen]] promises a 22nd Russia sanctions package and a 2027 Ukraine funding plan before the next summit.",
    "tier": 2,
    "verification": "Confirmed",
    "reporter": "",
@@ -253,29 +253,6 @@
     {
      "label": "Cross-check",
      "url": "https://dorzeczy.pl/kraj/971976/tusk-ponownie-atakuje-prezydenta-nawrockiego-po-wecie-tego-nie-da-sie-usprawiedliwic.html"
-    }
-   ],
-   "paywalled": false
-  },
-  {
-   "id": "E-261115-20",
-   "segment": "EU politics + cross-cutting",
-   "country": "Serbia",
-   "text": "Serbia's new parliament sits on 17 Nov; the [[p:Student List]] has yet to name a PM.",
-   "tier": 2,
-   "verification": "Reported",
-   "reporter": "",
-   "outlet": "Standard (Montenegro)",
-   "opinion": "",
-   "thread": "Serbia protests and election",
-   "links": [
-    {
-     "label": "Standard (Montenegro)",
-     "url": "https://standard.co.me/svijet/uoci-konstituisanja-skupstine-srbije-siri-se-krug-imena-za-mandatara-milutinovic-u-premijerskim-kombinacijama"
-    },
-    {
-     "label": "Cross-check",
-     "url": "https://www.sd.rs/vesti/info/sta-sada-ceka-srbiju-nakon-proglasenja-konacnih-rezultata-izbora-poceli-da-teku-kljucni-rokovi-evo-kada-dobijamo-novu-skupstinu-i-vladu-2026-11-06"
     }
    ],
    "paywalled": false
