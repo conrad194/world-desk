@@ -1,0 +1,759 @@
+{
+ "date": "2026-11-15",
+ "top5": [
+  {
+   "text": "The US has lost its measles-elimination status after a year of continuous spread, reports say.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+    }
+   ]
+  },
+  {
+   "text": "A Bay of Bengal depression is forecast to become Cyclone Akvan on Monday and a severe storm by Tuesday.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Pragativadi (IMD)",
+     "url": "https://pragativadi.com/bay-of-bengal-low-pressure-intensifies-into-depression-likely-to-become-severe-cyclonic-storm-by-november-17-says-imd/"
+    }
+   ]
+  },
+  {
+   "text": "PiS set out a tax-cutting programme, including leaving the EU carbon market.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Wirtualna Polska",
+     "url": "https://wiadomosci.wp.pl/na-scenie-kaczynski-czarnek-i-szydlo-zapowiadaja-ofensywe-7350968151210016a"
+    }
+   ]
+  },
+  {
+   "text": "Trump heads to Manila; Modi joins Tuesday's likely Quad summit, still unconfirmed by India.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "ThePrint",
+     "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/"
+    }
+   ]
+  },
+  {
+   "text": "Carriages are back on Kraków's Main Square; nine attack victims remain in hospital.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "LoveKraków.pl",
+     "url": "https://lovekrakow.pl/kolejna-osoba-opuscila-szpital-po-zamachu-w-krakowie"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261115-01",
+    "domain": "Health, medicine & food safety",
+    "text": "PAHO has revoked US measles-elimination status after more than a year of continuous spread, the WSJ reported. Cases this year top 5,400; states report 10 deaths, the CDC six, and HHS Secretary Kennedy asked the CDC not to count them.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US measles resurgence",
+    "links": [
+     {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.contagionlive.com/view/reports-say-us-loses-measles-elimination-status-after-26-years"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-04",
+    "domain": "Defense, security & crime",
+    "text": "Reuters reports Trump may hold off on new Iran strikes unless provoked; a third carrier is still heading to the region. An Israeli report of an Iranian drone plot against Trump is unconfirmed.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Gulf News (citing Reuters)",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-us-signals-restraint-as-iran-warns-of-retaliation-1.500746947"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.newarab.com/news/trump-says-may-hold-iran-attacks-barring-new-provocations"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-02",
+    "domain": "Science & space",
+    "text": "SpaceX caught a Starship upper stage with the tower arms for the first time; the booster missed its catch and splashed down after a low-fuel alarm.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.upi.com/Top_News/US/2026/11/14/spacex-starship-upper-stage/1201794703333"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-03",
+    "domain": "Politics & government",
+    "text": "Democrat Kreiss-Tomkins is projected to win Alaska's governorship; FairVote's preliminary ranked-choice count has Peltola beating Sen. Sullivan 51.5–48.5, with about 11,000 ballots left and no call yet.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "FairVote",
+      "url": "https://fairvote.org/results-and-analysis-from-alaskas-2026-elections/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-05",
+    "domain": "Foreign relations",
+    "text": "Trump flies to Manila for ASEAN, a Marcos meeting and the Quad (Tuesday), then APEC in Shenzhen to meet Xi. A trilateral with Putin is reported but unconfirmed.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Christian Science Monitor",
+      "url": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1114/trump-asia-trip-china-xi-midterms"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261115-07",
+    "domain": "Politics & government",
+    "text": "PiS's Katowice convention promised a 180,000 zł second tax threshold, a lower health contribution for small firms, tax relief for working pensioners and leaving the EU ETS to cut energy prices; Kaczyński ruled out cutting social programmes.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "Wirtualna Polska",
+      "url": "https://wiadomosci.wp.pl/na-scenie-kaczynski-czarnek-i-szydlo-zapowiadaja-ofensywe-7350968151210016a"
+     },
+     {
+      "label": "Second source",
+      "url": "https://shareinfo.pl/nowa-zapowiedz-pis-w-sprawie-podatkow-dotknie-milionow-polakow/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-08",
+    "domain": "Politics & government",
+    "text": "An IBRiS/WP poll has KO 30%, PiS 15.5%, Konfederacja 14%, Braun's party 9.1% and Morawiecki's Rozwój Plus 6.1%; Morawiecki says he will run alone.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "naTemat (IBRiS/WP poll)",
+      "url": "https://natemat.pl/675514,morawiecki-juz-zaciera-rece-6-1-proc-w-nowym-sondazu-i-zapowiedz-niespodzianki"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-09",
+    "domain": "Economy, business & markets",
+    "text": "PFR will take minority stakes in Polish firms expanding abroad, with up to 1 bn zł now and possibly several billion later, its chief told Rzeczpospolita.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/biznes/art45488581-polskie-firmy-podbija-swiat-team-poland-sie-rozrasta-a-pfr-zapewnia-miliardy"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261115-12",
+    "domain": "Health, medicine & food safety",
+    "text": "Nine people hurt in the Nov 7 attack are still in five hospitals after another discharge.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/kolejna-osoba-opuscila-szpital-po-zamachu-w-krakowie"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-13",
+    "domain": "Culture, media & sport",
+    "text": "Carriages returned to the Main Square on Saturday after a week away.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/dorozkarze-znow-na-rynku-glownym-wracamy-na-nasze-miejsce"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-14",
+    "domain": "Defense, security & crime",
+    "text": "The man who fired at police in Prokocim on Nov 12, a released murderer, was charged; the gun was a CO2 air revolver.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/strzelal-w-kierunku-policjantow-w-krakowie-39-latek-uslyszal-zarzuty"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-15",
+    "domain": "Culture, media & sport",
+    "text": "The city abruptly ended the Wisła stadium commercialisation contracts; the contractor blames officials, and ZIS has not explained.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/komercjalizowal-stadion-wisly-po-wygranej-l-gibaly-otrzymal-nagle-wypowiedzenie-uderza-w-urzednikow"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261115-18",
+    "domain": "Environment, energy & disasters",
+    "text": "The Bay of Bengal low is now a depression; IMD expects Cyclone Akvan on Nov 16 and a severe cyclonic storm on Nov 17, moving north-northwest. Odisha and Andhra are recalling fishermen; landfall is not yet forecast.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Pragativadi (IMD bulletin)",
+      "url": "https://pragativadi.com/bay-of-bengal-low-pressure-intensifies-into-depression-likely-to-become-severe-cyclonic-storm-by-november-17-says-imd/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.indiatvnews.com/news/india/after-arnab-and-murasu-cyclone-akvan-approaches-bay-of-bengal-imd-issues-fresh-warning-2026-11-15-1059494"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261115-19",
+    "domain": "Politics & government",
+    "text": "Rahul Gandhi told the Bharat Summit in Hyderabad that India stopped being a democracy in 2014 and questioned recent elections; the BJP called it a \"Bharat Badnaam Summit\", and MEA defended refusing visas to foreign invitees.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "Business Standard (PTI)",
+      "url": "https://www.business-standard.com/politics/india-no-longer-a-democracy-alleges-rahul-gandhi-at-bharat-summit-126111401030_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.dynamitenews.com/politics/bharat-badnaam-summit-bjp-slams-rahul-gandhi-over-remarks-at-hyderabad-event"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Event",
+   "text": "Carriages are back on the Main Square with permanent and replacement stands reopened.",
+   "link": "https://lovekrakow.pl/dorozkarze-znow-na-rynku-glownym-wracamy-na-nasze-miejsce"
+  },
+  {
+   "kind": "Transit",
+   "text": "Clean Transport Zone exemption renewals open on Tuesday Nov 17, online or at ZDMK, ul. Centralna 53.",
+   "link": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/345724,2353,komunikat,korekta_sct_w_przygotowaniu__pamietaj_o_odnowieniu_zwolnienia_od_wtorku__17_listopada_.html"
+  },
+  {
+   "kind": "Weather",
+   "text": "First snow in Podhale caused problems for lorries on climbs; no IMGW warning for Kraków found.",
+   "link": "https://lovekrakow.pl/snieg-na-podhalu-ciezarowki-mialy-problemy-na-podjazdach"
+  }
+ ],
+ "relations": {
+  "US–Poland": [],
+  "US–India": [
+   {
+    "id": "E-261115-21",
+    "domain": "Foreign relations",
+    "text": "Modi is in Manila Nov 16–18. Sources expect a US-hosted Quad summit on Nov 17, but MEA has not confirmed it and a formal Modi–Trump bilateral is unlikely.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "ThePrint",
+      "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.khaama.com/trump-quad-leaders-meeting-manila-2026/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261027-03",
+   "name": "Consumer Credit Directive 2 (CCD2)",
+   "place": "EU (applies in Poland)",
+   "body": "European Parliament and Council (Directive (EU) 2023/2225, CCD2); Polish implementing act not yet adopted",
+   "stage": "Signed / published",
+   "changes": "Brings many buy-now-pay-later, interest-free and small loans under full consumer-credit rules. Adds stricter creditworthiness checks, mandatory warnings in credit adverts, rights to human review of automated credit decisions, and longer withdrawal periods where information is missing.",
+   "affects": "Borrowers, payday lenders, BNPL providers, online shops and banks in Poland.",
+   "effectiveDate": "2026-11-20",
+   "commentDeadline": "",
+   "officialLink": "https://eur-lex.europa.eu/eli/dir/2023/2225/oj",
+   "newsLink": "https://biznes.wprost.pl/twoj-portfel/12481036/nowe-przepisy-unii-przeciwko-chwilowkom-od-20-listopada-dlaczego-polska-jest-w-tyle.html"
+  }
+ ],
+ "deepDive": {
+  "domain": "Kraków deep dive + Culture, media & sport",
+  "title": "Kraków, a week after the Rynek attack",
+  "body": "A week after the Nov 7 attack that killed six people, Kraków is reopening its Main Square bit by bit. Horse-drawn carriages, whose drivers and horses were among those hurt, went back on Saturday. The same day, St Mary's Basilica held two free memorial concerts. Nine of the injured are still in hospital.\n\n**Security is the main question.** Mayor Gibała has asked the government for an urgent 10m zł to equip a new City Security and Monitoring Centre, which would put police, fire, crisis and city-guard dispatchers in one room. Kraków MPs from several parties back the request. The city already plans a 6m zł scheme of bollards and number-plate cameras for the Main and Small Market squares. The Akcja dla Krakowa group wants it extended to every Old Town entry. Nationally, the Interior Ministry is reviewing gun law, and prosecutors are still looking into motive and possible accomplices.\n\n**Ordinary city business is coming back.** The deputy mayor announced a 'new opening' for the overdue General Plan. Exemption renewals for the Clean Transport Zone start on Tuesday. The council's Nov 18 session will vote on fares and on suspending the Lviv partnership. The abrupt end of the Wisła stadium commercialisation contracts is another early test of how Gibała's team handles contracts it inherited.\n\n*Analysis:* For a mayor who took office promising to cut costs, the attack changes the arithmetic. Security spending is now unavoidable, just as he has to present a first budget for a city with debt close to 90% of revenue.",
+  "links": [
+   {
+    "label": "krakow.pl: 10m zł appeal",
+    "url": "https://krakow.pl/aktualnosci/345709,29,komunikat,prezydent_krakowa_apeluje_o_10_mln_zl_z_budzetu_panstwa_na_bezpieczenstwo_miasta.html"
+   },
+   {
+    "label": "cowkrakowie.pl: bollards petition",
+    "url": "https://cowkrakowie.pl/2026/11/stowarzyszenie-akcja-dla-krakowa-apeluje-o-zmiany-w-centrum-krakowa"
+   },
+   {
+    "label": "LoveKraków.pl: carriages",
+    "url": "https://lovekrakow.pl/dorozkarze-znow-na-rynku-glownym-wracamy-na-nasze-miejsce"
+   },
+   {
+    "label": "krakow.pl: General Plan",
+    "url": "https://krakow.pl/aktualnosci/345718,29,komunikat,plan_ogolny_miasta_krakowa__nowe_otwarcie.html"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261115-01",
+   "title": "Na scenie Kaczyński, Czarnek i Szydło. Zapowiadają \"ofensywę\"",
+   "reporter": "",
+   "outlet": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/na-scenie-kaczynski-czarnek-i-szydlo-zapowiadaja-ofensywe-7350968151210016a",
+   "why": "The clearest run-through of what PiS now promises on taxes, energy and the state, the first sketch of its platform for the next election.",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261115-02",
+   "title": "Komercjalizował stadion Wisły. Po wygranej Ł. Gibały otrzymał nagłe wypowiedzenie",
+   "reporter": "",
+   "outlet": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/komercjalizowal-stadion-wisly-po-wygranej-l-gibaly-otrzymal-nagle-wypowiedzenie-uderza-w-urzednikow",
+   "why": "A detailed look at how the city runs its biggest sports asset, and an early test of how Gibała's team handles inherited contracts.",
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-16",
+   "text": "Cyclone Akvan expected to form; Supreme Court hearing in the Delhi-NCR pollution case; India October WPI.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "Gibała's first draft 2027 budget due.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Likely Quad leaders' summit in Manila; Trump at ASEAN.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "SCT exemption renewals open; Constitutional Tribunal assembly on Święczkowski's immunity; Nvidia Q3 earnings.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Kraków City Council session: fares, Lviv partnership, 2027 tax rates.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Trump–Xi meeting at APEC in Shenzhen; Anthropic IPO pricing.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "EU consumer-credit rules (CCD2) start to apply; Poland will miss the transposition deadline. Nikhil Gupta sentencing in New York.",
+   "place": "EU (applies in Poland)"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (second source)",
+   "url": "https://www.contagionlive.com/view/reports-say-us-loses-measles-elimination-status-after-26-years",
+   "paywalled": false
+  },
+  {
+   "title": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+   "paywalled": false
+  },
+  {
+   "title": "Space.com (second source)",
+   "url": "https://www.upi.com/Top_News/US/2026/11/14/spacex-starship-upper-stage/1201794703333",
+   "paywalled": false
+  },
+  {
+   "title": "FairVote",
+   "url": "https://fairvote.org/results-and-analysis-from-alaskas-2026-elections/",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News (citing Reuters)",
+   "url": "https://gulfnews.com/world/mena/middle-east-war-us-signals-restraint-as-iran-warns-of-retaliation-1.500746947",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News (citing Reuters) (second source)",
+   "url": "https://www.newarab.com/news/trump-says-may-hold-iran-attacks-barring-new-provocations",
+   "paywalled": false
+  },
+  {
+   "title": "Christian Science Monitor",
+   "url": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1114/trump-asia-trip-china-xi-midterms",
+   "paywalled": false
+  },
+  {
+   "title": "Christian Science Monitor (second source)",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit/",
+   "paywalled": false
+  },
+  {
+   "title": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/na-scenie-kaczynski-czarnek-i-szydlo-zapowiadaja-ofensywe-7350968151210016a",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska (second source)",
+   "url": "https://shareinfo.pl/nowa-zapowiedz-pis-w-sprawie-podatkow-dotknie-milionow-polakow/",
+   "paywalled": false
+  },
+  {
+   "title": "naTemat (IBRiS/WP poll)",
+   "url": "https://natemat.pl/675514,morawiecki-juz-zaciera-rece-6-1-proc-w-nowym-sondazu-i-zapowiedz-niespodzianki",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/biznes/art45488581-polskie-firmy-podbija-swiat-team-poland-sie-rozrasta-a-pfr-zapewnia-miliardy",
+   "paywalled": true
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-14-listopada-2026-roku-st9338640",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/niepokojacy-telefon-do-fundacji-mezczyzna-sugerowal-przeprowadzenie-ataku",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/kolejna-osoba-opuscila-szpital-po-zamachu-w-krakowie",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/dorozkarze-znow-na-rynku-glownym-wracamy-na-nasze-miejsce",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/strzelal-w-kierunku-policjantow-w-krakowie-39-latek-uslyszal-zarzuty",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/komercjalizowal-stadion-wisly-po-wygranej-l-gibaly-otrzymal-nagle-wypowiedzenie-uderza-w-urzednikow",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/koniec-ze-straszaca-ruina-final-prac-tuz-przed-swietami",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/snieg-na-podhalu-ciezarowki-mialy-problemy-na-podjazdach",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl (second source)",
+   "url": "https://lovekrakow.pl/swiatynia-z-250-ton-lodu-stanela-w-tatrach-kiedys-byla-to-katedra-wawelska",
+   "paywalled": false
+  },
+  {
+   "title": "Pragativadi (IMD bulletin)",
+   "url": "https://pragativadi.com/bay-of-bengal-low-pressure-intensifies-into-depression-likely-to-become-severe-cyclonic-storm-by-november-17-says-imd/",
+   "paywalled": false
+  },
+  {
+   "title": "Pragativadi (IMD bulletin) (second source)",
+   "url": "https://www.indiatvnews.com/news/india/after-arnab-and-murasu-cyclone-akvan-approaches-bay-of-bengal-imd-issues-fresh-warning-2026-11-15-1059494",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard (PTI)",
+   "url": "https://www.business-standard.com/politics/india-no-longer-a-democracy-alleges-rahul-gandhi-at-bharat-summit-126111401030_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard (PTI) (second source)",
+   "url": "https://www.dynamitenews.com/politics/bharat-badnaam-summit-bjp-slams-rahul-gandhi-over-remarks-at-hyderabad-event",
+   "paywalled": false
+  },
+  {
+   "title": "PIB (via LegacyIAS summary)",
+   "url": "https://www.legacyias.com/pib-summaries-14-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/diplomacy/modi-to-visit-philippines-next-week-to-attend-asean-india-summit-quad-leaders-meet-also-likely/3097204/",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint (second source)",
+   "url": "https://www.khaama.com/trump-quad-leaders-meeting-manila-2026/",
+   "paywalled": false
+  }
+ ]
+}
