@@ -789,6 +789,36 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261116-01",
+   "dateAdded": "2026-11-16",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Gagauzia bashkan runoff: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "expected": "Moldova's electoral authorities, per Pivot and QNC News",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261116-19"
+  },
+  {
+   "id": "W-261116-02",
+   "dateAdded": "2026-11-16",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Estonia's closure of all Russian border crossings takes effect; the government decides whether it is temporary or indefinite.",
+   "expected": "Foreign Minister [[p:Margus Tsahkna]] (Kyiv Post)",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261116-04"
+  },
+  {
+   "id": "W-261116-03",
+   "dateAdded": "2026-11-16",
+   "segment": "Russia–Ukraine & European security",
+   "what": "EU discussion of a further Russia sanctions package after the 16 Nov listings.",
+   "expected": "Irish Foreign Minister Helen McEntee (TheJournal.ie)",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": "E-261116-13"
   }
  ]
 }

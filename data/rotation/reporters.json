@@ -895,6 +895,20 @@
    "trackRecord": "Climate Home News editor reporting daily from the COP31 negotiations.",
    "dateAdded": "2026-11-15",
    "status": "Watch"
+  },
+  {
+   "id": "vladyslava-savkova",
+   "name": "Vladyslava Savkova",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Ukraine (Donbas)",
+   "languages": "Ukrainian, Russian",
+   "outlets": "Radio Svoboda / Donbas.Realii",
+   "basedIn": "Ukraine",
+   "slant": "",
+   "url": "https://www.radiosvoboda.org/a/druzhkivka-kostyantynivka-operatyvne-znachennya/33891745.html",
+   "trackRecord": "Donbas.Realii correspondent covering front-line cities in Donetsk Oblast in Ukrainian.",
+   "dateAdded": "2026-11-16",
+   "status": "Watch"
   }
  ]
 }
