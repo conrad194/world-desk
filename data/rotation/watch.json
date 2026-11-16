@@ -247,8 +247,8 @@
    "what": "Gagauzia People's Assembly and Bashkan elections in Moldova.",
    "expected": "Set for 15 Nov (Moldovan media).",
    "checkDate": "2026-11-15",
-   "happened": "",
-   "eventId": ""
+   "happened": "Independent [[p:Alexandr Stoianoglo]] led the bashkan vote with 39.3% to 24.6% for Fiodor Gagauz of the [[p:Party of Socialists of the Republic of Moldova|Socialists]] on 37.6% turnout, so a runoff follows on 29 Nov ([Pivot](https://pivot.md/en/alegeri-gagauzia-2026); [QNC](https://qncnews.com/2026/11/16/stoianoglo-leads-gagauzia-vote-as-moldova-region-heads-to-november-29-runoff/)).",
+   "eventId": "E-261116-19"
   },
   {
    "id": "W-261026-04",
@@ -527,7 +527,7 @@
    "what": "Whether any Russian diesel cargo is actually delivered to the US under the October arrangement.",
    "expected": "AP / Kpler tanker tracking",
    "checkDate": "2026-11-16",
-   "happened": "",
+   "happened": "No delivery found. By 10 Nov the last US-bound tanker, Agioi Fanendes, had missed its 7 Nov New York arrival and listed its destination as 'For Orders'; the other two cargoes went to Egypt and Brazil ([United24](https://united24media.com/world/us-bound-russian-diesel-tanker-misses-new-york-arrival-and-drops-destination-24210)).",
    "eventId": ""
   },
   {
@@ -537,7 +537,7 @@
    "what": "Whether Transnistrian leader [[p:Vadim Krasnoselsky]] returns from Moscow and how the five-year exit ban is applied.",
    "expected": "Moldova's Bureau for Reintegration Policy (NewsMaker)",
    "checkDate": "2026-11-16",
-   "happened": "",
+   "happened": "No confirmed report found by 16 Nov of Krasnoselsky's return or of the exit ban being enforced; he has since asked the OSCE envoy to revive the 5+2 talks format ([IPN](https://ipn.md/en/krasnoselski-wants-the-52-format-back-7965_1111904.html)).",
    "eventId": ""
   },
   {
@@ -547,7 +547,7 @@
    "what": "Operation Carthage: anti-corruption court rulings on custody for the SBU and police suspects.",
    "expected": "NABU / SAP",
    "checkDate": "2026-11-16",
-   "happened": "",
+   "happened": "The anti-corruption court remanded the main suspects without bail on 5–6 Nov, including a Kyiv-region police official held to 2 Jan; one police officer got UAH 15m bail, and SBU general Serhii Duka was detained ([Censor.NET](https://censor.net/en/news/4032414/carthage-case-police-officer-demianchuk-held-without-bail)).",
    "eventId": ""
   },
   {
