@@ -1462,6 +1462,28 @@
    "happened": "",
    "eventId": "E-261115-15",
    "id": "W-261115-02"
+  },
+  {
+   "id": "W-261116-01",
+   "dateAdded": "2026-11-16",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "what": "Senate HELP Committee vote on Heidi Overton's FDA nomination",
+   "expected": "Sen. Cassidy on Face the Nation: vote on Wednesday (Nov 18)",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261116-02",
+   "dateAdded": "2026-11-16",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "East Potomac Park TRO (expires Nov 28): preliminary-injunction ruling, Jessie Liu special-master appointment, and DOJ's recusal motion against Judge Reyes",
+   "expected": "AP: the order runs through Nov 28 unless extended",
+   "checkDate": "2026-11-28",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
