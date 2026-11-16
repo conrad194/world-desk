@@ -1484,6 +1484,17 @@
    "checkDate": "2026-11-28",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261116-03",
+   "dateAdded": "2026-11-16",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "what": "Scale of the Autopay data breach (number of customers affected) and any UODO action",
+   "expected": "Autopay says it is contacting affected customers individually (RMF24/PAP, Nov 15)",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
