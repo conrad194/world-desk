@@ -1,0 +1,1056 @@
+{
+ "date": "2026-11-16",
+ "top5": [
+  {
+   "text": "Trump, Putin and Xi will meet in Shenzhen on Nov 19, now confirmed by all three governments.",
+   "place": "US",
+   "links": [
+    {
+     "label": "TASS; DPA (via Yahoo News)",
+     "url": "https://tass.com/world/2218449"
+    }
+   ]
+  },
+  {
+   "text": "A Bay of Bengal deep depression is expected to become Cyclone Akvan tonight, possibly hitting Andhra Pradesh around Nov 20.",
+   "place": "India",
+   "links": [
+    {
+     "label": "OdishaTV",
+     "url": "https://odishatv.in/weather/cyclone-akvan-threat-odisha-braces-for-heavy-rain-imd-issues-alerts-for-16-districts-12812578"
+    }
+   ]
+  },
+  {
+   "text": "'Slava UPA' graffiti on Warsaw's Ghetto Heroes Monument; officials point to a Russian-paid provocation.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "TVN24 / RMF24 / Notes from Poland",
+     "url": "https://www.rmf24.pl/regiony/warszawa/news-napisy-slava-upa-na-pomnikach-trzaskowski-musimy-brac-to-pod,nIdn,1026194"
+    }
+   ]
+  },
+  {
+   "text": "Gibała asks the council on Wednesday to quit nine associations, including EUROCITIES, saving about 8.2m zł a year.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "LoveKraków.pl",
+     "url": "https://lovekrakow.pl/z-tych-organizacji-lukasz-gibala-chce-wyprowadzic-krakow"
+    }
+   ]
+  },
+  {
+   "text": "Washington is pushing for a Quad summit in Manila; India still hasn’t confirmed it. Prosecutors want 24 years for Nikhil Gupta.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "The Tribune (ANI)",
+     "url": "https://www.tribuneindia.com/news/world/us-state-dept-slams-report-claiming-trump-admin-ignoring-quad-says-manila-meet-will-formalise-leaders-summit"
+    },
+    {
+     "label": "Millennium Post (PTI)",
+     "url": "https://www.millenniumpost.in/big-stories/us-seeks-24-yr-term-for-gupta-in-pannun-case-683399"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261116-01",
+    "domain": "Foreign relations",
+    "text": "All three governments have now confirmed a Trump–Putin–Xi trilateral meeting in Shenzhen on Nov 19, on the APEC sidelines; the White House schedule lists it for 2:30 p.m. local time.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "TASS; DPA (via Yahoo News)",
+      "url": "https://tass.com/world/2218449"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.yahoo.com/news/politics/articles/historic-meeting-trump-xi-putin-170317497.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-02",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Duffy says a router or its installation (Arkansas/Texas) most likely caused the nationwide FAA ground stop, with no sign of a cyberattack; about 2,300 flights were still cancelled Sunday as he presses Congress for $50 billion.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "US Department of Transportation; ABC News",
+      "url": "https://www.transportation.gov/briefing-room/icymi-trumps-transportation-secretary-sean-p-duffy-provides-update-across-sunday"
+     },
+     {
+      "label": "Second source",
+      "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-03",
+    "domain": "Defense, security & crime",
+    "text": "The IRGC claimed a six-drone attack on a US radar at a Bahrain base on Sunday; Bahrain says it intercepted the attack, and there was no US confirmation of any damage.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Reuters (via TimesLIVE); CBS News",
+      "url": "https://www.timeslive.co.za/news/world/2026-11-15-iran-resumes-attacks-amid-uncertainty-over-deal-to-end-conflict/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-04",
+    "domain": "Technology, AI & cyber",
+    "text": "Rep. Moolenaar says Jensen Huang has agreed to a closed-door interview with the House China committee, dates not yet set; he wants chip export controls in the NDAA.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "CBS News – Face the Nation",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-05",
+    "domain": "Health, medicine & food safety",
+    "text": "Sen. Cassidy says the US has lost measles elimination and criticised RFK Jr.; PAHO's formal announcement is reportedly expected Nov 17. CDC counts 5,412 cases this year.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US measles resurgence",
+    "links": [
+     {
+      "label": "CBS News; Forbes",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.forbes.com/sites/johndrake/2026/11/15/the-us-has-lost-its-measles-free-status-getting-it-back-will-take-years/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261116-07",
+    "domain": "Defense, security & crime",
+    "text": "'Slava UPA' graffiti on Warsaw's Ghetto Heroes Monument and another memorial joins about a dozen similar cases in four cities; officials and Ukraine's embassy point to a Russian-paid provocation, and a 17-year-old Ukrainian is charged in Gdańsk.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "TVN24 / RMF24 / Notes from Poland",
+      "url": "https://www.rmf24.pl/regiony/warszawa/news-napisy-slava-upa-na-pomnikach-trzaskowski-musimy-brac-to-pod,nIdn,1026194"
+     },
+     {
+      "label": "Second source",
+      "url": "https://notesfrompoland.com/2026/11/15/ukraine-blames-russia-for-graffiti-glorifying-wwii-ukrainian-nationalists-on-polish-monuments/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-08",
+    "domain": "Technology, AI & cyber",
+    "text": "Payment firm Autopay says hackers reached part of its systems and some payment data in an AI-assisted attack detected Nov 11; it cannot rule out data theft and has notified UODO and police.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Cyberattacks on Polish infrastructure",
+    "links": [
+     {
+      "label": "RMF24 (PAP)",
+      "url": "https://www.rmf24.pl/fakty/polska/news-cyberatak-na-autopay-mogly-wyciec-dane-klientow,nIdn,1026190"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-09",
+    "domain": "Politics & government",
+    "text": "The President's office says Domański's and Bartol's swearing-in will happen once a 'calendar slot' is found, but still gives no date; KO blames Nawrocki for the near four-week delay.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-chcialbym-zeby-pan-prezydent-zaczal-w-koncu-chodzic-do-robot,nIdn,1026186"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-10",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Truck queues at the Ukrainian border hit 42 km at Hrebenne and 16 km at Dorohusk with waits up to 30 hours; officials expect congestion until mid-December.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/regiony/lublin/news-gigantyczne-kolejki-tirow-na-granicy-z-ukraina-kierowcy-czek,nIdn,1026191"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261116-13",
+    "domain": "Politics & government",
+    "text": "Gibała has sent councillors resolutions to leave nine associations, including EUROCITIES and two tourism bodies, to save about 8.2m zł a year; they are on the 18 Nov session agenda (druki 1628-1636).",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/z-tych-organizacji-lukasz-gibala-chce-wyprowadzic-krakow"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-14",
+    "domain": "Defense, security & crime",
+    "text": "Małopolska Police say the 141 officers sent to Warsaw on the day of the Main Square attack came from the prevention unit, not the city command, and that 128 prevention officers were on duty in Kraków.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/malopolska/policja-wyjasnia-zaden-funkcjonariusz-krakowskiej-komendy-miejskiej-nie-zostal-wyslany-do-warszawy/187757"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-15",
+    "domain": "Environment, energy & disasters",
+    "text": "An avalanche killed a hiker near Żółta Turnia, the season's first avalanche death in the Polish Tatras, and a 25-year-old Pole died in a fall on Gerlach; TOPR warns against going into high terrain.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/tragiczna-niedziela-w-tatrach-lawina-zabila-turyste-drugi-polak-zginal-pod-gerlachem"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261116-20",
+    "domain": "Environment, energy & disasters",
+    "text": "The Bay of Bengal system became a deep depression on Nov 16; IMD expects Cyclone Akvan by evening, very severe by Nov 19, likely heading for the Andhra coast around Nov 20.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "OdishaTV",
+      "url": "https://odishatv.in/weather/cyclone-akvan-threat-odisha-braces-for-heavy-rain-imd-issues-alerts-for-16-districts-12812578"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cyclone-likely-to-cross-ap-coast-between-vizag-and-bapatla-on-nov-20-2004753"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-21",
+    "domain": "Foreign relations",
+    "text": "Modi left for Manila on Nov 16 for the ASEAN-India and East Asia summits; the Philippines says it wants more BrahMos missile batteries.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Week",
+      "url": "https://www.theweek.in/news/india/2026/11/16/pm-modi-manila-visit-asean-summit.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/pm-modi-begins-philippines-visit-to-attend-asean-east-asia-summits-126111600081_1.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-22",
+    "domain": "Economy, business & markets",
+    "text": "Amit Shah launched the cooperative, zero-commission Bharat Taxi ride-hailing service in Pune; officials say about 10 lakh drivers have registered nationally.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Punekar News",
+      "url": "https://www.punekarnews.in/amit-shah-launches-bharat-taxi-services-in-pune-says-drivers-will-become-owners-under-cooperative-model/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.timesnowhindi.com/india/aaj-ki-taza-khabar-15-november-2026-hindi-news-latest-breaking-news-or-mukhya-samachar-chhath-puja-pm-modi-russia-ukraine-war-aaj-ka-mausam-today-weather-delhi-pollution-up-politics-nvidia-liveblog-156511036"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-24",
+    "domain": "Society: education, labor, immigration",
+    "text": "Yogi Adityanath began handing out 25 lakh more free tablets to UP students (₹2,374 crore) ahead of the 2027 assembly polls.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/india/up-cm-yogi-adityanath-launches-distribution-of-25-lakh-free-tablets-ahead-of-2027-assembly-polls-2374-crore-earmarked"
+     },
+     {
+      "label": "Second source",
+      "url": "https://hindi.news24online.com/india/aaj-ki-taaza-khabar-live-updates-live-news-today-15-november-2026-politics-national-international-narendra-modi-amit-shah-ygi-adityanath-rahul-gandhi/1848695"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "The Teatr Bagatela junction is being rebuilt, with tram and bus detours (ZTP notice 2216/2026, in force since 9 Nov); separate tram-line changes are in notice 2249/2026. Check routes before travelling through Karmelicka and Podwale.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Closure",
+   "text": "The Prądnik Czerwony P+R 01 stop is being renovated; buses 105, 128, 184, 193, 199, 250, 405, 442 and 610 are diverted (ZTP 2244/2026). Replacement buses to Bronowice Małe have also changed (ZTP 2247/2026; lines 704, 708, 714, 304).",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Closure",
+   "text": "Holders of 2026 SCT (Clean Transport Zone) exemptions can renew them from Tuesday 17 Nov at sct.zdmk.krakow.pl, in the mKraków app or at ZDMK, ul. Centralna 53. Checks can take up to 14 days, so apply early.",
+   "link": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/345724,2353,komunikat,korekta_sct_w_przygotowaniu__pamietaj_o_odnowieniu_zwolnienia_od_wtorku__17_listopada_.html"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Air quality is moderate, not at smog-alert level: US AQI about 66 on Sunday morning (PM2.5 17 µg/m³, PM10 38 µg/m³), forecast about 56 Monday and 66 Tuesday. No smog alert for Kraków was found. People sensitive to air pollution may want to limit long outdoor exercise early in the morning.",
+   "link": "https://www.iqair.com/pl/air-quality/poland/lesser-poland-voivodeship/krakow"
+  },
+  {
+   "kind": "Weather",
+   "text": "Milder and wetter week: frosty mornings give way to clouds and rain on Tuesday and Wednesday, with highs of about 6-12°C (IMGW-based forecast). The only IMGW warning in Małopolska was a level-1 wind warning for Gorlice county until Monday 12:00. In the Tatras, TOPR advises against high terrain after the fatal avalanche.",
+   "link": "https://trybunapolska.pl/kraj/pogoda-w-polsce-na-15-listopada-2026-imgw-ostrzega-wiatr-80-km-h-mroz-mgly"
+  },
+  {
+   "kind": "Event",
+   "text": "The City Council's 64th session is on Wednesday 18 Nov at 11:00, streamed online. Agenda: the 20-minute ticket and fare changes, the Lviv partnership suspension, 2027 property and vehicle tax rates, an SCT fee-freeze update and votes on leaving associations.",
+   "link": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261116-29",
+    "domain": "Defense, security & crime",
+    "text": "US troops in Europe are near the 76,000 legal floor; reported Pentagon posture findings point to small cuts mostly in Germany and possibly more presence on the eastern flank.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Stars and Stripes",
+      "url": "https://www.stripes.com/theaters/europe/2026-11-15/us-troop-levels-europe-eucom-nato-23470991.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261116-26",
+    "domain": "Foreign relations",
+    "text": "The State Department says it is working to formalise a Quad leaders' summit in Manila; India still won't confirm the meeting or a Modi–Trump encounter as Modi arrives.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "The Tribune (ANI)",
+      "url": "https://www.tribuneindia.com/news/world/us-state-dept-slams-report-claiming-trump-admin-ignoring-quad-says-manila-meet-will-formalise-leaders-summit"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.theweek.in/news/india/2026/11/16/pm-modi-manila-visit-asean-summit.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-27",
+    "domain": "Trade & tariffs",
+    "text": "Goyal says the US agreed to give Indian goods lower tariffs than rivals; officials now aim to close the first tranche of the trade deal by March 2027.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "ETV Bharat (PTI)",
+      "url": "https://www.etvbharat.com/en/business/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-says-piyush-goyal-enn26111502531"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261116-28",
+    "domain": "Defense, security & crime",
+    "text": "US prosecutors seek about 24 years for Nikhil Gupta in the Pannun murder-for-hire plot; the defence asks for 12; sentencing is Nov 20.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Millennium Post (PTI)",
+      "url": "https://www.millenniumpost.in/big-stories/us-seeks-24-yr-term-for-gupta-in-pannun-case-683399"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.theweek.in/news/world/2026/11/15/nikhil-gupta-apologises-to-us-judge-as-prosecutors-seek-lighter-sentence-in-pannun-murder-plot.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261027-03",
+   "name": "Consumer Credit Directive 2 (CCD2)",
+   "place": "EU (applies in Poland)",
+   "body": "European Parliament and Council (Directive (EU) 2023/2225, CCD2); Polish implementing act not yet adopted",
+   "stage": "Signed / published",
+   "changes": "Brings many buy-now-pay-later, interest-free and small loans under full consumer-credit rules. Adds stricter creditworthiness checks, mandatory warnings in credit adverts, rights to human review of automated credit decisions, and longer withdrawal periods where information is missing.",
+   "affects": "Borrowers, payday lenders, BNPL providers, online shops and banks in Poland.",
+   "effectiveDate": "2026-11-20",
+   "commentDeadline": "",
+   "officialLink": "https://eur-lex.europa.eu/eli/dir/2023/2225/oj",
+   "newsLink": "https://biznes.wprost.pl/twoj-portfel/12481036/nowe-przepisy-unii-przeciwko-chwilowkom-od-20-listopada-dlaczego-polska-jest-w-tyle.html"
+  }
+ ],
+ "deepDive": {
+  "domain": "Law, courts & regulation",
+  "title": "Tribunals, asylum and juvenile age: the week in law",
+  "body": "Monday's legal picture has one common thread: courts and tribunals being asked to settle questions politics has not.\n\n**Poland.** The fight over the Constitutional Tribunal comes to a head this week. Judge Korwin-Piotrowska, acting as the Tribunal's head, has called a General Assembly for **Nov 17** to decide on lifting the immunity of suspended president Święczkowski, including consent to detain him, and of judge Sochański. The President's office disputes her authority and warns of two rival 'Tribunals'. President Nawrocki's chief of staff hosts all-party talks at the Belweder today, which KO and Lewica are boycotting. Separately, Nawrocki has until about **Nov 27** to sign, veto or refer the government's 'rule of law' act, which voids resolutions of the post-2018 KRS and reorganises the status of judges it appointed. A veto is widely expected ([Rzeczpospolita](https://www.rp.pl/sady-i-trybunaly/art45457341-17-listopada-tk-zbierze-sie-zeby-zdecydowac-o-losie-bogdana-swieczkowskiego); [Interia](https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104)).\n\n**EU in Poland.** The new consumer-credit directive (CCD2) applies from **Nov 20**, bringing buy-now-pay-later and small loans under full credit rules. Poland has not passed its implementing law, which leaves lenders and borrowers unsure which rules apply.\n\n**US.** On Nov 13 the Supreme Court agreed to review Trump's 2025 proclamation denying asylum at the southern border, which lower courts held exceeded presidential power. A ruling is likely by June 2027 ([Bloomberg](https://www.bloomberg.com/news/articles/2026-11-13/supreme-court-to-weigh-keeping-trump-southern-border-asylum-ban)). In Washington, Judge Ana Reyes blocked the East Potomac golf-course closure until Nov 28 and plans a special master to examine whether officials misled the court.\n\n**India.** The Kerala High Court urged legislators to consider lowering the age for juveniles in conflict with the law from 18 to 16. The remark is not binding, but it feeds a live national debate; the 2015 JJ Act already lets 16–17-year-olds accused of heinous crimes be tried as adults ([ThePrint](https://theprint.in/india/kerala-hc-suggests-lowering-juvenile-age-to-16-cites-growing-maturity-of-children/3098853/)).",
+  "links": [
+   {
+    "label": "Rzeczpospolita: TK assembly Nov 17",
+    "url": "https://www.rp.pl/sady-i-trybunaly/art45457341-17-listopada-tk-zbierze-sie-zeby-zdecydowac-o-losie-bogdana-swieczkowskiego"
+   },
+   {
+    "label": "Bloomberg: SCOTUS to weigh asylum ban",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-13/supreme-court-to-weigh-keeping-trump-southern-border-asylum-ban"
+   },
+   {
+    "label": "ThePrint: Kerala HC on juvenile age",
+    "url": "https://theprint.in/india/kerala-hc-suggests-lowering-juvenile-age-to-16-cites-growing-maturity-of-children/3098853/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261116-01",
+   "title": "Z tych organizacji Łukasz Gibała chce wyprowadzić Kraków",
+   "reporter": "",
+   "outlet": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/z-tych-organizacji-lukasz-gibala-chce-wyprowadzic-krakow",
+   "why": "Sets out what each association costs the city and what it gets back, ahead of Wednesday's vote. A concrete look at Gibała's cost-cutting.",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261116-02",
+   "title": "US troop levels in Europe near legal floor as Pentagon weighs posture",
+   "reporter": "",
+   "outlet": "Stars and Stripes",
+   "url": "https://www.stripes.com/theaters/europe/2026-11-15/us-troop-levels-europe-eucom-nato-23470991.html",
+   "why": "Explains the numbers behind the force-posture review that will decide whether Poland gains or loses US troops.",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-16",
+   "text": "Belweder talks on the Constitutional Tribunal (KO and Lewica boycott).",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "October WPI; Supreme Court hearing on Delhi-NCR pollution.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Tribunal assembly on Święczkowski’s immunity.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Expected PAHO statement on measles; Nvidia Q3 earnings.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "ASEAN and East Asia summits in Manila; possible Quad leaders’ meeting.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "SCT exemption renewals open.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "UP draft electoral roll published.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "City Council: fares, Lviv partnership, 2027 tax rates, leaving associations.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Alaska Senate ranked-choice count; HELP vote on FDA nominee Overton.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Trump–Putin–Xi meeting in Shenzhen; Anthropic Nasdaq debut.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Cyclone Akvan possible Andhra Pradesh landfall.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "CCD2 consumer-credit rules apply; no Polish implementing law yet.",
+   "place": "EU (applies in Poland)"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Nikhil Gupta sentencing in New York.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "First Agniveer batch exits; Ladakh local polls.",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "EU (applies in Poland)",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "TASS; DPA (via Yahoo News)",
+   "url": "https://tass.com/world/2218449",
+   "paywalled": false
+  },
+  {
+   "title": "TASS; DPA (via Yahoo News) (2)",
+   "url": "https://www.yahoo.com/news/politics/articles/historic-meeting-trump-xi-putin-170317497.html",
+   "paywalled": false
+  },
+  {
+   "title": "US Department of Transportation; ABC News",
+   "url": "https://www.transportation.gov/briefing-room/icymi-trumps-transportation-secretary-sean-p-duffy-provides-update-across-sunday",
+   "paywalled": false
+  },
+  {
+   "title": "US Department of Transportation; ABC News (2)",
+   "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via TimesLIVE); CBS News",
+   "url": "https://www.timeslive.co.za/news/world/2026-11-15-iran-resumes-attacks-amid-uncertainty-over-deal-to-end-conflict/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via TimesLIVE); CBS News (2)",
+   "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News – Face the Nation",
+   "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News; Forbes (2)",
+   "url": "https://www.forbes.com/sites/johndrake/2026/11/15/the-us-has-lost-its-measles-free-status-getting-it-back-will-take-years/",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via ABC News)",
+   "url": "https://abcnews.com/US/wireStory/judge-temporarily-blocks-trump-moving-ahead-washington-public-138150527",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via ABC News) (2)",
+   "url": "https://www.washingtonpost.com/sports/2026/11/14/judge-blocks-trump-administration-closing-east-potomac-park/",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 / RMF24 / Notes from Poland",
+   "url": "https://www.rmf24.pl/regiony/warszawa/news-napisy-slava-upa-na-pomnikach-trzaskowski-musimy-brac-to-pod,nIdn,1026194",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 / RMF24 / Notes from Poland (2)",
+   "url": "https://notesfrompoland.com/2026/11/15/ukraine-blames-russia-for-graffiti-glorifying-wwii-ukrainian-nationalists-on-polish-monuments/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 (PAP)",
+   "url": "https://www.rmf24.pl/fakty/polska/news-cyberatak-na-autopay-mogly-wyciec-dane-klientow,nIdn,1026190",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polska/news-chcialbym-zeby-pan-prezydent-zaczal-w-koncu-chodzic-do-robot,nIdn,1026186",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/regiony/lublin/news-gigantyczne-kolejki-tirow-na-granicy-z-ukraina-kierowcy-czek,nIdn,1026191",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/sport/news-mecz-rumunia-polska-starcie-polskich-kibicow-z-policja-ponad,nIdn,1026183",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polityka/news-lewica-ostrzega-przed-zaraza-radykalnej-prawicy-mocne-przemo,nIdn,1026189",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/z-tych-organizacji-lukasz-gibala-chce-wyprowadzic-krakow",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl (2)",
+   "url": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/malopolska/policja-wyjasnia-zaden-funkcjonariusz-krakowskiej-komendy-miejskiej-nie-zostal-wyslany-do-warszawy/187757",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/tragiczna-niedziela-w-tatrach-lawina-zabila-turyste-drugi-polak-zginal-pod-gerlachem",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/ponad-15-godzin-walki-z-ogniem-jeden-z-najwiekszych-pozarow-od-lat",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl (2)",
+   "url": "https://cowkrakowie.pl/2026/11/pozar-warsztatu-w-giebultowie-druhna-osp-trafila-do-szpitala",
+   "paywalled": false
+  },
+  {
+   "title": "CowKrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/krakow-odzyskal-miliony-po-latach-sadowej-batalii",
+   "paywalled": false
+  },
+  {
+   "title": "CowKrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/mpk-krakow-wyda-ponad-12-mln-zl-nowy-pojazd-pojawi-sie-na-torach",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/obwodnica-niepolomic-padl-termin-przekazano-kolejne-fundusze",
+   "paywalled": false
+  },
+  {
+   "title": "OdishaTV",
+   "url": "https://odishatv.in/weather/cyclone-akvan-threat-odisha-braces-for-heavy-rain-imd-issues-alerts-for-16-districts-12812578",
+   "paywalled": false
+  },
+  {
+   "title": "OdishaTV (2)",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cyclone-likely-to-cross-ap-coast-between-vizag-and-bapatla-on-nov-20-2004753",
+   "paywalled": false
+  },
+  {
+   "title": "The Week",
+   "url": "https://www.theweek.in/news/india/2026/11/16/pm-modi-manila-visit-asean-summit.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week (2)",
+   "url": "https://www.business-standard.com/external-affairs-defence-security/news/pm-modi-begins-philippines-visit-to-attend-asean-east-asia-summits-126111600081_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Punekar News",
+   "url": "https://www.punekarnews.in/amit-shah-launches-bharat-taxi-services-in-pune-says-drivers-will-become-owners-under-cooperative-model/",
+   "paywalled": false
+  },
+  {
+   "title": "Punekar News (2)",
+   "url": "https://www.timesnowhindi.com/india/aaj-ki-taza-khabar-15-november-2026-hindi-news-latest-breaking-news-or-mukhya-samachar-chhath-puja-pm-modi-russia-ukraine-war-aaj-ka-mausam-today-weather-delhi-pollution-up-politics-nvidia-liveblog-156511036",
+   "paywalled": false
+  },
+  {
+   "title": "Organiser",
+   "url": "https://organiser.org/2026/11/15/426487/bharat/janjatiya-gaurav-diwas-pm-modi-unveils-246-projects-worth-rs-3000cr-hails-maoist-free-india-tribal-welfare",
+   "paywalled": false
+  },
+  {
+   "title": "Organiser (2)",
+   "url": "https://hindi.news24online.com/india/aaj-ki-taaza-khabar-live-updates-live-news-today-15-november-2026-politics-national-international-narendra-modi-amit-shah-ygi-adityanath-rahul-gandhi/1848695",
+   "paywalled": false
+  },
+  {
+   "title": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/india/up-cm-yogi-adityanath-launches-distribution-of-25-lakh-free-tablets-ahead-of-2027-assembly-polls-2374-crore-earmarked",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/delhi-aqi-today-capital-breaths-easy-on-chhath-as-air-quality-improves-to-poor-category-567555-2026-11-16",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (ANI)",
+   "url": "https://www.tribuneindia.com/news/world/us-state-dept-slams-report-claiming-trump-admin-ignoring-quad-says-manila-meet-will-formalise-leaders-summit",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat (PTI)",
+   "url": "https://www.etvbharat.com/en/business/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-says-piyush-goyal-enn26111502531",
+   "paywalled": false
+  },
+  {
+   "title": "Millennium Post (PTI)",
+   "url": "https://www.millenniumpost.in/big-stories/us-seeks-24-yr-term-for-gupta-in-pannun-case-683399",
+   "paywalled": false
+  },
+  {
+   "title": "Millennium Post (PTI) (2)",
+   "url": "https://www.theweek.in/news/world/2026/11/15/nikhil-gupta-apologises-to-us-judge-as-prosecutors-seek-lighter-sentence-in-pannun-murder-plot.html",
+   "paywalled": false
+  },
+  {
+   "title": "Stars and Stripes",
+   "url": "https://www.stripes.com/theaters/europe/2026-11-15/us-troop-levels-europe-eucom-nato-23470991.html",
+   "paywalled": false
+  }
+ ]
+}
