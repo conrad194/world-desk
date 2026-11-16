@@ -1269,6 +1269,141 @@
    ],
    "recallQ": "Trace a Polish government bill from the Council of Ministers to the Dziennik Ustaw. At which points can a rival camp still stop it, and why can't the Senate?",
    "recallA": "The bill passes the Sejm by simple majority, goes to the Senate, then to the President, and becomes law when published. The Senate's objections can be overruled by an absolute majority of the Sejm, so it only delays. The real blocking points are the President's veto, which needs three-fifths of the Sejm to override, and a referral to the Constitutional Tribunal, whose status is now disputed."
+  },
+  {
+   "id": "L09",
+   "num": 9,
+   "unit": "How each country is governed",
+   "title": "Elections: Electoral College; Poland's proportional system; India's first-past-the-post",
+   "dateTaught": "2026-11-16",
+   "minutes": 8,
+   "pulledForward": false,
+   "prevQuestion": "Trace a Polish government bill from the Council of Ministers to the Dziennik Ustaw. At which points can a rival camp still stop it, and why can't the Senate?",
+   "prevAnswer": "The bill passes the Sejm by simple majority, goes to the Senate, then to the President, and becomes law when published. The Senate's objections can be overruled by an absolute majority of the Sejm, so it only delays. The real blocking points are the President's veto, which needs three-fifths of the Sejm to override, and a referral to the Constitutional Tribunal, whose status is now disputed.",
+   "body": "Lesson 5 described the legislatures and lesson 3 the presidents. Today's question is how the people in those seats get there. Every election system turns votes into seats, and the rule used to do that shapes everything else: how many parties survive, whether governments are coalitions, and whether the winner had the most votes at all.\n\n**United States: winner-take-all, twice over.** Members of the House are elected in 435 single-member districts, and the candidate with the most votes wins, even without a majority. That rule, called **first-past-the-post**, tends to squeeze politics into two big parties, because a vote for a third party rarely wins a seat. The president is chosen indirectly by the **Electoral College**: each state gets as many electors as it has members of Congress (plus three for Washington, D.C., making 538), and a candidate needs 270. In 48 states the statewide winner takes every elector; Maine and Nebraska split theirs by district. So candidates campaign in a handful of close \"swing states\", and the national popular vote can disagree with the result, as in the [#2000 United States presidential election](https://en.wikipedia.org/wiki/2000_United_States_presidential_election) and the [#2016 United States presidential election](https://en.wikipedia.org/wiki/2016_United_States_presidential_election). A few states have experimented further: Alaska uses ranked ballots, where voters number candidates in order of preference.\n\n> The Electoral College was a compromise reached at the [#Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)) in Philadelphia in 1787, between election by Congress and by popular vote.\n\n**Poland: proportional for the Sejm, majority for the president.** The 460 Sejm deputies are elected by **proportional representation** in 41 multi-member constituencies. Voters pick a party list and can mark one candidate on it; seats are shared out with the **D'Hondt method**, which slightly favours larger parties. A party needs 5% of the national vote to win any seats, a coalition list 8% (lists of recognised national minorities are exempt). The result is a parliament of several parties where a single party rarely governs alone, so coalitions are normal. The 100-seat Senate, by contrast, has used single-member, first-past-the-post districts since 2011. The president is directly elected for five years in up to two rounds: if nobody gets over half the votes, the top two meet in a runoff, as when [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) beat [@Rafał Trzaskowski](https://en.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski) in the [#2025 Polish presidential election](https://en.wikipedia.org/wiki/2025_Polish_presidential_election). This is why lesson 7's veto fights happen: two different electoral routes can hand the presidency and the Sejm to rival camps.\n\n> Poland's restored Senate was chosen in fully free elections in June 1989, part of the [#1989 Polish parliamentary election](https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election) that ended communist rule.\n\n**India: the world's largest first-past-the-post election.** The 543 Lok Sabha seats are single-member constituencies, won by whoever gets the most votes, just like the US House. But India's social and regional diversity means first-past-the-post has not produced a two-party system: regional parties dominate their own states, and national parties often need them as allies. The vote share and seat count can diverge sharply; a party with well under half the national vote can win a majority of seats if its support is spread efficiently. The Rajya Sabha, as lesson 5 noted, is elected indirectly by state legislators, and the president by an electoral college of MPs and state MLAs. Elections are run by the independent **Election Commission of India**, which also maintains the voter rolls and enforces a code of conduct during campaigns.\n\n> The Election Commission was set up on 25 January 1950; India now marks that date each year as National Voters' Day.\n\n**The pattern.** Two countries use first-past-the-post for the lower house, yet the US has two parties and India dozens, because geography and identity matter as much as the rule. Poland's proportional Sejm makes coalitions routine, while its two-round presidential vote guarantees a winner with a majority. Political scientists still debate how far electoral rules cause party systems, and how far party systems choose the rules that suit them.",
+   "comparison": [
+    {
+     "aspect": "Lower house",
+     "US": "House of Representatives: 435 single-member districts, first-past-the-post",
+     "Poland": "Sejm: 460 seats, 41 multi-member constituencies, open-list proportional (D'Hondt)",
+     "India": "Lok Sabha: 543 single-member constituencies, first-past-the-post"
+    },
+    {
+     "aspect": "Upper house",
+     "US": "Senate: two per state, statewide popular vote",
+     "Poland": "Senate: 100 single-member districts, first-past-the-post",
+     "India": "Rajya Sabha: elected indirectly by state legislatures"
+    },
+    {
+     "aspect": "Head of state chosen by",
+     "US": "Electoral College (270 of 538 electors)",
+     "Poland": "Direct popular vote, two rounds if needed",
+     "India": "Electoral college of MPs and state MLAs"
+    },
+    {
+     "aspect": "Threshold to win seats",
+     "US": "–",
+     "Poland": "5% for a party, 8% for a coalition",
+     "India": "–"
+    },
+    {
+     "aspect": "Who runs elections",
+     "US": "State and local officials; no national election authority",
+     "Poland": "National Electoral Commission (PKW)",
+     "India": "Election Commission of India"
+    },
+    {
+     "aspect": "Typical result",
+     "US": "Two-party system",
+     "Poland": "Multi-party Sejm, coalition governments",
+     "India": "National and regional parties, frequent coalitions"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "First-past-the-post",
+     "meaning": "The candidate with the most votes in a single-member district wins, even without a majority."
+    },
+    {
+     "term": "Proportional representation",
+     "meaning": "Seats are shared among parties roughly in line with their vote shares, usually in multi-member constituencies."
+    },
+    {
+     "term": "D'Hondt method",
+     "meaning": "The formula Poland uses to divide Sejm seats among lists; it slightly rewards larger parties."
+    },
+    {
+     "term": "Electoral threshold (próg wyborczy)",
+     "meaning": "The minimum national vote share a list needs to win any Sejm seats: 5% for parties, 8% for coalitions."
+    },
+    {
+     "term": "Electoral College",
+     "meaning": "The body of 538 electors, allocated by state, that formally elects the US president."
+    },
+    {
+     "term": "Election Commission of India (Nirvachan Ayog)",
+     "meaning": "The independent constitutional body that runs national and state elections and keeps the voter rolls."
+    }
+   ],
+   "example": "The [#2023 Polish parliamentary election](https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election) shows proportional representation at work. PiS came first with about 35% of the vote and 194 seats, the largest single party, but well short of the 231 needed for a Sejm majority. Under first-past-the-post, a lead like that might have produced a majority on its own. Instead, Civic Coalition (157 seats), Third Way (65) and the Left (26) together held 248 seats and formed a government under [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk). Konfederacja's 18 seats came from clearing the 5% threshold; several smaller lists fell below it and won nothing.\n\nIndia's [#2024 Indian general election](https://en.wikipedia.org/wiki/2024_Indian_general_election) shows the opposite effect: the BJP won 240 of 543 seats on roughly 37% of the vote, more seats than its vote share alone would give, yet still needed allies in the NDA to govern.",
+   "inTheNews": "Uttar Pradesh is gearing up for the [#2027 Uttar Pradesh Legislative Assembly election](https://en.wikipedia.org/wiki/Next_Uttar_Pradesh_Legislative_Assembly_election): [@Yogi Adityanath](https://en.wikipedia.org/wiki/Yogi_Adityanath) launched a free-tablet handout ahead of the polls, and the draft electoral roll comes out on Nov 17. In the US, Alaska plans its ranked-choice tabulation for the Senate race on Nov 18, after the midterms that gave Democrats the House.",
+   "newsEvents": [
+    "E-261116-24"
+   ],
+   "check": [
+    {
+     "q": "The US and India both elect their lower house by first-past-the-post. Why does India have many significant parties while the US has two?",
+     "options": [
+      "India uses proportional representation for some seats",
+      "Regional and identity-based parties can win pluralities in their own states, so the rule does not squeeze them out",
+      "Indian law forbids parties from merging",
+      "The US bans third parties"
+     ],
+     "answer": 1,
+     "explain": "First-past-the-post punishes parties with thinly spread support, but parties concentrated in particular states can win seats there, which is why India's regional parties thrive."
+    },
+    {
+     "q": "Why are coalition governments the norm in Poland?",
+     "options": [
+      "The president appoints ministers from every party",
+      "Proportional seat allocation in the Sejm means one party rarely gets a majority of seats",
+      "The Senate must approve every minister",
+      "Parties are limited to 100 seats each"
+     ],
+     "answer": 1,
+     "explain": "Because Sejm seats roughly track vote shares, a party usually needs more than 46% of the vote to govern alone, so parties combine to reach 231 seats."
+    },
+    {
+     "q": "How can a US presidential candidate win the White House while losing the national popular vote?",
+     "options": [
+      "Electors are chosen by Congress",
+      "Most states give all their electors to the statewide winner, so narrow wins in many states can outweigh big losses in others",
+      "Votes from large states count less",
+      "The Supreme Court decides close elections"
+     ],
+     "answer": 1,
+     "explain": "Winner-take-all allocation by state means the electoral vote depends on where votes are cast, not just how many."
+    }
+   ],
+   "recallQ": "Why can the same voting rule, first-past-the-post, produce a two-party system in the US but many parties in India, and how does Poland's system lead to coalitions?",
+   "recallA": "First-past-the-post rewards parties that can win pluralities in particular districts; in the US that favours two national parties, but in India regional and identity-based parties dominate their own states and win seats there. Poland's Sejm uses proportional representation with a 5% threshold, so several parties win seats and governments usually need a coalition to reach a majority.",
+   "readMore": [
+    {
+     "title": "What is the Electoral College? (National Archives)",
+     "url": "https://archives.gov/electoral-college/about",
+     "why": "The official US explanation of how electors are chosen, how they vote and how Congress counts the result."
+    },
+    {
+     "title": "Poland: electoral system for national legislature (International IDEA)",
+     "url": "https://www.idea.int/node/128856",
+     "why": "An international electoral-systems database entry confirming Poland's open-list PR, D'Hondt seat formula and thresholds."
+    },
+    {
+     "title": "Election Commission of India (Encyclopaedia Britannica)",
+     "url": "https://www.britannica.com/topic/Election-Commission-of-India",
+     "why": "An overview of the body that runs India's national and state elections and how it stays independent."
+    }
+   ]
   }
  ]
 }
