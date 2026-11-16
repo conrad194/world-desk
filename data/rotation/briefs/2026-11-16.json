@@ -1,0 +1,678 @@
+{
+ "date": "2026-11-16",
+ "segment": "Russia–Ukraine & European security",
+ "windowFrom": "2026-11-09",
+ "tier1Summary": "Estonia is shutting its border with Russia. From 1 Dec all three crossings close, after an arson attempt on a drone factory near Tallinn that [[p:Margus Tsahkna]] blames on Russia's [[p:GRU (Russian Federation)|GRU]]. Drones also hit ships off Romania, and NATO jets missed one crossing the Baltics.\n\nDiplomacy is now about Europe's seat: [[p:Jared Kushner]] wants direct Moscow–Europe talks before the next round. On the ground the front is near static, but the air war escalates: Ukraine hit the Crimean Bridge again and Tatarstan refineries, while Russian strikes cut power in Odesa. Gagauzia's governor race goes to a runoff.\n\nElsewhere, a third US carrier reached the Middle East, Iran claims more mine strikes near Hormuz, and the [[p:ASEAN]] summit opened in Manila ahead of Trump.",
+ "segmentItems": [
+  {
+   "id": "E-261116-04",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Estonia / Russia / Latvia",
+   "text": "Estonia will close all three Russian border crossings from 1 Dec after an attempted arson attack on drone maker Threod Systems near Tallinn on 14 Nov. [[p:Margus Tsahkna]] blames Russia's [[p:GRU (Russian Federation)|GRU]]; eight people living in Latvia were detained. Moscow calls it Russophobia.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Alisa Orlova",
+   "outlet": "Kyiv Post; TheJournal.ie",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90202"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thejournal.ie/eu-sanctions-listing-russia-estonia-border-closure-7227430-Nov2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-05",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "Ukraine attacked the Crimean Bridge overnight, halting traffic; it is the fourth strike on it since 2022. Kyiv also says it hit two Tatarstan refineries and an Astrakhan airfield. Moscow claims 1,336 drones downed in one night.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Kyiv Post; The Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Post",
+     "url": "https://kyivpost.com/post/90199"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-06",
+   "segment": "Russia–Ukraine & European security",
+   "country": "United States / Russia / Europe",
+   "text": "[[p:Jared Kushner]] says Washington now aims to broker direct talks between Moscow and the Europeans while preparing the next three-way round, calling [[p:NATO]] a 'critical pillar' of guarantees for Ukraine.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/us-now-focused-on-facilitating-direct-engagement-between-russia-europe-kushner-says-after-ukraine-peace-talks/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-07",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "Ombudsman [[p:Dmytro Lubinets]] says Kyiv and Moscow agreed weekly ICRC-assisted evacuations of vulnerable civilians from occupied areas. Zelenskyy rejected Putin's Kostiantynivka 'humanitarian mission' as a ploy to take the city.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/putins-kostiantynivka-humanitarian-mission-aims-to-seize-city-push-toward-kramatorsk-zelensky-says/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-09",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "A Ukrainian air assault commander says Russia's advance has slowed sharply; the General Staff claims 54,400 Russian casualties in October, a record. Fighting continues inside Kostiantynivka, which Russia claims to hold.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/putins-kostiantynivka-humanitarian-mission-aims-to-seize-city-push-toward-kramatorsk-zelensky-says/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-10",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Russian strikes injured 50 in a Zaporizhzhia apartment block on 13 Nov, killed at least seven nationwide on 14 Nov, and cut power to about 41,000 families in Odesa Oblast on 15 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Yuliia Taradiuk",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-08",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / United States",
+   "text": "Zelenskyy says a speed cap on Starshield, the military version of [[p:Starlink]], over occupied areas hampers drone interceptors and exposes substations. [[p:SpaceX]] says nothing has changed; a congressional caucus wants answers.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "Yuliia Taradiuk",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/starshield-speed-restrictions-hamper-ukraines-ability-to-defend-energy-infrastructure-against-russian-jet-powered-drones-zelensky-says/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-11",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Romania",
+   "text": "Drones struck three merchant ships near Sulina off Romania's coast on 13–14 Nov; two caught fire, no one was hurt. Romania has not established where the drones came from.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Tamara Nowakowsky",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/three-commercial-ships-struck-by-drones-near-romanias-black-sea-coast-over-two-days/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-12",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Lithuania / Latvia / Estonia / Belarus",
+   "text": "A drone from Belarus crossed Lithuania, Latvia and Estonia into Russia on 10–11 Nov after NATO jets twice missed it. Its origin is unknown; [[p:Gitanas Nausėda]] called it a 'restless and difficult' night.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://migflug.com/afterburner/lithuania-drone-nato-fighters-miss-birzai-baltic-air-alerts-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-13",
+   "segment": "Russia–Ukraine & European security",
+   "country": "EU / Russia",
+   "text": "EU ministers were set to adopt 145 new Russia-related listings on 16 Nov, including about 50 banks and firms and shadow-fleet service companies; talks on a further package follow this week.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Kyiv Post; TheJournal.ie",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/89847"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thejournal.ie/eu-sanctions-listing-russia-estonia-border-closure-7227430-Nov2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-15",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Zelenskyy says ministers named on [[p:National Anti-Corruption Bureau of Ukraine|NABU]] tapes about the 'Khimprom' drug ring have no links to it; the ring allegedly planned to bribe officials to keep its drugs legal.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "Linda Hourani",
+   "outlet": "The Kyiv Independent",
+   "opinion": "",
+   "thread": "Ukraine anti-corruption cases",
+   "links": [
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/zelensky-says-senior-officials-named-in-drug-ring-tapes-have-no-links-to-criminal-network/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-19",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Moldova",
+   "text": "In Gagauzia's governor race, [[p:Alexandr Stoianoglo]] {{note: Former Moldovan prosecutor-general, dismissed in 2023, who lost the 2024 presidential runoff to Maia Sandu.}} took 39.3% to 24.6% for the Socialists' Fiodor Gagauz on 37.6% turnout; the runoff is on 29 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Pivot.md; QNC News",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Pivot.md",
+     "url": "https://pivot.md/en/alegeri-gagauzia-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://qncnews.com/2026/11/16/stoianoglo-leads-gagauzia-vote-as-moldova-region-heads-to-november-29-runoff/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261116-01",
+   "segment": "Middle East",
+   "country": "United States / Iran",
+   "text": "A third US carrier, the [[p:USS Theodore Roosevelt (CVN-71)|USS Theodore Roosevelt]], has reached the Middle East, Axios reports, lifting US naval strength there above 20,000.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The Times of Israel (citing Axios, Channel 12)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-16-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/06/third-us-carrier-mission-to-gulf-major-indicator-of-new-war-on-iran/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-02",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "The [[p:Islamic Revolutionary Guard Corps|IRGC]] claims two more tankers hit mines south of Hormuz and that it downed a US MQ-1 drone; neither claim is verified.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Anadolu Agency",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://cryptobriefing.com/iran-irgc-tanker-mine-claim-centcom/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261116-03",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines / ASEAN / United States / China",
+   "text": "The [[p:ASEAN]] summit opened in Manila, focused on the Middle East war's fallout; a draft stresses freedom of navigation. Trump arrives Tuesday for Quad and US–ASEAN meetings.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AP (via PBS NewsHour)",
+   "opinion": "",
+   "thread": "South China Sea",
+   "links": [
+    {
+     "label": "AP",
+     "url": "https://www.pbs.org/newshour/world/southeast-asian-leaders-open-annual-summit-with-major-conflicts-and-their-impact-topping-the-agenda"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.inquirer.net/495884/live-updates-asean-summit-2026-and-related-meetings-nov-16-2026/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261116-01",
+   "title": "Бій триватиме, але чи і в 2027-му?",
+   "reporter": "Vladyslava Savkova",
+   "outlet": "Radio Svoboda (Donbas.Realii)",
+   "url": "https://www.radiosvoboda.org/a/druzhkivka-kostyantynivka-operatyvne-znachennya/33891745.html",
+   "why": "A sober Ukrainian-language look at the fight for Kostiantynivka and Druzhkivka, separating map evidence from a veteran analyst's view, as Putin pitches a 'humanitarian' truce there.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "Ukrainian"
+  },
+  {
+   "readingId": "RL-261116-02",
+   "title": "Zelensky says senior officials named in drug ring tapes have no links to criminal network",
+   "reporter": "Linda Hourani",
+   "outlet": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/zelensky-says-senior-officials-named-in-drug-ring-tapes-have-no-links-to-criminal-network/",
+   "why": "Explains the Khimprom tapes, who is and is not implicated, and why the case reaches into Poland.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-17",
+   "text": "Poland: Constitutional Tribunal judges' assembly on lifting Święczkowski's immunity and detaining him.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Washington's reply to Iran's two-day plan and the Qatari-backed draft (day 1: blockade lifted and some funds released; day 2: Hormuz reopens, then nuclear talks).",
+   "segment": "Middle East",
+   "watchId": "W-261110-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Iraq: whether more Iran border crossings close under the US Treasury request (Mandali closes temporarily from 13 Nov).",
+   "segment": "Middle East",
+   "watchId": "W-261110-02"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "India: [[p:Supreme Court of India|Supreme Court]] hearing on the petitions against the Election Commission's [[e:Special Intensive Revision|voter-roll revision]].",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Sweden: Kristersson reports to the Speaker on forming a government, and the Centre Party answers the two blocs' offers.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-01"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "49th ASEAN Summit and related summits in Manila, 16–18 Nov, with Trump attending on 16 Nov: any South China Sea code-of-conduct breakthrough and Myanmar's representation.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-01"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Netherlands: whether Jetten's minority cabinet survives the VVD's crisis talks over the tax plan.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-04"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "APEC in Shenzhen; possible Trump–Xi–Putin meeting on nuclear arms and Ukraine.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-20"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "House Democratic leadership elections, with [[p:Hakeem Jeffries]] running for Speaker; House Republicans also choose leaders after Mike Johnson stepped aside.",
+   "segment": "The Americas",
+   "watchId": "W-261105-01"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "State Duma second reading of Russia's 2027–29 budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-05"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Spain: Sánchez–Feijóo televised debate, organised by the Academia de la Televisión.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-02"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Coalition of the willing meeting in Berlin, hosted by Merz, expected to discuss Europe's seat at the next round of Ukraine talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-03"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "NATO consultations on letting pilots down radar-tracked drones without visual identification.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-04"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "COP31 climate conference in Antalya, 9–20 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-01"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "UN Secretary-General race: next straw poll, possibly with colour-coded ballots showing permanent-member vetoes.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Moldova's gas-shortage state of emergency expires; watch for an extension and the OSCE-facilitated Transnistria winter gas talks.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Sri Lanka: second-reading vote on the 2027 budget; the final vote follows on 14 Dec.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-02"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "OFAC licence for Lukoil foreign-asset sale talks expires; possible approval of the Boehly-led bid.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-07"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the future of Salvadoran troops in Haiti.",
+   "segment": "The Americas",
+   "watchId": "W-261112-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "EU discussion of a further Russia sanctions package after the 16 Nov listings.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-03"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Belarus amnesty bill text: does it cover political prisoners?",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-08"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Gagauzia bashkan runoff: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-01"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Estonia's closure of all Russian border crossings takes effect; the government decides whether it is temporary or indefinite.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Belarus",
+   "status": "quiet"
+  },
+  {
+   "country": "Finland",
+   "status": "quiet"
+  },
+  {
+   "country": "Latvia",
+   "status": "quiet"
+  },
+  {
+   "country": "Bulgaria",
+   "status": "quiet"
+  },
+  {
+   "country": "Germany",
+   "status": "quiet"
+  },
+  {
+   "country": "Moldova (Transnistria)",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "kyivpost.com",
+   "url": "https://www.kyivpost.com/post/90202",
+   "paywalled": false
+  },
+  {
+   "title": "thejournal.ie",
+   "url": "https://www.thejournal.ie/eu-sanctions-listing-russia-estonia-border-closure-7227430-Nov2026/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivpost.com",
+   "url": "https://kyivpost.com/post/90199",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/us-now-focused-on-facilitating-direct-engagement-between-russia-europe-kushner-says-after-ukraine-peace-talks/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/putins-kostiantynivka-humanitarian-mission-aims-to-seize-city-push-toward-kramatorsk-zelensky-says/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/starshield-speed-restrictions-hamper-ukraines-ability-to-defend-energy-infrastructure-against-russian-jet-powered-drones-zelensky-says/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/three-commercial-ships-struck-by-drones-near-romanias-black-sea-coast-over-two-days/",
+   "paywalled": false
+  },
+  {
+   "title": "euronews.com",
+   "url": "https://www.euronews.com/2026/11/11/a-restless-and-difficult-night-in-the-baltics-as-nato-fighter-jets-fail-to-shoot-down-dron",
+   "paywalled": false
+  },
+  {
+   "title": "migflug.com",
+   "url": "https://migflug.com/afterburner/lithuania-drone-nato-fighters-miss-birzai-baltic-air-alerts-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivpost.com",
+   "url": "https://www.kyivpost.com/post/89847",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says/",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/zelensky-says-senior-officials-named-in-drug-ring-tapes-have-no-links-to-criminal-network/",
+   "paywalled": false
+  },
+  {
+   "title": "meduza.io",
+   "url": "https://meduza.io/en/news/2026/11/14/russia-moves-to-monitor-peer-to-peer-bank-transfers-for-undeclared-income",
+   "paywalled": false
+  },
+  {
+   "title": "pivot.md",
+   "url": "https://pivot.md/en/alegeri-gagauzia-2026",
+   "paywalled": false
+  },
+  {
+   "title": "qncnews.com",
+   "url": "https://qncnews.com/2026/11/16/stoianoglo-leads-gagauzia-vote-as-moldova-region-heads-to-november-29-runoff/",
+   "paywalled": false
+  },
+  {
+   "title": "timesofisrael.com",
+   "url": "https://www.timesofisrael.com/liveblog-november-16-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "thenationalnews.com",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/06/third-us-carrier-mission-to-gulf-major-indicator-of-new-war-on-iran/",
+   "paywalled": false
+  },
+  {
+   "title": "aa.com.tr",
+   "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489",
+   "paywalled": false
+  },
+  {
+   "title": "cryptobriefing.com",
+   "url": "https://cryptobriefing.com/iran-irgc-tanker-mine-claim-centcom/",
+   "paywalled": false
+  },
+  {
+   "title": "pbs.org",
+   "url": "https://www.pbs.org/newshour/world/southeast-asian-leaders-open-annual-summit-with-major-conflicts-and-their-impact-topping-the-agenda",
+   "paywalled": false
+  },
+  {
+   "title": "inquirer.net",
+   "url": "https://www.inquirer.net/495884/live-updates-asean-summit-2026-and-related-meetings-nov-16-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "meduza.io",
+   "url": "https://meduza.io/en/news/2026/11/13/russia-s-healthcare-and-education-sectors-have-lost-out-on-more-than-a-trillion-rubles-in-funding-since-start-of-full-scale-war-investigation-finds",
+   "paywalled": false
+  },
+  {
+   "title": "kyivindependent.com",
+   "url": "https://kyivindependent.com/us-air-force-responds-to-suspected-drone-activity-at-military-base-in-uk/",
+   "paywalled": false
+  },
+  {
+   "title": "notesfrompoland.com",
+   "url": "https://notesfrompoland.com/2026/11/12/poland-indicts-ukrainian-man-for-assisting-in-rail-sabotage-on-behalf-of-russia/",
+   "paywalled": false
+  },
+  {
+   "title": "meduza.io",
+   "url": "https://meduza.io/amp/en/news/2026/11/10/poland-arrests-two-ukrainians-suspected-of-spying-and-sabotage-for-russia",
+   "paywalled": false
+  }
+ ]
+}
