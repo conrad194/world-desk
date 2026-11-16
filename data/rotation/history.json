@@ -902,6 +902,103 @@
    "prevAnswer": "Washington accused Russia of deploying a banned ground-launched cruise missile, the 9M729, and left the treaty in August 2019. US officials also argued that the treaty only bound the US and Russia, while China, never a party, had built a large force of exactly the intermediate-range missiles the treaty banned.",
    "recallQ": "Why did the Yugoslav wars of the 1990s become a cautionary tale for EU foreign policy?",
    "recallA": "In 1991 the European Community claimed the lead on the crisis, but it lacked a common military and divided over recognising the breakaway states. The fighting went on until US-led diplomacy produced the Dayton Agreement in 1995, which pushed the EU to build its foreign policy role and appoint a High Representative."
+  },
+  {
+   "id": "2026-11-16",
+   "date": "2026-11-16",
+   "segment": "Russia–Ukraine & European security",
+   "title": "Why Estonia's border with Russia has never been settled",
+   "thread": "Russian hybrid attacks on Europe",
+   "eventIds": [
+    "E-261116-04",
+    "E-261116-12"
+   ],
+   "minutes": 4,
+   "hook": "Estonia is closing every crossing with Russia after an arson attempt it blames on the [[p:GRU (Russian Federation)|GRU]]. The line it is sealing was drawn by Moscow in 1944–45, has no ratified treaty behind it, and has been a pressure point ever since independence.",
+   "body": "Estonia's decision to shut all three road crossings with Russia from 1 December looks like a reaction to one arson attempt. It also lands on a line that has never been fully settled. Estonia officially calls its eastern edge a **temporary control line**, and the reasons go back a century.\n\nThe first border was won in war. After Estonia declared independence in 1918, it fought both Soviet Russia and Baltic German forces in the [[e:Estonian War of Independence]]. The fighting ended with the [[e:Treaty of Tartu (Estonia–Russia)|Treaty of Tartu]] {{note: Signed in Tartu on 2 February 1920; Soviet Russia recognised Estonian independence and gave up all claims to its territory.}}, which drew the frontier east of the Narva river and gave Estonia the town of Ivangorod (Jaanilinn) and the Petseri district in the south-east, home of the Seto people.\n\nThat border lasted twenty years. The secret protocol of the [[e:Molotov–Ribbentrop Pact]] in 1939 placed Estonia in Moscow's sphere, and in 1940 came the [[e:Soviet occupation of the Baltic states (1940)|Soviet occupation of the Baltic states]]. After the Red Army returned in 1944, Moscow moved the land east of the Narva and most of Petseri, more than 2,000 square kilometres, into the Russian republic. Inside one Soviet state the change seemed administrative. In 1991 it became an international border, with Narva on one bank and Ivangorod on the other.\n\nRestored Estonia first insisted on the Tartu line, then dropped the claim to smooth its path into [[p:NATO]] and the EU, which it joined in 2004. Foreign ministers [[p:Urmas Paet]] and [[p:Sergey Lavrov]] signed a border treaty in May 2005. When Estonia's parliament ratified it with a preamble referring to Tartu, Moscow read that as a hidden territorial claim and withdrew its signature. A new treaty was signed in 2014; neither side has ratified it.\n\nThe unsettled line became a stage for pressure. Moving a Soviet war memorial in Tallinn in 2007 set off the riots of the [[e:Bronze Night]] and the [[e:2007 cyberattacks on Estonia]], an early sign of conflict below the threshold of war. Two days after [[p:Barack Obama]] visited Tallinn in September 2014, Russian agents seized [[p:Eston Kohver]] {{note: An officer of Estonia's Internal Security Service, taken near the Luhamaa crossing on 5 September 2014 and swapped back a year later.}} on Estonian soil and took him to Moscow, where he was sentenced to 15 years.\n\nSince the [[e:Russian invasion of Ukraine]], the border has narrowed step by step. Estonia and its neighbours barred most Russian visitors in 2022 and Russian-plated cars in 2023. In May 2024 Russian border guards pulled up Estonian buoys marking the channel in the Narva river, and Moscow then demanded Estonia ratify the treaty. Finland closed its whole land border with Russia in late 2023 over migrants it said Moscow was steering towards it.\n\nEstonia now blames Russia's [[p:GRU (Russian Federation)|GRU]] {{note: Russia's military intelligence service, descended from the Red Army intelligence directorate created in 1918.}} for the attempt on the Threod drone plant, part of a wave of sabotage across Europe. Closing the crossings is Tallinn's answer. Moscow calls it Russophobia; for many people in overwhelmingly Russian-speaking Narva, it also cuts family ties across the river.",
+   "timeline": [
+    {
+     "when": "1920",
+     "text": "The [[e:Treaty of Tartu (Estonia–Russia)|Treaty of Tartu]] ends the war of independence and gives Estonia Ivangorod and Petseri."
+    },
+    {
+     "when": "1940",
+     "text": "The Soviet Union occupies Estonia under the secret terms of the [[e:Molotov–Ribbentrop Pact]]."
+    },
+    {
+     "when": "1944–45",
+     "text": "Moscow transfers the land east of the Narva and most of Petseri, over 2,000 km², to the Russian republic."
+    },
+    {
+     "when": "2005",
+     "text": "[[p:Urmas Paet]] and [[p:Sergey Lavrov]] sign a border treaty; Russia withdraws after Estonia's parliament adds a preamble citing Tartu."
+    },
+    {
+     "when": "2007",
+     "text": "The [[e:Bronze Night]] riots and cyberattacks follow the moving of a Soviet war memorial in Tallinn."
+    },
+    {
+     "when": "2014",
+     "text": "A new border treaty is signed but never ratified; Russian agents seize Estonian officer [[p:Eston Kohver]] near the border."
+    },
+    {
+     "when": "May 2024",
+     "text": "Russian border guards remove Estonian buoys from the Narva river."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "After an arson attempt on a drone plant near Tallinn, Estonia says it will close all three crossings from 1 December."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Estonia",
+     "view": "Estonia sees itself as a state illegally occupied from 1940 to 1991, so the [[e:Treaty of Tartu (Estonia–Russia)|Tartu]] border remains its legal foundation even though it accepts today's line in practice. Closing crossings is defence against a neighbour it says runs sabotage on its soil."
+    },
+    {
+     "side": "Russia",
+     "view": "Moscow rejects the word occupation, treats the post-war border as a lawful outcome of the Second World War, and saw Estonia's 2005 preamble as a disguised land claim. It calls the closures Russophobic and frames Estonia as mistreating its Russian speakers."
+    },
+    {
+     "side": "Border communities",
+     "view": "For residents of Narva and the Seto lands around Petseri, the line split towns, families and a small nation's homeland; each closure is felt less as geopolitics than as a longer road to relatives and graves."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Temporary control line",
+     "meaning": "Estonia's official name for the border with Russia, reflecting that no border treaty is in force."
+    },
+    {
+     "term": "Petseri / Pechory",
+     "meaning": "District granted to Estonia in 1920 and moved to Russia's Pskov region in 1945; heartland of the Seto people."
+    },
+    {
+     "term": "Jaanilinn / Ivangorod",
+     "meaning": "Fortress town on the Narva river's east bank, Estonian between the wars and Russian since 1944."
+    },
+    {
+     "term": "Hybrid attacks",
+     "meaning": "Hostile acts below the threshold of open war, such as sabotage, cyberattacks, airspace incursions and steered migration."
+    }
+   ],
+   "whyItMatters": "Because the border was never formally agreed, every incident on it carries an argument about legitimacy, and Moscow has used ratification as leverage before. Watch whether the closure is temporary or open-ended, whether Latvia, whose residents were detained, follows, and how Russia responds along the Narva, where the line runs through a river and a Russian-speaking city.",
+   "readMore": [
+    {
+     "title": "Tartu Peace Treaty, 2 February 1920",
+     "url": "https://www.vm.ee/en/news/tartu-peace-treaty-2-february-1920",
+     "why": "Estonia's foreign ministry on the treaty that founded its eastern border."
+    },
+    {
+     "title": "The Abduction of Eston Kohver: Consequences and Significance",
+     "url": "https://icds.ee/en/the-abduction-of-eston-kohver-consequences-and-significance/",
+     "why": "Tallinn think tank ICDS on the 2014 border abduction, written days after it happened."
+    }
+   ],
+   "prevQuestion": "Why did the Yugoslav wars of the 1990s become a cautionary tale for EU foreign policy?",
+   "prevAnswer": "In 1991 the European Community claimed the lead on the crisis, but it lacked a common military and divided over recognising the breakaway states. The fighting went on until US-led diplomacy produced the Dayton Agreement in 1995, which pushed the EU to build its foreign policy role and appoint a High Representative.",
+   "recallQ": "Why did Russia withdraw its signature from the 2005 Estonia–Russia border treaty?",
+   "recallA": "When Estonia's parliament ratified the treaty, it added a preamble referring to the 1920 Treaty of Tartu and the continuity of the Estonian state. Moscow saw this as a hidden claim to the land transferred in 1944–45 and an implied accusation of occupation, so it pulled out; a new treaty signed in 2014 has still not been ratified."
   }
  ]
 }
