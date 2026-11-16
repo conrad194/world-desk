@@ -2123,6 +2123,54 @@
    "language": "English",
    "url": "https://sambadenglish.com",
    "lean": "Centre; regional"
+  },
+  {
+   "id": "odishatv",
+   "name": "OdishaTV",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Odisha news, weather and cyclones",
+   "language": "English",
+   "url": "https://odishatv.in",
+   "lean": "regional, mainstream",
+   "status": "Watch",
+   "dateAdded": "2026-11-16"
+  },
+  {
+   "id": "stars-and-stripes",
+   "name": "Stars and Stripes",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "US military, troop posture in Europe",
+   "language": "English",
+   "url": "https://www.stripes.com",
+   "lean": "neutral, editorially independent (DoD-funded)",
+   "status": "Watch",
+   "dateAdded": "2026-11-16"
+  },
+  {
+   "id": "free-press-journal",
+   "name": "Free Press Journal",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "national and Maharashtra news",
+   "language": "English",
+   "url": "https://www.freepressjournal.in",
+   "lean": "centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-16"
+  },
+  {
+   "id": "punekar-news",
+   "name": "Punekar News",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Pune local news",
+   "language": "English",
+   "url": "https://www.punekarnews.in",
+   "lean": "neutral, local",
+   "status": "Watch",
+   "dateAdded": "2026-11-16"
   }
  ]
 }
