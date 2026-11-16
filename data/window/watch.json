@@ -1495,6 +1495,28 @@
    "checkDate": "2026-11-25",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261116-04",
+   "dateAdded": "2026-11-16",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Council vote on starting consultations to end sales of municipal flats to tenants at discounts of up to 90% (druk 1618); consultations would run at least 60 days, to 30 April 2027",
+   "expected": "On the 18 Nov session agenda (BIP; KRKnews)",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261116-05",
+   "dateAdded": "2026-11-16",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "what": "2026 budget amendments and the multi-year financial forecast change (druki 1622-1626), the first step towards closing the roughly 390m zł current-spending gap",
+   "expected": "On the 18 Nov session agenda (BIP)",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
