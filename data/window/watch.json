@@ -1517,6 +1517,17 @@
    "checkDate": "2026-11-18",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261116-06",
+   "dateAdded": "2026-11-16",
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "what": "Whether the first tranche of the India–US trade deal is closed by the end of FY2026-27 (31 Mar 2027), the new target given by an Indian official",
+   "expected": "Unnamed Indian official to PTI, Nov 15; Goyal says preferential tariff access is already agreed",
+   "checkDate": "2027-03-31",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
