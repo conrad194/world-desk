@@ -1416,7 +1416,7 @@
    "what": "October WPI inflation (moved to Monday as Nov 14 is a Saturday); September was 11.39%",
    "expected": "Ind-Ra projects above 12% (per India researcher’s sources)",
    "checkDate": "2026-11-16",
-   "eventId": "",
+   "eventId": "E-261117-32",
    "id": "W-261114-07"
   },
   {
@@ -1605,6 +1605,28 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": "E-261117-26"
+  },
+  {
+   "id": "W-261117-08",
+   "dateAdded": "2026-11-17",
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Result of the FAA IASA assessment of the DGCA (Nov 16–20): whether India keeps Category 1",
+   "expected": "FAA team visit Nov 16–20 (NewsBytes, Raisina Post); results usually come later",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261117-37"
+  },
+  {
+   "id": "W-261117-09",
+   "dateAdded": "2026-11-17",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Cyclone Akvan landfall, damage, evacuations and deaths in Andhra Pradesh and Odisha",
+   "expected": "IMD: coast crossing between Nellore and Tuni around noon on Nov 20",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": "E-261117-33"
   }
  ]
 }

@@ -2219,6 +2219,30 @@
    "lean": "independent local, data-driven",
    "status": "Watch",
    "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "webdunia-hindi",
+   "name": "Webdunia Hindi",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Hindi national news roundups and live blogs",
+   "language": "Hindi",
+   "url": "https://hindi.webdunia.com",
+   "lean": "mainstream, centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "raisina-post",
+   "name": "Raisina Post",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Daily India news digest with sourced context",
+   "language": "English",
+   "url": "https://raisinapost.substack.com",
+   "lean": "unclear; newsletter",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
   }
  ]
 }
