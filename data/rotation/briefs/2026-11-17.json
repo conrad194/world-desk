@@ -1,0 +1,762 @@
+{
+ "date": "2026-11-17",
+ "segment": "Middle East",
+ "windowFrom": "2026-11-10",
+ "tier1Summary": "Iran's war with the US is in a fraying pause. Tehran says it sent seven conditions via Qatar and awaits Washington's reply, while the [[p:Islamic Revolutionary Guard Corps|IRGC]] claims a third drone strike on US radar in Bahrain in five days. In Yemen, government forces abandoned Bab al-Mandeb and the [[p:Houthis]] {{note: Zaydi Shia movement that began in northern Yemen in the 1990s under Hussein al-Houthi.}} are pushing towards Aden. Iraq has reportedly given [[p:Kata'ib Hezbollah]] until 20 Nov to leave Jurf al-Sakhar.\n\nIn Israel, [[p:Gadi Eisenkot]]'s majority is taking over the Knesset as the opposition accuses Netanyahu of an 'attempted coup' over election-eve arrests. The UN debates what replaces UNIFIL in Lebanon.\n\nElsewhere: the [[p:Crimean Bridge]] partly collapsed after a second strike, a drone-hit ship sank off Bulgaria, and Trump is in Manila before meeting Xi and Putin.",
+ "segmentItems": [
+  {
+   "id": "E-261117-07",
+   "segment": "Middle East",
+   "country": "Iran / United States / Qatar",
+   "text": "Iran's chief negotiator [[p:Mohammad Bagher Ghalibaf]] says seven conditions went via Qatar, from lifting the blockade to formally ending the war, and 'the ball is in the American court'. No formal US reply has been reported; [[p:Marco Rubio]] calls the demands unacceptable.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Caolán Magee",
+   "outlet": "Al Jazeera",
+   "opinion": "analysis",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://middleeasteye.net/live-blog/live-blog-update/qatar-says-us-and-iran-have-responded-positively-mediation"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-09",
+   "segment": "Middle East",
+   "country": "Bahrain / Iran",
+   "text": "The [[p:Islamic Revolutionary Guard Corps|IRGC]] claims a drone attack on US radar at Isa Air Base, its third claimed strike on Bahrain since 13 Nov; Bahrain says it was thwarted. Deputy FM [[p:Kazem Gharibabadi]] says Iran won't wait to be attacked first.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Al Jazeera (with AFP)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera (with AFP)",
+     "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-20",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "Government-aligned forces withdrew from Bab al-Mandeb to defend Aden, ending a six-week coastal counteroffensive. Reuters puts the [[p:Houthis]] about 80 km from Aden; other estimates differ.",
+   "tier": 3,
+   "verification": "Claimed",
+   "reporter": "David Brennan",
+   "outlet": "ABC News (live blog)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "ABC News (live blog)",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.longwarjournal.org/archives/2026/11/houthis-retake-bab-al-mandeb-and-move-toward-aden.php"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-18",
+   "segment": "Middle East",
+   "country": "Iraq",
+   "text": "PM Ali al-Zaidi says the army will enter Jurf al-Sakhar, held by [[p:Kata'ib Hezbollah]], over oil smuggling; a 20 Nov deadline is reported. [[p:Hadi al-Amiri]] walked out of a ruling-alliance meeting.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Sinan Mahmoud",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "Iraq faction disarmament",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/17/iraqs-ruling-alliance-split-over-jurf-al-sakhar-standoff-as-militia-withdrawal-deadline-looms/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.964media.com/55399/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-14",
+   "segment": "Middle East",
+   "country": "Kuwait / GCC",
+   "text": "[[p:Gulf Cooperation Council|GCC]] defence ministers approved a forward headquarters for the bloc's unified command in Kuwait.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Kuwait Times (KUNA)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Kuwait Times (KUNA)",
+     "url": "https://kuwaittimes.com/article/53407/kuwait/kuwait-to-host-gcc-forward-hq/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-22",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "The opposition accuses caretaker PM [[p:Benjamin Netanyahu]] of an 'attempted coup' after reports his office prompted election-eve arrests of [[p:United Arab List|Ra'am]] activists and that [[p:Shin Bet]] sought to wiretap Arab MKs. [[p:Likud]] denies it.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera English",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ynet.co.il/news/article/b1pzzq00rml"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-24",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "[[p:Gadi Eisenkot]]'s 67-seat majority is taking Knesset committees and votes today to replace Speaker [[p:Amir Ohana]] with [[p:Matan Kahana]]; first Yashar–Likud unity talks were 'businesslike'.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Ariela Karmel",
+   "outlet": "The Times of Israel",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/smotrich-vows-to-back-kahana-for-knesset-speaker-only-if-arab-mks-not-made-deputies/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ynetnews.com/article/skifn0ecfe"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-26",
+   "segment": "Middle East",
+   "country": "Gaza",
+   "text": "An Israeli strike on Nasser Medical Complex killed at least six, medics say; the IDF says it targeted a [[p:Hamas]] commander.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Emanuel Fabian",
+   "outlet": "The Times of Israel",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/idf-targets-top-hamas-commander-in-strike-on-south-gaza-hospital-6-said-killed/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://egyptianstreets.com/2026/11/13/egypt-condemns-israeli-strike-on-gazas-nasser-medical-complex/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-27",
+   "segment": "Middle East",
+   "country": "Gaza",
+   "text": "53 states and four Western foreign ministers pressed Israel to admit aid; OCHA says offloads fell about 42% after the Egyptian corridor was suspended. Israel says it has delivered 91,000 tents.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Adla Massoud",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/us/2026/11/12/un-countries-urge-israels-incoming-government-to-open-gaza-to-unrestricted-aid/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-13-november-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-31",
+   "segment": "Middle East",
+   "country": "Lebanon",
+   "text": "US envoy [[p:Mike Waltz]] discussed in Beirut what replaces [[p:United Nations Interim Force in Lebanon|UNIFIL]] {{note: UN peacekeeping force created by the Security Council in 1978 after Israel's invasion of south Lebanon.}} after 31 Dec and urged [[p:Hezbollah]] to disarm voluntarily.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Nada Homsi",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/16/waltz-visits-beirut-as-un-peacekeepers-set-to-leave-with-lebanon-and-israel-still-at-odds/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.naharnet.com/stories/en/323785-us-ambassador-to-un-meets-aoun-salam-and-berri"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-32",
+   "segment": "Middle East",
+   "country": "Lebanon",
+   "text": "Israel struck an alleged arms shipment in the Bekaa, reportedly its first strike there in months.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "SOFX (aggregating Arab News, ToI, JPost)",
+   "opinion": "",
+   "thread": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "links": [
+    {
+     "label": "SOFX (aggregating Arab News, ToI, JPost)",
+     "url": "https://www.sofx.com/israeli-aircraft-hit-hezbollah-bound-arms-near-syrian-border-as-un-exit-approaches/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-16/ty-article/.premium/israel-strikes-deep-inside-lebanon-after-prolonged-restraint-at-u-s-request/000001a1-e597-d029-abeb-e7b725d00000"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-36",
+   "segment": "Middle East",
+   "country": "Turkey",
+   "text": "[[p:Özgür Özel]], ousted as CHP leader by a court, now leads the new YENİ Parti; seven jailed Istanbul mayors joined.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "ANKA",
+   "opinion": "",
+   "thread": "Turkey fund crisis and opposition crackdown",
+   "links": [
+    {
+     "label": "ANKA",
+     "url": "https://ankahaber.net/haber/yeni-parti-nin-1-olagan-kurultayi-nda-ilk-gun-ozel-genel-baskan-secildi-tutuklu-belediye-baskanlari-partiye-katildi-b4a394e1"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://turkishminute.com/2026/11/16/turkeys-main-opposition-leader-re-elected-as-7-jailed-mayors-join-his-party"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261117-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "A second strike partly collapsed the [[p:Crimean Bridge]]; Russian missiles hit two Kyiv bridges.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Lachlan Hyatt",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://newsukraine.rbc.ua/news/russia-strikes-kyiv-bridges-with-ballistic-1794896626.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-03",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Bulgaria",
+   "text": "A drone-hit grain ship sank in Bulgaria's waters, the 17th attack off Bulgaria and Romania since July.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera (with AFP/AP)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Al Jazeera (with AFP/AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-04",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines / United States",
+   "text": "[[p:Donald Trump]] is in Manila for the [[p:Quad|Quadrilateral Security Dialogue]] before a planned meeting with [[p:Xi Jinping]] and [[p:Vladimir Putin]] on 19 Nov.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "ANI (via The Tribune)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "ANI (via The Tribune)",
+     "url": "https://www.tribuneindia.com/news/world/trump-arrives-in-philippines-for-asean-summit-will-meet-quad-leaders"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://theprint.in/diplomacy/modi-trump-set-to-meet-at-quad-summit-in-manila-right-before-us-presidents-trilateral-with-xi-putin/3100198/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-02",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / United States",
+   "text": "US envoys reportedly meet Ukrainian and European officials in Berlin on 19 Nov.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Ron Popeski, Oleksandr Kozhukhar",
+   "outlet": "Reuters (via ThePrint)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/ukraines-zelenskiy-says-new-talks-on-peace-prospects-held-with-us-european-officials/3100507/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://georgiatoday.ge/zelensky-expects-concrete-results-from-november-17-ramstein-meeting-prioritizes-air-defense-and-ammunition"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261117-06",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "Sudan's army is pushing towards En Nahud in West Kordofan.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Oliver Mizzi",
+   "outlet": "The New Arab",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The New Arab",
+     "url": "https://www.newarab.com/news/rsf-commander-defects-army-makes-ground-kordofan"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ksat.com/news/world/2026/11/16/sudanese-army-airstrike-kills-at-least-13-in-west-kordofan-says-rights-group/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261117-01",
+   "title": "'No war, no peace': Can Iran break the deadlock with the US?",
+   "reporter": "Caolán Magee",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us",
+   "why": "Clearest map of where US–Iran diplomacy stands: Tehran's seven conditions, [[p:Mohammad Bagher Ghalibaf]]'s 'ball in the US court', Washington's pressure strategy and the risk of miscalculation (analysis).",
+   "segment": "Middle East",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261117-02",
+   "title": "Jericho's Palestinian residents fear a settler takeover",
+   "reporter": "Nour Odeh",
+   "outlet": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover",
+   "why": "First-hand reporting on how settlers are buying into Palestinian-run towns, a structural West Bank shift that daily violence counts miss (reporter's notebook).",
+   "segment": "Middle East",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-17",
+   "text": "Poland: Constitutional Tribunal judges' assembly on lifting Święczkowski's immunity and detaining him.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-04"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Washington's reply to Iran's two-day plan and the Qatari-backed draft (day 1: blockade lifted and some funds released; day 2: Hormuz reopens, then nuclear talks).",
+   "segment": "Middle East",
+   "watchId": "W-261110-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Iraq: whether more Iran border crossings close under the US Treasury request (Mandali closes temporarily from 13 Nov).",
+   "segment": "Middle East",
+   "watchId": "W-261110-02"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "India: [[p:Supreme Court of India|Supreme Court]] hearing on the petitions against the Election Commission's [[e:Special Intensive Revision|voter-roll revision]].",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-01"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Sweden: Kristersson reports to the Speaker on forming a government, and the Centre Party answers the two blocs' offers.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-01"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "49th ASEAN Summit and related summits in Manila, 16–18 Nov, with Trump attending on 16 Nov: any South China Sea code-of-conduct breakthrough and Myanmar's representation.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-01"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Netherlands: whether Jetten's minority cabinet survives the VVD's crisis talks over the tax plan.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-04"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "APEC in Shenzhen; possible Trump–Xi–Putin meeting on nuclear arms and Ukraine.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-20"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "House Democratic leadership elections, with [[p:Hakeem Jeffries]] running for Speaker; House Republicans also choose leaders after Mike Johnson stepped aside.",
+   "segment": "The Americas",
+   "watchId": "W-261105-01"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "State Duma second reading of Russia's 2027–29 budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-05"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Spain: Sánchez–Feijóo televised debate, organised by the Academia de la Televisión.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-02"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Coalition of the willing meeting in Berlin, hosted by Merz, expected to discuss Europe's seat at the next round of Ukraine talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-03"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "NATO consultations on letting pilots down radar-tracked drones without visual identification.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-04"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "COP31 climate conference in Antalya, 9–20 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-01"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "UN Secretary-General race: next straw poll, possibly with colour-coded ballots showing permanent-member vetoes.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Moldova's gas-shortage state of emergency expires; watch for an extension and the OSCE-facilitated Transnistria winter gas talks.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Sri Lanka: second-reading vote on the 2027 budget; the final vote follows on 14 Dec.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-02"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Iraq: deadline for [[p:Kata'ib Hezbollah]] to withdraw from Jurf al-Sakhar; possible army entry if it doesn't.",
+   "segment": "Middle East",
+   "watchId": "W-261117-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "OFAC licence for Lukoil foreign-asset sale talks expires; possible approval of the Boehly-led bid.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-07"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the future of Salvadoran troops in Haiti.",
+   "segment": "The Americas",
+   "watchId": "W-261112-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "EU discussion of a further Russia sanctions package after the 16 Nov listings.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-03"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Belarus amnesty bill text: does it cover political prisoners?",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-08"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Saudi Arabia (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "United Arab Emirates (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Qatar (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Oman",
+   "status": "no sources found"
+  },
+  {
+   "country": "Iran (domestic politics, courts, protests)",
+   "status": "no sources found"
+  },
+  {
+   "country": "Jordan",
+   "status": "quiet"
+  },
+  {
+   "country": "Syria (domestic, SDF integration)",
+   "status": "quiet"
+  },
+  {
+   "country": "Turkey (PKK peace process)",
+   "status": "quiet"
+  },
+  {
+   "country": "Gaza (stabilisation force)",
+   "status": "no sources found"
+  },
+  {
+   "country": "West Bank (Palestinian Authority politics)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera: Iran / United States / Qatar",
+   "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iran / United States / Qatar",
+   "url": "https://middleeasteye.net/live-blog/live-blog-update/qatar-says-us-and-iran-have-responded-positively-mediation",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (with AFP): Bahrain / Iran",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News (live blog): Saudi Arabia / Yemen",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Saudi Arabia / Yemen",
+   "url": "https://www.longwarjournal.org/archives/2026/11/houthis-retake-bab-al-mandeb-and-move-toward-aden.php",
+   "paywalled": false
+  },
+  {
+   "title": "The National: Iraq",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/17/iraqs-ruling-alliance-split-over-jurf-al-sakhar-standoff-as-militia-withdrawal-deadline-looms/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iraq",
+   "url": "https://en.964media.com/55399/",
+   "paywalled": false
+  },
+  {
+   "title": "Kuwait Times (KUNA): Kuwait / GCC",
+   "url": "https://kuwaittimes.com/article/53407/kuwait/kuwait-to-host-gcc-forward-hq/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Kuwait / GCC",
+   "url": "https://www.aljazeera.com/amp/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English: Israel",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Israel",
+   "url": "https://www.ynet.co.il/news/article/b1pzzq00rml",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Israel: Israel",
+   "url": "https://www.timesofisrael.com/smotrich-vows-to-back-kahana-for-knesset-speaker-only-if-arab-mks-not-made-deputies/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Israel",
+   "url": "https://www.ynetnews.com/article/skifn0ecfe",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Israel: Gaza",
+   "url": "https://www.timesofisrael.com/idf-targets-top-hamas-commander-in-strike-on-south-gaza-hospital-6-said-killed/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Gaza",
+   "url": "https://egyptianstreets.com/2026/11/13/egypt-condemns-israeli-strike-on-gazas-nasser-medical-complex/",
+   "paywalled": false
+  },
+  {
+   "title": "The National: Gaza",
+   "url": "https://www.thenationalnews.com/news/us/2026/11/12/un-countries-urge-israels-incoming-government-to-open-gaza-to-unrestricted-aid/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Gaza",
+   "url": "https://www.ochaopt.org/content/humanitarian-situation-report-13-november-2026",
+   "paywalled": false
+  },
+  {
+   "title": "The National: Lebanon",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/16/waltz-visits-beirut-as-un-peacekeepers-set-to-leave-with-lebanon-and-israel-still-at-odds/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Lebanon",
+   "url": "https://www.naharnet.com/stories/en/323785-us-ambassador-to-un-meets-aoun-salam-and-berri",
+   "paywalled": false
+  },
+  {
+   "title": "SOFX (aggregating Arab News, ToI, JPost): Lebanon",
+   "url": "https://www.sofx.com/israeli-aircraft-hit-hezbollah-bound-arms-near-syrian-border-as-un-exit-approaches/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Lebanon",
+   "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-16/ty-article/.premium/israel-strikes-deep-inside-lebanon-after-prolonged-restraint-at-u-s-request/000001a1-e597-d029-abeb-e7b725d00000",
+   "paywalled": true
+  },
+  {
+   "title": "ANKA: Turkey",
+   "url": "https://ankahaber.net/haber/yeni-parti-nin-1-olagan-kurultayi-nda-ilk-gun-ozel-genel-baskan-secildi-tutuklu-belediye-baskanlari-partiye-katildi-b4a394e1",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Turkey",
+   "url": "https://turkishminute.com/2026/11/16/turkeys-main-opposition-leader-re-elected-as-7-jailed-mayors-join-his-party",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent: Ukraine / Russia",
+   "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine / Russia",
+   "url": "https://newsukraine.rbc.ua/news/russia-strikes-kyiv-bridges-with-ballistic-1794896626.html",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (with AFP/AP): Bulgaria",
+   "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Bulgaria",
+   "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s",
+   "paywalled": false
+  },
+  {
+   "title": "ANI (via The Tribune): Philippines / United States",
+   "url": "https://www.tribuneindia.com/news/world/trump-arrives-in-philippines-for-asean-summit-will-meet-quad-leaders",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Philippines / United States",
+   "url": "https://theprint.in/diplomacy/modi-trump-set-to-meet-at-quad-summit-in-manila-right-before-us-presidents-trilateral-with-xi-putin/3100198/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via ThePrint): Ukraine / United States",
+   "url": "https://theprint.in/world/ukraines-zelenskiy-says-new-talks-on-peace-prospects-held-with-us-european-officials/3100507/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ukraine / United States",
+   "url": "https://georgiatoday.ge/zelensky-expects-concrete-results-from-november-17-ramstein-meeting-prioritizes-air-defense-and-ammunition",
+   "paywalled": false
+  },
+  {
+   "title": "The New Arab: Sudan",
+   "url": "https://www.newarab.com/news/rsf-commander-defects-army-makes-ground-kordofan",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Sudan",
+   "url": "https://www.ksat.com/news/world/2026/11/16/sudanese-army-airstrike-kills-at-least-13-in-west-kordofan-says-rights-group/",
+   "paywalled": false
+  }
+ ]
+}
