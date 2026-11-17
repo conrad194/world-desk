@@ -937,6 +937,34 @@
    "trackRecord": "Veteran Reuters Yemen correspondent covering the Houthi conflict since the 2010s.",
    "dateAdded": "2026-11-17",
    "status": "Watch"
+  },
+  {
+   "id": "ismail-saymaz",
+   "name": "İsmail Saymaz",
+   "segment": "Middle East",
+   "countries": "Turkey",
+   "languages": "Turkish",
+   "outlets": "Sözcü; Halk TV",
+   "basedIn": "Istanbul",
+   "slant": "opposition-leaning outlets",
+   "url": "https://turkishminute.com/2026/11/16/turkeys-stock-exchange-chair-wanted-fund-scandal-suspect-to-run-economy-jailed-executive-says",
+   "trackRecord": "Veteran investigative judiciary reporter who regularly obtains prosecutors' files; long coverage of the İmamoğlu and CHP cases.",
+   "dateAdded": "2026-11-17",
+   "status": "Watch"
+  },
+  {
+   "id": "lior-ben-ari",
+   "name": "Lior Ben Ari",
+   "segment": "Middle East",
+   "countries": "Lebanon, Syria, Israel",
+   "languages": "Hebrew, Arabic, English",
+   "outlets": "Ynet / Yedioth Ahronoth",
+   "basedIn": "Israel",
+   "slant": "",
+   "url": "https://www.ynetnews.com/article/rkyqzzd0fx",
+   "trackRecord": "Ynet's Arab-affairs correspondent who reads Lebanese and Arab media directly.",
+   "dateAdded": "2026-11-17",
+   "status": "Watch"
   }
  ]
 }

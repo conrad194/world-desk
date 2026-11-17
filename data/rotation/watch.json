@@ -829,6 +829,26 @@
    "checkDate": "2026-11-20",
    "happened": "",
    "eventId": "E-261117-18"
+  },
+  {
+   "id": "W-261117-02",
+   "dateAdded": "2026-11-17",
+   "segment": "Middle East",
+   "what": "Lebanon: Security Council drafting of a successor to [[p:United Nations Interim Force in Lebanon|UNIFIL]] before its mandate ends on 31 Dec.",
+   "expected": "France holds the pen; US envoy Mike Waltz discussed options in Beirut (The National).",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261117-31"
+  },
+  {
+   "id": "W-261117-03",
+   "dateAdded": "2026-11-17",
+   "segment": "Middle East",
+   "what": "Apex committee meeting of the Pakistan–Saudi–Turkey [[e:Mecca defence pact|Mecca Joint Defence Agreement]] in Islamabad.",
+   "expected": "Pakistani FM Ishaq Dar said 'hopefully' end of November (AFP).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261117-38"
   }
  ]
 }
