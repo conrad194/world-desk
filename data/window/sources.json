@@ -2207,6 +2207,18 @@
    "lean": "Neutral; legal publisher (Wolters Kluwer)",
    "status": "Watch",
    "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "krakowski-raport",
+   "name": "Krakowski Raport",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "City politics, budget analysis, daily briefings (weather, air, ER queues)",
+   "language": "Polish",
+   "url": "https://krakowskiraport.pl/",
+   "lean": "independent local, data-driven",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
   }
  ]
 }

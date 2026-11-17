@@ -196,7 +196,7 @@
    "expected": "Draft due by 15 November and first reading by 2 December, per the timetable the council set on 21 October.",
    "checkDate": "2026-11-16",
    "happened": "Gibała sent the draft 2027 budget to the council on 16 Nov: deficit 956.9m zł, revenue 10.93bn zł, spending 11.88bn zł; first reading is due by 2 Dec. https://pulskrakowa.pl/lukasz-gibala-przedstawil-budzet-krakowa-na-2027-rok-blisko-300-mln-zl-oszczednosci-i-rekordowe-srodki-na-edukacje/",
-   "eventId": ""
+   "eventId": "E-261117-19"
   },
   {
    "id": "W-261026-19",
@@ -1572,6 +1572,39 @@
    "checkDate": "2026-11-20",
    "happened": "",
    "eventId": "E-261117-12"
+  },
+  {
+   "id": "W-261117-05",
+   "dateAdded": "2026-11-17",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "what": "First reading of the 2027 draft budget in the City Council, and the councillors' response, which has not been reported so far",
+   "expected": "At a session by 2 Dec; adoption by 31 Dec (Krakowski Raport citing the council timetable)",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261117-19"
+  },
+  {
+   "id": "W-261117-06",
+   "dateAdded": "2026-11-17",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Decision on how to commemorate the 7 Nov victims (bullet marks, plaques or an artwork)",
+   "expected": "Mayor Gibała: decision after consulting residents and councillors, by end of January 2027",
+   "checkDate": "2027-01-31",
+   "happened": "",
+   "eventId": "E-261117-22"
+  },
+  {
+   "id": "W-261117-07",
+   "dateAdded": "2026-11-17",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "NIK request on the discounted AZS AKF riverside plot, and the appeal against the K38 hotel/water-sports centre permit",
+   "expected": "MP Gosek-Popiołek says she will file with NIK (KRKnews)",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261117-26"
   }
  ]
 }
