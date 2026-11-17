@@ -334,7 +334,7 @@
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
    "eventId": "E-261106-25",
-   "lastChecked": "2026-11-14"
+   "lastChecked": "2026-11-17"
   },
   {
    "id": "R-261106-05",
@@ -590,6 +590,22 @@
    "officialLink": "",
    "newsLink": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/",
    "eventId": "E-261117-07",
+   "lastChecked": "2026-11-17"
+  },
+  {
+   "id": "R-261117-02",
+   "dateLogged": "2026-11-17",
+   "place": "Poland",
+   "body": "Council of Ministers (Ministry of Energy)",
+   "name": "Bill on special protection of certain gas consumers in 2027 (gas price freeze)",
+   "changes": "Caps the gas price at 197.29 zł/MWh net (the 2026 level) for all of 2027 for protected customers. Sellers are compensated from a fund financed by a 10% levy on large gas importers' net revenues. URE-approved tariffs are kept for protected customers until end-2030.",
+   "affects": "Households, housing cooperatives, schools, hospitals, care homes, churches and shelters that use gas, and gas importers such as Orlen.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html",
+   "eventId": "E-261117-15",
    "lastChecked": "2026-11-17"
   }
  ]

@@ -2195,6 +2195,18 @@
    "lean": "Centre / local",
    "status": "Watch",
    "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "prawo-pl",
+   "name": "Prawo.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Legal news, courts",
+   "language": "Polish",
+   "url": "https://www.prawo.pl/",
+   "lean": "Neutral; legal publisher (Wolters Kluwer)",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
   }
  ]
 }

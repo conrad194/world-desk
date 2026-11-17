@@ -1550,6 +1550,28 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": "E-261117-07"
+  },
+  {
+   "id": "W-261117-03",
+   "dateAdded": "2026-11-17",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Second Belweder round on the Constitutional Tribunal and the Chancellery's joint constitutional draft, and whether KO or the Left join",
+   "expected": "Bogucki (TVN24, Rzeczpospolita): meeting on Wednesday Nov 18 at 17:00",
+   "checkDate": "2026-11-18",
+   "happened": "",
+   "eventId": "E-261117-10"
+  },
+  {
+   "id": "W-261117-04",
+   "dateAdded": "2026-11-17",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "TK disciplinary courts consider the suspension of Święczkowski",
+   "expected": "Prawo.pl: hearings on Nov 19 and 20",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261117-12"
   }
  ]
 }
