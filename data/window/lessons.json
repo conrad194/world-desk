@@ -1404,6 +1404,143 @@
      "why": "An overview of the body that runs India's national and state elections and how it stays independent."
     }
    ]
+  },
+  {
+   "id": "L10",
+   "num": 10,
+   "unit": "How each country is governed",
+   "title": "Federal vs unitary: US states; voivodeships, counties and municipalities; India's states and the three lists",
+   "dateTaught": "2026-11-17",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "Why can the same voting rule, first-past-the-post, produce a two-party system in the US but many parties in India, and how does Poland's system lead to coalitions?",
+   "prevAnswer": "First-past-the-post rewards parties that can win pluralities in particular districts; in the US that favours two national parties, but in India regional and identity-based parties dominate their own states and win seats there. Poland's Sejm uses proportional representation with a 5% threshold, so several parties win seats and governments usually need a coalition to reach a majority.",
+   "body": "Lessons 4 to 9 looked at the national level: presidents, prime ministers, parliaments, courts and elections. But most decisions that touch daily life, such as schools, roads, police and rubbish collection, are made below that level. The question today is who holds that power, and whether it is protected by the constitution or merely lent by the centre.\n\nA **federal** system divides sovereignty: the constitution gives some powers to the national government and others to the states, and neither can abolish the other. A **unitary** system keeps sovereignty in one place: regions and towns may have real powers and elected councils, but those powers come from ordinary national law, which parliament can rewrite.\n\n**United States: states came first.** The thirteen colonies became states before the Constitution existed, and they gave up only some powers to the new federal government. The [#Tenth Amendment](https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution) says that powers not delegated to the United States are reserved to the states or the people. Today the 50 states run their own constitutions, criminal law, schools, elections and licensing. Federal power has grown, helped by a broad reading of the Constitution's commerce and \"necessary and proper\" clauses since [#McCulloch v. Maryland](https://en.wikipedia.org/wiki/McCulloch_v._Maryland), and by grants of federal money with conditions attached. Still, Washington cannot simply redraw or abolish a state.\n\n> The balance was fought over at the [#Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)) in Philadelphia in 1787, where small states won equal representation in the Senate.\n\n**Poland: unitary, but decentralised.** Article 3 of the 1997 Constitution declares Poland a unitary state. Below Warsaw are three tiers of self-government: 16 **voivodeships** (województwa), 314 **counties** (powiaty) plus 66 cities with county status, and about 2,480 **municipalities** (gminy). Each tier has an elected council, and the gmina is presumed responsible for any local task the law doesn't assign elsewhere. Each voivodeship has two leaders: a **voivode** (wojewoda), appointed by the prime minister to represent the national government and check that local decisions are lawful, and a **marshal** (marszałek), chosen by the elected regional assembly (sejmik) to run regional policy and EU funds. Kraków is both a gmina and a city with county status, which is why its mayor drafts a budget of around 11bn zł.\n\n> The current map dates from the 1999 reform under Prime Minister [@Jerzy Buzek](https://en.wikipedia.org/wiki/Jerzy_Buzek), which cut 49 voivodeships to 16 and restored the counties.\n\n**India: federal with a strong centre.** Article 1 calls India a \"Union of States\", and the Seventh Schedule divides law-making into three lists: the **Union List** (defence, foreign affairs, railways, the census), the **State List** (police, public order, public health, agriculture) and the **Concurrent List** (education, forests, criminal procedure), where both may legislate but central law prevails in a clash. India today has 28 states and 8 union territories, which Delhi governs more directly. Unlike the US, Parliament can create new states or change their borders by ordinary law under Article 3, and the President can take over a state government under Article 356, known as **President's Rule**. Scholars often call the result \"quasi-federal\", though Indian courts have held that federalism is part of the Constitution's basic structure (lesson 8).\n\n> The three-list design was borrowed largely from the British [#Government of India Act 1935](https://en.wikipedia.org/wiki/Government_of_India_Act_1935).\n\nThe comparison shows a spectrum rather than two boxes. The US guards its states most strongly; India's states hold constitutional powers but the centre can reshape them; Poland's regions and towns have real budgets and elected leaders, yet their powers rest on statutes the Sejm can change.",
+   "comparison": [
+    {
+     "aspect": "Federal or unitary",
+     "US": "Federal: states hold reserved powers ([#Tenth Amendment](https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution))",
+     "Poland": "Unitary (Art. 3 of the Constitution), with decentralised self-government",
+     "India": "Federal \"Union of States\" (Art. 1) with a strong centre"
+    },
+    {
+     "aspect": "Main regional units",
+     "US": "50 states",
+     "Poland": "16 voivodeships, 314 counties + 66 county cities, ~2,480 gminas",
+     "India": "28 states, 8 union territories"
+    },
+    {
+     "aspect": "Who divides the powers",
+     "US": "Constitution: enumerated federal powers, the rest reserved",
+     "Poland": "Ordinary acts of the Sejm on local government",
+     "India": "Seventh Schedule: Union, State and Concurrent Lists"
+    },
+    {
+     "aspect": "Centre's representative in the region",
+     "US": "–",
+     "Poland": "Voivode (wojewoda), appointed by the PM",
+     "India": "Governor, appointed by the President"
+    },
+    {
+     "aspect": "Can the centre redraw or take over units?",
+     "US": "No: a state's borders need its consent",
+     "Poland": "Yes, by statute (e.g. the 1999 reform)",
+     "India": "Borders by law of Parliament (Art. 3); takeover via President's Rule (Art. 356)"
+    },
+    {
+     "aspect": "Local budgets",
+     "US": "State and city budgets set by their own legislatures and councils",
+     "Poland": "Each gmina, county and voivodeship passes its own budget",
+     "India": "State budgets in state assemblies; cities depend heavily on state funds"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Federalism",
+     "meaning": "Sovereignty constitutionally split between the national government and states, neither able to abolish the other."
+    },
+    {
+     "term": "Unitary state",
+     "meaning": "Sovereignty held by the national level; regional and local powers come from ordinary law."
+    },
+    {
+     "term": "Gmina / powiat / województwo",
+     "meaning": "Poland's municipality, county and voivodeship, the three tiers of local self-government."
+    },
+    {
+     "term": "Wojewoda vs marszałek",
+     "meaning": "The voivode represents the national government in a region; the marshal leads the elected regional self-government."
+    },
+    {
+     "term": "Seventh Schedule",
+     "meaning": "The part of India's Constitution listing Union, State and Concurrent subjects (Sangh Suchi, Rajya Suchi, Samavarti Suchi)."
+    },
+    {
+     "term": "President's Rule",
+     "meaning": "Central takeover of a state government under Article 356 of India's Constitution, now subject to judicial review."
+    }
+   ],
+   "example": "In 1994 the Supreme Court of India decided [#S. R. Bommai v. Union of India](https://en.wikipedia.org/wiki/S._R._Bommai_v._Union_of_India), a case that began when the central government dismissed the Karnataka government of [@S. R. Bommai](https://en.wikipedia.org/wiki/S._R._Bommai) in 1989 under Article 356, claiming he had lost his majority without letting the assembly vote. A nine-judge bench ruled that a proclamation of President's Rule can be reviewed by the courts, that a chief minister's majority should normally be tested on the floor of the assembly rather than judged by the Governor, and that federalism and secularism belong to the basic structure. Before the ruling, Article 356 had been used dozens of times, often against opposition-run states; afterwards its use fell sharply. The case is the clearest example of a court defending the federal balance against the centre.",
+   "inTheNews": "Kraków's mayor sent the city council his own 2027 budget of about 11.9bn zł in spending, a power Polish law gives each gmina. In India, Census 2027 rolls out state by state, but the census itself is a Union List subject run by Delhi.",
+   "newsEvents": [
+    "E-261117-19",
+    "E-261117-36",
+    "E-261117-33"
+   ],
+   "check": [
+    {
+     "q": "Why is Poland called a unitary state even though Kraków elects its own mayor and passes its own budget?",
+     "options": [
+      "Because the mayor is appointed by the prime minister",
+      "Because local powers rest on ordinary laws the Sejm can change, not on a constitutional division of sovereignty",
+      "Because Poland has no regional governments",
+      "Because the EU sets Kraków's budget"
+     ],
+     "answer": 1,
+     "explain": "Unitary does not mean centralised: Polish self-government is real, but its powers come from statutes, and Article 3 of the Constitution makes Poland a unitary state."
+    },
+    {
+     "q": "A dispute arises over a subject on India's Concurrent List, and a state law conflicts with a central law. What happens?",
+     "options": [
+      "The state law wins inside that state",
+      "The Governor decides",
+      "The central law generally prevails",
+      "Both laws are void"
+     ],
+     "answer": 2,
+     "explain": "Both levels may legislate on Concurrent List subjects, but where they clash, Parliament's law generally prevails (Article 254)."
+    },
+    {
+     "q": "Which power does the Indian centre have that the US federal government lacks?",
+     "options": [
+      "Running a national army",
+      "Redrawing state borders and creating new states by ordinary law",
+      "Collecting income tax",
+      "Signing treaties"
+     ],
+     "answer": 1,
+     "explain": "Article 3 lets India's Parliament reorganise states by simple law; in the US, changing a state's borders needs that state's consent."
+    }
+   ],
+   "recallQ": "Explain the difference between a voivode and a voivodeship marshal in Poland, and say what this two-headed arrangement tells you about a unitary state.",
+   "recallA": "The voivode is appointed by the prime minister to represent the national government in the region and check that local decisions are lawful; the marshal is chosen by the elected regional assembly and runs regional policy and funds. The pairing shows that Poland decentralises real power to elected regions while the centre keeps a supervisory presence, because sovereignty stays with the national state.",
+   "readMore": [
+    {
+     "title": "Tenth Amendment: overview (Constitution Annotated, Cornell LII)",
+     "url": "https://www.law.cornell.edu/constitution-conan/amendment-10/overview",
+     "why": "How US courts have read the reserved powers of the states."
+    },
+    {
+     "title": "Administrative division of Poland (Statistics Poland, GUS)",
+     "url": "https://stat.gov.pl/en/regional-statistics/classification-of-territorial-units/administrative-division-of-poland/",
+     "why": "Official counts of voivodeships, counties and gminas."
+    },
+    {
+     "title": "Seventh Schedule, List I: Union List (Constitution of India)",
+     "url": "https://www.constitutionofindia.net/schedules/list-i-union-list/",
+     "why": "The full list of central subjects, from defence to the census."
+    }
+   ]
   }
  ]
 }
