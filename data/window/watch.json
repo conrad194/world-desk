@@ -1627,6 +1627,17 @@
    "checkDate": "2026-11-21",
    "happened": "",
    "eventId": "E-261117-33"
+  },
+  {
+   "id": "W-261117-10",
+   "dateAdded": "2026-11-17",
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "what": "Whether Modi and Trump hold a bilateral meeting on the margins of the G20 leaders' summit in Florida (Dec 14–15), possibly with a trade-deal announcement",
+   "expected": "Unnamed source to ThePrint (Nov 16); Prabhasakshi speculation",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261117-43"
   }
  ]
 }

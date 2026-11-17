@@ -2243,6 +2243,18 @@
    "lean": "unclear; newsletter",
    "status": "Watch",
    "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "nowy-dziennik",
+   "name": "Nowy Dziennik",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "Polish-American weekly; carries PAP on US–Poland defence",
+   "language": "Polish",
+   "url": "https://dziennik.com",
+   "lean": "diaspora, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
   }
  ]
 }
