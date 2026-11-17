@@ -999,6 +999,109 @@
    "prevAnswer": "In 1991 the European Community claimed the lead on the crisis, but it lacked a common military and divided over recognising the breakaway states. The fighting went on until US-led diplomacy produced the Dayton Agreement in 1995, which pushed the EU to build its foreign policy role and appoint a High Representative.",
    "recallQ": "Why did Russia withdraw its signature from the 2005 Estonia–Russia border treaty?",
    "recallA": "When Estonia's parliament ratified the treaty, it added a preamble referring to the 1920 Treaty of Tartu and the continuity of the Estonian state. Moscow saw this as a hidden claim to the land transferred in 1944–45 and an implied accusation of occupation, so it pulled out; a new treaty signed in 2014 has still not been ratified."
+  },
+  {
+   "id": "2026-11-17",
+   "date": "2026-11-17",
+   "segment": "Middle East",
+   "title": "Why UNIFIL is leaving Lebanon after 48 years, and why it never kept the peace",
+   "thread": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "eventIds": [
+    "E-261117-31",
+    "E-261117-34",
+    "E-261117-32"
+   ],
+   "minutes": 4,
+   "hook": "US envoy [[p:Mike Waltz]] was in Beirut discussing what replaces the UN force in south Lebanon, whose mandate ends on 31 December. The force was meant to last months; its long, frustrated life explains why no one agrees on what comes next.",
+   "body": "When [[p:United Nations Interim Force in Lebanon|UNIFIL]] {{note: Created by UN Security Council Resolutions 425 and 426 on 19 March 1978; its first troops arrived four days later.}} was born in March 1978, the word \"interim\" was meant seriously. Days earlier, after a deadly Palestinian raid inside Israel, Israeli forces had swept into south Lebanon in what became the [[e:1978 South Lebanon conflict]]. The Security Council's [[e:United Nations Security Council Resolution 425|Resolution 425]] asked for three things: confirm an Israeli withdrawal, restore peace, and help the Lebanese state take back its own south. None of the three was ever fully achieved.\n\nThe problem was built in. Lebanon was three years into civil war, and the south was largely run by the [[p:Palestine Liberation Organization|PLO]] {{note: Founded in 1964 in Jerusalem; its fighters moved to Lebanon after being expelled from Jordan in 1970–71.}}. When Israel pulled back, it handed a border strip to a Christian-led militia it backed, later the [[p:South Lebanon Army]]. The peacekeepers were lightly armed, could act only with the consent of the parties, and sat between forces that did not want them there.\n\nThe first great turning point came in June 1982, when Israel invaded again and drove to Beirut in the [[e:1982 Lebanon War]]. UNIFIL was simply bypassed and spent three years behind Israeli lines doing humanitarian work. Out of that occupation grew [[p:Hezbollah]] {{note: Shia Islamist movement formed in the early 1980s in Lebanon with backing from Iran's Revolutionary Guards.}}, which fought Israel and the SLA in the \"security zone\" Israel kept after 1985. In 1996 Israeli shelling killed more than 100 civilians sheltering in a UN compound at Qana, the darkest day in the mission's history.\n\nIsrael withdrew in 2000, and the UN marked a \"Blue Line\" to verify the pullout. But Hezbollah, not the Lebanese army, filled the space. After the [[e:2006 Lebanon War]], [[e:United Nations Security Council Resolution 1701|Resolution 1701]] gave UNIFIL a second life: its ceiling rose from about 2,000 troops to 15,000, and the area between the Blue Line and the Litani River was meant to hold no armed men except the Lebanese army and the UN. In practice Hezbollah built tunnels and rocket sites there, while Israel flew over Lebanon almost daily. Each side cited the other's violations; the peacekeepers could report them but not stop them.\n\nThe 2023–24 war broke the arrangement. When Israeli troops crossed into Lebanon in October 2024, UNIFIL positions came under fire, and Israel asked the force to step aside. The November 2024 ceasefire left Israeli troops in five hilltop positions. In August 2025, under US pressure to cut a mission Washington saw as costly and toothless, the Council extended UNIFIL \"for a final time\" to 31 December 2026.\n\nThat is why today's talks matter. Whoever follows UNIFIL inherits the same 48-year-old question: who, if anyone, can make the state the only armed power in south Lebanon?",
+   "timeline": [
+    {
+     "when": "Mar 1978",
+     "text": "Israel invades south Lebanon after a Palestinian raid; Resolutions 425 and 426 create UNIFIL."
+    },
+    {
+     "when": "Jun 1982",
+     "text": "Israel invades again and reaches Beirut, bypassing UNIFIL; [[p:Hezbollah]] emerges during the occupation."
+    },
+    {
+     "when": "Apr 1996",
+     "text": "Israeli shelling of the UN compound at Qana kills more than 100 Lebanese civilians."
+    },
+    {
+     "when": "May 2000",
+     "text": "Israel withdraws; the UN draws the Blue Line to verify the pullout."
+    },
+    {
+     "when": "Aug 2006",
+     "text": "After a 34-day war, [[e:United Nations Security Council Resolution 1701|Resolution 1701]] expands UNIFIL to a ceiling of 15,000 troops south of the Litani."
+    },
+    {
+     "when": "Oct–Nov 2024",
+     "text": "Israel's ground invasion puts UNIFIL positions under fire; a November ceasefire leaves Israeli troops at five points in Lebanon."
+    },
+    {
+     "when": "Aug 2025",
+     "text": "The Security Council unanimously extends UNIFIL a final time, to 31 December 2026, followed by a one-year withdrawal."
+    },
+    {
+     "when": "17 Nov 2026",
+     "text": "Waltz meets Lebanon's leaders on a successor; France drafts a resolution and Israel reportedly rejects Lebanon's proposed troop contributors."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Israel",
+     "view": "Israel sees UNIFIL as a force that watched [[p:Hezbollah]] arm itself south of the Litani after 2006 without stopping it, and argues that only its own military pressure and Hezbollah's disarmament can secure the north."
+    },
+    {
+     "side": "Lebanese government",
+     "view": "Beirut sees UNIFIL as a witness and a buffer that lent international legitimacy to its claim on the south, and says the real violation is continued Israeli occupation and strikes; it wants a UN-mandated presence to continue while its army deploys."
+    },
+    {
+     "side": "Hezbollah",
+     "view": "Hezbollah tells the story as one of resistance that, not the UN, forced Israel out in 2000; leader [[p:Naim Qassem]] says it will not disarm while Israeli troops remain on Lebanese soil."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Resolution 1701",
+     "meaning": "The 2006 UN Security Council resolution that ended the [[e:2006 Lebanon War]] and set out a zone south of the Litani free of armed groups other than the Lebanese army and UNIFIL."
+    },
+    {
+     "term": "Blue Line",
+     "meaning": "The withdrawal line the UN drew in 2000 to confirm Israel's pullout; it is not an agreed international border."
+    },
+    {
+     "term": "Litani River",
+     "meaning": "The river about 30 km north of the border that marks the northern edge of UNIFIL's area of operations."
+    },
+    {
+     "term": "Security zone",
+     "meaning": "The strip of south Lebanon Israel held from 1985 to 2000 with its allied militia, the [[p:South Lebanon Army]]."
+    }
+   ],
+   "whyItMatters": "UNIFIL's end removes the one international presence that has sat between Israel and Hezbollah for nearly half a century. Watch whether the French draft creates a smaller UN or non-UN mission, whether Israel accepts its contributors, and whether the [[p:Lebanese Armed Forces]] can take over the south while Israeli troops still hold five positions.",
+   "readMore": [
+    {
+     "title": "UNIFIL Background",
+     "url": "https://unifil.unmissions.org/background",
+     "why": "The mission's own history, from the 1978 invasion to the 2006 expansion."
+    },
+    {
+     "title": "Security Council extends UNIFIL a final time (UN press release, Aug 2025)",
+     "url": "https://press.un.org/en/2025/sc16159.doc.htm",
+     "why": "The text and debate behind Resolution 2790 and the 2026 end date."
+    },
+    {
+     "title": "UN News: Security Council renews Lebanon mission for a final time",
+     "url": "https://news.un.org/en/story/2025/08/1165736",
+     "why": "How the US, France and others framed the decision to wind the force down."
+    }
+   ],
+   "recallQ": "Why did Resolution 1701 in 2006 give UNIFIL a second life rather than end it, and what was it supposed to achieve south of the Litani?",
+   "recallA": "After the 2006 war, the Council raised UNIFIL's ceiling from about 2,000 to 15,000 troops to help the Lebanese army deploy to the south. The area between the Blue Line and the Litani was meant to hold no weapons except the army's and the UN's, but Hezbollah kept its arsenal there and Israel kept violating Lebanese airspace.",
+   "prevQuestion": "Why did Russia withdraw its signature from the 2005 Estonia–Russia border treaty?",
+   "prevAnswer": "When Estonia's parliament ratified the treaty, it added a preamble referring to the 1920 Treaty of Tartu and the continuity of the Estonian state. Moscow saw this as a hidden claim to the land transferred in 1944–45 and an implied accusation of occupation, so it pulled out; a new treaty signed in 2014 has still not been ratified."
   }
  ]
 }
