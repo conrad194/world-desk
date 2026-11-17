@@ -575,6 +575,22 @@
    "newsLink": "https://newsonair.gov.in/centre-extends-ban-on-zakir-naik-led-islamic-research-foundation-for-five-years/",
    "eventId": "E-261114-46",
    "id": "R-261114-05"
+  },
+  {
+   "id": "R-261117-01",
+   "dateLogged": "2026-11-17",
+   "place": "US",
+   "body": "DHS / ICE (SEVP)",
+   "name": "Fixed admission period for F, J and I visa holders (end of 'duration of status')",
+   "changes": "Would have capped international students', exchange visitors' and foreign journalists' stays at fixed terms, generally up to four years, instead of open-ended 'duration of status'. A court has now struck it down.",
+   "affects": "International students, postdocs and researchers (including many from India), foreign journalists, and US universities.",
+   "stage": "Struck down / withdrawn",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/",
+   "eventId": "E-261117-07",
+   "lastChecked": "2026-11-17"
   }
  ]
 }

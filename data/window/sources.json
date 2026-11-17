@@ -2171,6 +2171,30 @@
    "lean": "neutral, local",
    "status": "Watch",
    "dateAdded": "2026-11-16"
+  },
+  {
+   "id": "stat-news",
+   "name": "STAT News",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Health, science and research policy",
+   "language": "English",
+   "url": "https://www.statnews.com/",
+   "lean": "Centre / health trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "anchorage-daily-news",
+   "name": "Anchorage Daily News",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Alaska politics and elections",
+   "language": "English",
+   "url": "https://www.adn.com/",
+   "lean": "Centre / local",
+   "status": "Watch",
+   "dateAdded": "2026-11-17"
   }
  ]
 }

@@ -295,6 +295,14 @@
    "domain": "Health, medicine & food safety",
    "status": "Active",
    "summary": "Measles spread across the US in 2025-26, with more than 5,400 cases and up to 10 deaths in 2026; PAHO revoked US elimination status in November 2026 amid disputes over how HHS counts deaths."
+  },
+  {
+   "id": "nvidia-leadership-crisis",
+   "name": "Nvidia leadership crisis",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "Active",
+   "summary": "Jensen Huang's ouster over an affair with a suspected Chinese spy, the board probe, the reinstatement campaign, congressional scrutiny of chip-export controls, and the CEO search."
   }
  ]
 }

@@ -1528,6 +1528,28 @@
    "checkDate": "2027-03-31",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261117-01",
+   "dateAdded": "2026-11-17",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "Whether the Nvidia board reinstates Jensen Huang or names a permanent CEO (FT: Arm's Rene Haas approached)",
+   "expected": "FT reports allies are lobbying the board; the board says no formal search has started",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261117-02"
+  },
+  {
+   "id": "W-261117-02",
+   "dateAdded": "2026-11-17",
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "what": "Government appeal of Judge Saylor's ruling striking down the four-year cap on student and scholar visa stays",
+   "expected": "STAT: the government's appeal of the earlier preliminary order is already pending",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261117-07"
   }
  ]
 }

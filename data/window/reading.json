@@ -767,6 +767,30 @@
    "language": "English",
    "url": "https://www.stripes.com/theaters/europe/2026-11-15/us-troop-levels-europe-eucom-nato-23470991.html",
    "why": "Explains the numbers behind the force-posture review that will decide whether Poland gains or loses US troops."
+  },
+  {
+   "id": "RL-261117-01",
+   "dateAdded": "2026-11-17",
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "title": "The FAA's ground stop has a simple culprit. Its causes may not",
+   "reporter": "",
+   "outlet": "Fast Company",
+   "language": "English",
+   "url": "https://www.fastcompany.com/91643272/the-faa-was-warned-about-its-telecom-upgrade",
+   "why": "Looks past the router to the warnings the FAA had about its telecom upgrade (not read in full)."
+  },
+  {
+   "id": "RL-261117-02",
+   "dateAdded": "2026-11-17",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "reporter": "Michael Acton",
+   "outlet": "Financial Times / The Irish Times",
+   "language": "English",
+   "url": "https://www.irishtimes.com/technology/big-tech/2026/11/16/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies/",
+   "why": "The fullest account of the boardroom fight ahead of Nvidia's earnings."
   }
  ]
 }
