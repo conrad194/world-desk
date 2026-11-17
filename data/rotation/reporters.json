@@ -909,6 +909,34 @@
    "trackRecord": "Donbas.Realii correspondent covering front-line cities in Donetsk Oblast in Ukrainian.",
    "dateAdded": "2026-11-16",
    "status": "Watch"
+  },
+  {
+   "id": "sinan-mahmoud",
+   "name": "Sinan Mahmoud",
+   "segment": "Middle East",
+   "countries": "Iraq",
+   "languages": "Arabic, English",
+   "outlets": "The National",
+   "basedIn": "Baghdad",
+   "slant": "",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/17/iraqs-ruling-alliance-split-over-jurf-al-sakhar-standoff-as-militia-withdrawal-deadline-looms/",
+   "trackRecord": "Long-time Baghdad correspondent with sourcing inside the Coordination Framework and security forces.",
+   "dateAdded": "2026-11-17",
+   "status": "Watch"
+  },
+  {
+   "id": "mohammed-ghobari",
+   "name": "Mohammed Ghobari",
+   "segment": "Middle East",
+   "countries": "Yemen",
+   "languages": "Arabic, English",
+   "outlets": "Reuters",
+   "basedIn": "Yemen",
+   "slant": "",
+   "url": "https://www.al-monitor.com/originals/2026/11/yemeni-government-force-retreats-strait-major-setback-war-against-houthis",
+   "trackRecord": "Veteran Reuters Yemen correspondent covering the Houthi conflict since the 2010s.",
+   "dateAdded": "2026-11-17",
+   "status": "Watch"
   }
  ]
 }

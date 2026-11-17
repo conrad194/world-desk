@@ -819,6 +819,16 @@
    "checkDate": "2026-11-21",
    "happened": "",
    "eventId": "E-261116-13"
+  },
+  {
+   "id": "W-261117-01",
+   "dateAdded": "2026-11-17",
+   "segment": "Middle East",
+   "what": "Iraq: deadline for [[p:Kata'ib Hezbollah]] to withdraw from Jurf al-Sakhar; possible army entry if it doesn't.",
+   "expected": "A security source told The National (8pm, 20 Nov); Shafaq's government sources also cite 20 Nov.",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261117-18"
   }
  ]
 }
