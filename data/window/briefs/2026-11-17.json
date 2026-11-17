@@ -1,0 +1,723 @@
+{
+ "date": "2026-11-17",
+ "top5": [
+  {
+   "text": "Quad leaders, including Trump and Modi, meet in Manila this evening for the first time since 2024; Indian sources rule out a separate Modi–Trump bilateral.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "ANI; ThePrint; PTI via The Federal; Asianet Newsable",
+     "url": "https://aninews.in/news/world/us/white-house-confirms-quad-leaders-meeting-in-manila-on-sidelines-of-asean-summit16020261116124847/"
+    }
+   ]
+  },
+  {
+   "text": "Poland’s Tribunal crisis: KO and the Left boycotted the President’s Belweder talks; the Tribunal assembly on lifting Święczkowski’s immunity is due today.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "TVN24; Rzeczpospolita; WP",
+     "url": "https://tvn24.pl/polska/spotkanie-w-belwederze-w-sprawie-trybunalu-konstytucyjnego-szef-kancelarii-prezydenta-zbigniew-bogucki-zapowiedzial-kolejne-kroki-st9341574"
+    }
+   ]
+  },
+  {
+   "text": "Gibała’s first Kraków budget plans a 957m zł deficit for 2027 and claims 300m zł in savings, a figure Krakowski Raport disputes.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Puls Krakowa; TVN24; Krakowski Raport; Kurier Krakowski",
+     "url": "https://pulskrakowa.pl/lukasz-gibala-przedstawil-budzet-krakowa-na-2027-rok-blisko-300-mln-zl-oszczednosci-i-rekordowe-srodki-na-edukacje/"
+    }
+   ]
+  },
+  {
+   "text": "India’s wholesale inflation hit 12.29% in October on a 33% jump in fuel and power; Cyclone Akvan is heading for the Andhra coast around Nov 20.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Business Standard; The Tribune; Moneylife",
+     "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html"
+    }
+   ]
+  },
+  {
+   "text": "Nvidia reports Q3 results tonight as the FT says ousted CEO Jensen Huang is weighing a comeback.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Financial Times (via The Irish Times); CNBC",
+     "url": "https://www.irishtimes.com/technology/big-tech/2026/11/16/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261117-01",
+    "domain": "Foreign relations",
+    "text": "Trump left for Asia on Monday with Rubio and Bessent: ASEAN summit and Marcos talks in Manila first, then APEC in Shenzhen. He said the trip is mostly about economics and floated a possible Kim Jong Un meeting.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Daily Tribune (Philippines); NPR",
+      "url": "https://tribune.net.ph/2026/11/17/trump-en-route-to-manila-for-asean-summit"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6040052/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-02",
+    "domain": "Economy, business & markets",
+    "text": "FT: Huang is weighing a comeback at Nvidia as allies lobby the board, while Treasury Secretary Bessent calls for a 'dramatic shake-up'. Nvidia reports Q3 results today after the US close.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Financial Times (via The Irish Times); CNBC",
+      "url": "https://www.irishtimes.com/technology/big-tech/2026/11/16/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261117-05",
+    "domain": "Health, medicine & food safety",
+    "text": "PAHO is expected to formally confirm today that the US has lost measles-elimination status. HHS points to $100 million in extra funding and says it still recommends the MMR vaccine.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US measles resurgence",
+    "links": [
+     {
+      "label": "NBC News",
+      "url": "https://www.nbcdfw.com/health/u-s-loses-measles-elimination-status-erasing-decades-of-progress/4107083/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261117-10",
+    "domain": "Politics & government",
+    "text": "Presidential talks on ending the Constitutional Tribunal crisis drew PiS, Konfederacja, PSL and Polska 2050 but were boycotted by KO and the Left; the Palace will table a joint constitutional draft, and talks resume Wednesday.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "TVN24; Rzeczpospolita; WP",
+      "url": "https://tvn24.pl/polska/spotkanie-w-belwederze-w-sprawie-trybunalu-konstytucyjnego-szef-kancelarii-prezydenta-zbigniew-bogucki-zapowiedzial-kolejne-kroki-st9341574"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/polityka/art45496071-belweder-chce-wspolnego-projektu-zmian-w-tk-bez-porozumienia-z-ko-i-lewica"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-13",
+    "domain": "Technology, AI & cyber",
+    "text": "Key e-government services such as residence registration, PESEL checks and passport applications are back after the cyberattack, but ePUAP remains only partly working and no attacker has been named.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Cyberattacks on Polish infrastructure",
+    "links": [
+     {
+      "label": "4lomza.pl (ministry/COI statements); Rzeczpospolita",
+      "url": "https://4lomza.pl/index.php?wiad=73976"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45478321-epuap-nie-dziala-atak-hakerski-mial-sparalizowac-polske-dopiero-za-miesiac"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-15",
+    "domain": "Environment, energy & disasters",
+    "text": "The government is due on Tuesday to adopt a bill freezing household gas prices for 2027 at this year's 197.29 zł/MWh, funded by a 10% levy on large gas importers' revenues.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Portal Samorządowy (PAP); Wszystko co Najważniejsze",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://strefainwestorow.pl/wiadomosci/20261116/we-wtorek-17-listopada-rzad-zajmie-sie-projektem-dot-maksymalnej-ceny-gazu-w-27"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261117-19",
+    "domain": "Economy, business & markets",
+    "text": "Gibała's first Kraków budget plans a 2027 deficit of 957m zł, about 320m zł below this year's, and claims 300m zł in savings, with record education spending and cheaper fares.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków city finances and the 2027 budget",
+    "links": [
+     {
+      "label": "Puls Krakowa; TVN24; Krakowski Raport; Kurier Krakowski",
+      "url": "https://pulskrakowa.pl/lukasz-gibala-przedstawil-budzet-krakowa-na-2027-rok-blisko-300-mln-zl-oszczednosci-i-rekordowe-srodki-na-edukacje/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakowskiraport.pl/artykul/3100-krakow-zaciska-pasa-wydatki-w-budzecie-na-2027-rok-rosna-o-412-mln-zl"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-21",
+    "domain": "Defense, security & crime",
+    "text": "Minister Siemoniak says the Kraków Main Square attacker was fascinated by mass killers, the attack was planned, and there is so far no sign of an ideological motive or outside help.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "RMF FM (citing Rzeczpospolita); Rzeczpospolita/PAP",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-atak-w-krakowie-minister-ujawnia-najnowsze-ustalenia-o-motyw,nIdn,1026221"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/przestepczosc/art45485501-zamach-w-krakowie-sledczy-ustalili-trase-sprawcy-ale-nadal-szukaja-waznych-nagran"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261117-23",
+    "domain": "Defense, security & crime",
+    "text": "Kraków's Christmas market will go ahead as usual; retractable bollards around the Main Square are planned for next year with voivode co-funding.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Krakowski Raport",
+      "url": "https://krakowskiraport.pl/artykul/3099-pomysly-na-upamietnienie-ofiar-ustalenia-sledczych-dorozki-na-rynku-co-sie-dziej"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-27",
+    "domain": "Infrastructure, transport & housing",
+    "text": "From Wed 18 to Fri 20 Nov the A4 Kraków bypass towards Katowice narrows to one lane near Skawina for a viaduct joint repair, which will mean jams.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "RMF FM",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-utrudnienia-na-obwodnicy-krakowa-zaczna-sie-od-poniedzialku,nIdn,1026001"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261117-32",
+    "domain": "Economy, business & markets",
+    "text": "India's wholesale inflation rose to 12.29% in October, the highest in the current series, as fuel and power prices jumped 32.84%. That adds pressure on the RBI ahead of its Dec 4 policy decision.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "Business Standard; The Tribune; Moneylife",
+      "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.tribuneindia.com/news/business/wholesale-inflation-rises-to-12-29-in-october-on-higher-fuel-power-prices/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-33",
+    "domain": "Environment, energy & disasters",
+    "text": "Cyclone Akvan formed in the Bay of Bengal on Nov 16. IMD expects it to become a very severe cyclonic storm and cross the Andhra coast between Nellore and Tuni around Nov 20.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "India.com; The Hans India",
+      "url": "https://www.india.com/news/india/cyclone-akvan-intensifies-over-bay-of-bengal-likely-to-make-landfall-on-november-20-with-145-kmph-winds-heavy-rain-alert-in-south-bengal-odisha-8545424/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thehansindia.com/news/cities/amaravati/cyclone-akvan-poses-fresh-threat-to-andhra-pradesh-1142863"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261117-34",
+    "domain": "Law, courts & regulation",
+    "text": "The INDIA bloc asked the Supreme Court to let it put 48 questions to the CEC and Election Commissioners about the SIR, ahead of the Nov 17 hearing on pleas against CEC Gyanesh Kumar.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "DT Next (IANS); Daily Pioneer; National Herald",
+      "url": "https://www.dtnext.in/news/national/on-how-many-decisions-did-ecs-disagree-with-cec-whos-decision-was-sir-congress-puts-queries-before-sc"
+     },
+     {
+      "label": "Second source",
+      "url": "https://dailypioneer.com/india/congress-seeks-supreme-court-nod-to-question-cec-gyanesh-kumar-with-48-queries-on-sir"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "SCT (Clean Transport Zone) exemptions do not renew automatically. Renewals for 2027 open today online at sct.zdmk.krakow.pl, in the mKraków app or at ZDMK, ul. Centralna 53; allow up to 14 days.",
+   "link": "https://krakowportal.pl/zwolnienia-z-sct-w-krakowie-na-2027-rok-od-17-listopada-mozna-skladac-wnioski/"
+  },
+  {
+   "kind": "Closure",
+   "text": "The A4 Kraków bypass towards Katowice narrows to one lane over 600 m between the Skawina and Południe junctions from Wednesday 18 Nov to Friday evening 20 Nov, day and night.",
+   "link": "https://www.rmf24.pl/regiony/krakow/news-utrudnienia-na-obwodnicy-krakowa-zaczna-sie-od-poniedzialku,nIdn,1026001"
+  },
+  {
+   "kind": "Air quality",
+   "text": "On Monday morning 5 of 6 GIOŚ stations in Kraków showed good air and no smog alert was reported; we could not read today's GIOŚ readings, so check powietrze.gios.gov.pl.",
+   "link": "https://krakowskiraport.pl/artykul/3062-dzien-dobry-krakowie-2026-11-16"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261117-44",
+    "domain": "Defense, security & crime",
+    "text": "Kosiniak-Kamysz meets Pentagon policy chief Elbridge Colby in Brussels today to discuss a bigger US troop presence in Poland, and will urge the EU to open defence funding to US-made equipment.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "TVN24 (PAP); Nowy Dziennik (PAP)",
+      "url": "https://tvn24.pl/polska/minister-obrony-spotka-sie-z-wiceszefem-pentagonu-data-i-tematy-rozmow-st9341600"
+     },
+     {
+      "label": "Second source",
+      "url": "https://dziennik.com/szef-mon-spotka-sie-z-podsekretarzem-wojny-ws-obecnosci-wojsk-usa-w-polsce/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261117-43",
+    "domain": "Foreign relations",
+    "text": "The White House confirmed a Quad leaders' meeting with Modi, Trump, Takaichi and Albanese in Manila on Tuesday evening (about 11:15 Warsaw time). Indian sources rule out a separate Modi–Trump bilateral and point to December's G20 in Florida instead.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "ANI; ThePrint; PTI via The Federal; Asianet Newsable",
+      "url": "https://aninews.in/news/world/us/white-house-confirms-quad-leaders-meeting-in-manila-on-sidelines-of-asean-summit16020261116124847/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://theprint.in/diplomacy/modi-trump-set-to-meet-at-quad-summit-in-manila-right-before-us-presidents-trilateral-with-xi-putin/3100198/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261117-01",
+   "name": "Fixed admission period for F, J and I visa holders (end of 'duration of status')",
+   "place": "US",
+   "body": "DHS / ICE (SEVP)",
+   "stage": "Struck down / withdrawn",
+   "changes": "Would have capped international students', exchange visitors' and foreign journalists' stays at fixed terms, generally up to four years, instead of open-ended 'duration of status'. A court has now struck it down.",
+   "affects": "International students, postdocs and researchers (including many from India), foreign journalists, and US universities.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/"
+  },
+  {
+   "id": "R-261117-02",
+   "name": "Bill on special protection of certain gas consumers in 2027 (gas price freeze)",
+   "place": "Poland",
+   "body": "Council of Ministers (Ministry of Energy)",
+   "stage": "Proposed",
+   "changes": "Caps the gas price at 197.29 zł/MWh net (the 2026 level) for all of 2027 for protected customers. Sellers are compensated from a fund financed by a 10% levy on large gas importers' net revenues. URE-approved tariffs are kept for protected customers until end-2030.",
+   "affects": "Households, housing cooperatives, schools, hospitals, care homes, churches and shelters that use gas, and gas importers such as Orlen.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html"
+  }
+ ],
+ "deepDive": {
+  "domain": "Economy, business & markets",
+  "title": "Inflation, budgets and AI money: the economy this Tuesday",
+  "body": "**The oil shock still drives India.** Wholesale inflation hit 12.29% in October, the highest in the current series, almost entirely because fuel and power jumped about 33%. With retail inflation above the RBI's 6% ceiling, economists expect a rate rise on 4 December ([Business Standard](https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html)).\n\n**Poland is moving the other way.** Core inflation fell to 2.9% and headline CPI to 3.5%, supporting further rate cuts. The government is due today to adopt a 2027 gas price freeze worth about 6.2bn zł, paid for by a levy on big importers rather than the budget.\n\n**Kraków's budget tests Gibała's austerity claims.** Krakowski Raport argues that higher PIT forecasts, not the 300m zł of announced savings, explain most of the smaller 2027 deficit ([Krakowski Raport](https://krakowskiraport.pl/artykul/3100-krakow-zaciska-pasa-wydatki-w-budzecie-na-2027-rok-rosna-o-412-mln-zl)).\n\n**US markets wait on AI**: Nvidia reports tonight and Anthropic lists on Thursday, with a December Fed hike still possible.\n\n**Trade: no new tariffs.** Trump calls his Asia trip mostly about economics. India brings a $51.6bn ASEAN deficit to Manila, and the India–US deal now targets March 2027 ([Outlook India](https://www.outlookindia.com/international/narendra-modi-manila-asean-summit-india-trade-deficit-aitiga-exports-imports)).",
+  "links": [
+   {
+    "label": "Business Standard",
+    "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html"
+   },
+   {
+    "label": "Krakowski Raport",
+    "url": "https://krakowskiraport.pl/artykul/3100-krakow-zaciska-pasa-wydatki-w-budzecie-na-2027-rok-rosna-o-412-mln-zl"
+   },
+   {
+    "label": "Outlook India",
+    "url": "https://www.outlookindia.com/international/narendra-modi-manila-asean-summit-india-trade-deficit-aitiga-exports-imports"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261117-04",
+   "title": "Kraków zaciska pasa? Wydatki w budżecie na 2027 rok rosną o 412 mln zł",
+   "reporter": "Grzegorz Bąk",
+   "outlet": "Krakowski Raport",
+   "url": "https://krakowskiraport.pl/artykul/3100-krakow-zaciska-pasa-wydatki-w-budzecie-na-2027-rok-rosna-o-412-mln-zl",
+   "why": "Checks the city's 300m zł savings claim against the budget documents. It finds that higher tax forecasts, not cuts, do most of the work, and it lists the culture and sport cuts the city's announcement left out.",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-17",
+   "text": "Quad leaders’ meeting in Manila (evening); Kosiniak-Kamysz meets Pentagon’s Colby in Brussels.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Tribunal assembly on Święczkowski’s immunity; government takes up the 2027 gas price freeze.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "Nvidia Q3 results after the US close; expected PAHO statement on US measles status.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "City Council: fares, Lviv partnership, leaving nine associations, 2027 tax rates; A4 bypass narrows near Skawina until Nov 20.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Trump–Putin–Xi meeting in Shenzhen; Anthropic Nasdaq debut.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "CCD2 consumer-credit rules apply; Poland has no implementing law yet.",
+   "place": "EU (applies in Poland)"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Cyclone Akvan expected to cross the Andhra coast between Nellore and Tuni.",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Daily Tribune (Philippines); NPR",
+   "url": "https://tribune.net.ph/2026/11/17/trump-en-route-to-manila-for-asean-summit",
+   "paywalled": false
+  },
+  {
+   "title": "Financial Times (via The Irish Times); CNBC",
+   "url": "https://www.irishtimes.com/technology/big-tech/2026/11/16/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies/",
+   "paywalled": true
+  },
+  {
+   "title": "NBC News",
+   "url": "https://www.nbcdfw.com/health/u-s-loses-measles-elimination-status-erasing-decades-of-progress/4107083/",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24; Rzeczpospolita; WP",
+   "url": "https://tvn24.pl/polska/spotkanie-w-belwederze-w-sprawie-trybunalu-konstytucyjnego-szef-kancelarii-prezydenta-zbigniew-bogucki-zapowiedzial-kolejne-kroki-st9341574",
+   "paywalled": false
+  },
+  {
+   "title": "4lomza.pl (ministry/COI statements); Rzeczpospolita",
+   "url": "https://4lomza.pl/index.php?wiad=73976",
+   "paywalled": false
+  },
+  {
+   "title": "Portal Samorządowy (PAP); Wszystko co Najważniejsze",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa; TVN24; Krakowski Raport; Kurier Krakowski",
+   "url": "https://pulskrakowa.pl/lukasz-gibala-przedstawil-budzet-krakowa-na-2027-rok-blisko-300-mln-zl-oszczednosci-i-rekordowe-srodki-na-edukacje/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF FM (citing Rzeczpospolita); Rzeczpospolita/PAP",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-atak-w-krakowie-minister-ujawnia-najnowsze-ustalenia-o-motyw,nIdn,1026221",
+   "paywalled": true
+  },
+  {
+   "title": "Krakowski Raport",
+   "url": "https://krakowskiraport.pl/artykul/3099-pomysly-na-upamietnienie-ofiar-ustalenia-sledczych-dorozki-na-rynku-co-sie-dziej",
+   "paywalled": false
+  },
+  {
+   "title": "RMF FM",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-utrudnienia-na-obwodnicy-krakowa-zaczna-sie-od-poniedzialku,nIdn,1026001",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard; The Tribune; Moneylife",
+   "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "India.com; The Hans India",
+   "url": "https://www.india.com/news/india/cyclone-akvan-intensifies-over-bay-of-bengal-likely-to-make-landfall-on-november-20-with-145-kmph-winds-heavy-rain-alert-in-south-bengal-odisha-8545424/",
+   "paywalled": false
+  },
+  {
+   "title": "DT Next (IANS); Daily Pioneer; National Herald",
+   "url": "https://www.dtnext.in/news/national/on-how-many-decisions-did-ecs-disagree-with-cec-whos-decision-was-sir-congress-puts-queries-before-sc",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 (PAP); Nowy Dziennik (PAP)",
+   "url": "https://tvn24.pl/polska/minister-obrony-spotka-sie-z-wiceszefem-pentagonu-data-i-tematy-rozmow-st9341600",
+   "paywalled": false
+  },
+  {
+   "title": "ANI; ThePrint; PTI via The Federal; Asianet Newsable",
+   "url": "https://aninews.in/news/world/us/white-house-confirms-quad-leaders-meeting-in-manila-on-sidelines-of-asean-summit16020261116124847/",
+   "paywalled": false
+  }
+ ]
+}
