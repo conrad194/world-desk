@@ -2255,6 +2255,30 @@
    "lean": "diaspora, neutral",
    "status": "Watch",
    "dateAdded": "2026-11-17"
+  },
+  {
+   "id": "biospace",
+   "name": "BioSpace",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Biotech, pharma and FDA policy",
+   "language": "English",
+   "url": "https://www.biospace.com/",
+   "lean": "Trade / neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "pymnts",
+   "name": "PYMNTS",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Payments, fintech, AI business",
+   "language": "English",
+   "url": "https://www.pymnts.com/",
+   "lean": "Business trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
   }
  ]
 }

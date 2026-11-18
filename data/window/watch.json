@@ -1197,7 +1197,7 @@
    "expected": "Nvidia says it will still report on Nov 17",
    "checkDate": "2026-11-18",
    "happened": "Nvidia reported on Nov 17: revenue was $115.8bn and EPS $2.68, both beating estimates, and Q4 guidance was about $130bn. The stock rose after hours. The chairman says Huang will not be reinstated. [Source](https://finance.yahoo.com/markets/stocks/articles/nvda-stock-gains-hours-board-230838831.html)",
-   "eventId": "E-261113-01"
+   "eventId": "E-261118-01"
   },
   {
    "id": "W-261113-02",
@@ -1449,7 +1449,7 @@
    "expected": "Reported by the WSJ; PAHO had not published a statement in sources read.",
    "checkDate": "2026-11-18",
    "happened": "PAHO formally announced the loss of US measles-elimination status on Nov 17. CDC, HHS and PAHO issued a joint statement pledging re-elimination, and Kennedy said the US will work to regain the status. [Source](https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html)",
-   "eventId": "E-261115-01",
+   "eventId": "E-261118-03",
    "id": "W-261115-01"
   },
   {
@@ -1472,7 +1472,7 @@
    "expected": "Sen. Cassidy on Face the Nation: vote on Wednesday (Nov 18)",
    "checkDate": "2026-11-18",
    "happened": "No vote took place. The White House withdrew Overton's nomination on Nov 17, hours before the scheduled HELP Committee vote. [Source](https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475)",
-   "eventId": ""
+   "eventId": "E-261118-04"
   },
   {
    "id": "W-261116-02",
@@ -1638,6 +1638,28 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": "E-261117-43"
+  },
+  {
+   "id": "W-261118-01",
+   "dateAdded": "2026-11-18",
+   "place": "US",
+   "domain": "Health, medicine & food safety",
+   "what": "New FDA commissioner nominee after Overton's withdrawal (Sen. Roger Marshall floated)",
+   "expected": "Semafor via BioSpace; no timing given",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261118-01"
+  },
+  {
+   "id": "W-261118-02",
+   "dateAdded": "2026-11-18",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "what": "Findings on the cause of the NSANet outage and any congressional inquiry (Warner: 'get to the bottom' of it)",
+   "expected": "Sen. Warner and NSA statements (AP)",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": "E-261118-01"
   }
  ]
 }
