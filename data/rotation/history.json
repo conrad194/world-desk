@@ -1102,6 +1102,103 @@
    "recallA": "After the 2006 war, the Council raised UNIFIL's ceiling from about 2,000 to 15,000 troops to help the Lebanese army deploy to the south. The area between the Blue Line and the Litani was meant to hold no weapons except the army's and the UN's, but Hezbollah kept its arsenal there and Israel kept violating Lebanese airspace.",
    "prevQuestion": "Why did Russia withdraw its signature from the 2005 Estonia–Russia border treaty?",
    "prevAnswer": "When Estonia's parliament ratified the treaty, it added a preamble referring to the 1920 Treaty of Tartu and the continuity of the Estonian state. Moscow saw this as a hidden claim to the land transferred in 1944–45 and an implied accusation of occupation, so it pulled out; a new treaty signed in 2014 has still not been ratified."
+  },
+  {
+   "id": "2026-11-18",
+   "date": "2026-11-18",
+   "segment": "East & Southeast Asia",
+   "title": "Why ASEAN and China have spent 24 years failing to agree a South China Sea code",
+   "thread": "South China Sea",
+   "eventIds": [
+    "E-261118-05",
+    "E-261118-19"
+   ],
+   "minutes": 4,
+   "hook": "[[p:ASEAN]] and China missed their 2026 deadline for a South China Sea code of conduct in Manila, even as the Philippine military counted 19 Chinese ships near contested shoals. The code was first promised in 2002; the reasons it keeps slipping are written into the sea's history.",
+   "body": "When [[p:ASEAN]] and China signed the **Declaration on the Conduct of Parties in the South China Sea** in Phnom Penh in November 2002, a fuller, rule-setting code was supposed to follow. Twenty-four years later, negotiators in Manila say about four-fifths of that code is agreed. The missing fifth is the part that matters most: whether it binds anyone.\n\nThe roots lie in overlapping maps. China, and Taiwan, claim most of the sea inside a U-shaped line first drawn by the Republic of China in 1947, now known as the nine-dash line. Vietnam claims the Paracel and Spratly islands; the Philippines, Malaysia and Brunei claim parts of the Spratlys closer to their coasts. The stakes grew with hopes of oil and gas, rich fisheries, and the [[e:United Nations Convention on the Law of the Sea]] {{note: Adopted in 1982 at Montego Bay, Jamaica, after nine years of talks; it entered into force in 1994.}}, which gave coastal states 200-nautical-mile exclusive economic zones.\n\nForce settled facts before law could. In the [[e:Battle of the Paracel Islands]] {{note: Fought in January 1974 between the navies of China and South Vietnam, a year before Saigon fell.}}, China seized the western Paracels. In the [[e:Johnson South Reef skirmish]] of March 1988, Chinese ships killed about 64 Vietnamese sailors in the Spratlys. Then in 1995 Manila discovered Chinese structures on Mischief Reef, inside its own economic zone. That shock pushed ASEAN to seek written rules. Beijing preferred to deal with each claimant separately, so the 2002 declaration was a compromise: pledges of restraint, no enforcement, and a promise to keep working on a code.\n\nTwo things kept that promise empty. First, ASEAN decides by consensus. In 2012, after the [[e:Scarborough Shoal standoff]] left China in control of a shoal off Luzon, ASEAN foreign ministers meeting under Cambodia's chairmanship failed to issue a joint communiqué for the first time in the bloc's 45 years; many saw Phnom Penh shielding Beijing. Second, facts kept changing at sea. The Philippines took China to arbitration, and in July 2016 a tribunal at the [[p:Permanent Court of Arbitration]] {{note: Founded in 1899 at the first Hague Peace Conference; it hosts arbitrations but is not a standing court.}} found no legal basis for historic rights to resources within the nine-dash line. China rejected the [[e:South China Sea Arbitration|ruling]], and by then had already turned seven Spratly reefs into artificial islands, three with runways.\n\nTalks revived anyway: a framework in 2017, a single draft text in 2018, and three readings completed by 2025. In 2023 the parties pledged to finish within three years, which is why 2026, with the Philippines as ASEAN chair, was the target. The open questions are old ones. Should the code be legally binding? Does it cover the Paracels, which Vietnam wants included? How does it relate to the 2016 ruling? Early drafts also showed Beijing seeking a say over claimants' military exercises with outside powers.\n\nFor China, time on the water has favoured the stronger party; for smaller claimants, a weak code could freeze an unfavourable status quo. That is why the deadline slipped again, and why Singapore now inherits it.",
+   "timeline": [
+    {
+     "when": "1947",
+     "text": "The Republic of China draws a U-shaped line around most of the South China Sea, later the nine-dash line."
+    },
+    {
+     "when": "Jan 1974",
+     "text": "China seizes the western Paracels from South Vietnam in the [[e:Battle of the Paracel Islands]]."
+    },
+    {
+     "when": "Mar 1988",
+     "text": "About 64 Vietnamese sailors are killed in the [[e:Johnson South Reef skirmish]] in the Spratlys."
+    },
+    {
+     "when": "1995",
+     "text": "The Philippines discovers Chinese structures on Mischief Reef, prompting ASEAN to push for written rules."
+    },
+    {
+     "when": "Nov 2002",
+     "text": "ASEAN and China sign the non-binding Declaration on the Conduct of Parties, promising to work toward a code."
+    },
+    {
+     "when": "2012",
+     "text": "After the [[e:Scarborough Shoal standoff]], ASEAN fails to issue a joint communiqué for the first time in its history."
+    },
+    {
+     "when": "Jul 2016",
+     "text": "An UNCLOS tribunal rules in the [[e:South China Sea Arbitration|Philippines' case]] that China's historic-rights claim has no legal basis; China rejects it."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Talks in Manila miss the 2026 target with about 80% of the draft agreed; Singapore takes over as 2027 chair."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "China",
+     "view": "Beijing says its rights in the South China Sea rest on centuries of history and predate modern maritime law. It treats the 2016 award as invalid and sees the code as a matter for countries in the region, without interference from outside powers such as the United States."
+    },
+    {
+     "side": "Philippines and Vietnam",
+     "view": "Manila and Hanoi argue that the [[e:United Nations Convention on the Law of the Sea]] and, for the Philippines, the 2016 ruling define the rights at stake. They want a binding code with real limits, fearing a loose one would lock in gains China made by force and construction."
+    },
+    {
+     "side": "ASEAN as a bloc",
+     "view": "ASEAN presents itself as a neutral convener that keeps China talking. Its members are divided, though: non-claimants with close ties to Beijing have little reason to press hard, and consensus rules let any one of them slow the process."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Declaration on the Conduct of Parties (DOC)",
+     "meaning": "The 2002 ASEAN–China pledge of restraint and peaceful settlement. It is not legally binding and has no enforcement mechanism."
+    },
+    {
+     "term": "Code of Conduct (COC)",
+     "meaning": "The fuller set of rules the DOC promised. Its legal force, geographic scope and link to international law are still unresolved."
+    },
+    {
+     "term": "Nine-dash line",
+     "meaning": "China's U-shaped claim line, inherited from a 1947 Republic of China map, covering most of the South China Sea."
+    },
+    {
+     "term": "Exclusive economic zone (EEZ)",
+     "meaning": "A zone of up to 200 nautical miles from a coast where, under UNCLOS, the coastal state has rights over fish, oil and gas."
+    }
+   ],
+   "whyItMatters": "The code is the only process in which China and all ASEAN states negotiate rules for the sea together, and whether it binds anyone will decide if it restrains anything. Watch whether Singapore's 2027 chairmanship closes the remaining 20% and how weekly encounters at Scarborough and Second Thomas shoals shape Manila's patience. With [[p:Donald Trump]] and [[p:Xi Jinping]] meeting this week, also watch whether Washington's role becomes a bargaining chip.",
+   "readMore": [
+    {
+     "title": "Territorial Disputes in the South China Sea",
+     "url": "https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea",
+     "why": "Council on Foreign Relations overview of the claims, recent clashes and the code talks."
+    },
+    {
+     "title": "The South China Sea Arbitration: tribunal press release (12 July 2016)",
+     "url": "https://docs.pca-cpa.org/2016/07/PH-CN-20160712-Press-Release-No-11-English.pdf",
+     "why": "The Permanent Court of Arbitration's own summary of what the 2016 award decided."
+    }
+   ],
+   "prevQuestion": "Why did Resolution 1701 in 2006 give UNIFIL a second life rather than end it, and what was it supposed to achieve south of the Litani?",
+   "prevAnswer": "After the 2006 war, the Council raised UNIFIL's ceiling from about 2,000 to 15,000 troops to help the Lebanese army deploy to the south. The area between the Blue Line and the Litani was meant to hold no weapons except the army's and the UN's, but Hezbollah kept its arsenal there and Israel kept violating Lebanese airspace.",
+   "recallQ": "What exactly did the 2016 South China Sea tribunal decide, and what did it leave unresolved?",
+   "recallA": "It found no legal basis for China's claim to historic rights over resources within the nine-dash line, and held that Mischief Reef and Second Thomas Shoal are low-tide features inside the Philippines' economic zone. It did not rule on sovereignty over islands, which falls outside UNCLOS, and declined jurisdiction over the military standoff at Second Thomas Shoal."
   }
  ]
 }
