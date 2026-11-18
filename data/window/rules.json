@@ -138,11 +138,11 @@
    "affects": "All KMK public transport passengers.",
    "stage": "Proposed",
    "commentDeadline": "",
-   "effectiveDate": "2027-01-01",
+   "effectiveDate": "2027-01-04",
    "officialLink": "https://krknews.pl/slubowanie-nowej-radnej-wynagrodzenie-prezydenta-bilety-oplata-turystyczna-podsumowanie-63-sesji-rady-miasta-krakowa/",
    "newsLink": "https://www.mjakmalopolska.pl/artykul/10236,krakow-przywroci-bilet-20-minutowy-lukasz-gibala-zapowiada-zmiany-od-2027-roku",
    "eventId": "E-261026-26",
-   "lastChecked": "2026-11-13"
+   "lastChecked": "2026-11-18"
   },
   {
    "id": "R-261026-10",
@@ -206,7 +206,7 @@
    "officialLink": "https://eur-lex.europa.eu/eli/dir/2023/2225/oj",
    "newsLink": "https://biznes.wprost.pl/twoj-portfel/12481036/nowe-przepisy-unii-przeciwko-chwilowkom-od-20-listopada-dlaczego-polska-jest-w-tyle.html",
    "eventId": "E-261027-30",
-   "lastChecked": "2026-11-14"
+   "lastChecked": "2026-11-18"
   },
   {
    "id": "R-261027-04",
@@ -334,7 +334,7 @@
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
    "eventId": "E-261106-25",
-   "lastChecked": "2026-11-17"
+   "lastChecked": "2026-11-18"
   },
   {
    "id": "R-261106-05",
@@ -366,7 +366,7 @@
    "officialLink": "https://krakow.pl/aktualnosci/344065,1912,komunikat,stawki_oplat_w_sct_bez_podwyzek_do_konca_2028_r___wkrotce_konsultacje.html",
    "newsLink": "https://cowkrakowie.pl/2026/11/oplaty-za-wjazd-do-sct-w-krakowie-miasto-pyta-mieszkancow-o-zdanie",
    "eventId": "E-261106-34",
-   "lastChecked": "2026-11-14"
+   "lastChecked": "2026-11-18"
   },
   {
    "id": "R-261106-07",
@@ -606,7 +606,7 @@
    "officialLink": "",
    "newsLink": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html",
    "eventId": "E-261117-15",
-   "lastChecked": "2026-11-17"
+   "lastChecked": "2026-11-18"
   }
  ]
 }
