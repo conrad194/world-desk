@@ -1,0 +1,544 @@
+{
+ "date": "2026-11-18",
+ "segment": "East & Southeast Asia",
+ "windowFrom": "2026-11-11",
+ "tier1Summary": "[[p:Donald Trump]] reached Shenzhen for [[e:APEC China 2026]], where [[p:Xi Jinping]] met him at the plane. Their summit and the first US–China–Russia leaders' meeting with [[p:Vladimir Putin]] follow on 19 Nov. Washington also closed a loophole letting Chinese firms rent US AI chips abroad. In Manila the Quad agreed joint maritime surveillance, while ASEAN and China again missed a South China Sea code.\n\nThree capitals were shaken. Indonesia's vice president [[p:Gibran Rakabuming Raka]] resigned as a Jokowi-era police chief faces treason charges. Mongolia's president said he will quit over bribery claims. Malaysia's ruling bloc was routed in Melaka.\n\nElsewhere: an Indian sailor is missing after a Hormuz tanker attack, the [[p:Houthis]] are about 60 km from Aden, and Africa CDC says Congo's Ebola outbreak is out of control.",
+ "segmentItems": [
+  {
+   "id": "E-261118-04",
+   "segment": "East & Southeast Asia",
+   "country": "China / United States",
+   "text": "[[p:Xi Jinping]] greeted [[p:Donald Trump]] at the plane in Shenzhen, a rare courtesy. They hold a bilateral summit on 19 Nov, followed by the first US–China–Russia leaders' meeting with [[p:Vladimir Putin]] on Ukraine and nuclear arms control.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Kim Minpyo",
+   "outlet": "SBS News",
+   "opinion": "",
+   "thread": "APEC 2026 and great-power summitry",
+   "links": [
+    {
+     "label": "SBS News",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852573"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-15",
+   "segment": "East & Southeast Asia",
+   "country": "United States / China",
+   "text": "Washington closed the loophole that let Chinese firms rent advanced US AI chips through overseas data centres, days after [[p:Jensen Huang]] left Nvidia amid reports tied to a Singapore data-centre firm under US investigation.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "NPR",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "NPR",
+     "url": "https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-07",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines / Quad",
+   "text": "The first in-person [[p:Quad|Quadrilateral Security Dialogue]] summit since 2024 launched [[e:Indo-Pacific Maritime Surveillance Collaboration|joint maritime surveillance]] {{note: Quad initiative to share aerial patrol data across the Indo-Pacific; a first joint P-8/P-3C exercise is planned for 2027.}} and warned against coercion 'through arbitrary export restrictions', without naming China.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Tribune (India)",
+   "opinion": "",
+   "thread": "APEC 2026 and great-power summitry",
+   "links": [
+    {
+     "label": "The Tribune (India)",
+     "url": "https://www.tribuneindia.com/news/world/quad-leaders-unveil-5-outcomes-at-manila-summit-india-to-host-business-leaders-forum-in-2027"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.asiamediacentre.org.nz/trump-in-manila-asean-scam-pact-quad-minerals-deals"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-05",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines / ASEAN / China",
+   "text": "ASEAN and China again missed a South China Sea code of conduct, with about 80% of the draft agreed but its legal force unresolved; Singapore inherits it as 2027 chair. Myanmar's [[p:Min Aung Hlaing]] stays barred from summits.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "South China Sea",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-17/asean-china-committed-to-follow-south-china-sea-declaration-until-code-of-conduct-is-completed"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-13",
+   "segment": "East & Southeast Asia",
+   "country": "Japan / China / South Korea",
+   "text": "[[p:Sanae Takaichi]] is at APEC on her first China trip since the [[e:2025–2026 China–Japan diplomatic crisis|Taiwan row]], but Kyodo's sources expect no formal Xi talks. She met South Korea's [[p:Lee Jae Myung]] in Manila.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Bernama / Kyodo",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Bernama / Kyodo",
+     "url": "https://bernama.com/en/news.php?id=2635169"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008850493"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-14",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea / United States / China",
+   "text": "Trump says a [[p:Kim Jong Un]] meeting in China is 'up to' Xi; Beijing says it has 'no information', and Seoul analysts see no preparations.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://euronews.com/2026/11/17/china-says-it-has-no-information-on-whether-north-koreas-leader-kim-will-meet-trump"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.nknews.org/2026/11/trump-floats-meeting-with-kim-jong-un-says-up-to-chinas-xi-jinping/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-09",
+   "segment": "East & Southeast Asia",
+   "country": "Indonesia",
+   "text": "Vice President [[p:Gibran Rakabuming Raka]], [[p:Joko Widodo]]'s son, resigned after a court voided his school certificate. Separately, police accuse Jokowi-era police chief [[p:Listyo Sigit Prabowo]] of ordering wiretaps on [[p:Prabowo Subianto|Prabowo]] and are pursuing treason charges. The [[p:People's Consultative Assembly]] must choose a new VP within 60 days.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "LiCAS.news",
+   "opinion": "",
+   "thread": "Indonesia: Prabowo–Jokowi rift",
+   "links": [
+    {
+     "label": "LiCAS.news",
+     "url": "https://www.licas.news/2026/11/13/indonesian-vice-president-resigns-amid-diploma-controversy-coalition-tensions/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/south-east-asia039s-largest-economy-outlook---indonesias-prabowo-rushes-end-of-jokowi-era-with-sons-exit"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-08",
+   "segment": "East & Southeast Asia",
+   "country": "Mongolia",
+   "text": "President [[p:Ukhnaagiin Khürelsükh]] said he will resign over claims, which he denies, that he took $25m tied to a 2019 railway contract; parliament must accept it.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Associated Press",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Associated Press",
+     "url": "https://www.boston25news.com/news/world/mongolias-president/NWIGYWRDPU6WTNTZNPQTABMMOU/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/mongolian-president-abruptly-resigns-after-alleged-misconduct"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-11",
+   "segment": "East & Southeast Asia",
+   "country": "Malaysia",
+   "text": "The [[p:Barisan Nasional]]–[[p:Perikatan Nasional]] pact won 24 of 28 seats in the [[e:2026 Malacca state election]], a blow to [[p:Anwar Ibrahim]] after [[p:Anthony Loke]] quit the cabinet over [[p:Najib Razak]]'s house arrest.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Free Malaysia Today",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Free Malaysia Today",
+     "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/14/live-vote-counting-for-melaka-polls-begins"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.malaymail.com/news/malaysia/2026/11/15/three-key-takeaways-from-bn-pns-commanding-melaka-victory/243299"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-18",
+   "segment": "East & Southeast Asia",
+   "country": "Myanmar",
+   "text": "A junta airstrike on a displacement camp in Ponnagyun, near Sittwe, killed 12, a rescue group says; the [[p:Arakan Army]] holds the area.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AFP via The Business Standard",
+   "opinion": "",
+   "thread": "Myanmar civil war",
+   "links": [
+    {
+     "label": "AFP via The Business Standard",
+     "url": "https://www.tbsnews.net/worldbiz/asia/myanmar-airstrike-displaced-persons-camp-kills-12-witnesses-1602276"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.bnionline.net/en/news/least-eight-reportedly-killed-myanmar-military-airstrike-ponnagyun-displacement-camp"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261118-01",
+   "segment": "Middle East",
+   "country": "Iran / Oman / India",
+   "text": "India says an Indian sailor is missing after an attack on the tanker Tara Gas in Hormuz; another tanker was hit off Khasab. US and Iranian accounts of a strike on Qeshm conflict.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The Tribune (India)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "The Tribune (India)",
+     "url": "https://www.tribuneindia.com/news/world/india-strongly-condemns-strait-of-hormuz-tanker-attack-as-one-national-remains-missing"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-03",
+   "segment": "Middle East",
+   "country": "Yemen / Saudi Arabia",
+   "text": "AFP puts the [[p:Houthis]] about 60 km from Aden; Saudi Arabia replaced its Joint Forces commander.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al-Monitor",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-saudi-backed-forces-retreat-defend-aden-houthis-advance-what-know"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261118-02",
+   "segment": "Africa",
+   "country": "DR Congo",
+   "text": "The [[p:Africa Centres for Disease Control and Prevention|Africa CDC]] says DR Congo's [[e:Ebola outbreak|2026 Ebola epidemic]] (11,200 cases, 5,500 deaths) is still out of control.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Ebola epidemic 2026",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.timeslive.co.za/news/africa/2026-11-16-ebola-outbreak-in-drc-remains-out-of-control-says-africa-cdc/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261118-01",
+   "title": "Gibran's exit leaves Prabowo with expanding power — and Indonesia with questions",
+   "reporter": "Puteri Atikah",
+   "outlet": "ABC Asia (from The Conversation)",
+   "url": "https://abc.net.au/asia/gibran-exit-leaves-prabowo-with-expanding-power-and-indonesia-/107394248",
+   "why": "Explains why the vice president's resignation and the police-chief wiretap case matter together: the dismantling of [[p:Joko Widodo]]'s network and how far [[p:Prabowo Subianto]] may centralise power (analysis).",
+   "segment": "East & Southeast Asia",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261118-02",
+   "title": "What is Trump hoping to achieve at APEC meeting in China?",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china",
+   "why": "Primer for the 19 Nov Trump–Xi summit and first US–China–Russia meeting: the trade truce's lagging purchases, the held-up Taiwan arms package and allies' fear of a 'G2' (analysis).",
+   "segment": "East & Southeast Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-19",
+   "text": "APEC Shenzhen: Trump–Xi summit and first US–China–Russia leaders' meeting.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-20"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Coalition of the willing meets in Berlin on Europe's seat at Ukraine talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-03"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "State Duma second reading of Russia's 2027–29 budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-05"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Iraq's deadline for [[p:Kata'ib Hezbollah]] to leave Jurf al-Sakhar.",
+   "segment": "Middle East",
+   "watchId": "W-261117-01"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Moldova's gas emergency expires; watch for an extension.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-06"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Mongolia's parliament votes on accepting the president's resignation.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261118-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "OFAC licence for Lukoil foreign-asset sale talks expires.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-07"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "EU discusses a further Russia sanctions package.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-03"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Malaysia: Anwar's decision on Loke's resignation and pressure for early elections.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261118-03"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Taiwan",
+   "status": "quiet"
+  },
+  {
+   "country": "Vietnam",
+   "status": "quiet"
+  },
+  {
+   "country": "Laos",
+   "status": "quiet"
+  },
+  {
+   "country": "Singapore",
+   "status": "quiet"
+  },
+  {
+   "country": "Brunei",
+   "status": "quiet"
+  },
+  {
+   "country": "Hong Kong",
+   "status": "quiet"
+  },
+  {
+   "country": "Timor-Leste",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "SBS News: China / United States",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852573",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: China / United States",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china",
+   "paywalled": false
+  },
+  {
+   "title": "NPR: United States / China",
+   "url": "https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States / China",
+   "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (India): Philippines / Quad",
+   "url": "https://www.tribuneindia.com/news/world/quad-leaders-unveil-5-outcomes-at-manila-summit-india-to-host-business-leaders-forum-in-2027",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Philippines / Quad",
+   "url": "https://www.asiamediacentre.org.nz/trump-in-manila-asean-scam-pact-quad-minerals-deals",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Philippines / ASEAN / China",
+   "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Philippines / ASEAN / China",
+   "url": "https://www.usnews.com/news/world/articles/2026-11-17/asean-china-committed-to-follow-south-china-sea-declaration-until-code-of-conduct-is-completed",
+   "paywalled": false
+  },
+  {
+   "title": "Bernama / Kyodo: Japan / China / South Korea",
+   "url": "https://bernama.com/en/news.php?id=2635169",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Japan / China / South Korea",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008850493",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews: North Korea / United States / China",
+   "url": "https://euronews.com/2026/11/17/china-says-it-has-no-information-on-whether-north-koreas-leader-kim-will-meet-trump",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: North Korea / United States / China",
+   "url": "https://www.nknews.org/2026/11/trump-floats-meeting-with-kim-jong-un-says-up-to-chinas-xi-jinping/",
+   "paywalled": false
+  },
+  {
+   "title": "LiCAS.news: Indonesia",
+   "url": "https://www.licas.news/2026/11/13/indonesian-vice-president-resigns-amid-diploma-controversy-coalition-tensions/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Indonesia",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/south-east-asia039s-largest-economy-outlook---indonesias-prabowo-rushes-end-of-jokowi-era-with-sons-exit",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press: Mongolia",
+   "url": "https://www.boston25news.com/news/world/mongolias-president/NWIGYWRDPU6WTNTZNPQTABMMOU/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Mongolia",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/mongolian-president-abruptly-resigns-after-alleged-misconduct",
+   "paywalled": true
+  },
+  {
+   "title": "Free Malaysia Today: Malaysia",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/14/live-vote-counting-for-melaka-polls-begins",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Malaysia",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/15/three-key-takeaways-from-bn-pns-commanding-melaka-victory/243299",
+   "paywalled": false
+  },
+  {
+   "title": "AFP via The Business Standard: Myanmar",
+   "url": "https://www.tbsnews.net/worldbiz/asia/myanmar-airstrike-displaced-persons-camp-kills-12-witnesses-1602276",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Myanmar",
+   "url": "https://www.bnionline.net/en/news/least-eight-reportedly-killed-myanmar-military-airstrike-ponnagyun-displacement-camp",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (India): Iran / Oman / India",
+   "url": "https://www.tribuneindia.com/news/world/india-strongly-condemns-strait-of-hormuz-tanker-attack-as-one-national-remains-missing",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iran / Oman / India",
+   "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Al-Monitor: Yemen / Saudi Arabia",
+   "url": "https://www.al-monitor.com/originals/2026/11/yemens-saudi-backed-forces-retreat-defend-aden-houthis-advance-what-know",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: DR Congo",
+   "url": "https://aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: DR Congo",
+   "url": "https://www.timeslive.co.za/news/africa/2026-11-16-ebola-outbreak-in-drc-remains-out-of-control-says-africa-cdc/",
+   "paywalled": false
+  }
+ ]
+}
