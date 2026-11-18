@@ -1329,7 +1329,7 @@
    "expected": "ThePrint sources: likely 17 Nov; MEA: not confirmed",
    "checkDate": "2026-11-18",
    "happened": "The Quad leaders' summit took place in Manila on Nov 17 with a White House joint press release. No Modi–Trump bilateral or pull-aside was reported, only the group meeting and photo-op. [Source](https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/)",
-   "eventId": "E-261114-53"
+   "eventId": "E-261118-49"
   },
   {
    "id": "W-261113-14",
@@ -1427,7 +1427,7 @@
    "what": "Pentagon policy chief Elbridge Colby at the EU defence ministerial discussing the US force-posture review; watch for signals on a permanent base in Poland Update (Nov 17): Kosiniak-Kamysz meets Colby on Nov 17 in Brussels on the margins of the EU defence council. Topics are a larger US presence, US equipment and the eastern flank (TVN24/PAP). Check readouts on Nov 18.",
    "expected": "Relations researcher’s sources (date per event schedule)",
    "checkDate": "2026-11-18",
-   "eventId": "",
+   "eventId": "E-261118-55",
    "id": "W-261114-08"
   },
   {
@@ -1748,6 +1748,28 @@
    "checkDate": "2026-11-24",
    "happened": "",
    "eventId": "E-261118-37"
+  },
+  {
+   "id": "W-261118-11",
+   "dateAdded": "2026-11-18",
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "what": "Comment deadline (about Jan 16, 2027) for the DOL's PERM green-card overhaul, and whether it is finalised",
+   "expected": "The Week: 60-day comment period from the Nov 17 Federal Register publication",
+   "checkDate": "2027-01-16",
+   "happened": "",
+   "eventId": "E-261118-49"
+  },
+  {
+   "id": "W-261118-12",
+   "dateAdded": "2026-11-18",
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "what": "First Quad Business Leaders' Forum in Mumbai",
+   "expected": "Modi in Manila: Q1 2027",
+   "checkDate": "2027-03-31",
+   "happened": "",
+   "eventId": "E-261118-49"
   }
  ]
 }

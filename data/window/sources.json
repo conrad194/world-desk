@@ -2327,6 +2327,18 @@
    "lean": "unclear; wire-based",
    "status": "Watch",
    "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "super-express-polityka-se-pl",
+   "name": "Super Express (polityka.se.pl)",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "Polish politics and defence interviews",
+   "language": "Polish",
+   "url": "https://polityka.se.pl/",
+   "lean": "tabloid, populist centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
   }
  ]
 }
