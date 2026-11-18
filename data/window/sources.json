@@ -2279,6 +2279,30 @@
    "lean": "Business trade",
    "status": "Watch",
    "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "glos24",
+   "name": "Głos24",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Kraków city politics, budget, SCT",
+   "language": "Polish",
+   "url": "https://glos24.pl/",
+   "lean": "independent local, unclear",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "kr24-pl",
+   "name": "KR24.pl",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Kraków city news and finances",
+   "language": "Polish",
+   "url": "https://kr24.pl/",
+   "lean": "unclear",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
   }
  ]
 }

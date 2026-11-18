@@ -1682,6 +1682,39 @@
    "checkDate": "2026-11-27",
    "happened": "",
    "eventId": "E-261118-15"
+  },
+  {
+   "id": "W-261118-05",
+   "dateAdded": "2026-11-18",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Start of the at-least-21-day public consultation on shrinking the SCT to about 0.99 km², then the council readings",
+   "expected": "Deputy Mayor Hoffman: in force Feb–Mar 2027 if adopted (TVN24)",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261118-25"
+  },
+  {
+   "id": "W-261118-06",
+   "dateAdded": "2026-11-18",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Council vote on honorary citizenship for police officers Jakub Kulik and Artur Morański, once procedural limits are resolved",
+   "expected": "Council officials expect a fix within about a week (Interia)",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261118-25"
+  },
+  {
+   "id": "W-261118-07",
+   "dateAdded": "2026-11-18",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Results of Wałachowski's analysis of money already spent on metro preparations, and the KIO appeal on the geological-survey tender",
+   "expected": "Ordered by Deputy Mayor Wałachowski (KRKnews); no date",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261118-25"
   }
  ]
 }

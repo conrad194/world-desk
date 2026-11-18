@@ -687,6 +687,22 @@
    "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html",
    "eventId": "",
    "lastChecked": "2026-11-18"
+  },
+  {
+   "id": "R-261118-06",
+   "dateLogged": "2026-11-18",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "name": "Draft resolution shrinking the Clean Transport Zone (SCT) to the city centre",
+   "changes": "Cuts the SCT from about 196 km² to about 0.99 km² (first ring road plus al. Krasińskiego). The residents' exemption would depend on paying tax in Kraków, not registration, and would extend to company, leased and rented cars. Medical-visit exemptions would cover any facility in the zone. Paid stickers would be replaced by plate checks. Emission standards are unchanged.",
+   "affects": "Drivers of non-compliant cars, especially commuters from outside Kraków; residents near main roads outside the centre lose zone protection",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586",
+   "eventId": "",
+   "lastChecked": "2026-11-18"
   }
  ]
 }
