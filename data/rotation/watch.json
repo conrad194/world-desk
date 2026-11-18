@@ -637,8 +637,8 @@
    "what": "49th ASEAN Summit and related summits in Manila, 16–18 Nov, with Trump attending on 16 Nov: any South China Sea code-of-conduct breakthrough and Myanmar's representation.",
    "expected": "Philippine presidential palace; White House (Trump's attendance)",
    "checkDate": "2026-11-18",
-   "happened": "",
-   "eventId": "E-261111-07"
+   "happened": "No code of conduct was concluded (about 80% of the draft tentatively agreed); Singapore takes over as chair, and ASEAN kept Myanmar's leader barred from summits. [Al Jazeera](https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code)",
+   "eventId": "E-261118-05"
   },
   {
    "id": "W-261111-02",
@@ -849,6 +849,36 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261117-38"
+  },
+  {
+   "id": "W-261118-01",
+   "dateAdded": "2026-11-18",
+   "segment": "East & Southeast Asia",
+   "what": "Mongolia: State Great Khural vote on accepting President Khürelsükh's resignation; speaker would become interim president.",
+   "expected": "AP reports parliament is expected to vote later this week.",
+   "checkDate": "2026-11-21",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261118-02",
+   "dateAdded": "2026-11-18",
+   "segment": "East & Southeast Asia",
+   "what": "Indonesia: the People's Consultative Assembly elects a new vice president from two candidates nominated by Prabowo.",
+   "expected": "Required by Article 8(2) of the constitution within 60 days of the 12 Nov vacancy (LiCAS.news).",
+   "checkDate": "2027-01-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261118-03",
+   "dateAdded": "2026-11-18",
+   "segment": "East & Southeast Asia",
+   "what": "Malaysia: whether Anwar accepts Anthony Loke's resignation, and BN's push for an early general election after Melaka.",
+   "expected": "Anwar says he wants further talks with Loke (The Vibes); BN's Zahid wants an early GE16 (Malay Mail).",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

@@ -314,6 +314,20 @@
    "segment": "Africa",
    "status": "Active",
    "summary": "Dispute over President Hassan Sheikh Mohamud's term extension and the election model. On 5 Nov 2026 the Supreme Court ruled the extension unlawful and ordered elections within 90 days; federal forces then took over the court. Regional uprisings in Hirshabelle and South West run alongside."
+  },
+  {
+   "id": "indonesia-prabowo-jokowi-rift",
+   "name": "Indonesia: Prabowo–Jokowi rift",
+   "segment": "East & Southeast Asia",
+   "status": "Active",
+   "summary": "Vice President Gibran Rakabuming Raka, Joko Widodo's son, resigned on 12 Nov 2026 after a court voided his school certificate, as Jokowi-era police chief Listyo Sigit Prabowo faces treason charges over wiretapping the president. The MPR must pick a new VP within 60 days."
+  },
+  {
+   "id": "thailand-cambodia-border-dispute",
+   "name": "Thailand–Cambodia border dispute",
+   "segment": "East & Southeast Asia",
+   "status": "Active",
+   "summary": "Unresolved border conflict after the 2025 clashes and a Trump-brokered ceasefire; crossings stay closed, Thailand insists on bilateral talks while Cambodia raises displacement and occupation claims in ASEAN and other forums."
   }
  ]
 }
