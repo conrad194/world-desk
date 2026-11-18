@@ -1541,6 +1541,143 @@
      "why": "The full list of central subjects, from defence to the census."
     }
    ]
+  },
+  {
+   "id": "L11",
+   "num": 11,
+   "unit": "How each country is governed",
+   "title": "Local government: how Kraków's mayor, council and districts decide",
+   "dateTaught": "2026-11-18",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "Explain the difference between a voivode and a voivodeship marshal in Poland, and say what this two-headed arrangement tells you about a unitary state.",
+   "prevAnswer": "The voivode is appointed by the prime minister to represent the national government in the region and check that local decisions are lawful; the marshal is chosen by the elected regional assembly and runs regional policy and funds. The pairing shows that Poland decentralises real power to elected regions while the centre keeps a supervisory presence, because sovereignty stays with the national state.",
+   "body": "Lesson 10 showed that Poland is a unitary state whose regions and towns still run real governments. Today we zoom in on one of them, Kraków, and ask a simple question: when the city decides on tram fares or a clean-air zone, who actually decides, and who can stop them?\n\n**Two elected bodies, one city.** Kraków has a **mayor** (officially *prezydent miasta*, the title used in cities over 100,000) and a **City Council** (*Rada Miasta Krakowa*) of 43 councillors. Both are elected by residents for five-year terms, but separately. The mayor wins a two-round, majority vote, like Poland's national president; the council is chosen by proportional representation, like the Sejm (Lesson 9). That means a mayor can face a council run by rival parties, a local version of the cohabitation you met in Lesson 3.\n\n> Poland's modern local self-government dates from the [#1990 Polish local elections](https://en.wikipedia.org/wiki/1990_Polish_local_elections), the first fully free vote after communism, held in May 1990.\n\n**Who does what.** The mayor is the executive. He drafts the budget, runs city hall and its companies, appoints his deputies and issues administrative decisions. The council is the local legislature. It adopts the budget and the city statute, sets local taxes and fees within the limits national law allows, passes zoning plans and other local law, and votes once a year on whether to approve the mayor's handling of the budget (*absolutorium*). In practice the mayor proposes and the council disposes: fares, tax rates or a clean-transport zone all arrive as a mayor's draft resolution, go through two readings, and only become law if the council votes for them.\n\n> Kraków's mayor has been directly elected since 2002; before that the council picked the mayor, much as the Sejm picks a prime minister.\n\nBecause Kraków is a large city, it is both a municipality (*gmina*) and a county (*powiat*), so it also runs county jobs such as secondary schools and roads. Above it sits the national state's watchdog from Lesson 10: the **voivode** can annul unlawful council resolutions, and the Regional Chamber of Accounts checks financial ones.\n\n**Districts: the smallest layer.** The city is divided into 18 **districts** (*dzielnice*), each with an elected district council. Unlike the city itself, they are not independent self-governments: national law calls them auxiliary units, and the City Council creates them in its own statute and decides their money and powers. They mostly give opinions, spend small budgets on local parks, pavements or events, and lobby city hall.\n\n**Holding the mayor to account.** Voters can remove a mayor before the term ends. A referendum is called if 10% of residents sign a petition, and it counts only if turnout reaches three-fifths of the turnout in the election that chose that mayor. Since 2018 mayors have also been limited to two terms, a rule Parliament is now debating whether to scrap.\n\n**The comparison.** In the US, cities are creations of their state, not of the federal Constitution, and states let them pick a form of government. Big cities often use a strong mayor and council; most use a **council-manager** system, where an elected council hires a professional city manager. In India, the [#Seventy-fourth Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Seventy-fourth_Amendment_of_the_Constitution_of_India) wrote municipalities into the Constitution, with five-year terms and elections run by state election commissions. But in most big Indian cities the mayor is chosen by councillors and largely ceremonial; the real executive is a **municipal commissioner**, a civil servant appointed by the state government. A few states, such as Uttar Pradesh, elect mayors directly.\n\n> The 74th Amendment was passed in 1992 and came into force in 1993, alongside the 73rd for village councils (*panchayats*).\n\nSo Kraków sits in the middle: its mayor is stronger than an Indian mayor because voters choose him directly, but he still needs a council majority for every budget and local law.",
+   "comparison": [
+    {
+     "aspect": "Legal basis of city government",
+     "US": "State constitutions and state law; cities are creations of their state",
+     "Poland": "Constitution guarantees local self-government; details in the Act on Gmina Self-Government",
+     "India": "Part IXA of the Constitution, added by the [#Seventy-fourth Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Seventy-fourth_Amendment_of_the_Constitution_of_India); details in state law"
+    },
+    {
+     "aspect": "City executive",
+     "US": "Elected mayor (mayor-council) or hired city manager (council-manager)",
+     "Poland": "Directly elected mayor (prezydent miasta / burmistrz / wójt)",
+     "India": "State-appointed municipal commissioner; mayor mostly ceremonial"
+    },
+    {
+     "aspect": "City legislature",
+     "US": "City council (e.g. New York City Council)",
+     "Poland": "City council (Rada Miasta Krakowa, 43 councillors)",
+     "India": "Municipal corporation of elected ward councillors (corporators)"
+    },
+    {
+     "aspect": "Neighbourhood level",
+     "US": "Community boards or neighbourhood councils in some cities, mostly advisory",
+     "Poland": "Districts (dzielnice) and village units created by the city council; 18 in Kraków",
+     "India": "Ward committees required in cities of 300,000+"
+    },
+    {
+     "aspect": "Removing a mayor early",
+     "US": "Recall elections in many states, e.g. California",
+     "Poland": "Recall referendum; valid only with turnout of 3/5 of the original election",
+     "India": "Usually a no-confidence vote by councillors where mayors are indirectly elected"
+    },
+    {
+     "aspect": "Who supervises",
+     "US": "State legislature and state courts",
+     "Poland": "Voivode (legality) and Regional Chamber of Accounts (finances)",
+     "India": "State government and its urban development department"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Prezydent miasta",
+     "meaning": "The directly elected mayor of a Polish city over 100,000 people; head of city hall."
+    },
+    {
+     "term": "Rada Miasta",
+     "meaning": "The elected city council; adopts the budget, local taxes and local law."
+    },
+    {
+     "term": "Dzielnica",
+     "meaning": "A city district with its own elected council; created and funded by the city council, mainly advisory."
+    },
+    {
+     "term": "Absolutorium",
+     "meaning": "The council's yearly vote approving the mayor's execution of the budget."
+    },
+    {
+     "term": "Council-manager system",
+     "meaning": "The most common US city form: an elected council hires a professional manager to run the city."
+    },
+    {
+     "term": "Municipal commissioner",
+     "meaning": "In Indian cities, the state-appointed civil servant who holds most executive power."
+    }
+   ],
+   "example": "Kraków in 2026 shows every piece of this system at work. Mayor [@Aleksander Miszalski](https://en.wikipedia.org/wiki/Aleksander_Miszalski), elected in the [#2024 Polish local elections](https://en.wikipedia.org/wiki/2024_Polish_local_elections), faced a recall petition, and on 24 May 2026 voters removed him: turnout of about 30% cleared the threshold of three-fifths of the 2024 turnout. A separate vote to dissolve the City Council, held the same day, narrowly missed its own threshold, so the council survived. Until a new mayor was chosen, a commissioner appointed by the prime minister ran city hall. In the [#2026 Kraków mayoral election](https://en.wikipedia.org/wiki/2026_Krak%C3%B3w_mayoral_election), [@Łukasz Gibała](https://en.wikipedia.org/wiki/%C5%81ukasz_Giba%C5%82a) won the 11 October run-off with about 62% and took office on 20 October. He now governs alongside a council where KO and the Left hold the majority, so each of his proposals needs votes from councillors who backed his rival.",
+   "inTheNews": "Today Kraków's City Council holds second readings on the mayor's fare plan and on suspending the Lviv partnership, while City Hall's plan to shrink the Clean Transport Zone must pass consultation and two council readings before it can take effect. In Warsaw, the Sejm sent a Senate bill to scrap the two-term limit for mayors to committee.",
+   "newsEvents": [
+    "E-261118-32",
+    "E-261118-25",
+    "E-261118-22"
+   ],
+   "check": [
+    {
+     "q": "Kraków's mayor wants to shrink the Clean Transport Zone. What has to happen before the change is law?",
+     "options": [
+      "The mayor signs an order and it takes effect",
+      "The council adopts a resolution after readings, and it survives review by the voivode",
+      "The Sejm passes an act for Kraków",
+      "The district councils vote unanimously"
+     ],
+     "answer": 1,
+     "explain": "The mayor proposes, but local law is adopted by the council as a resolution, which the voivode can annul if it is unlawful."
+    },
+    {
+     "q": "Why could a Polish mayor end up working with a council controlled by opponents?",
+     "options": [
+      "Because the voivode appoints half the council",
+      "Because the mayor and council are elected separately, by different systems",
+      "Because councillors are appointed by the Sejm",
+      "Because districts choose the mayor"
+     ],
+     "answer": 1,
+     "explain": "Separate elections (a majority vote for mayor, proportional representation for council) can produce different winners, a local form of cohabitation."
+    },
+    {
+     "q": "Compared with Kraków's mayor, a typical big-city mayor in India is weaker mainly because:",
+     "options": [
+      "Indian cities have no councils",
+      "The real executive is a state-appointed commissioner, and the mayor is usually chosen by councillors",
+      "Indian mayors serve one-year terms set by Parliament",
+      "The Supreme Court appoints mayors"
+     ],
+     "answer": 1,
+     "explain": "In most Indian corporations executive power rests with the municipal commissioner, while the mayor is indirectly elected and largely ceremonial."
+    }
+   ],
+   "recallQ": "In Kraków, which powers belong to the mayor and which to the City Council, and why does a mayor need a council majority?",
+   "recallA": "The mayor is the executive: he drafts the budget and resolutions, runs city hall and appoints deputies. The council adopts the budget, local taxes and local law and approves the mayor's budget execution each year. Because nothing the mayor drafts becomes law without a council vote, he needs a majority to govern.",
+   "readMore": [
+    {
+     "title": "Rada Miasta Krakowa (Kraków City Hall)",
+     "url": "https://krakow.pl/samorzad/10662,artykul,rada-miasta-krakowa.html",
+     "why": "The city's own summary of the council's size, term and exclusive powers (in Polish)."
+    },
+    {
+     "title": "Cities 101: Forms of Local Government (National League of Cities)",
+     "url": "https://www.nlc.org/resource/cities-101-forms-of-local-government/",
+     "why": "How mayor-council, council-manager and other US city forms work."
+    },
+    {
+     "title": "Part IXA: The Municipalities (Constitution of India)",
+     "url": "https://www.constitutionofindia.net/parts/part-ixa/",
+     "why": "The constitutional articles that created India's urban local government."
+    }
+   ]
   }
  ]
 }
