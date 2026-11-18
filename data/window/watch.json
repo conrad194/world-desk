@@ -1109,7 +1109,7 @@
    "expected": "Energy Minister Motyka, per PAP Biznes",
    "checkDate": "2026-11-30",
    "happened": "The Council of Ministers adopted the 2027 gas price freeze bill on Nov 17 (197.29 zł/MWh net, 10% importers' levy, ~6.2bn zł); Sejm first reading planned Nov 19. [Source](https://biznes.interia.pl/gospodarka/news-rzad-zdecydowal-ws-cen-gazu-znamy-stawki-na-2027-rok,nId,23574745)",
-   "eventId": "E-261111-15"
+   "eventId": "E-261118-19"
   },
   {
    "id": "W-261111-03",
@@ -1660,6 +1660,28 @@
    "checkDate": "2026-11-25",
    "happened": "",
    "eventId": "E-261118-01"
+  },
+  {
+   "id": "W-261118-03",
+   "dateAdded": "2026-11-18",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Publication of the TK General Assembly's decision on the Święczkowski/Sochański immunity and detention motions, and whether prosecutors try to detain Święczkowski",
+   "expected": "TK website via Polsat News: communiqué on Nov 18",
+   "checkDate": "2026-11-19",
+   "happened": "",
+   "eventId": "E-261118-15"
+  },
+  {
+   "id": "W-261118-04",
+   "dateAdded": "2026-11-18",
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "what": "Health Committee report and Sejm third-reading vote on the reimbursement law amendment (Critical Medicines List)",
+   "expected": "Rynek Zdrowia: bill returned to committee on Nov 17",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261118-15"
   }
  ]
 }
