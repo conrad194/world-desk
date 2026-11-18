@@ -1,0 +1,1132 @@
+{
+ "date": "2026-11-18",
+ "top5": [
+  {
+   "text": "Quad leaders met in Manila for the first time in two years, launching a maritime surveillance initiative and an AI accelerator; Modi and Trump held no bilateral.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "White House / IANS",
+     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/"
+    }
+   ]
+  },
+  {
+   "text": "PAHO formally revoked US measles-elimination status after 5,412 cases and 10 deaths this year; CDC and HHS pledge to regain it.",
+   "place": "US",
+   "links": [
+    {
+     "label": "ABC News",
+     "url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html"
+    }
+   ]
+  },
+  {
+   "text": "The Sejm rejected a no-confidence motion against Tusk 200–242; the Tribunal assembly’s ruling on Święczkowski’s immunity is due today.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/polityka/art45501961-rzad-tuska-zostaje-wniosek-o-wotum-nieufnosci-odrzucony"
+    }
+   ]
+  },
+  {
+   "text": "Kraków proposes shrinking its Clean Transport Zone about 200-fold to the area inside the first ring road; the City Council votes on fares and Lviv today.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "TVN24",
+     "url": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586"
+    }
+   ]
+  },
+  {
+   "text": "Cyclone Akvan is now a severe storm, expected to hit the Andhra coast around noon Nov 20; Odisha has lined up 2.04 lakh people for evacuation.",
+   "place": "India",
+   "links": [
+    {
+     "label": "The Watchers (IMD bulletin); Deccan Chronicle",
+     "url": "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261118-03",
+    "domain": "Health, medicine & food safety",
+    "text": "PAHO officially revoked US measles-elimination status. The 2026 count is 5,412 cases and 10 deaths. CDC and HHS pledged to regain it, and Kennedy still recommends MMR.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US measles resurgence",
+    "links": [
+     {
+      "label": "ABC News",
+      "url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://abcnews.com/Health/us-officially-loses-measles-elimination-status-paho/story?id=138203543"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-01",
+    "domain": "Economy, business & markets",
+    "text": "Nvidia's first report under interim CEO Kress beat forecasts: Q3 revenue was $115.8bn and Q4 guidance about $130bn. The forecast assumes no China data-center sales. The stock rose after hours.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Nvidia leadership crisis",
+    "links": [
+     {
+      "label": "Yahoo Finance (Benzinga)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-gains-hours-board-230838831.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.kaohooninternational.com/markets/594953"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-07",
+    "domain": "Defense, security & crime",
+    "text": "Iran fired drones at a US radar in Bahrain for a third time, and the US struck a missile site on Iran's Qeshm island. Kuwait reported drone attacks.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera English; AP (Boston Globe)",
+      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bostonglobe.com/2026/11/17/nation/us-iran-war/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-08",
+    "domain": "Foreign relations",
+    "text": "Trump in Manila called US–Philippine ties closer than ever and hinted at meeting Kim. The Trump–Xi–Putin trilateral in Shenzhen is set for Nov 19.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "ANI (via The Tribune); ABC News",
+      "url": "https://www.tribuneindia.com/news/world/us-philippines-ties-closer-than-ever-says-trump-cites-bond-with-president-marcos"
+     },
+     {
+      "label": "Second source",
+      "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-04",
+    "domain": "Health, medicine & food safety",
+    "text": "The White House pulled Heidi Overton's FDA nomination on the eve of the HELP vote amid GOP objections. Kyle Diamantas stays acting commissioner.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ABC News",
+      "url": "https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.biospace.com/fda/white-house-yanks-overton-nomination-hours-before-committee-vote"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-10",
+    "domain": "Technology, AI & cyber",
+    "text": "Anthropic's IPO is reportedly set to price at or above $78 a share on about 7x demand, valuing it near $1.4 trillion. Trading is expected Nov 19.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "PYMNTS (citing Bloomberg, WSJ)",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261118-16",
+    "domain": "Politics & government",
+    "text": "Sejm rejected Rozwój Plus's constructive no-confidence motion (Marek Jurek for PM) 200–242; Tusk government stays.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45501961-rzad-tuska-zostaje-wniosek-o-wotum-nieufnosci-odrzucony"
+     },
+     {
+      "label": "Second source",
+      "url": "https://api.sejm.gov.pl/sejm/term10/votings/69/7/pdf"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-15",
+    "domain": "Law, courts & regulation",
+    "text": "TK General Assembly heard immunity and detention motions against Święczkowski and Sochański on Nov 17; result to be announced Nov 18. Six judges say it has no legal effect.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/decyzja-ws-swieczkowskiego-bedzie-opublikowana-w-srode-jest-decyzja-tk/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-wyrazamy-stanowczy-sprzeciw-oswiadczenie-sedziow-tk,nId,23574937"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-17",
+    "domain": "Politics & government",
+    "text": "Nawrocki to swear in Domański as deputy PM and Bartol as funds minister on Nov 20 at 11:00, after Bogucki linked the delay to the TK dispute.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "Portal Samorządowy (PAP)",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/20-listopada-rekonstrukcja-rzadu-beda-zmiany-w-skladzie-rady-ministrow,684699.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/polityka/art45501701-spor-o-nominacje-domanskiego-bogucki-zmiany-by-sie-dokonaly-gdyby-nie-zamach-na-tk"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-19",
+    "domain": "Environment, energy & disasters",
+    "text": "Government adopted the 2027 gas price freeze bill (197.29 zł/MWh net, 10% importers' levy, ~6.2bn zł); Sejm first reading planned Nov 19.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Interia Biznes",
+      "url": "https://biznes.interia.pl/gospodarka/news-rzad-zdecydowal-ws-cen-gazu-znamy-stawki-na-2027-rok,nId,23574745"
+     },
+     {
+      "label": "Second source",
+      "url": "https://pl.investing.com/news/stock-market-news/me-rzad-przyjal-projekt-ws-zamrozenia-cen-gazu-w-2027-r-1656439"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-23",
+    "domain": "Health, medicine & food safety",
+    "text": "Reimbursement law amendment (Critical Medicines List, bigger discount for Polish-made drugs) sent back to committee after second reading with new amendments.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.portalsamorzadowy.pl/ochrona-zdrowia/leki-moga-stac-sie-calkowicie-bezplatne-kolejne-zmiany-w-refundacji,684708.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261118-25",
+    "domain": "Infrastructure, transport & housing",
+    "text": "The city proposes shrinking the SCT about 200-fold to roughly 1 km² inside the first ring road, with looser resident exemptions and no stickers. Deputy Mayor Hoffman targets Feb–Mar 2027, after consultation and a council vote.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Clean Transport Zone (SCT) overhaul",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586"
+     },
+     {
+      "label": "Second source",
+      "url": "https://pulskrakowa.pl/strefa-czystego-transportu-zmniejszy-sie-niemal-200-razy-krakow-przedstawil-szczegoly-zmian/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-32",
+    "domain": "Politics & government",
+    "text": "Council session today at 11:00: votes on 20-minute tickets, the Lviv partnership suspension, leaving associations and budget amendments, plus first reading of 2027 tax rates. No results yet.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/64-sesja-rady-miasta-krakowa-bilety-podatki-sct/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://moj.powiat.pl/sesja-rady-miasta-krakowa-radni-zajma-sie-sct-cenami-biletow-i-podatkami-43814558.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-27",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Kraków pauses metro preparations for lack of funding and shifts its focus to trams. The deputy mayor has ordered an audit of past metro spending.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/jesli-pojawia-sie-pieniadze-chetnie-wybudujemy-wiceprezydent-walachowski-o-przyszlosci-metra-w-krakowie/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://glos24.pl/budzet-krakowa-z-duzymi-cieciami-wracaja-dlugo-oczekiwane-inwestycje"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-31",
+    "domain": "Economy, business & markets",
+    "text": "First reactions to the 2027 budget: Gibała's club praises it, while local media question the 300m zł savings claim and note debt still rising by about 927m zł.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków city finances and the 2027 budget",
+    "links": [
+     {
+      "label": "Głos24",
+      "url": "https://glos24.pl/budzet-krakowa-z-duzymi-cieciami-wracaja-dlugo-oczekiwane-inwestycje"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kk24.info/krakow-wyda-prawie-12-miliardow-zlotych-gibala-obiecuje-oszczednosci-ale-w-budzecie-wciaz-ogromna-dziura/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261118-40",
+    "domain": "Environment, energy & disasters",
+    "text": "Akvan became a severe cyclonic storm on Nov 17. IMD expects a very severe storm to cross the AP coast between Nellore and Visakhapatnam around noon on Nov 20; AP ordered evacuations and relief camps.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Watchers (IMD bulletin); Deccan Chronicle",
+      "url": "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cm-pawan-review-akvan-cyclone-preparedness-2005364"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-37",
+    "domain": "Law, courts & regulation",
+    "text": "SC adjourned the CEC/SIR pleas to Dec 9; it will hear the INDIA bloc's bid to put 48 questions to the CEC and ECs before deciding on notice, after the ECI objected.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "The Wire; Revoi (IANS-based)",
+      "url": "https://m.thewire.in/article/law/election-commission-strongly-resists-answering-48-questions-raised-by-opposition"
+     },
+     {
+      "label": "Second source",
+      "url": "https://english.revoi.in/sc-agrees-to-hear-india-bloc-application-for-interrogatories-to-eci-cec-ecs/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-38",
+    "domain": "Politics & government",
+    "text": "UP's draft roll lists 13.58 crore voters, a net 18.84 lakh more than April's post-SIR roll. Objections are open until Dec 16 and the final roll is due Jan 4.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "UP 2027 election build-up",
+    "links": [
+     {
+      "label": "The Tribune (PTI)",
+      "url": "https://www.tribuneindia.com/news/uttar-pradesh/up-draft-electoral-roll-published-13-58-cr-voters-on-list-over-18-lakh-added-in-ssr"
+     },
+     {
+      "label": "Second source",
+      "url": "https://ddnews.gov.in/en/up-draft-electoral-roll-published-13-58-crore-voters-on-list-over-18-lakh-added-in-ssr/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-43",
+    "domain": "Economy, business & markets",
+    "text": "Sensex +427 to 82,532 and Nifty +96 to 25,387 on Nov 17. Bank Nifty hit a record, November FPI inflows reached a record $9.53bn, and Brent fell to about $91.70.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "HDFC Sky",
+      "url": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.indiainfoline.com/news/markets/closing-bell-nifty-gains-to-25387-as-bank-nifty-hits-record-high-crude-eases-near-92"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "A4 bypass: one lane only around the clock over 600 m near the viaduct between the Skawina and Południe junctions (towards Katowice) until Friday evening, 20 Nov. 110 km/h limit near Skawina.",
+   "link": "https://krknews.pl/utrudnienia-na-obwodnicy-krakowa-drogowcy-zamkna-kolejne-zjazdy/"
+  },
+  {
+   "kind": "Weather",
+   "text": "Wed 18 Nov: cloudy with intermittent rain, mild (up to about 11–13°C in the south), gusty southerly winds, with gusts up to about 70 km/h possible in the south. Sleet and snow above about 1,500 m, and gales up to about 120 km/h in the Tatras. No IMGW warning for Małopolska was reported in these forecasts.",
+   "link": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/prognoza-pogody-na-17-i-18-listopada,684746.html"
+  },
+  {
+   "kind": "Event",
+   "text": "City Council session today at 11:00 (fares, Lviv, associations, 2027 taxes), streamed on RMK Live.",
+   "link": "https://krknews.pl/64-sesja-rady-miasta-krakowa-bilety-podatki-sct/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261118-55",
+    "domain": "Defense, security & crime",
+    "text": "Kosiniak-Kamysz says Colby confirmed a Pentagon 'green light' for a permanent US base. The force-posture review goes to the White House in early December. There is no US readout.",
+    "tier": 1,
+    "verification": "Claimed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-zielone-swiatlo-z-pentagonu-kosiniak-kamysz-o-stalej-bazie-a,nIdn,1026475"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45501291-stala-amerykanska-baza-w-polsce-kosiniak-kamysz-wiceszef-resortu-obrony-usa-potwierdzil"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261118-49",
+    "domain": "Foreign relations",
+    "text": "The first Quad leaders' summit in two years took place in Manila. The joint release opposes coercive changes to the status quo and economic coercion, and condemns cross-border terrorism, without naming China.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "White House / IANS",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://ianslive.in/outcomes-of-manila-summit-demonstrate-breadth-of-quad-agenda-foreign-secretary-misri--20261117215442"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-51",
+    "domain": "Defense, security & crime",
+    "text": "The Quad launched a maritime surveillance initiative. The first Quad patrol-aircraft (P-8/P-3C) exercise is set for March 2027 in Guam, alongside Sea Dragon.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "White House / IANS",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://ianslive.in/outcomes-of-manila-summit-demonstrate-breadth-of-quad-agenda-foreign-secretary-misri--20261117215442"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261118-54",
+    "domain": "Society: education, labor, immigration",
+    "text": "The DOL's PERM green-card overhaul was formally published on Nov 17 with 60 days for comment. Indians, about 79% of the employment green-card queue, are the most exposed.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US visas and Indian workers",
+    "links": [
+     {
+      "label": "The Week",
+      "url": "https://theweek.in/news/world/2026/11/17/us-proposes-stricter-green-card-rules-how-new-norms-could-affect-indian-tech-professionals-nurses.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261118-06",
+   "name": "Draft resolution shrinking the Clean Transport Zone (SCT) to the city centre",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "stage": "Proposed",
+   "changes": "Cuts the SCT from about 196 km² to about 0.99 km² (first ring road plus al. Krasińskiego). The residents' exemption would depend on paying tax in Kraków, not registration, and would extend to company, leased and rented cars. Medical-visit exemptions would cover any facility in the zone. Paid stickers would be replaced by plate checks. Emission standards are unchanged.",
+   "affects": "Drivers of non-compliant cars, especially commuters from outside Kraków; residents near main roads outside the centre lose zone protection",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586"
+  },
+  {
+   "id": "R-261117-02",
+   "name": "Bill on special protection of certain gas consumers in 2027 (gas price freeze)",
+   "place": "Poland",
+   "body": "Council of Ministers (Ministry of Energy)",
+   "stage": "Proposed",
+   "changes": "Caps the gas price at 197.29 zł/MWh net (the 2026 level) for all of 2027 for protected customers. Sellers are compensated from a fund financed by a 10% levy on large gas importers' net revenues. URE-approved tariffs are kept for protected customers until end-2030.",
+   "affects": "Households, housing cooperatives, schools, hospitals, care homes, churches and shelters that use gas, and gas importers such as Orlen.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html"
+  },
+  {
+   "id": "R-261118-05",
+   "name": "Amendment to the reimbursement act (Critical Medicines List)",
+   "place": "Poland",
+   "body": "Council of Ministers (Ministry of Health) / Sejm",
+   "stage": "Proposed",
+   "changes": "Creates a national Critical Medicines List, raises the patient discount for Polish-made drugs from 15% to 30%, adds multi-criteria assessment for orphan drugs, a catalogue of equivalent therapies and spending caps, and drops OTC drugs from reimbursement.",
+   "affects": "Patients, pharmacies, drug makers, NFZ and hospitals.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html"
+  }
+ ],
+ "deepDive": {
+  "domain": "Health, medicine & food safety",
+  "title": "Measles, medicines and malaria: a health day across three countries",
+  "body": "**The US loses measles elimination.** On Nov 17 PAHO formally revoked the status the US had held since 2000, after a year with 5,412 cases, 10 deaths and 48 outbreaks (Confirmed). A joint CDC, HHS and PAHO statement lists $100 million in extra federal money since August, split roughly evenly between outbreak response and lab and epidemiology capacity, plus field teams sent to six states. Pennsylvania and New York are now asking for help, and New York is under a state of emergency (Reported, ABC). The statement cites a Johns Hopkins study finding falling MMR coverage in 78% of 2,066 counties. Five public-health associations want a funded national plan that aims for 95% coverage.\n\n**Poland: drug prices and alcohol adverts.** The reimbursement bill, with about 175 changes, went back to the Sejm Health Committee after its second reading. It includes a Critical Medicines List and a bigger price discount for drugs made in Poland. Today the same committee takes up the Senate's amendments to the anti-alcohol law. One of them, passed in the Senate by a single vote, would allow adverts for 0% beer, which the Health Ministry opposes. No new GIS food recall was found in the window.\n\n**India: malaria gains under threat.** Opening the 50th-anniversary year of ICMR's malaria institute, President Murmu said climate change, unplanned urbanisation and insecticide resistance could undo India's progress (Confirmed, ThePrint).\n\n**Science & space.** NASA will end science operations on the 27-year-old Terra Earth-observation satellite on Dec 1. Poland and India were quiet on science.",
+  "links": [
+   {
+    "label": "CDC joint statement",
+    "url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html"
+   },
+   {
+    "label": "Rynek Zdrowia: reimbursement bill",
+    "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html"
+   },
+   {
+    "label": "ThePrint: Murmu on malaria",
+    "url": "https://theprint.in/india/climate-change-insecticide-resistance-could-threaten-malaria-eradication-murmu/3101314/"
+   },
+   {
+    "label": "NASA: Terra mission to end",
+    "url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261118-04",
+   "title": "SCT w Krakowie 200 razy mniejsza. A co z czystym powietrzem i obiecanym referendum?",
+   "reporter": "",
+   "outlet": "Głos24",
+   "url": "https://glos24.pl/sct-w-krakowie-200-razy-mniejsza-a-co-z-czystym-powietrzem-i-obiecanym-referendum",
+   "why": "Brings together clean-air groups, suburban drivers, the court challenges and the missing referendum promise around the SCT overhaul.",
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261118-07",
+   "title": "Stała amerykańska baza w Polsce. Kosiniak-Kamysz: wiceszef resortu obrony USA potwierdził",
+   "reporter": "PAP / J.S.",
+   "outlet": "Rzeczpospolita",
+   "url": "https://www.rp.pl/konflikty-zbrojne/art45501291-stala-amerykanska-baza-w-polsce-kosiniak-kamysz-wiceszef-resortu-obrony-usa-potwierdzil",
+   "why": "It gives the fullest account of the Colby meeting, including Zalewski's claim that negotiations are closed, and is explicit that it rests only on Polish officials' statements.",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-18",
+   "text": "Kraków City Council votes (fares, Lviv, associations, 2027 tax rates).",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "TK immunity ruling; second Belweder round on the Tribunal (17:00); Sejm committee on alcohol-law amendments.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Alaska ranked-choice tabulation; Anthropic IPO pricing; FOMC minutes.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Trump–Xi–Putin meeting in Shenzhen; Anthropic starts trading on Nasdaq.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Sejm first reading of the 2027 gas price freeze.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Nawrocki swears in Domański and Bartol; CCD2 applies with no Polish law.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Nikhil Gupta sentencing (SDNY); FAA audit of DGCA ends.",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Cyclone Akvan landfall expected on the Andhra coast.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "First Agniveer batch exits; Ladakh local polls.",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "ABC News",
+   "url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News",
+   "url": "https://abcnews.com/Health/us-officially-loses-measles-elimination-status-paho/story?id=138203543",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo Finance (Benzinga)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-gains-hours-board-230838831.html",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo Finance (Benzinga)",
+   "url": "https://www.kaohooninternational.com/markets/594953",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English; AP (Boston Globe)",
+   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English; AP (Boston Globe)",
+   "url": "https://www.bostonglobe.com/2026/11/17/nation/us-iran-war/",
+   "paywalled": false
+  },
+  {
+   "title": "ANI (via The Tribune); ABC News",
+   "url": "https://www.tribuneindia.com/news/world/us-philippines-ties-closer-than-ever-says-trump-cites-bond-with-president-marcos",
+   "paywalled": false
+  },
+  {
+   "title": "ANI (via The Tribune); ABC News",
+   "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News",
+   "url": "https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News",
+   "url": "https://www.biospace.com/fda/white-house-yanks-overton-nomination-hours-before-committee-vote",
+   "paywalled": false
+  },
+  {
+   "title": "PYMNTS (citing Bloomberg, WSJ)",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/",
+   "paywalled": false
+  },
+  {
+   "title": "PYMNTS (citing Bloomberg, WSJ)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/polityka/art45501961-rzad-tuska-zostaje-wniosek-o-wotum-nieufnosci-odrzucony",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://api.sejm.gov.pl/sejm/term10/votings/69/7/pdf",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/decyzja-ws-swieczkowskiego-bedzie-opublikowana-w-srode-jest-decyzja-tk/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://wydarzenia.interia.pl/kraj/news-wyrazamy-stanowczy-sprzeciw-oswiadczenie-sedziow-tk,nId,23574937",
+   "paywalled": false
+  },
+  {
+   "title": "Portal Samorządowy (PAP)",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/20-listopada-rekonstrukcja-rzadu-beda-zmiany-w-skladzie-rady-ministrow,684699.html",
+   "paywalled": false
+  },
+  {
+   "title": "Portal Samorządowy (PAP)",
+   "url": "https://www.rp.pl/polityka/art45501701-spor-o-nominacje-domanskiego-bogucki-zmiany-by-sie-dokonaly-gdyby-nie-zamach-na-tk",
+   "paywalled": false
+  },
+  {
+   "title": "Interia Biznes",
+   "url": "https://biznes.interia.pl/gospodarka/news-rzad-zdecydowal-ws-cen-gazu-znamy-stawki-na-2027-rok,nId,23574745",
+   "paywalled": false
+  },
+  {
+   "title": "Interia Biznes",
+   "url": "https://pl.investing.com/news/stock-market-news/me-rzad-przyjal-projekt-ws-zamrozenia-cen-gazu-w-2027-r-1656439",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia",
+   "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia",
+   "url": "https://www.portalsamorzadowy.pl/ochrona-zdrowia/leki-moga-stac-sie-calkowicie-bezplatne-kolejne-zmiany-w-refundacji,684708.html",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://pulskrakowa.pl/strefa-czystego-transportu-zmniejszy-sie-niemal-200-razy-krakow-przedstawil-szczegoly-zmian/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/64-sesja-rady-miasta-krakowa-bilety-podatki-sct/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://moj.powiat.pl/sesja-rady-miasta-krakowa-radni-zajma-sie-sct-cenami-biletow-i-podatkami-43814558.html",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/jesli-pojawia-sie-pieniadze-chetnie-wybudujemy-wiceprezydent-walachowski-o-przyszlosci-metra-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://glos24.pl/budzet-krakowa-z-duzymi-cieciami-wracaja-dlugo-oczekiwane-inwestycje",
+   "paywalled": false
+  },
+  {
+   "title": "Głos24",
+   "url": "https://kk24.info/krakow-wyda-prawie-12-miliardow-zlotych-gibala-obiecuje-oszczednosci-ale-w-budzecie-wciaz-ogromna-dziura/",
+   "paywalled": false
+  },
+  {
+   "title": "The Watchers (IMD bulletin); Deccan Chronicle",
+   "url": "https://watchers.news/2026/11/18/cyclone-akvan-landfall-nellore-visakhapatnam-noon-november-20-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "The Watchers (IMD bulletin); Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cm-pawan-review-akvan-cyclone-preparedness-2005364",
+   "paywalled": false
+  },
+  {
+   "title": "The Wire; Revoi (IANS-based)",
+   "url": "https://m.thewire.in/article/law/election-commission-strongly-resists-answering-48-questions-raised-by-opposition",
+   "paywalled": false
+  },
+  {
+   "title": "The Wire; Revoi (IANS-based)",
+   "url": "https://english.revoi.in/sc-agrees-to-hear-india-bloc-application-for-interrogatories-to-eci-cec-ecs/",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (PTI)",
+   "url": "https://www.tribuneindia.com/news/uttar-pradesh/up-draft-electoral-roll-published-13-58-cr-voters-on-list-over-18-lakh-added-in-ssr",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (PTI)",
+   "url": "https://ddnews.gov.in/en/up-draft-electoral-roll-published-13-58-crore-voters-on-list-over-18-lakh-added-in-ssr/",
+   "paywalled": false
+  },
+  {
+   "title": "HDFC Sky",
+   "url": "https://hdfcsky.com/news/market-close-report-today-november-17-2026-nifty-sensex-continue-climb-as-investors-dump-global-ai-stocks-for-india",
+   "paywalled": false
+  },
+  {
+   "title": "HDFC Sky",
+   "url": "https://www.indiainfoline.com/news/markets/closing-bell-nifty-gains-to-25387-as-bank-nifty-hits-record-high-crude-eases-near-92",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polska/news-zielone-swiatlo-z-pentagonu-kosiniak-kamysz-o-stalej-bazie-a,nIdn,1026475",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rp.pl/konflikty-zbrojne/art45501291-stala-amerykanska-baza-w-polsce-kosiniak-kamysz-wiceszef-resortu-obrony-usa-potwierdzil",
+   "paywalled": false
+  },
+  {
+   "title": "White House / IANS",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/",
+   "paywalled": false
+  },
+  {
+   "title": "White House / IANS",
+   "url": "https://ianslive.in/outcomes-of-manila-summit-demonstrate-breadth-of-quad-agenda-foreign-secretary-misri--20261117215442",
+   "paywalled": false
+  },
+  {
+   "title": "The Week",
+   "url": "https://theweek.in/news/world/2026/11/17/us-proposes-stricter-green-card-rules-how-new-norms-could-affect-indian-tech-professionals-nurses.html",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint: Murmu on malaria",
+   "url": "https://theprint.in/india/climate-change-insecticide-resistance-could-threaten-malaria-eradication-murmu/3101314/",
+   "paywalled": false
+  },
+  {
+   "title": "NASA: Terra mission to end",
+   "url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/",
+   "paywalled": false
+  }
+ ]
+}
