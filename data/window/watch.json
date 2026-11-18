@@ -636,7 +636,7 @@
    "expected": "WION: deferred 10 days, likely listed around Nov 17",
    "checkDate": "2026-11-18",
    "happened": "Nov 17: CJI Surya Kant's bench heard the CEC/SIR pleas and adjourned them to Dec 9. It will hear the INDIA bloc's 48-interrogatories application first, and the ECI may file objections by then. [Source](https://m.thewire.in/article/law/election-commission-strongly-resists-answering-48-questions-raised-by-opposition)",
-   "eventId": ""
+   "eventId": "E-261118-37"
   },
   {
    "id": "W-261105-11",
@@ -1318,7 +1318,7 @@
    "expected": "ECI/UP CEO: deferred to Nov 17, objections until Dec 16",
    "checkDate": "2026-11-18",
    "happened": "UP's draft roll was published on Nov 17 with 13.58 crore voters, a net 18.84 lakh more than the April post-SIR roll. Claims are open until Dec 16 and the final roll is due Jan 4, 2027. [Source](https://www.tribuneindia.com/news/uttar-pradesh/up-draft-electoral-roll-published-13-58-cr-voters-on-list-over-18-lakh-added-in-ssr)",
-   "eventId": "E-261113-38"
+   "eventId": "E-261118-38"
   },
   {
    "id": "W-261113-13",
@@ -1715,6 +1715,39 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": "E-261118-25"
+  },
+  {
+   "id": "W-261118-08",
+   "dateAdded": "2026-11-18",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Supreme Court hearing on the INDIA bloc's application to serve 48 interrogatories on the CEC, ECs and ECI officials, and the ECI's objections",
+   "expected": "CJI Surya Kant's bench listed it for Dec 9 (The Wire, Revoi)",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261118-37"
+  },
+  {
+   "id": "W-261118-09",
+   "dateAdded": "2026-11-18",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Claims and objections on the UP draft roll (until Dec 16) and publication of the final roll",
+   "expected": "UP CEO schedule: claims disposed of by Dec 28, final roll Jan 4, 2027",
+   "checkDate": "2027-01-04",
+   "happened": "",
+   "eventId": "E-261118-37"
+  },
+  {
+   "id": "W-261118-10",
+   "dateAdded": "2026-11-18",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "J&K and Ladakh High Court (Leh bench) hearing on Sonam Wangchuk's petition against his house detention",
+   "expected": "Wangchuk says the plea has been filed (Nov 17)",
+   "checkDate": "2026-11-24",
+   "happened": "",
+   "eventId": "E-261118-37"
   }
  ]
 }

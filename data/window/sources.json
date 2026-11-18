@@ -2303,6 +2303,30 @@
    "lean": "unclear",
    "status": "Watch",
    "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "the-federal",
+   "name": "The Federal",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National politics, south India",
+   "language": "English",
+   "url": "https://thefederal.com/",
+   "lean": "centrist / centre-left",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "revoi-in",
+   "name": "Revoi.in",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National news, IANS-based copy",
+   "language": "English",
+   "url": "https://english.revoi.in/",
+   "lean": "unclear; wire-based",
+   "status": "Watch",
+   "dateAdded": "2026-11-18"
   }
  ]
 }
