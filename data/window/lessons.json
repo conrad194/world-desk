@@ -1678,6 +1678,143 @@
      "why": "The constitutional articles that created India's urban local government."
     }
    ]
+  },
+  {
+   "id": "L12",
+   "num": 12,
+   "unit": "How rules get made",
+   "title": "US agencies and rulemaking: proposed rules, comment periods, Federal Register",
+   "dateTaught": "2026-11-19",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "In Kraków, which powers belong to the mayor and which to the City Council, and why does a mayor need a council majority?",
+   "prevAnswer": "The mayor is the executive: he drafts the budget and resolutions, runs city hall and appoints deputies. The council adopts the budget, local taxes and local law and approves the mayor's budget execution each year. Because nothing the mayor drafts becomes law without a council vote, he needs a majority to govern.",
+   "body": "Lessons 5 and 6 showed how legislatures pass laws. Yet most rules that touch daily life, such as how much Medicare pays an insurer or which chips can be shipped abroad, are not written line by line by Congress. They are written by agencies. Today: how a US agency makes a rule, and who can stop it.\n\n**Why agencies make rules.** Congress writes statutes in broad strokes and delegates the detail to executive agencies (Lesson 4): the EPA, the FDA, the Centers for Medicare & Medicaid Services (CMS), the Commerce Department's Bureau of Industry and Security (BIS). A rule made this way binds like law, but only within the authority the statute gives. Step outside it and the courts can strike the rule down (Lesson 8). The procedure every agency must follow comes from the [#Administrative Procedure Act](https://en.wikipedia.org/wiki/Administrative_Procedure_Act), passed in 1946 after the [#New Deal](https://en.wikipedia.org/wiki/New_Deal) had multiplied federal agencies.\n\n> Signed by President [@Harry S. Truman](https://en.wikipedia.org/wiki/Harry_S._Truman) on 11 June 1946.\n\n**The standard path: notice and comment.** First, the agency drafts a **proposed rule**, formally a notice of proposed rulemaking. If it is significant, the White House's Office of Information and Regulatory Affairs reviews it first, including its costs and benefits, under [#Executive Order 12866](https://en.wikipedia.org/wiki/Executive_Order_12866). Second, the proposal is published in the **Federal Register**, the government's daily journal, with the agency's reasoning and draft text. Third comes the **comment period**, usually 30 to 60 days, when anyone (companies, states, advocacy groups, a student in Kraków) can file comments, mostly online. Fourth, the agency must consider the comments and answer the significant ones. It is not a vote: one well-argued comment that exposes a flaw can matter more than a million form letters. Finally, the **final rule** is published, usually takes effect at least 30 days later (60 for major rules), and is added to the Code of Federal Regulations.\n\n> The Federal Register first appeared on 14 March 1936, created by an act of Congress the year before.\n\n**Shortcuts and checks.** When an agency claims \"good cause\", it can issue an **interim final rule**: it takes effect at once and comments come afterwards. The process has three main checks. Congress can cancel a new rule under the [#Congressional Review Act](https://en.wikipedia.org/wiki/Congressional_Review_Act), though the president can veto that resolution (Lesson 7). Courts can throw out a rule that exceeds the statute, skipped required steps, or is \"arbitrary and capricious\". Since [#Loper Bright Enterprises v. Raimondo](https://en.wikipedia.org/wiki/Loper_Bright_Enterprises_v._Raimondo) in 2024, judges no longer defer to an agency's reading of an unclear statute. A new administration can also repeal its predecessor's rules, but it generally has to use the same notice-and-comment process, which is why reversals take months.\n\n**Poland and India, in brief.** Poland's Constitution (Article 92) lets ministers issue **regulations** (*rozporządzenia*) only under a specific authorization written into an act, and Article 88 says nothing takes effect until it is published, for regulations in the *Dziennik Ustaw*. Draft regulations are posted for public consultation on the government's legislation website, as the Council of Ministers' own rules of procedure require. India's Acts let ministries frame **rules** and regulators such as SEBI, the RBI and TRAI issue regulations. These are notified in the Gazette of India and laid before Parliament, where a Committee on Subordinate Legislation in each House can scrutinise them. A 2014 government policy asks ministries to publish drafts for comment, but it is not binding law. Lessons 15 and 17 go deeper.\n\nThe key difference: in the US, notice and comment is a legal duty that courts enforce, and skipping it can sink a rule. In Poland and India, consultation is mainly a matter of government policy. The firmer checks there are the authorization in the parent act and review by courts and parliament.",
+   "comparison": [
+    {
+     "aspect": "Who writes detailed rules",
+     "US": "Federal agencies (EPA, FDA, CMS, BIS) under powers delegated by Congress",
+     "Poland": "Ministers and the Council of Ministers, issuing regulations (rozporządzenia)",
+     "India": "Ministries frame rules; regulators (SEBI, RBI, TRAI) issue regulations"
+    },
+    {
+     "aspect": "Legal basis",
+     "US": "The enabling statute, plus the [#Administrative Procedure Act](https://en.wikipedia.org/wiki/Administrative_Procedure_Act) (1946) for procedure",
+     "Poland": "A specific authorization in an act (Constitution, Art. 92)",
+     "India": "A rule-making clause in the parent Act"
+    },
+    {
+     "aspect": "Public comment",
+     "US": "Required: proposed rule plus a comment period, usually 30–60 days",
+     "Poland": "Public consultation on the government's legislation website, set by Council of Ministers procedure",
+     "India": "Encouraged by the 2014 Pre-Legislative Consultation Policy, not binding"
+    },
+    {
+     "aspect": "Where rules are published",
+     "US": "Federal Register; then the Code of Federal Regulations",
+     "Poland": "Dziennik Ustaw (Journal of Laws)",
+     "India": "Gazette of India"
+    },
+    {
+     "aspect": "Legislative check",
+     "US": "[#Congressional Review Act](https://en.wikipedia.org/wiki/Congressional_Review_Act) resolution of disapproval",
+     "Poland": "Indirect: the Sejm can amend or remove the authorizing act",
+     "India": "Rules laid before Parliament; Committees on Subordinate Legislation"
+    },
+    {
+     "aspect": "Court check",
+     "US": "Federal courts can vacate rules that are unlawful or arbitrary",
+     "Poland": "Constitutional Tribunal reviews whether regulations conform to acts",
+     "India": "High Courts and Supreme Court can strike down rules exceeding the Act"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Notice of proposed rulemaking (NPRM)",
+     "meaning": "The published draft of a rule, with the agency's reasoning, that opens the comment period."
+    },
+    {
+     "term": "Comment period",
+     "meaning": "The window, usually 30–60 days, when anyone can submit views on a proposed rule; the agency must respond to significant points."
+    },
+    {
+     "term": "Interim final rule",
+     "meaning": "A rule that takes effect immediately on a claim of \"good cause\", with comments taken afterwards."
+    },
+    {
+     "term": "Federal Register",
+     "meaning": "The US government's daily journal of proposed rules, final rules, notices and presidential documents."
+    },
+    {
+     "term": "Rozporządzenie",
+     "meaning": "A Polish regulation issued by a minister or the government under a specific authorization in an act; it takes effect only once published in Dziennik Ustaw."
+    },
+    {
+     "term": "Subordinate (delegated) legislation",
+     "meaning": "In India, rules and regulations made by the executive or regulators under a parent Act, notified in the Gazette and laid before Parliament."
+    }
+   ],
+   "example": "For 40 years, US courts followed [#Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.](https://en.wikipedia.org/wiki/Chevron_U.S.A.,_Inc._v._Natural_Resources_Defense_Council,_Inc.) (1984): if a statute was ambiguous, judges accepted any reasonable interpretation by the agency. That gave agencies wide room in their rules. The test came from a fishing rule. The National Marine Fisheries Service required some herring boats to pay for the federal monitors it placed on board, and family fishing companies sued, arguing the law never authorized that cost. In [#Loper Bright Enterprises v. Raimondo](https://en.wikipedia.org/wiki/Loper_Bright_Enterprises_v._Raimondo) (June 2024), the Supreme Court overruled Chevron 6–3: judges must now decide for themselves what a statute means. Supporters said this restores the courts' role and limits unelected officials. Critics said generalist judges will now second-guess technical expertise. Either way, every new rule now faces a harder test if it rests on a loosely worded statute.",
+   "inTheNews": "Two rules in today's brief show the process at work. CMS's proposed CRUSH anti-fraud rule has opened a comment period to Jan 19, 2027, and analysts already expect court challenges. Commerce's BIS used an interim final rule for its new AI-chip licensing, which formally scraps the 2025 AI Diffusion Rule and its country tiers that had left Poland out of the top group, and takes comments for 60 days after its Federal Register publication.",
+   "newsEvents": [
+    "E-261119-05",
+    "E-261119-51",
+    "E-261119-55"
+   ],
+   "check": [
+    {
+     "q": "A US agency publishes a final rule that goes well beyond what its enabling statute allows. Which is the most likely way it is stopped?",
+     "options": [
+      "The Senate rejects it by a simple majority with no presidential role",
+      "A federal court vacates it as exceeding the agency's authority",
+      "The Federal Register refuses to print it",
+      "It automatically expires after the comment period"
+     ],
+     "answer": 1,
+     "explain": "Agencies can act only within the authority Congress delegated. Courts review rules and can set aside those that exceed the statute. A Congressional Review Act resolution needs both houses and is subject to presidential veto."
+    },
+    {
+     "q": "A proposed rule receives 2 million identical form-letter comments against it and a handful of detailed technical comments in favour. What must the agency do?",
+     "options": [
+      "Withdraw the rule, since most commenters oppose it",
+      "Count comments and follow the majority",
+      "Consider the substance of the comments and respond to significant points, then decide on the record",
+      "Ignore all comments, since they are only advisory"
+     ],
+     "answer": 2,
+     "explain": "Notice and comment is not a vote. The agency must engage with the arguments and evidence, and courts check whether it did so reasonably."
+    },
+    {
+     "q": "Which statement best captures a difference between the US and Polish systems for detailed rules?",
+     "options": [
+      "Polish ministers can issue regulations on any topic without an act behind them",
+      "In the US, notice and comment is a legal requirement courts enforce; in Poland a regulation needs a specific authorization in an act and takes effect only after publication in Dziennik Ustaw",
+      "US rules do not have to be published anywhere",
+      "Only the Polish president can issue regulations"
+     ],
+     "answer": 1,
+     "explain": "Article 92 of Poland's Constitution ties every regulation to an authorization in an act, and Article 88 makes publication a condition of entry into force. The US APA makes the public-comment process itself legally enforceable."
+    }
+   ],
+   "recallQ": "What are the main steps a US agency follows to make a binding rule, and what does an interim final rule skip?",
+   "recallA": "The agency publishes a proposed rule in the Federal Register, takes public comments (usually 30–60 days), considers and answers significant comments, then publishes a final rule that normally takes effect at least 30 days later. An interim final rule skips the advance comment step by claiming good cause: it takes effect right away and comments are taken afterwards.",
+   "readMore": [
+    {
+     "title": "The Rulemaking Process (Office of the Federal Register)",
+     "url": "https://uploads.federalregister.gov/uploads/2013/09/The-Rulemaking-Process.pdf",
+     "why": "The official one-page map of each step, from statutory authority to final rule and review."
+    },
+    {
+     "title": "Constitution of the Republic of Poland, Chapter III: Sources of Law (Senate of Poland)",
+     "url": "https://www.senat.gov.pl/en/about-the-senate/konstytucja/chapter-iii/",
+     "why": "Articles 87–94 in English, including Article 92 on regulations and Article 88 on publication."
+    },
+    {
+     "title": "How well does Parliament examine rules framed under various laws? (PRS Legislative Research)",
+     "url": "https://prsindia.org/theprsblog/how-well-does-parliament-examine-rules-framed-under-various-laws",
+     "why": "How India's Committees on Subordinate Legislation work and how little they can review (2011 data)."
+    }
+   ]
   }
  ]
 }
