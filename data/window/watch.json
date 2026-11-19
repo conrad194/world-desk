@@ -162,17 +162,17 @@
    "what": "Second reading and vote on suspending the Kraków–Lviv partnership (druk 1586) Update (Nov 17): druk 1586 is item 13 on the 18 Nov agenda. The deadline for mayoral self-amendments was 16 Nov 15:00 and for councillors' amendments 17 Nov 15:00 (BIP). Update (Nov 18): the session opens at 11:00 today with druk 1586 (Lviv) for second reading. No result at the time of research.",
    "expected": "On the 18 Nov City Council session agenda, presented by Mayor Gibała (BIP)",
    "checkDate": "2026-11-19",
-   "happened": "",
-   "eventId": "E-261113-27"
+   "happened": "On 18 Nov the council did not adopt druk 1586. KO and Nowa Lewica sent it back to Mayor Gibała, while PiS and his club voted against returning it. Gibała says he is keeping the motion ([Rzeczpospolita](https://www.rp.pl/polityka/art45511081-krakow-nie-zawiesi-partnerstwa-ze-lwowem-projekt-wraca-do-gibaly)).",
+   "eventId": "E-261119-28"
   },
   {
    "id": "W-261026-16",
    "dateAdded": "2026-10-26",
    "place": "Kraków",
    "domain": "Infrastructure, transport & housing",
-   "what": "Vote on the fare resolution (druk 1587) with the Nowa Lewica amendment and mayoral self-amendment Update (Nov 17): druk 1587 is item 12 on the 18 Nov agenda, with the Nowa Lewica amendment and the mayor's self-amendment; the 2027 draft budget assumes cheaper fares from January (BIP; TVN24). Update (Nov 18): druk 1587 is due for second reading today. KRKnews puts the start date at 4 Jan 2027 and the lost revenue at about 19.6m zł a year. No result yet.",
+   "what": "Vote on the fare resolution (druk 1587) with the Nowa Lewica amendment and mayoral self-amendment Update (Nov 17): druk 1587 is item 12 on the 18 Nov agenda, with the Nowa Lewica amendment and the mayor's self-amendment; the 2027 draft budget assumes cheaper fares from January (BIP; TVN24). Update (Nov 18): druk 1587 is due for second reading today. KRKnews puts the start date at 4 Jan 2027 and the lost revenue at about 19.6m zł a year. No result yet. Update (Nov 19): druk 1587 was not voted on 18 Nov because the Infrastructure Committee did not give its opinion while consultations and formalities were still running. The vote moves to the December session. The BIP draft keeps 4 Jan 2027 as the start date (Kurier Krakowski; BIP).",
    "expected": "On the 18 Nov agenda as item 6 (BIP)",
-   "checkDate": "2026-11-19",
+   "checkDate": "2026-12-02",
    "happened": "",
    "eventId": "E-261113-27"
   },
@@ -434,9 +434,9 @@
    "dateAdded": "2026-10-27",
    "place": "Kraków",
    "domain": "Economy, business & markets",
-   "what": "Councillor Michał Starobrat's plan to close the roughly 390 million zł gap in this year's current spending without new debt",
+   "what": "Councillor Michał Starobrat's plan to close the roughly 390 million zł gap in this year's current spending without new debt Update (Nov 19): still no formal Starobrat plan has been reported. He has publicly backed the mayor's 2027 draft budget (see E-261118-31).",
    "expected": "No formal plan as of Nov 6. In a Nov 4 interview Starobrat listed ideas: 10–12m zł from promotion, ~2m zł from cutting departments, possible cuts to sport, culture and NGO funding (Kurier Krakowski citing Gazeta Krakowska). Next council session Nov 18.",
-   "checkDate": "2026-11-18",
+   "checkDate": "2026-12-02",
    "happened": "",
    "eventId": ""
   },
@@ -610,9 +610,9 @@
    "dateAdded": "2026-11-05",
    "place": "Kraków",
    "domain": "Politics & government",
-   "what": "City council vote on leaving Eurocities, Healthy Cities and other associations (about 8.2m zł a year in savings). Update (Nov 17): the withdrawal resolutions (druki 1628-1636) are items 32-40 on the 18 Nov agenda (BIP), so the vote could come on 18 Nov. Update (Nov 18): the withdrawal resolutions are on today's session agenda. No result yet.",
+   "what": "City council vote on leaving Eurocities, Healthy Cities and other associations (about 8.2m zł a year in savings). Update (Nov 17): the withdrawal resolutions (druki 1628-1636) are items 32-40 on the 18 Nov agenda (BIP), so the vote could come on 18 Nov. Update (Nov 18): the withdrawal resolutions are on today's session agenda. No result yet. Update (Nov 19): all nine withdrawal resolutions were taken off the 18 Nov agenda with the support of all councillors present. A cost-benefit comparison is due from the department within two weeks, then councillors will assess each membership (KRKnews).",
    "expected": "Mayor Gibała says he will put it to the council (LoveKraków)",
-   "checkDate": "2026-11-19",
+   "checkDate": "2026-12-02",
    "happened": "",
    "eventId": ""
   },
@@ -764,7 +764,7 @@
    "dateAdded": "2026-11-06",
    "place": "Kraków",
    "domain": "Infrastructure, transport & housing",
-   "what": "City Council vote on freezing SCT entry fees for 2027-2028 at 100 zł a month Update (Nov 18): a separate draft to shrink the SCT boundaries was presented on 17 Nov. If adopted, the fee freeze would apply to the smaller zone.",
+   "what": "City Council vote on freezing SCT entry fees for 2027-2028 at 100 zł a month Update (Nov 18): a separate draft to shrink the SCT boundaries was presented on 17 Nov. If adopted, the fee freeze would apply to the smaller zone. Update (Nov 19): the fee freeze was presented and sharply debated at the 18 Nov session, with no vote. Critics (Leśniak, Owca, Garboliński, Stawowy) attacked the consultations, and Hoffman admitted the survey cannot verify residence (LoveKraków).",
    "expected": "Consultations run 6-27 Nov, then the draft goes to the council in December (city / CoWKrakowie)",
    "checkDate": "2026-12-09",
    "happened": "",
@@ -1083,7 +1083,7 @@
    "dateAdded": "2026-11-10",
    "place": "Kraków",
    "domain": "Defense, security & crime",
-   "what": "Prosecutors’ findings on motive and on whether anyone helped plan or supply the Kraków attack, and whether the case is discontinued after the attacker’s death Update (Nov 17): Minister Siemoniak (Rzeczpospolita, 16 Nov) says the attacker was fascinated by mass killers, the attack was planned, and so far there is no sign of an ideological motive or outside influence. Prosecutors have the attacker's route and are still looking for CCTV. If no relatives claim the body, Gibała will ask UJ Collegium Medicum to take it. Update (Nov 18): the attacker's closest relative has asked for the body. Prosecutors will release it after further examinations (PAP via KRKnews). No news on motive or CCTV.",
+   "what": "Prosecutors’ findings on motive and on whether anyone helped plan or supply the Kraków attack, and whether the case is discontinued after the attacker’s death Update (Nov 17): Minister Siemoniak (Rzeczpospolita, 16 Nov) says the attacker was fascinated by mass killers, the attack was planned, and so far there is no sign of an ideological motive or outside influence. Prosecutors have the attacker's route and are still looking for CCTV. If no relatives claim the body, Gibała will ask UJ Collegium Medicum to take it. Update (Nov 18): the attacker's closest relative has asked for the body. Prosecutors will release it after further examinations (PAP via KRKnews). No news on motive or CCTV. Update (Nov 19): Eryk Stasielak (National Prosecutor's Office, Małopolska) told Onet that police body cameras recorded the shooting, that more than 100 casings and four phones (one locked) were found in the car, and that a safe at the attacker's home held ammunition. Still no motive (TVN24).",
    "expected": "National Prosecutor’s Office, Kraków branch",
    "checkDate": "2026-11-24",
    "happened": "",
@@ -1281,9 +1281,9 @@
    "dateAdded": "2026-11-13",
    "place": "Kraków",
    "domain": "Economy, business & markets",
-   "what": "First reading of 2027 property tax and vehicle tax rates (druki 1617, 1616) Update (Nov 18): first reading today. The proposed property tax is 1.49 zł/m² for business land and 1.29 zł/m² for residential buildings (KRKnews preview).",
+   "what": "First reading of 2027 property tax and vehicle tax rates (druki 1617, 1616) Update (Nov 18): first reading today. The proposed property tax is 1.49 zł/m² for business land and 1.29 zł/m² for residential buildings (KRKnews preview). Update (Nov 19): no media report of the 18 Nov first reading of the 2027 property and vehicle tax rates was found. A first reading involves no vote; adoption is expected at a later session.",
    "expected": "On the 18 Nov council agenda (BIP)",
-   "checkDate": "2026-11-19",
+   "checkDate": "2026-12-02",
    "happened": "",
    "eventId": "E-261113-27"
   },
@@ -1501,9 +1501,9 @@
    "dateAdded": "2026-11-16",
    "place": "Kraków",
    "domain": "Infrastructure, transport & housing",
-   "what": "Council vote on starting consultations to end sales of municipal flats to tenants at discounts of up to 90% (druk 1618); consultations would run at least 60 days, to 30 April 2027 Update (Nov 18): the druk 1618 vote on starting consultations is on today's agenda. No result yet.",
+   "what": "Council vote on starting consultations to end sales of municipal flats to tenants at discounts of up to 90% (druk 1618); consultations would run at least 60 days, to 30 April 2027 Update (Nov 18): the druk 1618 vote on starting consultations is on today's agenda. No result yet. Update (Nov 19): no published result yet for the druk 1618 vote on starting consultations (session coverage and krakow.pl had no result by the morning of 19 Nov). Check the BIP voting record.",
    "expected": "On the 18 Nov session agenda (BIP; KRKnews)",
-   "checkDate": "2026-11-19",
+   "checkDate": "2026-11-20",
    "happened": "",
    "eventId": ""
   },
@@ -1512,9 +1512,9 @@
    "dateAdded": "2026-11-16",
    "place": "Kraków",
    "domain": "Economy, business & markets",
-   "what": "2026 budget amendments and the multi-year financial forecast change (druki 1622-1626), the first step towards closing the roughly 390m zł current-spending gap Update (Nov 18): budget amendments are on today's agenda. No result yet.",
+   "what": "2026 budget amendments and the multi-year financial forecast change (druki 1622-1626), the first step towards closing the roughly 390m zł current-spending gap Update (Nov 18): budget amendments are on today's agenda. No result yet. Update (Nov 19): no published result yet for the 2026 budget and WPF amendments (druki 1622-1626). A KRKnews live blog listed 'budget changes' as a session topic but gave no vote.",
    "expected": "On the 18 Nov session agenda (BIP)",
-   "checkDate": "2026-11-19",
+   "checkDate": "2026-11-20",
    "happened": "",
    "eventId": ""
   },
@@ -1710,7 +1710,7 @@
    "dateAdded": "2026-11-18",
    "place": "Kraków",
    "domain": "Infrastructure, transport & housing",
-   "what": "Results of Wałachowski's analysis of money already spent on metro preparations, and the KIO appeal on the geological-survey tender",
+   "what": "Results of Wałachowski's analysis of money already spent on metro preparations, and the KIO appeal on the geological-survey tender Update (Nov 19): KO and Nowa Lewica are seeking an extraordinary council session next week on the metro decision, asking for the analyses behind it and the status of the two tenders (LoveKraków).",
    "expected": "Ordered by Deputy Mayor Wałachowski (KRKnews); no date",
    "checkDate": "2026-12-15",
    "happened": "",
@@ -1847,6 +1847,17 @@
    "checkDate": "2026-12-10",
    "happened": "",
    "eventId": "E-261119-23"
+  },
+  {
+   "id": "W-261119-08",
+   "dateAdded": "2026-11-19",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Extraordinary Kraków City Council session on halting metro preparations: the analyses Gibała presents, and the status of the two metro tenders",
+   "expected": "Requested by KO and Nowa Lewica for next week (LoveKraków, 18 Nov)",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261119-32"
   }
  ]
 }
