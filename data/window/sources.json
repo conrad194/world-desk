@@ -2339,6 +2339,54 @@
    "lean": "tabloid, populist centre",
    "status": "Watch",
    "dateAdded": "2026-11-18"
+  },
+  {
+   "id": "alaska-public-media",
+   "name": "Alaska Public Media",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Alaska politics and elections",
+   "language": "English",
+   "url": "https://alaskapublic.org",
+   "lean": "Centre (public media)",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "punchbowl-news",
+   "name": "Punchbowl News",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Congress and leadership",
+   "language": "English",
+   "url": "https://punchbowl.news",
+   "lean": "Centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "uscc",
+   "name": "U.S.-China Economic and Security Review Commission",
+   "type": "Official source",
+   "place": "US",
+   "focus": "China policy reports to Congress",
+   "language": "English",
+   "url": "https://www.uscc.gov",
+   "lean": "Official",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "pbs-newshour",
+   "name": "PBS NewsHour",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "National news; carries AP wire",
+   "language": "English",
+   "url": "https://www.pbs.org/newshour",
+   "lean": "Centre-left (public media)",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
   }
  ]
 }

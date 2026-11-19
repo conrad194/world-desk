@@ -703,6 +703,22 @@
    "newsLink": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586",
    "eventId": "",
    "lastChecked": "2026-11-18"
+  },
+  {
+   "id": "R-261119-01",
+   "dateLogged": "2026-11-19",
+   "place": "US",
+   "body": "CMS (HHS)",
+   "name": "Comprehensive Regulations to Uncover Suspicious Healthcare (CRUSH) proposed rule",
+   "changes": "Extrapolates Medicare Advantage audit findings across whole contracts back to 2018, requires faster reporting and return of overpayments, and tightens provider and broker screening across Medicare, Medicaid, CHIP and the ACA marketplace.",
+   "affects": "Medicare Advantage insurers, Medicaid managed-care plans, providers, suppliers and marketplace brokers. CMS projects about $90bn in federal savings over 2027–2036.",
+   "stage": "Open for comment",
+   "commentDeadline": "2027-01-19",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.beckershospitalreview.com/legal-regulatory-issues/cms-targets-90b-in-savings-with-sweeping-new-anti-fraud-rule/",
+   "eventId": "E-261119-05",
+   "lastChecked": "2026-11-19"
   }
  ]
 }
