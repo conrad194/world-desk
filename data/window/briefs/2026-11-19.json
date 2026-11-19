@@ -1,0 +1,1100 @@
+{
+ "date": "2026-11-19",
+ "top5": [
+  {
+   "text": "Anthropic priced its IPO at $83, raising about $81bn at a roughly $1.5tn valuation, the largest IPO on record; trading on Nasdaq starts today.",
+   "place": "US",
+   "links": [
+    {
+     "label": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion"
+    }
+   ]
+  },
+  {
+   "text": "Trump landed in Shenzhen, greeted by Xi, ahead of today's first US–China–Russia leaders' summit.",
+   "place": "US",
+   "links": [
+    {
+     "label": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin"
+    }
+   ]
+  },
+  {
+   "text": "Poland's Tribunal assembly lifted Święczkowski's immunity and suspended him; three Supreme Court chambers ruled TK panels with unsworn judges issue no valid rulings.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "PAP (via Gość Niedzielny)",
+     "url": "https://www.gosc.pl/doc/9967892.Swieczkowski-bez-immunitetu-Zapowiada-dzialalnosc-TK-na"
+    }
+   ]
+  },
+  {
+   "text": "Kraków councillors sent the Lviv-partnership suspension back to the mayor and pushed the 20-minute ticket vote to December.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/polityka/art45511081-krakow-nie-zawiesi-partnerstwa-ze-lwowem-projekt-wraca-do-gibaly"
+    }
+   ]
+  },
+  {
+   "text": "Cyclone Akvan is due on the north Andhra–south Odisha coast around noon Nov 20; Odisha has evacuated about 50,000 people.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Business Standard",
+     "url": "https://www.business-standard.com/india-news/cyclone-akvan-strengthens-orange-alert-in-andhra-odisha-and-telangana-126111800424_1.html"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261119-01",
+    "domain": "Technology, AI & cyber",
+    "text": "Anthropic priced its IPO at $83, above range, raising about $81bn at a $1.5tn valuation in the largest IPO on record; ANT trades from Nov 19.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "AP (via PBS NewsHour)",
+      "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion"
+     },
+     {
+      "label": "Second source",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-prices-ipo-83-share-014000480.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-08",
+    "domain": "Foreign relations",
+    "text": "Trump arrived in Shenzhen, greeted by Xi at the airport, ahead of the first-ever US–China–Russia leaders' summit on Nov 19.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-02",
+    "domain": "Politics & government",
+    "text": "AP called Alaska's Senate race for Democrat Mary Peltola, who cleared 50% outright, completing a 56–44 Democratic Senate majority.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Alaska Public Media",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-03",
+    "domain": "Economy, business & markets",
+    "text": "Fed minutes: almost all officials see more hikes ahead, a few floated more than 25bp, and AI-related debt was flagged as a stability risk.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Reuters (via Investing.com)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.investing.com/news/economy-news/fed-policymakers-concerned-about-financial-system-risks-minutes-show-5036972"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-10",
+    "domain": "Defense, security & crime",
+    "text": "Iran hit at US-hosting bases in Kuwait and Bahrain and an ADNOC tanker was struck; CENTCOM reports no US casualties.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-18/ty-article/.premium/u-s-israeli-military-chiefs-meet-as-israel-pushes-for-new-iran-strikes/000001a1-ee98-ddcb-a9b3-febfbe610000"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-11",
+    "domain": "Politics & government",
+    "text": "Shutdown odds rose as Republican leaders rejected Democratic demands to curb Iran-war funding before the Dec 11 deadline.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Punchbowl News",
+      "url": "https://punchbowl.news/article/washington/why-shutdown-is-getting-more-likely/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.washingtontimes.com/news/2026/nov/18/democrats-debate-block-iran-war-funding-without-causing-government/"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261119-14",
+    "domain": "Law, courts & regulation",
+    "text": "TK assembly lifted Święczkowski's immunity in four cases and suspended him, but refused his detention; he rejects the ruling as invalid.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "PAP (via Gość Niedzielny)",
+      "url": "https://www.gosc.pl/doc/9967892.Swieczkowski-bez-immunitetu-Zapowiada-dzialalnosc-TK-na"
+     },
+     {
+      "label": "Second source",
+      "url": "https://nczas.info/2026/11/18/immunitet-swieczkowskiego-uchylony-zurek-moze-stawiac-zarzuty/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-15",
+    "domain": "Law, courts & regulation",
+    "text": "Three Supreme Court chambers ruled that only TK panels sworn before the President issue valid rulings, binding even unpublished; the government rejects it.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Prawo.pl",
+      "url": "https://www.prawo.pl/prawnicy-sady/czy-nieopublikowany-wyrok-trybunalu-konstytucyjnego-obowiazuje-uchwala-trzech-izb-sn,1557999.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/polska/uchwala-trzech-izb-sadu-najwyzszego-w-sprawie-orzeczen-trybunalu-konstytucyjnego-st9346060"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-17",
+    "domain": "Defense, security & crime",
+    "text": "Defence minister confirms services foiled a planned Russian sabotage provocation at the Kaliningrad border and seeks to extend Operation Horyzont.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita (PAP)",
+      "url": "https://www.rp.pl/polityka/art45510781-szef-mon-potwierdza-doniesienia-rz-polskie-sluzby-udaremnily-rosyjska-prowokacje"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/polska/szef-mon-wladyslaw-kosiniak-kamysz-sluzby-wiedzialy-o-rosyjskiej-prowokacji-przy-granicy-i-odpowiednio-zareagowaly-st9346225"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261119-16",
+    "domain": "Politics & government",
+    "text": "Second Belweder round on the TK: Bogucki says there is 70% agreement on a joint constitutional draft; a third meeting is on Nov 19, still without KO and the Left.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "RMF24 (PAP)",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-bogucki-po-spotkaniu-ws-trybunalu-konstytucyjnego-zostalo-na,nIdn,1026712"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/polityka/art45496071-belweder-chce-wspolnego-projektu-zmian-w-tk-bez-porozumienia-z-ko-i-lewica"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-18",
+    "domain": "Economy, business & markets",
+    "text": "Nawrocki vetoed the VAT hike on energy drinks and 0% beer, about 1.3bn zł lost in 2027, but signed higher alcohol excise earmarked for the NFZ.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland public finances and credit ratings",
+    "links": [
+     {
+      "label": "Money.pl",
+      "url": "https://www.money.pl/podatki/wyzszy-vat-na-napoje-jest-weto-prezydenta-7352388615415840a.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.tvp.info/96545280/kancelaria-prezydenta-weto-dla-podwyzek-vat-na-napoje-bezalkoholowe-i-energetyki-prezydent-podpisal-trzy-ustawy"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-19",
+    "domain": "Health, medicine & food safety",
+    "text": "Sejm Health Committee urged rejecting the Senate's 0% beer ad and airport night-sale exemptions while accepting a June 2027 start for the anti-alcohol law.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rynek Zdrowia",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Calkowity-zakaz-reklamy-piwa-takze-0-proc-Jest-decyzja-komisji,291407,2.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Limity-zarobkow-lekarzy-reklama-piwa-0-proc-i-refundacja-lekow-Dzis-wazne-glosowania-w-Sejmie,291409,2.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261119-28",
+    "domain": "Foreign relations",
+    "text": "Kraków council sent Gibała's draft to suspend the Lviv partnership back to him (KO and Lewica for, PiS and his club against); the mayor says he is keeping the motion.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków–Lviv partnership and the Year of the UPA",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45511081-krakow-nie-zawiesi-partnerstwa-ze-lwowem-projekt-wraca-do-gibaly"
+     },
+     {
+      "label": "Second source",
+      "url": "https://newsmaxpolska.pl/kraj/polityka/82289/krakow-lwow-lukasz-gibala-podtrzymuje-wniosek-ws-upa-i-szuchewycza/news"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261119-29",
+    "domain": "Infrastructure, transport & housing",
+    "text": "The vote on Kraków's return of the 20-minute ticket slips to December; the BIP draft still sets 4 Jan 2027 as the start date.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "Kurier Krakowski (kk24.info)",
+      "url": "https://kk24.info/zwrot-akcji-z-biletami-w-krakowie-gibala-musi-poczekac-radni-nie-zaglosuja-w-srode/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bip.krakow.pl/_inc/rada/show_pdfdoc.php?id=146628"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-30",
+    "domain": "Politics & government",
+    "text": "Kraków councillors pulled the nine resolutions on leaving Eurocities and other associations, pending a cost-benefit analysis due within two weeks.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków city finances and the 2027 budget",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/trwa-64-sesja-rady-miasta-krakowa-uhonorowanie-medykow-dyskusja-o-sct-zmiany-w-budzecie-relacja-live/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-32",
+    "domain": "Infrastructure, transport & housing",
+    "text": "KO and Lewica want an extraordinary Kraków council session next week to question Gibała over halting metro preparations.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "LoveKraków",
+      "url": "https://lovekrakow.pl/metro-w-krakowie-ko-i-lewica-chca-nadzwyczajnej-sesji-rady-miasta"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kk24.info/gibala-wezwany-do-wyjasnien-w-sprawie-metra-ko-i-lewica-chca-nadzwyczajnej-sesji-w-tle-nawet-60-mln-zl-z-sct/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-33",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors say police body cameras recorded the end of the Kraków attack; more than 100 casings and four phones were found in the car, and no motive yet.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/krakow/krakow-nowe-ustalenia-prokuratury-w-sprawie-zamachu-st9344401"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261119-37",
+    "domain": "Environment, energy & disasters",
+    "text": "Cyclone Akvan, now a severe storm about 480 km off Narsapur, is due to hit the north Andhra–south Odisha coast around noon Nov 20; seven AP districts are on red alert.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/india-news/cyclone-akvan-strengthens-orange-alert-in-andhra-odisha-and-telangana-126111800424_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://swarajyamag.com/news-brief/cyclone-akvan-strengthens-to-very-severe-storm-ahead-of-friday-landfall-in-andhra-pradesh"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-38",
+    "domain": "Environment, energy & disasters",
+    "text": "Odisha has evacuated about 50,000 people and shut schools in six districts until Nov 21 as Cyclone Akvan nears.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/india/cyclone-akvan-approaches-indian-coasts/story"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.business-standard.com/india-news/cyclone-akvan-strengthens-orange-alert-in-andhra-odisha-and-telangana-126111800424_1.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-41",
+    "domain": "Politics & government",
+    "text": "The ECI pushed final SIR rolls in seven states, including Delhi and Maharashtra, from Nov 30 to Dec 22 to re-verify 'ASDD' voters.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "IANS (via Social News XYZ)",
+      "url": "https://www.socialnews.xyz/2026/11/18/ec-extends-sir-2026-deadline-final-voter-list-in-jharkhand-to-be-published-on-dec-22/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.india.com/news/india/sir-2026-deadline-extended-election-commission-takes-big-call-in-7-states-and-uts-final-voter-list-to-be-published-on-this-date-8546040/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-44",
+    "domain": "Foreign relations",
+    "text": "Rajnath Singh and Jaishankar are in Tokyo for the fourth India–Japan 2+2 dialogue on defence tech, maritime security and supply chains.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Week",
+      "url": "https://www.theweek.in/news/india/2026/11/18/time-to-update-the-picture-of-india-in-japan-eam-jaishankar-urges-the-world-to-stand-up-and-take-notice-of-india.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://ianslive.in/rajnath-singh-to-visit-japan-for-22-ministerial-dialogue-talks-with-japanese-counterpart-koizumi--20261117122848"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-45",
+    "domain": "Technology, AI & cyber",
+    "text": "At the Bengaluru Tech Summit, Karnataka unveiled six AI and deeptech initiatives, including a proposed 200-mm chip R&D fab, and CM Shivakumar pledged an AI University.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Karnataka politics and governance",
+    "links": [
+     {
+      "label": "CareerIndia / Tech Times",
+      "url": "https://www.careerindia.com/news/bengaluru-tech-summit-2026-karnataka-ai-initiatives-skilling-plan-iiit-b-hub-and-future-tech-careers-011-68827.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.techtimes.com/articles/330928/20261117/1000-startups-60000-visitors-indias-first-ai-university-horizon-bengaluru-tech-summit-2026.htm"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "Buses 238, 248, 258, 268, 278, 288 and 948: changes from 10:00 today (19 Nov) because of construction of the Zabierzów bypass.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty"
+  },
+  {
+   "kind": "Transit",
+   "text": "Buses 238, 248, 268, 278 and 288 are on a detour while the Modlniczka junction is resurfaced (from the night of 17/18 Nov). A4 slip-road night closures there continue on 19/20, 20/21, 23/24 and 24/25 Nov, 20:00–06:00.",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty/2256-2026"
+  },
+  {
+   "kind": "Transit",
+   "text": "Tram and bus detours continue for the Teatr Bagatela junction rebuild (since 9 Nov), and the Prądnik Czerwony P+R 01 stop is closed for repairs (lines 105, 128, 184, 193, 199, 250, 405, 442, 610).",
+   "link": "https://ztp.krakow.pl/kmk/komunikaty/2216-2026"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Moderate on 18 Nov (PM2.5 about 6 µg/m³, PM10 about 9 µg/m³). The AQI forecast for today (19 Nov) is 'poor' (around 55), easing to moderate on Friday. This is a Plume Labs model via AccuWeather, not GIOŚ measurements.",
+   "link": "https://www.accuweather.com/pl/pl/krakow/274455/air-quality-index/274455"
+  },
+  {
+   "kind": "Weather",
+   "text": "Mild for the season: IMGW forecasts 11–13°C in southern Poland with rain in places. Snow and blizzards are possible in the Tatras overnight into Friday (around 8 cm), with gusts up to 80 km/h in the Carpathians. No IMGW warning for Kraków itself was found.",
+   "link": "https://www.eska.pl/news/pogoda/pogoda-na-19-listopada-imgw-ostrzega-przed-silnym-wiatrem-i-opadami-sniegu-aa-HQqp-PLAr-qZUA.html"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261119-53",
+    "domain": "Environment, energy & disasters",
+    "text": "US Energy Secretary Wright, in Warsaw for the P-TEC energy summit, met Tusk and called a 2036 start for Poland's first nuclear unit realistic.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Polish nuclear power programme",
+    "links": [
+     {
+      "label": "TVN24 Biznes",
+      "url": "https://tvn24.pl/biznes/z-kraju/sekretarz-energii-usa-w-polsce-wazny-szczyt-i-spotkanie-z-premierem-donaldem-tuskiem-st9344892"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.portalsamorzadowy.pl/gospodarka-komunalna/atom-i-gaz-maja-zapewnic-europie-energie-minister-wskazuje-kierunek-wspolpracy-z-usa,684811.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-54",
+    "domain": "Economy, business & markets",
+    "text": "Poland's PFR and the US DFC agreed to work together on drawing private capital into Polish nuclear and gas projects; no sums were named.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Polish nuclear power programme",
+    "links": [
+     {
+      "label": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/pfr-laczy-sily-z-amerykanami-chodzi-o-miliardy-na-polski-atom,1121093.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://biznes.interia.pl/energetyka/news-polska-i-usa-zaciesniaja-wspolprace-dfc-pomoze-finansowac-ro,nId,23575667"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261119-50",
+    "domain": "Trade & tariffs",
+    "text": "India's commerce secretary says the US trade deal is almost settled, but it can't be signed until Washington finalises its new tariff framework and Section 301 probes.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "The Tribune (ANI)",
+      "url": "https://tribuneindia.com/news/commerce-secretary/india-us-trade-deal-signing-awaits-new-us-tariff-framework-says-commerce-secretary"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.amarujala.com/business/business-diary/india-us-trade-deal-nears-conclusion-signing-hinges-on-us-tariff-framework-2026-11-18"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261119-51",
+    "domain": "Technology, AI & cyber",
+    "text": "New US curbs on remote access to AI chips require licences for five Asian/Latin American countries but not India, though Indian data centres face new customer checks.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Communications Today",
+      "url": "https://www.communicationstoday.co.in/new-us-chip-curbs-skip-india-as-nvidia-turmoil-deepens/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://inshorts.com/en/news/us-chip-export-curbs-may-raise-compliance-burden-for-indian-data-centres--report-1794914290174"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261119-01",
+   "name": "Comprehensive Regulations to Uncover Suspicious Healthcare (CRUSH) proposed rule",
+   "place": "US",
+   "body": "CMS (HHS)",
+   "stage": "Open for comment",
+   "changes": "Extrapolates Medicare Advantage audit findings across whole contracts back to 2018, requires faster reporting and return of overpayments, and tightens provider and broker screening across Medicare, Medicaid, CHIP and the ACA marketplace.",
+   "affects": "Medicare Advantage insurers, Medicaid managed-care plans, providers, suppliers and marketplace brokers. CMS projects about $90bn in federal savings over 2027–2036.",
+   "effectiveDate": "",
+   "commentDeadline": "2027-01-19",
+   "officialLink": "",
+   "newsLink": "https://www.beckershospitalreview.com/legal-regulatory-issues/cms-targets-90b-in-savings-with-sweeping-new-anti-fraud-rule/"
+  },
+  {
+   "id": "R-261119-02",
+   "name": "Amendment to the VAT Act raising VAT to 23% on energy drinks, 0% beer and juice-based alcohol alternatives",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "stage": "Struck down / withdrawn",
+   "changes": "Would have raised VAT from 5% (8% in gastronomy) to 23% on these drinks; vetoed, so rates stay unchanged",
+   "affects": "Drink makers and consumers; the budget loses about 1.3bn zł of planned 2027 revenue",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/podatki/wyzszy-vat-na-napoje-jest-weto-prezydenta-7352388615415840a.html"
+  },
+  {
+   "id": "R-261119-04",
+   "name": "Raising the gas exchange-sale obligation (obligo) from 55% to 80%",
+   "place": "Poland",
+   "body": "Ministry of Energy / Council of Ministers",
+   "stage": "Proposed",
+   "changes": "Gas traders must sell 80% of their gas through the commodity exchange instead of 55%",
+   "affects": "Gas traders such as Orlen; aims at a more transparent wholesale market",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://wnp.pl/rynki/wazna-zmiana-w-handlu-gazem-coraz-blizej-wiekszego-obliga-gazowego,1121013.html"
+  }
+ ],
+ "deepDive": {
+  "domain": "Technology, AI & cyber",
+  "title": "A $1.5 trillion debut, a chip-access reset and the cyber-blame question",
+  "body": "**Markets.** Anthropic priced its IPO at $83 a share, above its range, raising about $81bn at a roughly $1.5tn valuation, the largest listing on record by those figures. It begins trading on Nasdaq today. The same day, Fed minutes flagged AI-related borrowing as a financial-stability risk, and the S&P 500 fell a fifth straight session as Nvidia gave back its post-earnings gain ([Fed minutes coverage](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm)).\n\n**Chip access.** A new US Commerce (BIS) rule on remote access to advanced AI chips formally scraps the 2025 'AI Diffusion' tiers. That matters for Poland, which those tiers had kept out of the top group of allies. India is not on the new licence list, but Indian data centres serving foreign customers face know-your-customer checks. A 60-day comment period opens with Federal Register publication (Confirmed; see the relations section).\n\n**Cyber attribution.** In Washington, a bipartisan Senate letter (Cantwell and Rounds) warned that AI-enabled cyber threats are outpacing defences. DHS, however, maintains that last week's outages came from ageing systems, not attacks. The US–China commission and, per Reuters, the administration are weighing mandatory disclosure of Chinese AI use (Reported). In Poland, ePUAP is returning in stages but the ministry has not declared a full recovery (Single-source). The domestic chip-production bill stalled after the Defence Ministry declined to fund it, though one PAP Biznes digest says it cleared committee; reports conflict.\n\n**India.** Karnataka used the Bengaluru Tech Summit to announce six AI and deeptech initiatives, including a proposed 200-mm chip R&D fab and an AI university (Reported). \n\n*Analysis:* the common thread is that AI is now treated as financial, trade and security infrastructure at the same time. That raises the stakes of each disclosure and attribution decision.",
+  "links": [
+   {
+    "label": "Anthropic IPO",
+    "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion"
+   },
+   {
+    "label": "AI chip rule",
+    "url": "https://www.communicationstoday.co.in/new-us-chip-curbs-skip-india-as-nvidia-turmoil-deepens/"
+   },
+   {
+    "label": "Senate AI-cyber letter",
+    "url": "https://www.investing.com/news/stock-market-news/us-senators-warn-white-house-that-aienabled-cyber-threats-are-outpacing-defenses-5035364"
+   },
+   {
+    "label": "Bengaluru Tech Summit",
+    "url": "https://www.careerindia.com/news/bengaluru-tech-summit-2026-karnataka-ai-initiatives-skilling-plan-iiit-b-hub-and-future-tech-careers-011-68827.html"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261119-02",
+   "title": "Czy nieopublikowany wyrok Trybunału Konstytucyjnego obowiązuje? Uchwała trzech Izb SN",
+   "reporter": "Patrycja Rojek-Socha",
+   "outlet": "Prawo.pl",
+   "url": "https://www.prawo.pl/prawnicy-sady/czy-nieopublikowany-wyrok-trybunalu-konstytucyjnego-obowiazuje-uchwala-trzech-izb-sn,1557999.html",
+   "why": "Explains clearly which of the roughly 85 unpublished TK rulings the Supreme Court resolution would affect, and why the oath question matters.",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261119-05",
+   "title": "New US chip curbs skip India as Nvidia turmoil deepens",
+   "reporter": "CT Bureau",
+   "outlet": "Communications Today",
+   "url": "https://www.communicationstoday.co.in/new-us-chip-curbs-skip-india-as-nvidia-turmoil-deepens/",
+   "why": "Clear explainer on what the new US AI-chip rule means for India's data-centre ambitions compared with regional rivals.",
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-20",
+   "text": "Judge Chen's Venezuelan TPS ruling takes effect unless the Supreme Court intervenes",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "President Nawrocki swears in Domański as deputy PM and Bartol as funds minister, 11:00",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "CCD2 consumer credit rules start to apply in the EU; Poland has no implementing law",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Cyclone Akvan expected to make landfall on the north Andhra–south Odisha coast around noon; FAA's DGCA safety assessment ends",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Nikhil Gupta sentencing in the Pannun murder-for-hire case (SDNY)",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "FAA's five-day IASA assessment of India's DGCA ends",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Ladakh panchayat and Leh/Kargil municipal polls; first Agniveer batch exits service",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "EU (applies in Poland)",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "AP (via PBS NewsHour): Anthropic priced its IPO at $83, above range, raising about $81bn at a",
+   "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+   "paywalled": false
+  },
+  {
+   "title": "PBS NewsHour: Trump arrived in Shenzhen, greeted by Xi at the airport, ahead of the ",
+   "url": "https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin",
+   "paywalled": false
+  },
+  {
+   "title": "Alaska Public Media: AP called Alaska's Senate race for Democrat Mary Peltola, who cleared ",
+   "url": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Investing.com): Fed minutes: almost all officials see more hikes ahead, a few floated ",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News: Iran hit at US-hosting bases in Kuwait and Bahrain and an ADNOC tanker",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "paywalled": false
+  },
+  {
+   "title": "Punchbowl News: Shutdown odds rose as Republican leaders rejected Democratic demands t",
+   "url": "https://punchbowl.news/article/washington/why-shutdown-is-getting-more-likely/",
+   "paywalled": true
+  },
+  {
+   "title": "PAP (via Gość Niedzielny): TK assembly lifted Święczkowski's immunity in four cases and suspended",
+   "url": "https://www.gosc.pl/doc/9967892.Swieczkowski-bez-immunitetu-Zapowiada-dzialalnosc-TK-na",
+   "paywalled": false
+  },
+  {
+   "title": "Prawo.pl: Three Supreme Court chambers ruled that only TK panels sworn before th",
+   "url": "https://www.prawo.pl/prawnicy-sady/czy-nieopublikowany-wyrok-trybunalu-konstytucyjnego-obowiazuje-uchwala-trzech-izb-sn,1557999.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (PAP): Defence minister confirms services foiled a planned Russian sabotage p",
+   "url": "https://www.rp.pl/polityka/art45510781-szef-mon-potwierdza-doniesienia-rz-polskie-sluzby-udaremnily-rosyjska-prowokacje",
+   "paywalled": true
+  },
+  {
+   "title": "RMF24 (PAP): Second Belweder round on the TK: Bogucki says there is 70% agreement o",
+   "url": "https://www.rmf24.pl/fakty/polityka/news-bogucki-po-spotkaniu-ws-trybunalu-konstytucyjnego-zostalo-na,nIdn,1026712",
+   "paywalled": false
+  },
+  {
+   "title": "Money.pl: Nawrocki vetoed the VAT hike on energy drinks and 0% beer, about 1.3bn",
+   "url": "https://www.money.pl/podatki/wyzszy-vat-na-napoje-jest-weto-prezydenta-7352388615415840a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rynek Zdrowia: Sejm Health Committee urged rejecting the Senate's 0% beer ad and airp",
+   "url": "https://www.rynekzdrowia.pl/Prawo/Calkowity-zakaz-reklamy-piwa-takze-0-proc-Jest-decyzja-komisji,291407,2.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita: Kraków council sent Gibała's draft to suspend the Lviv partnership bac",
+   "url": "https://www.rp.pl/polityka/art45511081-krakow-nie-zawiesi-partnerstwa-ze-lwowem-projekt-wraca-do-gibaly",
+   "paywalled": true
+  },
+  {
+   "title": "Kurier Krakowski (kk24.info): The vote on Kraków's return of the 20-minute ticket slips to December;",
+   "url": "https://kk24.info/zwrot-akcji-z-biletami-w-krakowie-gibala-musi-poczekac-radni-nie-zaglosuja-w-srode/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews: Kraków councillors pulled the nine resolutions on leaving Eurocities a",
+   "url": "https://krknews.pl/trwa-64-sesja-rady-miasta-krakowa-uhonorowanie-medykow-dyskusja-o-sct-zmiany-w-budzecie-relacja-live/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków: KO and Lewica want an extraordinary Kraków council session next week t",
+   "url": "https://lovekrakow.pl/metro-w-krakowie-ko-i-lewica-chca-nadzwyczajnej-sesji-rady-miasta",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24: Prosecutors say police body cameras recorded the end of the Kraków att",
+   "url": "https://tvn24.pl/krakow/krakow-nowe-ustalenia-prokuratury-w-sprawie-zamachu-st9344401",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: Cyclone Akvan, now a severe storm about 480 km off Narsapur, is due to",
+   "url": "https://www.business-standard.com/india-news/cyclone-akvan-strengthens-orange-alert-in-andhra-odisha-and-telangana-126111800424_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "NewsBytes: Odisha has evacuated about 50,000 people and shut schools in six distr",
+   "url": "https://www.newsbytesapp.com/news/india/cyclone-akvan-approaches-indian-coasts/story",
+   "paywalled": false
+  },
+  {
+   "title": "IANS (via Social News XYZ): The ECI pushed final SIR rolls in seven states, including Delhi and Ma",
+   "url": "https://www.socialnews.xyz/2026/11/18/ec-extends-sir-2026-deadline-final-voter-list-in-jharkhand-to-be-published-on-dec-22/",
+   "paywalled": false
+  },
+  {
+   "title": "The Week: Rajnath Singh and Jaishankar are in Tokyo for the fourth India–Japan 2",
+   "url": "https://www.theweek.in/news/india/2026/11/18/time-to-update-the-picture-of-india-in-japan-eam-jaishankar-urges-the-world-to-stand-up-and-take-notice-of-india.html",
+   "paywalled": false
+  },
+  {
+   "title": "CareerIndia / Tech Times: At the Bengaluru Tech Summit, Karnataka unveiled six AI and deeptech i",
+   "url": "https://www.careerindia.com/news/bengaluru-tech-summit-2026-karnataka-ai-initiatives-skilling-plan-iiit-b-hub-and-future-tech-careers-011-68827.html",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 Biznes: US Energy Secretary Wright, in Warsaw for the P-TEC energy summit, met",
+   "url": "https://tvn24.pl/biznes/z-kraju/sekretarz-energii-usa-w-polsce-wazny-szczyt-i-spotkanie-z-premierem-donaldem-tuskiem-st9344892",
+   "paywalled": false
+  },
+  {
+   "title": "WNP.pl: Poland's PFR and the US DFC agreed to work together on drawing private",
+   "url": "https://www.wnp.pl/energia/pfr-laczy-sily-z-amerykanami-chodzi-o-miliardy-na-polski-atom,1121093.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (ANI): India's commerce secretary says the US trade deal is almost settled, b",
+   "url": "https://tribuneindia.com/news/commerce-secretary/india-us-trade-deal-signing-awaits-new-us-tariff-framework-says-commerce-secretary",
+   "paywalled": false
+  },
+  {
+   "title": "Communications Today: New US curbs on remote access to AI chips require licences for five As",
+   "url": "https://www.communicationstoday.co.in/new-us-chip-curbs-skip-india-as-nvidia-turmoil-deepens/",
+   "paywalled": false
+  }
+ ]
+}
