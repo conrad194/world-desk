@@ -113,8 +113,8 @@
    "loggedFrom": "Segment day",
    "segment": "The Americas",
    "country": "Canada / China",
-   "text": "[[p:Mark Carney]] and Xi agreed further tariff cuts in Shenzhen: China gives extra relief on about C$400m of Canadian frozen pork and seafood, and Canada extends by two years remission measures on some Chinese steel and aluminium. Carney's office says market access is restored for over 90% of previously tariffed trade, about C$7.5bn. A Trump adviser criticised the deal.",
-   "tier": 2,
+   "text": "New detail on the Carney–Xi tariff deal logged yesterday: in return for China's relief on about C$400m of pork and seafood, Canada extends by two years remission measures on some Chinese steel and aluminium due to expire at the end of 2026. Carney's office says market access is restored for over 90% of previously tariffed trade, about C$7.5bn.",
+   "tier": 3,
    "verification": "Confirmed",
    "reporter": "",
    "outlet": "The Star (Malaysia)",
@@ -124,8 +124,8 @@
    "archive": "",
    "paywalled": "N",
    "thread": "US tariffs and trade deals",
-   "followsUp": "",
-   "notes": "Figures from Carney's office. US adviser criticism appears only as a CP headline."
+   "followsUp": "E-261118-16",
+   "notes": "Figures from Carney's office. US adviser criticism appears only as a CP headline. Main deal already logged as E-261118-16; only new details recorded here."
   },
   {
    "id": "E-261119-07",
