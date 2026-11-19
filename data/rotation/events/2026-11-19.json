@@ -1,0 +1,47 @@
+{
+ "date": "2026-11-19",
+ "items": [
+  {
+   "id": "E-261119-01",
+   "dateLogged": "2026-11-19",
+   "eventDate": "2026-11-18",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Middle East",
+   "country": "Iran / Kuwait / Bahrain",
+   "text": "Iran launched drones at Kuwait and Bahrain on 18 Nov. The [[p:Islamic Republic of Iran Army|Artesh]] claims it hit Patriot systems at [[p:Ali Al Salem Air Base]], which hosts US forces; Kuwait says it intercepted the drones and Bahrain says it repelled several attacks. A US official says US aircraft struck an [[p:Islamic Revolutionary Guard Corps|IRGC]] launch site on Qeshm on 17 Nov, and two officials say tit-for-tat strikes are now near-daily. No casualties reported.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Critical Threats (ISW/AEI)",
+   "language": "English",
+   "link1": "https://www.criticalthreats.org/analysis/iran-update-november-18-2026",
+   "link2": "https://www.justsecurity.org/165038/early-edition-november-18-2026/",
+   "archive": "https://web.archive.org/web/2026/https://www.criticalthreats.org/analysis/iran-update-november-18-2026",
+   "paywalled": "N",
+   "thread": "US–Iran war and Hormuz",
+   "followsUp": "E-261118-01",
+   "notes": "Iranian claims of hits are unverified; Kuwaiti and Bahraini statements say interceptions. US strike reported by officials, not officially announced."
+  },
+  {
+   "id": "E-261119-02",
+   "dateLogged": "2026-11-19",
+   "eventDate": "2026-11-18",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Middle East",
+   "country": "Israel / Palestine (Gaza)",
+   "text": "The [[p:Israel Defense Forces|Israeli army]] launched what it called a concentrated operation in three areas of central Gaza near the 'yellow line', the first large operation there since the October 2025 ceasefire, closing parts of Salah al-Din Road. The US-backed [[p:Board of Peace]] told the UN Security Council the ceasefire could collapse and faulted both Israel and [[p:Hamas]].",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Drop Site News",
+   "language": "English",
+   "link1": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
+   "link2": "https://www.justsecurity.org/165038/early-edition-november-18-2026/",
+   "archive": "https://web.archive.org/web/2026/https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
+   "paywalled": "N",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "followsUp": "",
+   "notes": "Operation details from IDF statement as relayed by Drop Site; Board of Peace warning cross-checked with Just Security digest. Reports of three Palestinians killed on 18 Nov not independently confirmed."
+  }
+ ]
+}
