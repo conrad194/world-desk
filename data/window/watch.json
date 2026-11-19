@@ -401,9 +401,9 @@
    "dateAdded": "2026-10-27",
    "place": "EU (applies in Poland)",
    "domain": "Law, courts & regulation",
-   "what": "CCD2 consumer-credit rules start to apply. Watch whether Poland adopts its implementing law or misses the date. Update (Nov 18): no Polish implementing act; the Justice Ministry's new consumer credit bill (UC171) was only added to the government work list on Nov 3, with adoption planned for Q2 2027, so Poland will miss the Nov 20 date (Franknews).",
+   "what": "CCD2 consumer-credit rules start to apply. Watch whether Poland adopts its implementing law or misses the date. Update (Nov 18): no Polish implementing act; the Justice Ministry's new consumer credit bill (UC171) was only added to the government work list on Nov 3, with adoption planned for Q2 2027, so Poland will miss the Nov 20 date (Franknews). Update (Nov 19): still no Polish implementing law on the eve of the Nov 20 application date.",
    "expected": "Directive 2023/2225 application date 20 November 2026; Wprost says Poland will not be ready.",
-   "checkDate": "2026-11-20",
+   "checkDate": "2026-11-21",
    "happened": "",
    "eventId": ""
   },
@@ -599,7 +599,7 @@
    "dateAdded": "2026-11-05",
    "place": "Poland",
    "domain": "Politics & government",
-   "what": "Nawrocki signs (or refuses) the appointments of Bartol as funds minister, Domański as deputy PM and the four NBP board members. Update (Nov 12): still unsigned; in his Nov 11 speech Nawrocki publicly criticised Domański over public finances. Update (Nov 17): still no swearing-in of Domański or Bartol as of the morning of Nov 17. The Chancellery has given no date, and all the changes are expected at one ceremony (RMF24, Nov 15). Update (Nov 18): spokesman Leśkiewicz says the President will swear in Domański (deputy PM) and Bartol (funds minister) on Fri Nov 20 at 11:00; NBP board seats not mentioned.",
+   "what": "Nawrocki signs (or refuses) the appointments of Bartol as funds minister, Domański as deputy PM and the four NBP board members. Update (Nov 12): still unsigned; in his Nov 11 speech Nawrocki publicly criticised Domański over public finances. Update (Nov 17): still no swearing-in of Domański or Bartol as of the morning of Nov 17. The Chancellery has given no date, and all the changes are expected at one ceremony (RMF24, Nov 15). Update (Nov 18): spokesman Leśkiewicz says the President will swear in Domański (deputy PM) and Bartol (funds minister) on Fri Nov 20 at 11:00; NBP board seats not mentioned. Update (Nov 19): no change reported; the swearing-in remains set for Fri Nov 20 at 11:00.",
    "expected": "Tusk expects a quick decision (Interia)",
    "checkDate": "2026-11-20",
    "happened": "",
@@ -731,7 +731,7 @@
    "dateAdded": "2026-11-06",
    "place": "Poland",
    "domain": "Health, medicine & food safety",
-   "what": "Sejm vote on the Senate's amendments to the anti-alcohol law, then the President's decision Update (Nov 17): the Sejm Health Committee considers the Senate amendments on Nov 18, and the Health Ministry opposes them (Rynek Zdrowia). Update (Nov 18): Health Committee consideration of the Senate amendments is today; no outcome yet. A Sejm voting block is planned for Nov 19.",
+   "what": "Sejm vote on the Senate's amendments to the anti-alcohol law, then the President's decision Update (Nov 17): the Sejm Health Committee considers the Senate amendments on Nov 18, and the Health Ministry opposes them (Rynek Zdrowia). Update (Nov 18): Health Committee consideration of the Senate amendments is today; no outcome yet. A Sejm voting block is planned for Nov 19. Update (Nov 19): the Health Committee recommended rejecting the 0% beer ad, craft-beer, airport/free-zone and liquor-store ad amendments and accepting the rest, including the Jun 1, 2027 start. Sejm voting block Nov 19, 10:45–13:00 (Rynek Zdrowia).",
    "expected": "The Senate amended it on Nov 6, and the Sejm can reject the amendments by an absolute majority.",
    "checkDate": "2026-11-20",
    "happened": "",
@@ -855,8 +855,8 @@
    "what": "Constitutional Tribunal General Assembly on lifting the immunity of Święczkowski (including consent to detain him) and Sochański Update (Nov 17, 06:30): the assembly is scheduled for today and has not yet taken place. On Nov 13, Święczkowski's lawyer warned police and the security services that detaining him would be a crime (niezalezna.pl). Prawo.pl reports the new judges count eight as a quorum. https://www.prawo.pl/prawnicy-sady/trybunal-konstytucyjny-zgromadzenie-ogolne-a-uchylenie-immunitetu-swieczkowskiemu,1557748.html Update (Nov 18): the assembly met on Nov 17 (hearing moved to the Warsaw District Court; Święczkowski and Sochański absent, lawyers objected); the TK says the result will be published Nov 18. Six judges say any decision has no legal effect.",
    "expected": "Called by Korwin-Piotrowska for Nov 17. The Palace and the Święczkowski camp dispute her authority, and attendance and quorum are uncertain.",
    "checkDate": "2026-11-19",
-   "happened": "",
-   "eventId": "E-261107-21"
+   "happened": "The assembly's Nov 18 communiqué said it lifted Święczkowski's immunity in four cases, refused his detention or arrest, and allowed the prosecution of Sochański; Święczkowski calls it invalid ([Gość/PAP](https://www.gosc.pl/doc/9967892.Swieczkowski-bez-immunitetu-Zapowiada-dzialalnosc-TK-na)).",
+   "eventId": "E-261119-14"
   },
   {
    "id": "W-261107-05",
@@ -1248,9 +1248,9 @@
    "dateAdded": "2026-11-13",
    "place": "Poland",
    "domain": "Law, courts & regulation",
-   "what": "Święczkowski's further attempts to enter the Constitutional Tribunal, possibly with a bailiff",
+   "what": "Święczkowski's further attempts to enter the Constitutional Tribunal, possibly with a bailiff Update (Nov 19): after the assembly's ruling, Święczkowski said 'legitimate' judges will work 'in exile', that he is setting up an office to keep administration and pay running, and that he will not answer summonses.",
    "expected": "Święczkowski announced new attempts next week (RMF24)",
-   "checkDate": "2026-11-20",
+   "checkDate": "2026-11-24",
    "happened": "",
    "eventId": "E-261113-12"
   },
@@ -1559,8 +1559,8 @@
    "what": "Second Belweder round on the Constitutional Tribunal and the Chancellery's joint constitutional draft, and whether KO or the Left join Update (Nov 18): meeting still set for today 17:00; no report found that the combined Chancellery draft was circulated on Nov 17. Tusk said he won't fault PSL/Polska 2050 for taking part.",
    "expected": "Bogucki (TVN24, Rzeczpospolita): meeting on Wednesday Nov 18 at 17:00",
    "checkDate": "2026-11-19",
-   "happened": "",
-   "eventId": "E-261117-10"
+   "happened": "Held Nov 18 without KO and the Left; Bogucki says there is 70% agreement on a joint Chancellery draft based on PSL's proposal, with a third meeting on Nov 19 at 18:00 ([RMF24](https://www.rmf24.pl/fakty/polityka/news-bogucki-po-spotkaniu-ws-trybunalu-konstytucyjnego-zostalo-na,nIdn,1026712)).",
+   "eventId": "E-261119-16"
   },
   {
    "id": "W-261117-04",
@@ -1570,8 +1570,8 @@
    "what": "TK disciplinary courts consider the suspension of Święczkowski",
    "expected": "Prawo.pl: hearings on Nov 19 and 20",
    "checkDate": "2026-11-20",
-   "happened": "",
-   "eventId": "E-261117-12"
+   "happened": "The Korwin-Piotrowska assembly suspended Święczkowski (50% pay cut) and Sochański (25%) in its Nov 18 communiqué; both reject its authority ([Gość/PAP](https://www.gosc.pl/doc/9967892.Swieczkowski-bez-immunitetu-Zapowiada-dzialalnosc-TK-na)).",
+   "eventId": "E-261119-14"
   },
   {
    "id": "W-261117-05",
@@ -1669,8 +1669,8 @@
    "what": "Publication of the TK General Assembly's decision on the Święczkowski/Sochański immunity and detention motions, and whether prosecutors try to detain Święczkowski",
    "expected": "TK website via Polsat News: communiqué on Nov 18",
    "checkDate": "2026-11-19",
-   "happened": "",
-   "eventId": "E-261118-15"
+   "happened": "Published Nov 18: immunity lifted in four cases, detention and arrest refused, both men suspended with pay cuts. Żurek says charges can now follow; no detention attempt reported ([nczas](https://nczas.info/2026/11/18/immunitet-swieczkowskiego-uchylony-zurek-moze-stawiac-zarzuty/)).",
+   "eventId": "E-261119-14"
   },
   {
    "id": "W-261118-04",
@@ -1803,6 +1803,50 @@
    "checkDate": "2026-12-03",
    "happened": "",
    "eventId": "E-261119-13"
+  },
+  {
+   "id": "W-261119-04",
+   "dateAdded": "2026-11-19",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Third round of TK talks at the President's Chancellery: whether the 'remaining 30%' (transitional provisions) is agreed and a draft amendment published",
+   "expected": "Bogucki (RMF24): Thu Nov 19 at 18:00",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261119-16"
+  },
+  {
+   "id": "W-261119-05",
+   "dateAdded": "2026-11-19",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Prosecutors summon or charge Święczkowski and Sochański after the immunity decision, and whether Święczkowski appears",
+   "expected": "Żurek says charges can now be brought; no date given",
+   "checkDate": "2026-11-26",
+   "happened": "",
+   "eventId": "E-261119-14"
+  },
+  {
+   "id": "W-261119-06",
+   "dateAdded": "2026-11-19",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "what": "PM and President decide on extending Operation Horyzont (army protecting infrastructure, including rail)",
+   "expected": "Kosiniak-Kamysz announced the request on Nov 18",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261119-17"
+  },
+  {
+   "id": "W-261119-07",
+   "dateAdded": "2026-11-19",
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "what": "Government adopts the draft raising the gas exchange obligation from 55% to 80%; electricity price measures for 2027",
+   "expected": "Motyka: possibly this year; electricity proposals 'in the coming weeks'",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261119-23"
   }
  ]
 }

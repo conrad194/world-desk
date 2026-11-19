@@ -328,13 +328,13 @@
    "name": "Anti-alcohol law: night sales ban (22:00–06:00) and alcohol advertising ban",
    "changes": "Bans retail alcohol sales from 22:00 to 06:00, except in restaurants and bars, and lets municipalities widen the ban. It also bans alcohol advertising and promotions such as discounts, bundles and loyalty schemes. Senate committees proposed moving the start to June 1, 2027, banning home delivery of online orders and allowing limited ads for non-alcoholic beer. If the full Senate adopts the amendments, the bill returns to the Sejm. (Start date: 1 June 2027 in the Senate committees' version; the Sejm version said 1 January 2027.)",
    "affects": "Shops, petrol stations, the alcohol and advertising industries, and consumers.",
-   "stage": "Proposed",
+   "stage": "Passed / final",
    "commentDeadline": "",
    "effectiveDate": "2027-06-01",
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
-   "eventId": "E-261106-25",
-   "lastChecked": "2026-11-18"
+   "eventId": "E-261119-19",
+   "lastChecked": "2026-11-19"
   },
   {
    "id": "R-261106-05",
@@ -344,13 +344,13 @@
    "name": "Limits on doctors' pay and working time",
    "changes": "The Senate amended it on Nov 6 (61–32–2): minimum employment raised to a quarter of a full-time post, and the NFZ work ban for doctors who certify falsehoods dropped. It returns to the Sejm.",
    "affects": "Doctors working in publicly funded healthcare, and hospitals.",
-   "stage": "Proposed",
+   "stage": "Passed / final",
    "commentDeadline": "",
    "effectiveDate": "",
    "officialLink": "",
    "newsLink": "https://rmf24.pl/fakty/polityka/news-pomoc-w-aborcji-limity-zarobkow-lekarzy-nowy-prog-podatkowy-,nIdn,1025136",
-   "eventId": "E-261106-24",
-   "lastChecked": "2026-11-14"
+   "eventId": "E-261119-20",
+   "lastChecked": "2026-11-19"
   },
   {
    "id": "R-261106-06",
@@ -606,7 +606,7 @@
    "officialLink": "",
    "newsLink": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/rzad-we-wtorek-m-in-o-zamrozeniu-cen-gazu-i-europejskim-portfelu-tozsamosci-cyfrowej,684542.html",
    "eventId": "E-261117-15",
-   "lastChecked": "2026-11-18"
+   "lastChecked": "2026-11-19"
   },
   {
    "id": "R-261118-01",
@@ -686,7 +686,7 @@
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html",
    "eventId": "",
-   "lastChecked": "2026-11-18"
+   "lastChecked": "2026-11-19"
   },
   {
    "id": "R-261118-06",
@@ -718,6 +718,54 @@
    "officialLink": "",
    "newsLink": "https://www.beckershospitalreview.com/legal-regulatory-issues/cms-targets-90b-in-savings-with-sweeping-new-anti-fraud-rule/",
    "eventId": "E-261119-05",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "id": "R-261119-02",
+   "dateLogged": "2026-11-19",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "name": "Amendment to the VAT Act raising VAT to 23% on energy drinks, 0% beer and juice-based alcohol alternatives",
+   "changes": "Would have raised VAT from 5% (8% in gastronomy) to 23% on these drinks; vetoed, so rates stay unchanged",
+   "affects": "Drink makers and consumers; the budget loses about 1.3bn zł of planned 2027 revenue",
+   "stage": "Struck down / withdrawn",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/podatki/wyzszy-vat-na-napoje-jest-weto-prezydenta-7352388615415840a.html",
+   "eventId": "E-261119-18",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "id": "R-261119-03",
+   "dateLogged": "2026-11-19",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "name": "Amendment to the Excise Duty Act (2027 increases on alcohol)",
+   "changes": "Raises excise on spirits, beer, wine, intermediate products and cider from 2027, with the extra revenue going to the NFZ",
+   "affects": "Alcohol producers, retailers and drinkers; NFZ funding",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/podatki/wyzszy-vat-na-napoje-jest-weto-prezydenta-7352388615415840a.html",
+   "eventId": "E-261119-18",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "id": "R-261119-04",
+   "dateLogged": "2026-11-19",
+   "place": "Poland",
+   "body": "Ministry of Energy / Council of Ministers",
+   "name": "Raising the gas exchange-sale obligation (obligo) from 55% to 80%",
+   "changes": "Gas traders must sell 80% of their gas through the commodity exchange instead of 55%",
+   "affects": "Gas traders such as Orlen; aims at a more transparent wholesale market",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://wnp.pl/rynki/wazna-zmiana-w-handlu-gazem-coraz-blizej-wiekszego-obliga-gazowego,1121013.html",
+   "eventId": "E-261119-23",
    "lastChecked": "2026-11-19"
   }
  ]

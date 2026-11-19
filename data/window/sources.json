@@ -2387,6 +2387,54 @@
    "lean": "Centre-left (public media)",
    "status": "Watch",
    "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "gosc-niedzielny",
+   "name": "Gość Niedzielny",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Catholic weekly; carries PAP national wires",
+   "language": "Polish",
+   "url": "https://www.gosc.pl/",
+   "lean": "Catholic conservative",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "nauka-w-polsce",
+   "name": "Nauka w Polsce (PAP)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "PAP science and research-policy service",
+   "language": "Polish",
+   "url": "https://naukawpolsce.pl/",
+   "lean": "Neutral (state news agency)",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "cyberdefence24",
+   "name": "CyberDefence24",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Cybersecurity, digital policy, tech regulation",
+   "language": "Polish",
+   "url": "https://cyberdefence24.pl/",
+   "lean": "Neutral / specialist",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "portal-spozywczy",
+   "name": "Portal Spożywczy",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Food and retail industry; carries PAP wires",
+   "language": "Polish",
+   "url": "https://www.portalspozywczy.pl/",
+   "lean": "Neutral / trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
   }
  ]
 }
