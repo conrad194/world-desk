@@ -1199,6 +1199,107 @@
    "prevAnswer": "After the 2006 war, the Council raised UNIFIL's ceiling from about 2,000 to 15,000 troops to help the Lebanese army deploy to the south. The area between the Blue Line and the Litani was meant to hold no weapons except the army's and the UN's, but Hezbollah kept its arsenal there and Israel kept violating Lebanese airspace.",
    "recallQ": "What exactly did the 2016 South China Sea tribunal decide, and what did it leave unresolved?",
    "recallA": "It found no legal basis for China's claim to historic rights over resources within the nine-dash line, and held that Mischief Reef and Second Thomas Shoal are low-tide features inside the Philippines' economic zone. It did not rule on sovereignty over islands, which falls outside UNCLOS, and declined jurisdiction over the military standoff at Second Thomas Shoal."
+  },
+  {
+   "id": "2026-11-19",
+   "date": "2026-11-19",
+   "segment": "Middle East",
+   "title": "How central Gaza became a chain of refugee camps, and a front line again",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "eventIds": [
+    "E-261119-02"
+   ],
+   "minutes": 4,
+   "hook": "Israel's first large operation in central Gaza since the October 2025 ceasefire is unfolding near the yellow line, in a district of refugee camps founded in 1949. The [[p:Board of Peace]] warns the truce could collapse; the area's history explains why this ground is so crowded and so contested.",
+   "body": "Central Gaza is a short stretch of a narrow strip: the town of Deir al-Balah and three refugee camps, Nuseirat, Bureij and Maghazi, packed between the Wadi Gaza and Khan Younis. Israel's new operation there, near the \"yellow line\", lands on ground whose shape was set by wars, refugees and roads.\n\nBefore 1948 this was farmland around a small market town. During the [[e:1948 Arab–Israeli War]], about 700,000 Palestinians fled or were driven from their homes, a loss Palestinians call the [[e:Nakba]]. Many from villages east and north of Gaza, such as Falouja, ended up in the coastal pocket held by Egypt's army. Aid workers in early 1949 found them in tents, old British barracks and fields; within a year Maghazi and its neighbours were organized camps. The UN created [[p:UNRWA]] {{note: Set up by UN General Assembly Resolution 302 in December 1949; it began operating in May 1950.}} to feed, school and shelter them, and refugees soon outnumbered Gaza's original residents.\n\nThe [[e:1949 Armistice Agreements]] froze the front line. Egypt ran the strip under military administration without granting its people citizenship, apart from a brief Israeli occupation during the [[e:Suez Crisis]]. Refugees lived within a day's walk of villages they could not return to. The camps became the heart of Palestinian political life, where the demand for a right of return was most personal and where armed groups later recruited.\n\nIsrael captured Gaza in the [[e:Six-Day War]] of 1967; a census that year found nearly half the population living in camps. In 1972 Israel founded the settlement of **Netzarim** just north of the central camps. It was small but strategic: protecting it meant controlling the roads across the strip, with checkpoints that could cut Gaza in two.\n\nThat arrangement ended with [[e:Israeli disengagement from Gaza|Israel's withdrawal]] in 2005, when about 9,000 settlers and the army left. [[p:Hamas]] won Palestinian elections in 2006 and seized the strip from Fatah in 2007; Israel and Egypt then tightened a blockade.\n\nThe old geography returned in the [[e:Gaza war]]. Days after invading in October 2023, Israeli troops cut a road across the strip through the former Netzarim site, the **Netzarim Corridor**, splitting north from south. The central camps sat just below it, and Israel repeatedly told northerners to move south, swelling Deir al-Balah with displaced families. Israel left the corridor during the January 2025 truce and returned when it broke down in March.\n\nThe [[e:Gaza peace plan|October 2025 ceasefire]] {{note: Took effect on 10 October 2025 under Donald Trump's 20-point plan, after talks mediated by Egypt, Qatar and Turkey.}} pulled Israeli forces back to the yellow line, leaving them in about 53% of Gaza while most of its roughly two million people crowded west of it, including in the central camps. Hamas has not disarmed, Israel has not withdrawn further, and the [[p:Board of Peace]] now warns the truce could collapse. A push near the line in central Gaza tests whether it is a temporary stage or a new border.",
+   "timeline": [
+    {
+     "when": "1948",
+     "text": "About 700,000 Palestinians are displaced in the [[e:1948 Arab–Israeli War]]; many crowd into the Egyptian-held coastal strip."
+    },
+    {
+     "when": "1949",
+     "text": "The [[e:1949 Armistice Agreements]] freeze the lines; camps such as Maghazi take shape, and the UN creates [[p:UNRWA]] in December."
+    },
+    {
+     "when": "1967",
+     "text": "Israel captures Gaza in the [[e:Six-Day War]]; nearly half its people live in camps."
+    },
+    {
+     "when": "1972",
+     "text": "Israel founds the Netzarim settlement just north of the central camps."
+    },
+    {
+     "when": "2005",
+     "text": "[[e:Israeli disengagement from Gaza|Israel withdraws]] its settlers and troops; [[p:Hamas]] takes over the strip two years later."
+    },
+    {
+     "when": "Nov 2023",
+     "text": "In the [[e:Gaza war]], Israeli forces cut the Netzarim Corridor across the strip, just north of the central camps."
+    },
+    {
+     "when": "Oct 2025",
+     "text": "The [[e:Gaza peace plan|ceasefire]] takes effect; Israel pulls back to the yellow line, holding about 53% of Gaza."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Israel launches a concentrated operation in three areas of central Gaza near the yellow line; the [[p:Board of Peace]] warns the truce could collapse."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Palestinian view",
+     "view": "The central camps are living proof of the [[e:Nakba]]: families expelled in 1948 and never allowed home, then occupied, blockaded and bombed. Israel's lines across Gaza, from Netzarim to the yellow line, are seen as tools to divide and shrink the territory, and the new operation as a breach of the ceasefire."
+    },
+    {
+     "side": "Israeli view",
+     "view": "Israel says the 1948 refugee problem grew out of a war Arab states and forces launched, and that Gaza after 2005 was handed a chance it used to build [[p:Hamas]]'s military machine. Holding ground near the yellow line and striking fighters is framed as necessary until Hamas disarms, as the ceasefire plan requires."
+    },
+    {
+     "side": "Mediators and the Board of Peace",
+     "view": "The US-backed [[p:Board of Peace]] and the Egyptian, Qatari and Turkish mediators treat the yellow line as a temporary first-phase line, and fault both sides for stalling the moves to disarmament, a stabilization force and further Israeli withdrawal."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Yellow line",
+     "meaning": "The line Israeli forces withdrew to under the first phase of the October 2025 ceasefire; Israel controls the roughly 53% of Gaza east of it."
+    },
+    {
+     "term": "Netzarim Corridor",
+     "meaning": "An east–west military road Israel cut across Gaza in late 2023, named after a settlement evacuated in 2005; it split the north from the centre and south."
+    },
+    {
+     "term": "UNRWA",
+     "meaning": "The UN agency created in 1949 to serve Palestinian refugees; it runs schools, clinics and services in Gaza's camps."
+    },
+    {
+     "term": "Salah al-Din Road",
+     "meaning": "Gaza's main north–south highway, running inland through the central district; Israel closed parts of it for the new operation."
+    }
+   ],
+   "whyItMatters": "Central Gaza's camps hold some of the most densely packed people in the strip, many already displaced several times, so any fighting there is costly. The operation tests whether the yellow line stays a temporary ceasefire line or hardens into a de facto border, as Netzarim's roads once did. Watch whether the [[p:Board of Peace]] can restart talks on Hamas disarmament and further Israeli withdrawal before the truce unravels.",
+   "readMore": [
+    {
+     "title": "Gaza Strip",
+     "url": "https://www.britannica.com/place/Gaza-Strip",
+     "why": "Encyclopedia overview of Gaza's history, from Egyptian rule and the refugee camps to Israeli occupation and Hamas."
+    },
+    {
+     "title": "A timeline of the Gaza Strip in modern history",
+     "url": "https://www.pbs.org/newshour/world/a-timeline-of-the-gaza-strip-in-modern-history",
+     "why": "A concise timeline of the turning points from 1948 to the recent wars."
+    },
+    {
+     "title": "A guide to Trump's twenty-point Gaza peace deal",
+     "url": "https://www.cfr.org/articles/guide-trumps-twenty-point-gaza-peace-deal",
+     "why": "Explains the yellow line, the Board of Peace and the stalled phases of the ceasefire."
+    }
+   ],
+   "prevQuestion": "What exactly did the 2016 South China Sea tribunal decide, and what did it leave unresolved?",
+   "prevAnswer": "It found no legal basis for China's claim to historic rights over resources within the nine-dash line, and held that Mischief Reef and Second Thomas Shoal are low-tide features inside the Philippines' economic zone. It did not rule on sovereignty over islands, which falls outside UNCLOS, and declined jurisdiction over the military standoff at Second Thomas Shoal.",
+   "recallQ": "Why did Israel's east–west road across Gaza in the 2023 war take the name Netzarim?",
+   "recallA": "Netzarim was an Israeli settlement founded in 1972 just north of central Gaza's refugee camps and evacuated in the 2005 disengagement. The 2023 corridor ran through its former site, recreating the old ability to cut the strip in two."
   }
  ]
 }
