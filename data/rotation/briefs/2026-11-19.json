@@ -1,0 +1,414 @@
+{
+ "date": "2026-11-19",
+ "segment": "The Americas",
+ "windowFrom": "2026-11-12",
+ "tier1Summary": "[[p:Donald Trump]] held the first US–China–Russia leaders' meeting with [[p:Xi Jinping]] and [[p:Vladimir Putin]] in Shenzhen; no nuclear deal emerged. Democrats now have a 56-seat Senate majority, and [[p:Hakeem Jeffries]] is their Speaker nominee.\n\nCanada and Mexico compared notes on the stalled [[e:USMCA|United States–Mexico–Canada Agreement]] review. Venezuelan unions are escalating wage strikes as the supreme-court overhaul proceeds; Brazil's fiscal bill heads to the Chamber.\n\nElsewhere, Iran fired drones at Kuwait and Bahrain after a reported US strike, and Israel launched its first large central Gaza operation since the ceasefire.",
+ "segmentItems": [
+  {
+   "id": "E-261119-03",
+   "segment": "The Americas",
+   "country": "United States / China / Russia",
+   "text": "[[p:Donald Trump]] met [[p:Xi Jinping]] and [[p:Vladimir Putin]] separately, then held the first US–China–Russia leaders' meeting at [[e:APEC China 2026]]. No nuclear agreement was reported; Trump and Xi agreed restoring Hormuz oil flows matters.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Israel National News",
+   "opinion": "",
+   "thread": "APEC 2026 and great-power summitry",
+   "links": [
+    {
+     "label": "Israel National News",
+     "url": "https://www.israelnationalnews.com/news/436608"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.newsquawk.com/headlines/primer-trump-xi-putin-trilateral-in-shenzhen-nuclear-arms-control-in-focus-but-officials-downplay-a-deal-iran-and-ukraine-updates-unlikely"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-04",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "Democrats flipped Alaska ([[p:Mary Peltola]] beat [[p:Dan Sullivan|Dan Sullivan (American politician)]]) and Mississippi ([[p:Scott Colom]]), for 56 Senate seats from January.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Just Security / AP (WLOX)",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "Just Security / AP (WLOX)",
+     "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.wlox.com/2026/11/11/ap-projects-democrat-scott-colom-winner-highly-contested-mississippi-us-senate-seat/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-05",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "House Democrats nominated [[p:Hakeem Jeffries]] for Speaker unopposed, despite objections from some new left-wing members.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Drop Site News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "Drop Site News",
+     "url": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.wdbo.com/news/politics/house-democrats/ANN3JJF33Y7AXLSIOPL2ICYTNU/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-07",
+   "segment": "The Americas",
+   "country": "Canada / Mexico / United States",
+   "text": "[[p:Mark Carney]] and [[p:Claudia Sheinbaum]] met in Shenzhen on the stalled [[e:USMCA|United States–Mexico–Canada Agreement]] review. USTR wants interim deals by year-end; reports say [[p:Howard Lutnick]] keeps blocking progress.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Dylan Robertson",
+   "outlet": "The Canadian Press (CP24)",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "The Canadian Press (CP24)",
+     "url": "https://www.cp24.com/news/world/2026/11/17/carney-and-sheinbaum-meet-at-summit-in-china-as-both-navigate-trumps-tumult/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-08",
+   "segment": "The Americas",
+   "country": "Venezuela",
+   "text": "Public-sector unions held a 12-hour national strike over pay and threaten a 24-hour strike and march on Miraflores. Supreme-court applications closed on 18 Nov; the shortlist is due 11 Dec.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "El Diario (Venezuela)",
+   "opinion": "",
+   "thread": "Venezuela transition",
+   "links": [
+    {
+     "label": "El Diario (Venezuela)",
+     "url": "https://eldiario.com/2026/11/16/resumen-noticias-venezuela-16-noviembre/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.latintimes.com/venezuela-pushes-supreme-court-nomination-deadline-nov-18-rubio-counting-down-december-601242"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-10",
+   "segment": "The Americas",
+   "country": "Brazil",
+   "text": "The Senate passed the base text of Lula's fiscal adjustment bill 45–31; amendment votes remain before the Chamber, where its fate is uncertain.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "O Povo",
+   "opinion": "",
+   "thread": "Brazil election 2026",
+   "links": [
+    {
+     "label": "O Povo",
+     "url": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.dgabc.com.br/Noticia/4368529/por-45-a-31-senado-aprova-texto-base-do-plp-de-ajuste-fiscal"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-11",
+   "segment": "The Americas",
+   "country": "Colombia / United States",
+   "text": "[[p:JD Vance]] cancelled a 20–21 Nov Colombia visit, per local radio; no reason given. Inflation rose to 6.30%.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "La Silla Vacía",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "La Silla Vacía",
+     "url": "https://www.lasillavacia.com/?p=466040"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-12",
+   "segment": "The Americas",
+   "country": "Argentina",
+   "text": "[[p:Javier Milei]] confirmed he will seek re-election in 2027.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "O Povo",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "O Povo",
+     "url": "https://mais.opovo.com.br/jornal/farol/2026/11/16/argentina-milei-anuncia-intencao-de-disputar-reeleicao-a-presidencia-em-2027.html"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261119-01",
+   "segment": "Middle East",
+   "country": "Iran / Kuwait / Bahrain",
+   "text": "Iran fired drones at Kuwait and Bahrain, which say they intercepted them, after a US official reported a strike on an [[p:IRGC|Islamic Revolutionary Guard Corps]] launch site on Qeshm.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Critical Threats (ISW/AEI)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Critical Threats (ISW/AEI)",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-november-18-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261119-02",
+   "segment": "Middle East",
+   "country": "Israel / Palestine (Gaza)",
+   "text": "Israel launched its first large operation in central Gaza since the October 2025 ceasefire; the [[p:Board of Peace]] told the Security Council the truce could collapse.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Drop Site News",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "Drop Site News",
+     "url": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261119-01",
+   "title": "Carney and Sheinbaum meet at summit in China, as both navigate Trump's tumult",
+   "reporter": "Dylan Robertson",
+   "outlet": "The Canadian Press (CP24)",
+   "url": "https://www.cp24.com/news/world/2026/11/17/carney-and-sheinbaum-meet-at-summit-in-china-as-both-navigate-trumps-tumult/",
+   "why": "Clear account of where the [[e:USMCA|United States–Mexico–Canada Agreement]] stands after Washington declined to renew it, and why Ottawa and Mexico City are hedging toward Beijing.",
+   "segment": "The Americas",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-19",
+   "text": "Coalition of the willing meeting in Berlin, hosted by Merz, expected to discuss Europe's seat at the next round of Ukraine talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-03"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Iraq: deadline for [[p:Kata'ib Hezbollah]] to withdraw from Jurf al-Sakhar; possible army entry if it doesn't.",
+   "segment": "Middle East",
+   "watchId": "W-261117-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the future of Salvadoran troops in Haiti.",
+   "segment": "The Americas",
+   "watchId": "W-261112-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "EU discussion of a further Russia sanctions package after the 16 Nov listings.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-03"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Cuba",
+   "status": "quiet"
+  },
+  {
+   "country": "Mexico (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Ecuador",
+   "status": "quiet"
+  },
+  {
+   "country": "Peru",
+   "status": "quiet"
+  },
+  {
+   "country": "Chile",
+   "status": "quiet"
+  },
+  {
+   "country": "Bolivia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Paraguay",
+   "status": "quiet"
+  },
+  {
+   "country": "Uruguay",
+   "status": "quiet"
+  },
+  {
+   "country": "Honduras",
+   "status": "no sources found"
+  },
+  {
+   "country": "Guatemala",
+   "status": "no sources found"
+  },
+  {
+   "country": "Nicaragua",
+   "status": "no sources found"
+  },
+  {
+   "country": "Panama",
+   "status": "no sources found"
+  },
+  {
+   "country": "Costa Rica",
+   "status": "no sources found"
+  },
+  {
+   "country": "El Salvador (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Dominican Republic",
+   "status": "no sources found"
+  },
+  {
+   "country": "Caribbean states other than Cuba and Haiti",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Israel National News",
+   "url": "https://www.israelnationalnews.com/news/436608",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States / China / Russia",
+   "url": "https://www.newsquawk.com/headlines/primer-trump-xi-putin-trilateral-in-shenzhen-nuclear-arms-control-in-focus-but-officials-downplay-a-deal-iran-and-ukraine-updates-unlikely",
+   "paywalled": false
+  },
+  {
+   "title": "Just Security / AP (WLOX)",
+   "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States",
+   "url": "https://www.wlox.com/2026/11/11/ap-projects-democrat-scott-colom-winner-highly-contested-mississippi-us-senate-seat/",
+   "paywalled": false
+  },
+  {
+   "title": "Drop Site News",
+   "url": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States",
+   "url": "https://www.wdbo.com/news/politics/house-democrats/ANN3JJF33Y7AXLSIOPL2ICYTNU/",
+   "paywalled": false
+  },
+  {
+   "title": "The Canadian Press (CP24)",
+   "url": "https://www.cp24.com/news/world/2026/11/17/carney-and-sheinbaum-meet-at-summit-in-china-as-both-navigate-trumps-tumult/",
+   "paywalled": false
+  },
+  {
+   "title": "El Diario (Venezuela)",
+   "url": "https://eldiario.com/2026/11/16/resumen-noticias-venezuela-16-noviembre/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Venezuela",
+   "url": "https://www.latintimes.com/venezuela-pushes-supreme-court-nomination-deadline-nov-18-rubio-counting-down-december-601242",
+   "paywalled": false
+  },
+  {
+   "title": "O Povo",
+   "url": "https://mais.opovo.com.br/jornal/politica/2026/11/17/apos-retornar-ao-brasil-lula-tem-semana-decisiva-para-resolver-pendencias-do-quarto-mandato.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Brazil",
+   "url": "https://www.dgabc.com.br/Noticia/4368529/por-45-a-31-senado-aprova-texto-base-do-plp-de-ajuste-fiscal",
+   "paywalled": false
+  },
+  {
+   "title": "La Silla Vacía",
+   "url": "https://www.lasillavacia.com/?p=466040",
+   "paywalled": false
+  },
+  {
+   "title": "O Povo",
+   "url": "https://mais.opovo.com.br/jornal/farol/2026/11/16/argentina-milei-anuncia-intencao-de-disputar-reeleicao-a-presidencia-em-2027.html",
+   "paywalled": false
+  },
+  {
+   "title": "Critical Threats (ISW/AEI)",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-18-2026",
+   "paywalled": false
+  }
+ ]
+}
