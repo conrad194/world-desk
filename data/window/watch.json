@@ -302,7 +302,7 @@
    "dateAdded": "2026-10-26",
    "place": "US–India",
    "domain": "Trade & tariffs",
-   "what": "Whether the India–US trade deal (first tranche) is signed. Manila now looks unlikely: a Quad summit there is unconfirmed and a formal Modi–Trump bilateral is unlikely. Observers point to the G20 summit in Florida on 14–15 Dec. Update (Nov 17): No signing is expected in Manila: there is no Modi–Trump bilateral, only the Quad group meeting. ThePrint sources point to a possible bilateral at the G20 in Florida (Dec 14–15), and the Indian official target is now March 2027 (see W-261116-06). Update (Nov 18): Trade was not discussed in any reported Modi–Trump exchange in Manila. There was no bilateral, and the Indian readouts make no mention of the deal.",
+   "what": "Whether the India–US trade deal (first tranche) is signed. Manila now looks unlikely: a Quad summit there is unconfirmed and a formal Modi–Trump bilateral is unlikely. Observers point to the G20 summit in Florida on 14–15 Dec. Update (Nov 17): No signing is expected in Manila: there is no Modi–Trump bilateral, only the Quad group meeting. ThePrint sources point to a possible bilateral at the G20 in Florida (Dec 14–15), and the Indian official target is now March 2027 (see W-261116-06). Update (Nov 18): Trade was not discussed in any reported Modi–Trump exchange in Manila. There was no bilateral, and the Indian readouts make no mention of the deal. Update (Nov 19): Commerce Secretary Agrawal said (Nov 18) the deal is almost fully settled but cannot be signed until the US tariff architecture is in place and Section 301 outcomes are clear ([Tribune/ANI](https://tribuneindia.com/news/commerce-secretary/india-us-trade-deal-signing-awaits-new-us-tariff-framework-says-commerce-secretary)).",
    "expected": "Goyal says only a few issues remain; Nisha Biswal expects a push to finish before the G20 (Aaj Tak); ThePrint says a bilateral in Manila is unlikely",
    "checkDate": "2026-12-15",
    "happened": "",
@@ -335,7 +335,7 @@
    "dateAdded": "2026-10-26",
    "place": "Poland–India",
    "domain": "Defense, security & crime",
-   "what": "Signing of the Poland–India Agreement on Mutual Protection and Exchange of Classified Information, and confirmation of WB Group's India investment",
+   "what": "Signing of the Poland–India Agreement on Mutual Protection and Exchange of Classified Information, and confirmation of WB Group's India investment Update (Nov 19): No signing or WB Group announcement was found in Polish, English or Hindi sources.",
    "expected": "Joint statement of 22 Oct says 'soon'",
    "checkDate": "2026-11-30",
    "happened": "",
@@ -1138,9 +1138,9 @@
    "dateAdded": "2026-11-11",
    "place": "US–Poland",
    "domain": "Defense, security & crime",
-   "what": "White House decision on a permanent US base in Poland Update (Nov 18): Polish officials expect the White House to receive the review in early December. Zalewski says formal negotiations closed during the Nov 10 Washington visit.",
+   "what": "White House decision on a permanent US base in Poland Update (Nov 18): Polish officials expect the White House to receive the review in early December. Zalewski says formal negotiations closed during the Nov 10 Washington visit. Update (Nov 19): Nothing new on Nov 18. Defence24 (Nov 16, unofficial) puts the announcement on Dec 4, alongside the end of the posture review.",
    "expected": "Defence Minister Kosiniak-Kamysz expects a decision in early December (rp.pl)",
-   "checkDate": "2026-12-10",
+   "checkDate": "2026-12-04",
    "happened": "",
    "eventId": "E-261111-01"
   },
@@ -1435,7 +1435,7 @@
    "happened": "",
    "place": "US–India",
    "domain": "Defense, security & crime",
-   "what": "Nikhil Gupta sentencing in the Pannun murder-for-hire case (SDNY, Judge Marrero)",
+   "what": "Nikhil Gupta sentencing in the Pannun murder-for-hire case (SDNY, Judge Marrero) Update (Nov 19): No change was reported before the hearing. Sentencing is still set for Nov 20 before Judge Marrero, with prosecutors seeking 293 months and the defence 12 years; Pannun has asked to address the court.",
    "expected": "SDNY court schedule, per reports",
    "checkDate": "2026-11-20",
    "eventId": "",
@@ -1523,7 +1523,7 @@
    "dateAdded": "2026-11-16",
    "place": "US–India",
    "domain": "Trade & tariffs",
-   "what": "Whether the first tranche of the India–US trade deal is closed by the end of FY2026-27 (31 Mar 2027), the new target given by an Indian official",
+   "what": "Whether the first tranche of the India–US trade deal is closed by the end of FY2026-27 (31 Mar 2027), the new target given by an Indian official Update (Nov 19): Agrawal now ties signing to the US finalising its new tariff framework and Section 301 probes, an external dependency on the March 2027 target.",
    "expected": "Unnamed Indian official to PTI, Nov 15; Goyal says preferential tariff access is already agreed",
    "checkDate": "2027-03-31",
    "happened": "",
@@ -1880,6 +1880,39 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261119-40"
+  },
+  {
+   "id": "W-261119-11",
+   "dateAdded": "2026-11-19",
+   "place": "US–India",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Outcome of the FAA IASA assessment of India's DGCA (Nov 16–20): whether India keeps Category 1",
+   "expected": "The FAA team's visit ends Nov 20; results typically come weeks later (Indian press)",
+   "checkDate": "2026-12-20",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261119-12",
+   "dateAdded": "2026-11-19",
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "what": "P-TEC ministerial day in Warsaw (Nov 19): any US–Poland LNG or nuclear agreements or joint statement",
+   "expected": "Ministry of Energy / US DOE programme: ministerial session Nov 19",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261119-53"
+  },
+  {
+   "id": "W-261119-13",
+   "dateAdded": "2026-11-19",
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "what": "Comment period (60 days from Nov 19 FR publication) and 90-day licensing deadline under the BIS remote-access AI chip rule; any Indian government or industry response",
+   "expected": "BIS interim final rule: FR publication Nov 19, comments ~Jan 18, 2027; licences for existing data centres ~mid-Feb 2027",
+   "checkDate": "2027-01-18",
+   "happened": "",
+   "eventId": "E-261119-51"
   }
  ]
 }

@@ -2459,6 +2459,30 @@
    "lean": "Centre-left / environmental",
    "status": "Watch",
    "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "communications-today",
+   "name": "Communications Today",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Telecom, data centres, tech policy",
+   "language": "English",
+   "url": "https://www.communicationstoday.co.in",
+   "lean": "trade press",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "poland-us-dziennik-polonijny",
+   "name": "Dziennik Polonijny (Poland.us)",
+   "type": "Outlet",
+   "place": "US–Poland",
+   "focus": "Polish-American community news, US policy in Polish",
+   "language": "Polish",
+   "url": "https://poland.us",
+   "lean": "diaspora, centrist",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
   }
  ]
 }
