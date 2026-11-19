@@ -2435,6 +2435,30 @@
    "lean": "Neutral / trade",
    "status": "Watch",
    "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "prabhasakshi",
+   "name": "Prabhasakshi",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Hindi national news digest",
+   "language": "Hindi",
+   "url": "https://www.prabhasakshi.com/",
+   "lean": "Centre-right",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "down-to-earth",
+   "name": "Down To Earth",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Environment, weather and climate",
+   "language": "English",
+   "url": "https://www.downtoearth.org.in/",
+   "lean": "Centre-left / environmental",
+   "status": "Watch",
+   "dateAdded": "2026-11-19"
   }
  ]
 }

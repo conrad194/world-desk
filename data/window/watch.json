@@ -786,7 +786,7 @@
    "dateAdded": "2026-11-06",
    "place": "India",
    "domain": "Defense, security & crime",
-   "what": "Formal notification of Agniveer second-tour terms before the first batch exits on Nov 21. Pay and Seva Nidhi figures have now been given by the IAF, but there is still no gazette. Update (Nov 18): No MoD/PIB gazette or formal notification of second-tour terms found as of the morning of Nov 18. The exit date of Nov 21 still stands.",
+   "what": "Formal notification of Agniveer second-tour terms before the first batch exits on Nov 21. Pay and Seva Nidhi figures have now been given by the IAF, but there is still no gazette. Update (Nov 18): No MoD/PIB gazette or formal notification of second-tour terms found as of the morning of Nov 18. The exit date of Nov 21 still stands. Update (Nov 19): No MoD/PIB gazette or formal notification of second-tour terms found as of the morning of Nov 19. Searches in English and Hindi turned up nothing new, and the Nov 21 exit date stands.",
    "expected": "An IAF Eastern Air Command officer gave the figures. MoD/PIB has not issued a formal notification.",
    "checkDate": "2026-11-21",
    "happened": "",
@@ -808,9 +808,9 @@
    "dateAdded": "2026-11-06",
    "place": "India",
    "domain": "Politics & government",
-   "what": "Whether the Panchayati Raj Ministry formally issues guidance requiring EPIC (voter ID) for panchayat-scheme beneficiaries.",
+   "what": "Whether the Panchayati Raj Ministry formally issues guidance requiring EPIC (voter ID) for panchayat-scheme beneficiaries. Update (Nov 19): No formal Panchayati Raj Ministry guidance on EPIC for scheme beneficiaries found; coverage still rests on Minister Rajiv Ranjan Singh's early-November remarks.",
    "expected": "Lalan Singh announced it on Nov 6 at the Jan Yojana Abhiyaan workshop (IANS).",
-   "checkDate": "2026-11-20",
+   "checkDate": "2026-11-27",
    "happened": "",
    "eventId": ""
   },
@@ -918,9 +918,9 @@
    "dateAdded": "2026-11-07",
    "place": "India",
    "domain": "Politics & government",
-   "what": "How many ASDD voters are restored in the seven states under the ECI's Nov 6 order, and any deadline or final-roll date.",
+   "what": "How many ASDD voters are restored in the seven states under the ECI's Nov 6 order, and any deadline or final-roll date. Update (Nov 19): The ECI extended the ASDD schedule in the seven states and UTs. Enumeration forms run from Nov 18 to 30, processing by Dec 10 and claims by Dec 15, and final rolls move from Nov 30 to Dec 22 (IANS). No restoration counts yet.",
    "expected": "The ECI order sets up a monitoring mechanism. Congress calls it a 'U-turn' and will keep campaigning, with a rally planned on Dec 14.",
-   "checkDate": "2026-11-25",
+   "checkDate": "2026-12-22",
    "happened": "",
    "eventId": "E-261107-41"
   },
@@ -1119,8 +1119,8 @@
    "what": "Bay of Bengal low (formed Nov 13): whether it becomes a depression or Cyclone 'Akvan', and where it heads Update (Nov 14): well-marked low; depression expected within 24h, cyclonic storm around the evening of Nov 16. Update (Nov 15): now a depression ~1,040 km SSE of Visakhapatnam; IMD expects a cyclonic storm on Nov 16 and a severe cyclonic storm on Nov 17, heading north-northwest. Update (Nov 17): IMD says it became Cyclonic Storm Akvan on the evening of Nov 16. It is forecast to be a very severe cyclonic storm by about Nov 19 and to cross the Andhra Pradesh–Yanam coast between Nellore and Tuni around noon on Nov 20, with winds of 120–130 km/h gusting to 145 km/h (India.com/IMD). Update (Nov 18): Akvan became a severe cyclonic storm on the evening of Nov 17, about 620 km SSE of Visakhapatnam. IMD forecasts a very severe cyclonic storm by Nov 19 and landfall between Nellore and Visakhapatnam around noon on Nov 20.",
    "expected": "IMD: well-marked low Nov 14, depression Nov 15; heavy rain in south Tamil Nadu Nov 15–18",
    "checkDate": "2026-11-20",
-   "happened": "",
-   "eventId": "E-261114-41"
+   "happened": "The Bay of Bengal low became Cyclonic Storm Akvan on Nov 16 and a severe cyclonic storm on Nov 18. It is heading north-northwest to cross the north Andhra–south Odisha coast around noon on Nov 20 ([Business Standard](https://www.business-standard.com/india-news/cyclone-akvan-strengthens-orange-alert-in-andhra-odisha-and-telangana-126111800424_1.html)).",
+   "eventId": "E-261119-37"
   },
   {
    "id": "W-261111-04",
@@ -1303,7 +1303,7 @@
    "dateAdded": "2026-11-13",
    "place": "India",
    "domain": "Politics & government",
-   "what": "Wangchuk's court challenge to the 60-day order, and whether the Ladakh local polls (Nov 21) and hill council polls (Dec 4) go ahead or are deferred Note: Nov 21 is the panchayat and Leh/Kargil municipal polls; the LAHDC hill councils vote Dec 4 (Daily Pioneer). Update (Nov 18): LAHDC nominations closed on Nov 17 with 541 candidates for 100 seats. Wangchuk has petitioned the J&K and Ladakh HC (Leh bench) against his house detention; no hearing date is reported. The Nov 21 polls have not been deferred.",
+   "what": "Wangchuk's court challenge to the 60-day order, and whether the Ladakh local polls (Nov 21) and hill council polls (Dec 4) go ahead or are deferred Note: Nov 21 is the panchayat and Leh/Kargil municipal polls; the LAHDC hill councils vote Dec 4 (Daily Pioneer). Update (Nov 18): LAHDC nominations closed on Nov 17 with 541 candidates for 100 seats. Wangchuk has petitioned the J&K and Ladakh HC (Leh bench) against his house detention; no hearing date is reported. The Nov 21 polls have not been deferred. Update (Nov 19): The SEC reviewed preparations in Leh on Nov 17 (PTI), and the Nov 21 panchayat and municipal polls remain on schedule. No court order deferring them was found.",
    "expected": "Wangchuk says he will go to court; Leh Apex Body and KDA demand postponement",
    "checkDate": "2026-11-21",
    "happened": "",
@@ -1622,7 +1622,7 @@
    "dateAdded": "2026-11-17",
    "place": "India",
    "domain": "Environment, energy & disasters",
-   "what": "Cyclone Akvan landfall, damage, evacuations and deaths in Andhra Pradesh and Odisha Update (Nov 18): AP CM Naidu and Deputy CM Pawan Kalyan ordered evacuations and relief camps, and IMD issued a red alert for seven AP districts. Odisha identified 2.04 lakh people for possible evacuation and deployed 74 ODRAF/NDRF teams. No landfall yet.",
+   "what": "Cyclone Akvan landfall, damage, evacuations and deaths in Andhra Pradesh and Odisha Update (Nov 18): AP CM Naidu and Deputy CM Pawan Kalyan ordered evacuations and relief camps, and IMD issued a red alert for seven AP districts. Odisha identified 2.04 lakh people for possible evacuation and deployed 74 ODRAF/NDRF teams. No landfall yet. Update (Nov 19): Still at sea, about 480 km SE of Narsapur late on Nov 18. Landfall is expected between Narsapur and Puri around noon to afternoon on Nov 20. Odisha has evacuated about 50,000 people and closed schools in six districts until Nov 21. AP has 13 NDRF and 11 SDRF teams on standby. No deaths reported.",
    "expected": "IMD: coast crossing between Nellore and Tuni around noon on Nov 20",
    "checkDate": "2026-11-21",
    "happened": "",
@@ -1858,6 +1858,28 @@
    "checkDate": "2026-11-27",
    "happened": "",
    "eventId": "E-261119-32"
+  },
+  {
+   "id": "W-261119-09",
+   "dateAdded": "2026-11-19",
+   "place": "India",
+   "domain": "Foreign relations",
+   "what": "Outcome of the fourth India–Japan 2+2 ministerial dialogue in Tokyo (joint statement, any defence-equipment or supply-chain agreements)",
+   "expected": "MoD/MEA; dialogue Nov 18–19, statement expected Nov 19",
+   "checkDate": "2026-11-20",
+   "happened": "",
+   "eventId": "E-261119-44"
+  },
+  {
+   "id": "W-261119-10",
+   "dateAdded": "2026-11-19",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Subscription level of the Mahanadi Coalfields IPO (closes Nov 23) and listing performance",
+   "expected": "Exchanges; bidding Nov 19–23, listing expected about a week later",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261119-40"
   }
  ]
 }
