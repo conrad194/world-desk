@@ -879,6 +879,36 @@
    "checkDate": "2026-11-25",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261119-01",
+   "dateAdded": "2026-11-19",
+   "segment": "The Americas",
+   "what": "Venezuela: 24-hour public-sector strike and march on Miraflores over wages and the year-end bonus.",
+   "expected": "Union leaders, including health-sector leader Pablo Zambrano, per El Diario; set for next week if the government does not respond.",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261119-02",
+   "dateAdded": "2026-11-19",
+   "segment": "The Americas",
+   "what": "Venezuela: nominations committee sends its [[p:Supreme Tribunal of Justice]] candidate list to the National Assembly; first step of the US-backed roadmap.",
+   "expected": "Committee schedule (11 Dec); [[p:Marco Rubio]] expects new justices in office by mid-December.",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261119-03",
+   "dateAdded": "2026-11-19",
+   "segment": "The Americas",
+   "what": "Brazil: Chamber of Deputies vote on the fiscal adjustment bill after the Senate finishes amendments.",
+   "expected": "Government and PT leadership, per O Povo; timing uncertain.",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

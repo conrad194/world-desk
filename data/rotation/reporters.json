@@ -965,6 +965,20 @@
    "trackRecord": "Ynet's Arab-affairs correspondent who reads Lebanese and Arab media directly.",
    "dateAdded": "2026-11-17",
    "status": "Watch"
+  },
+  {
+   "id": "dylan-robertson",
+   "name": "Dylan Robertson",
+   "segment": "The Americas",
+   "countries": "Canada",
+   "languages": "English, French",
+   "outlets": "The Canadian Press",
+   "basedIn": "Ottawa",
+   "slant": "Wire-style, neutral",
+   "url": "https://www.cp24.com/news/world/2026/11/17/carney-and-sheinbaum-meet-at-summit-in-china-as-both-navigate-trumps-tumult/",
+   "trackRecord": "Parliamentary and foreign-affairs reporter covering Canada–US trade and Carney abroad; travelling with the PM at APEC 2026.",
+   "dateAdded": "2026-11-19",
+   "status": "Watch"
   }
  ]
 }
