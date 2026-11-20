@@ -2555,6 +2555,30 @@
    "lean": "official (Japan)",
    "status": "Watch",
    "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "pej-polskie-elektrownie-j-drowe-press-centre",
+   "name": "PEJ – Polskie Elektrownie Jądrowe press centre",
+   "type": "Official source",
+   "place": "US–Poland",
+   "focus": "Poland's first nuclear plant (Westinghouse-Bechtel AP1000)",
+   "language": "English",
+   "url": "https://pej.pl/en/press-center/news/",
+   "lean": "official (state-owned company)",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "wojciech-jak-bik-blog",
+   "name": "Wojciech Jakóbik blog",
+   "type": "Reporter",
+   "place": "US–Poland",
+   "focus": "Energy security, LNG, gas markets",
+   "language": "Polish",
+   "url": "https://wjakobik.com/",
+   "lean": "specialist, independent",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
   }
  ]
 }

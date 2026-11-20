@@ -2078,6 +2078,28 @@
    "checkDate": "2026-12-10",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261120-16",
+   "dateAdded": "2026-11-20",
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "what": "Next steps under the Orlen–Carlyle energy-investment memorandum: any first concrete project or transaction",
+   "expected": "State Assets Minister Balczun: the government set a 90-day timeframe from the Nov 19 signing (XYZ/PAP)",
+   "checkDate": "2027-02-17",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-17",
+   "dateAdded": "2026-11-20",
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "what": "Conversion of the PEJ–Westinghouse-Bechtel letter of intent into an expanded Engineering Development Agreement or orders for further long-lead items, and US export-credit financing talks",
+   "expected": "PEJ press release (Nov 19); no date given",
+   "checkDate": "2027-01-31",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
