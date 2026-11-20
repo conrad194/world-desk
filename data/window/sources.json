@@ -2495,6 +2495,30 @@
    "lean": "specialist, less established",
    "status": "Watch",
    "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "alert-medyczny",
+   "name": "Alert Medyczny",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "health policy and legislation",
+   "language": "Polish",
+   "url": "https://alertmedyczny.pl/",
+   "lean": "specialist, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "finwire",
+   "name": "Finwire",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "legislation and markets digests",
+   "language": "Polish",
+   "url": "https://finwire.pl/",
+   "lean": "business, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
   }
  ]
 }

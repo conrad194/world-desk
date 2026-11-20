@@ -1957,6 +1957,61 @@
    "checkDate": "2026-12-01",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261120-05",
+   "dateAdded": "2026-11-20",
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "what": "President Nawrocki signs or vetoes the anti-alcohol law (night sales ban and advertising ban)",
+   "expected": "21-day constitutional deadline after the Sejm's Nov 19 vote; right-wing commentators urge a veto (nczas.info)",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-06",
+   "dateAdded": "2026-11-20",
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "what": "President's decision on the doctors' pay and working-time limits law",
+   "expected": "Sent to the President after the Sejm's Nov 19 vote on Senate amendments (Alert Medyczny); 21-day deadline",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-07",
+   "dateAdded": "2026-11-20",
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "what": "President's decision on the short-term rental law (print 2865)",
+   "expected": "21 days from presentation after the Sejm accepted Senate amendments on Nov 19 (Finwire)",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-08",
+   "dateAdded": "2026-11-20",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Parties submit written TK reform proposals to the President's Chancellery; whether talks resume",
+   "expected": "Bogucki (Nov 19): proposals next week",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-09",
+   "dateAdded": "2026-11-20",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "what": "Senate vote on the semiconductor funding bill (1.5bn zł from defence) and the Data Act implementing law",
+   "expected": "Both passed by the Sejm on Nov 19 (WNP, PAP)",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

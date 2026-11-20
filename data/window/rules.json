@@ -799,6 +799,54 @@
    "newsLink": "https://www.fiercehealthcare.com/health-tech/hhs-finalizes-updates-hipaa-privacy-rule-ease-patient-access-health-information",
    "eventId": "E-261120-08",
    "lastChecked": "2026-11-20"
+  },
+  {
+   "id": "R-261120-03",
+   "dateLogged": "2026-11-20",
+   "place": "Poland",
+   "body": "Sejm (Left MPs' bill, print 3295)",
+   "name": "Act enabling transfer of up to 1.5bn zł from the defence budget to the Polish Science Fund for semiconductor production",
+   "changes": "Allows up to 1.5bn zł in 2026–27 to move from defence spending to co-fund chip production lines, such as at CEZAMAT",
+   "affects": "Defence budget, universities, the chip industry",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.wnp.pl/rynki/sejm-uchwalil-ustawe-ktora-ma-zwiekszyc-mozliwosci-produkcji-polprzewodnikow-w-polsce,1121457.html",
+   "eventId": "E-261120-16",
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "id": "R-261120-04",
+   "dateLogged": "2026-11-20",
+   "place": "Poland",
+   "body": "Sejm (government bill)",
+   "name": "Act on fair access to and use of data (EU Data Act implementation)",
+   "changes": "Users of connected devices get access to their device data, with UKE as supervisor and dispute body certifier; fines up to 4% of turnover",
+   "affects": "Owners of connected cars and appliances, manufacturers, repair firms",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.dlahandlu.pl/technologie-i-wyposazenie/uzytkownicy-iot-dostana-dostep-do-danych-sejm-uchwalil-ustawe-wdrazajaca-data-act,178221.html",
+   "eventId": "E-261120-17",
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "id": "R-261120-05",
+   "dateLogged": "2026-11-20",
+   "place": "Poland",
+   "body": "Sejm/Senate",
+   "name": "Amendment to the act on hotel services (short-term rental, print 2865)",
+   "changes": "National register of short-term lets with ID numbers shown on platforms; municipalities can ban short-term rentals in designated zones from 2028; penalties for hosts and platforms",
+   "affects": "Airbnb-type hosts, platforms, municipalities such as Kraków, residents",
+   "stage": "Passed / final",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://finwire.pl/artykuly/sejm-przyjal-poprawki-senatu-najem-krotkoterminowy-druk-2865",
+   "eventId": "E-261120-18",
+   "lastChecked": "2026-11-20"
   }
  ]
 }
