@@ -557,7 +557,7 @@
    "what": "State Duma second reading of Russia's 2027–29 budget.",
    "expected": "Vesti / State Duma schedule",
    "checkDate": "2026-11-19",
-   "happened": "",
+   "happened": "The State Duma passed the 2027–29 federal budget in second reading on 19 Nov: 2027 spending of 48.74 trn rubles against 43.3 trn in revenue, a deficit of 2.2% of GDP. Third reading is set for 24 Nov. ([Interfax](https://www.interfax.ru/business/1130125))",
    "eventId": ""
   },
   {
@@ -757,7 +757,7 @@
    "what": "Spain: Sánchez–Feijóo televised debate, organised by the Academia de la Televisión.",
    "expected": "Scheduled for 19 Nov, per Infobae's campaign coverage.",
    "checkDate": "2026-11-19",
-   "happened": "",
+   "happened": "The debate was held in Madrid on 19 Nov, moderated by María Casado, covering housing, taxes, corruption and immigration; no neutral viewer poll was found, and analysts polled by right-leaning El Debate favoured Feijóo. ([El Debate](https://www.eldebate.com/espana/20261120/analistas-debate-emiten-veredicto-quien-ganado_483097.html))",
    "eventId": ""
   },
   {
@@ -767,7 +767,7 @@
    "what": "Coalition of the willing meeting in Berlin, hosted by Merz, expected to discuss Europe's seat at the next round of Ukraine talks.",
    "expected": "Merz announced the 19 Nov meeting; The Irish Times reports the next round will be discussed there.",
    "checkDate": "2026-11-19",
-   "happened": "",
+   "happened": "Held on 19 Nov with about 37 countries plus US envoys Kushner and Witkoff. Berlin says the coalition backed talks among Ukraine, Russia, the US and a European team (EU institutions plus France, Germany, Italy, Poland and the UK), starting from the line of contact. ([German government](https://www.bundesregierung.de/breg-de/aktuelles/koalition-der-willigen-in-berlin-2461162))",
    "eventId": ""
   },
   {
@@ -827,8 +827,8 @@
    "what": "Iraq: deadline for [[p:Kata'ib Hezbollah]] to withdraw from Jurf al-Sakhar; possible army entry if it doesn't.",
    "expected": "A security source told The National (8pm, 20 Nov); Shafaq's government sources also cite 20 Nov.",
    "checkDate": "2026-11-20",
-   "happened": "",
-   "eventId": "E-261117-18"
+   "happened": "A compromise was reached late on 19 Nov: a joint operations centre and a combined army, federal police and PMF force take over Jurf al-Sakhar from 20 Nov, after a reported visit by Quds Force chief Esmail Qaani. See E-261120-04. ([Al Jazeera](https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold))",
+   "eventId": "E-261120-04"
   },
   {
    "id": "W-261117-02",
