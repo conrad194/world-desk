@@ -979,6 +979,76 @@
    "trackRecord": "Parliamentary and foreign-affairs reporter covering Canada–US trade and Carney abroad; travelling with the PM at APEC 2026.",
    "dateAdded": "2026-11-19",
    "status": "Watch"
+  },
+  {
+   "id": "james-mutuba",
+   "name": "James Mutuba",
+   "segment": "Africa",
+   "countries": "DR Congo",
+   "languages": "French",
+   "outlets": "Actualite.cd",
+   "basedIn": "DR Congo",
+   "slant": "Neutral wire style, built on OCHA and local sources",
+   "url": "https://actualite.cd/2026/11/12/rdc-la-suite-dintenses-combats-au-sud-kivu-plus-de-323-000-deplaces-enregistres-en",
+   "trackRecord": "Detailed, sourced accounts of the South Kivu fighting; limited sample so far.",
+   "dateAdded": "2026-11-20",
+   "status": "Watch"
+  },
+  {
+   "id": "asha-elmi",
+   "name": "Asha Elmi",
+   "segment": "Africa",
+   "countries": "Somalia, Djibouti, Horn of Africa",
+   "languages": "English, Somali",
+   "outlets": "Dawan Africa",
+   "basedIn": "Mogadishu (outlet base)",
+   "slant": "Fast political reporting, often with anonymous sourcing",
+   "url": "https://www.dawan.africa/news/somali-presidency-says-national-dialogue-to-open-soon",
+   "trackRecord": "Steady daily coverage of the Somali election standoff and Djibouti appointments.",
+   "dateAdded": "2026-11-20",
+   "status": "Watch"
+  },
+  {
+   "id": "ferial-haffajee",
+   "name": "Ferial Haffajee",
+   "segment": "Africa",
+   "countries": "South Africa",
+   "languages": "English",
+   "outlets": "Daily Maverick",
+   "basedIn": "Johannesburg",
+   "slant": "Liberal, strongly anti-corruption",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-11-joburg-burns-politicians-bargain/",
+   "trackRecord": "Former editor of the Mail & Guardian and City Press; long-time South African political reporter.",
+   "dateAdded": "2026-11-20",
+   "status": "Watch"
+  },
+  {
+   "id": "rafik-tadjer",
+   "name": "Rafik Tadjer",
+   "segment": "Africa",
+   "countries": "Algeria, Western Sahara, Morocco–Algeria relations",
+   "languages": "French",
+   "outlets": "TSA (Tout sur l'Algérie)",
+   "basedIn": "Algiers",
+   "slant": "Algerian independent outlet; tends to reflect Algerian and Polisario framing on the Sahara",
+   "url": "https://www.tsa-algerie.com/sahara-occidental-le-polisario-decrete-la-mobilisation-generale/",
+   "trackRecord": "Regular byline on Algerian diplomacy and the Western Sahara file.",
+   "dateAdded": "2026-11-20",
+   "status": "Watch"
+  },
+  {
+   "id": "boris-esono-nwenfor",
+   "name": "Boris Esono Nwenfor",
+   "segment": "Africa",
+   "countries": "Cameroon (incl. Anglophone regions)",
+   "languages": "English",
+   "outlets": "Pan African Visions",
+   "basedIn": "Buea",
+   "slant": "Close coverage of the opposition and the Anglophone crisis",
+   "url": "https://panafricanvisions.com/2026/11/tchiroma-urges-cameroon-opposition-parties-to-boycott-february-2027-elections/",
+   "trackRecord": "Steady on-the-ground reporting on Cameroon since the 2025 election.",
+   "dateAdded": "2026-11-20",
+   "status": "Watch"
   }
  ]
 }
