@@ -909,6 +909,66 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261120-01",
+   "dateAdded": "2026-11-20",
+   "segment": "Africa",
+   "what": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "expected": "Councils must sit within 14 days of the 13 Nov gazetting (EWN).",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-02",
+   "dateAdded": "2026-11-20",
+   "segment": "Africa",
+   "what": "Somalia: Supreme Court's 30-day deadline for an election plan, which the government rejects; opposition Future Council demands mediated talks.",
+   "expected": "Deadline counted from the 5 Nov ruling (Critical Threats).",
+   "checkDate": "2026-12-05",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-03",
+   "dateAdded": "2026-11-20",
+   "segment": "Africa",
+   "what": "Algeria local (APC/APW) elections, 28 Nov.",
+   "expected": "Scheduled by Algerian authorities (APS).",
+   "checkDate": "2026-11-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-04",
+   "dateAdded": "2026-11-20",
+   "segment": "Africa",
+   "what": "Guinea-Bissau presidential and legislative elections officially set for 6 Dec; transitional PM and electoral commission call the date unworkable.",
+   "expected": "ECOWAS mediator weighing a new date (RTP).",
+   "checkDate": "2026-12-06",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-05",
+   "dateAdded": "2026-11-20",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Duma third reading of Russia's 2027–29 budget, 24 Nov.",
+   "expected": "Scheduled by the State Duma (Interfax).",
+   "checkDate": "2026-11-24",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-06",
+   "dateAdded": "2026-11-20",
+   "segment": "Middle East",
+   "what": "Israel: talks between Eisenkot's bloc and Likud, 22 Nov, with Eisenkot reportedly planning a Knesset vote before his mandate ends.",
+   "expected": "Times of Israel.",
+   "checkDate": "2026-11-23",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
