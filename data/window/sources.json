@@ -2531,6 +2531,30 @@
    "lean": "commercial radio, neutral",
    "status": "Watch",
    "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "pragativadi",
+   "name": "Pragativadi",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Odisha news",
+   "language": "English",
+   "url": "https://pragativadi.com/",
+   "lean": "regional, mainstream",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "ministry-of-foreign-affairs-of-japan",
+   "name": "Ministry of Foreign Affairs of Japan",
+   "type": "Official source",
+   "place": "India",
+   "focus": "Japan–India readouts and joint statements",
+   "language": "English",
+   "url": "https://www.mofa.go.jp/",
+   "lean": "official (Japan)",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
   }
  ]
 }

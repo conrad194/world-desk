@@ -2045,6 +2045,39 @@
    "checkDate": "2027-01-15",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261120-13",
+   "dateAdded": "2026-11-20",
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "what": "Post-landfall toll of Cyclone Akvan in Odisha and north Andhra: deaths, crop and house damage, power restoration, and any central assistance",
+   "expected": "Odisha SRC/state government and AP RTGS damage assessments, Nov 20–22",
+   "checkDate": "2026-11-22",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-14",
+   "dateAdded": "2026-11-20",
+   "place": "India",
+   "domain": "Foreign relations",
+   "what": "Pakistani minister Musadik Malik's speech at the SCO Civilisational Dialogue Forum, and whether any India–Pakistan contact takes place",
+   "expected": "Malik is due to speak Nov 21 (Outlook); no Modi meeting is planned",
+   "checkDate": "2026-11-22",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-15",
+   "dateAdded": "2026-11-20",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Supreme Court final hearing on the marital rape exception (Exception 2, Section 63 BNS)",
+   "expected": "CJI Surya Kant's bench, Dec 9 or 10 (Outlook)",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
