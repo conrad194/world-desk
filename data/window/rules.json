@@ -200,13 +200,13 @@
    "name": "Consumer Credit Directive 2 (CCD2)",
    "changes": "Brings many buy-now-pay-later, interest-free and small loans under full consumer-credit rules. Adds stricter creditworthiness checks, mandatory warnings in credit adverts, rights to human review of automated credit decisions, and longer withdrawal periods where information is missing.",
    "affects": "Borrowers, payday lenders, BNPL providers, online shops and banks in Poland.",
-   "stage": "Signed / published",
+   "stage": "In force",
    "commentDeadline": "",
    "effectiveDate": "2026-11-20",
    "officialLink": "https://eur-lex.europa.eu/eli/dir/2023/2225/oj",
    "newsLink": "https://biznes.wprost.pl/twoj-portfel/12481036/nowe-przepisy-unii-przeciwko-chwilowkom-od-20-listopada-dlaczego-polska-jest-w-tyle.html",
    "eventId": "E-261027-30",
-   "lastChecked": "2026-11-18"
+   "lastChecked": "2026-11-20"
   },
   {
    "id": "R-261027-04",
@@ -334,7 +334,7 @@
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Prawo/Nagly-zwrot-w-Senacie-Moga-otworzyc-furtke-dla-reklam-piwa-0-proc,290965,2.html",
    "eventId": "E-261119-19",
-   "lastChecked": "2026-11-19"
+   "lastChecked": "2026-11-20"
   },
   {
    "id": "R-261106-05",
@@ -350,7 +350,7 @@
    "officialLink": "",
    "newsLink": "https://rmf24.pl/fakty/polityka/news-pomoc-w-aborcji-limity-zarobkow-lekarzy-nowy-prog-podatkowy-,nIdn,1025136",
    "eventId": "E-261119-20",
-   "lastChecked": "2026-11-19"
+   "lastChecked": "2026-11-20"
   },
   {
    "id": "R-261106-06",
@@ -682,11 +682,11 @@
    "affects": "Patients, pharmacies, drug makers, NFZ and hospitals.",
    "stage": "Proposed",
    "commentDeadline": "",
-   "effectiveDate": "",
+   "effectiveDate": "2027-01-01",
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Sejm-projekt-nowelizacji-ustawy-refundacyjnej-wraca-do-komisji-zdrowia,291363,14.html",
    "eventId": "",
-   "lastChecked": "2026-11-19"
+   "lastChecked": "2026-11-20"
   },
   {
    "id": "R-261118-06",
