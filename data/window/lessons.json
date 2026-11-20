@@ -1815,6 +1815,132 @@
      "why": "How India's Committees on Subordinate Legislation work and how little they can review (2011 data)."
     }
    ]
+  },
+  {
+   "id": "L13",
+   "num": 13,
+   "unit": "How rules get made",
+   "title": "The FDA: approvals, recalls, guidance vs binding rules",
+   "dateTaught": "2026-11-20",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "What are the main steps a US agency follows to make a binding rule, and what does an interim final rule skip?",
+   "prevAnswer": "The agency publishes a proposed rule in the Federal Register, takes public comments (usually 30–60 days), considers and answers significant comments, then publishes a final rule that normally takes effect at least 30 days later. An interim final rule skips the advance comment step by claiming good cause: it takes effect right away and comments are taken afterwards.",
+   "body": "Lesson 12 showed how a US agency makes a binding rule. Today we look at the most famous rule-making agency of all, the **Food and Drug Administration (FDA)**, and at what it actually does: it decides which medicines may be sold, it gets dangerous products off the shelves, and it tells companies what it expects, sometimes in rules that bind and sometimes in guidance that does not.\n\n**Approval: proof before sale.** The FDA sits inside the Department of Health and Human Services and oversees drugs, vaccines, medical devices, most food, cosmetics and tobacco. Its core power comes from the [#Federal Food, Drug, and Cosmetic Act](https://en.wikipedia.org/wiki/Federal_Food,_Drug,_and_Cosmetic_Act) of 1938, passed after the [#Elixir sulfanilamide](https://en.wikipedia.org/wiki/Elixir_sulfanilamide) disaster killed more than 100 people. Since the [#Kefauver Harris Amendment](https://en.wikipedia.org/wiki/Kefauver_Harris_Amendment) of 1962, a company must prove a new drug is both safe and effective before selling it. It runs clinical trials, then files a New Drug Application. FDA scientists review the data, sometimes ask an outside advisory committee, and then approve or refuse. Advisory votes are not binding; the decision belongs to the agency.\n\n> The FDA traces its origins to the [#Pure Food and Drug Act](https://en.wikipedia.org/wiki/Pure_Food_and_Drug_Act), signed by [@Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) in 1906; the name \"FDA\" dates from 1930.\n\n**Recalls: getting it back.** When a product turns out to be contaminated or dangerous, it is recalled. Recalls are classed by risk: Class I where use could cause serious harm or death, Class II for temporary or reversible harm, Class III where harm is unlikely. Most recalls are started by the company itself, often after the FDA asks. The agency's power to *order* one depends on the product: Congress gave it mandatory recall authority for medical devices and, through the 2011 [#FDA Food Safety Modernization Act](https://en.wikipedia.org/wiki/FDA_Food_Safety_Modernization_Act), for food. For most drugs it still relies on pressure, public warnings, seizures and court action.\n\n**Guidance vs binding rules.** This is where Lesson 12 returns. A **regulation**, made through notice and comment and printed in the Code of Federal Regulations, binds like law. A **guidance document** only states the FDA's \"current thinking\": how it reads the law, what data it hopes to see. It can be issued quickly, but it binds neither companies nor the agency, and a firm may take another route if it shows that route satisfies the statute. In practice most companies follow guidance closely, because the FDA decides whether their product gets approved. Critics say that turns soft law into hard pressure; defenders say it gives flexibility for fast-moving science.\n\n**Poland and India.** Poland has no single FDA. Since joining the EU, many new medicines, including all cancer and biotech drugs, go through the **European Medicines Agency's** centralised procedure: EMA scientists assess, and the European Commission grants one authorisation valid in every member state (Lesson 16). Other drugs can be authorised nationally by Poland's Office for Registration of Medicinal Products (URPL). Withdrawals from the market are ordered by the Chief Pharmaceutical Inspector (GIF), while whether the state pays for a drug is a separate decision by the Minister of Health under the reimbursement act.\n\n> The EMA opened in London in 1995 and moved to Amsterdam in 2019 after [#Brexit](https://en.wikipedia.org/wiki/Brexit).\n\nIndia's regulator is the **Central Drugs Standard Control Organisation (CDSCO)**, headed by the Drugs Controller General of India, under the Health Ministry. It approves new drugs and trials under the [#Drugs and Cosmetics Act, 1940](https://en.wikipedia.org/wiki/Drugs_and_Cosmetics_Act,_1940) and the New Drugs and Clinical Trials Rules, 2019, which are rules framed under that Act as Lesson 12 described. But licensing factories and policing sales falls largely to **state drug controllers**, a split that reflects the three lists of Lesson 10. That divided oversight is often blamed when quality fails, as with contaminated cough syrups made in India and linked to children's deaths abroad and at home.\n\n> The 1940 Act was passed under British rule and remains India's main drug law, heavily amended since.\n\nThe common thread: all three systems require proof before sale, but they differ in who decides (one federal agency, an EU-plus-national mix, or a Union-state split) and in how much power the regulator has to force a product off the market.",
+   "comparison": [
+    {
+     "aspect": "Main medicines regulator",
+     "US": "Food and Drug Administration (FDA), within HHS",
+     "Poland": "European Medicines Agency plus European Commission for centralised approvals; URPL for national ones",
+     "India": "Central Drugs Standard Control Organisation (CDSCO), headed by the Drugs Controller General of India"
+    },
+    {
+     "aspect": "Core law",
+     "US": "[#Federal Food, Drug, and Cosmetic Act](https://en.wikipedia.org/wiki/Federal_Food,_Drug,_and_Cosmetic_Act) (1938)",
+     "Poland": "Pharmaceutical Law (Prawo farmaceutyczne, 2001) plus EU pharmaceutical regulations and directives",
+     "India": "[#Drugs and Cosmetics Act, 1940](https://en.wikipedia.org/wiki/Drugs_and_Cosmetics_Act,_1940); New Drugs and Clinical Trials Rules, 2019"
+    },
+    {
+     "aspect": "Who orders a product off the market",
+     "US": "Usually the company, at FDA's request; FDA can order recalls of devices and food",
+     "Poland": "Chief Pharmaceutical Inspector (GIF) issues suspension and withdrawal decisions",
+     "India": "CDSCO and state drug controllers, mainly by cancelling licences and banning batches"
+    },
+    {
+     "aspect": "Non-binding guidance",
+     "US": "FDA guidance documents (\"current thinking\")",
+     "Poland": "EMA scientific guidelines",
+     "India": "CDSCO guidance documents and recall guidelines"
+    },
+    {
+     "aspect": "Who decides whether the state pays",
+     "US": "Separate bodies: Medicare/CMS and private insurers",
+     "Poland": "Minister of Health, under the 2011 reimbursement act",
+     "India": "Largely out-of-pocket; government schemes and price caps by the National Pharmaceutical Pricing Authority"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "New Drug Application (NDA)",
+     "meaning": "The US filing in which a company submits trial data asking the FDA to approve a drug as safe and effective."
+    },
+    {
+     "term": "Recall classes",
+     "meaning": "FDA risk categories: Class I (serious harm or death likely), Class II (temporary or remote harm), Class III (harm unlikely)."
+    },
+    {
+     "term": "Guidance document",
+     "meaning": "An FDA statement of its current thinking on an issue; it does not bind companies or the agency, unlike a regulation."
+    },
+    {
+     "term": "Centralised procedure",
+     "meaning": "The EU route in which the EMA assesses a medicine and the European Commission grants one authorisation for all member states."
+    },
+    {
+     "term": "URPL",
+     "meaning": "Urząd Rejestracji Produktów Leczniczych: Poland's office that registers medicines authorised nationally."
+    },
+    {
+     "term": "DCGI",
+     "meaning": "Drugs Controller General of India, head of CDSCO, who approves new drugs and clinical trials."
+    }
+   ],
+   "example": "In 1960 the US maker Richardson-Merrell applied to sell thalidomide, a sleeping pill already popular in Europe. The FDA reviewer, [@Frances Oldham Kelsey](https://en.wikipedia.org/wiki/Frances_Oldham_Kelsey), found the safety data thin and kept asking for more, despite company pressure. Within months, doctors in Germany and Australia linked the drug to severe birth defects; the [#Thalidomide scandal](https://en.wikipedia.org/wiki/Thalidomide_scandal) eventually affected over 10,000 babies worldwide, but very few in the US. President [@John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy) honoured Kelsey in 1962, and Congress responded with the [#Kefauver Harris Amendment](https://en.wikipedia.org/wiki/Kefauver_Harris_Amendment), which made companies prove effectiveness as well as safety and tightened rules on testing drugs in people. The episode is why approval, not just after-the-fact punishment, became the core of drug regulation in the US and, later, in Europe's own system.",
+   "inTheNews": "Health regulation runs through today's brief: the Sejm passed the 'SZNUR' reimbursement amendment creating a National Critical Medicines List and cheaper co-payments for Polish-made drugs, a reminder that in Poland approving a drug and paying for it are separate decisions. In the US, HHS, the FDA's parent department, finalised HIPAA privacy changes through the rulemaking path from Lesson 12, and in India a state laboratory unveiled the first home-grown H5N1 vaccine for poultry.",
+   "newsEvents": [
+    "E-261120-15",
+    "E-261120-08",
+    "E-261120-44"
+   ],
+   "check": [
+    {
+     "q": "An FDA guidance document says it expects two clinical trials for a type of drug. A company believes one large trial meets the law. What is its legal position?",
+     "options": [
+      "It must run two trials, because guidance binds like a regulation",
+      "It may propose one trial and argue it satisfies the statute, since guidance is not binding",
+      "It must first get Congress to amend the guidance",
+      "It can ignore the FDA, since only courts approve drugs"
+     ],
+     "answer": 1,
+     "explain": "Guidance states the FDA's current thinking but binds neither side. A company can take another route if it satisfies the law, though in practice it risks a harder review."
+    },
+    {
+     "q": "A Polish patient asks why a new cancer drug approved for the whole EU is still not covered by the National Health Fund. What is the best explanation?",
+     "options": [
+      "EU approval is invalid in Poland until the Sejm ratifies it",
+      "Authorisation to sell and the decision to reimburse are separate; reimbursement is decided nationally by the Health Minister",
+      "The Chief Pharmaceutical Inspector has not yet approved its safety",
+      "Only drugs made in Poland can be reimbursed"
+     ],
+     "answer": 1,
+     "explain": "The European Commission's authorisation lets the drug be sold everywhere in the EU, but whether Poland pays for it is a separate national reimbursement decision."
+    },
+    {
+     "q": "Why do critics say India's drug-quality problems are partly structural?",
+     "options": [
+      "India has no drug law at all",
+      "Oversight is split: CDSCO approves new drugs, while state drug controllers license most factories and police sales",
+      "The Supreme Court approves every drug",
+      "All drugs must be approved by the EMA first"
+     ],
+     "answer": 1,
+     "explain": "Under the Drugs and Cosmetics Act, manufacturing and sales licences are largely issued and enforced by states, so standards and inspection capacity vary, while CDSCO handles new drug approvals."
+    }
+   ],
+   "recallQ": "What is the difference between an FDA regulation and an FDA guidance document, and why do companies usually follow guidance anyway?",
+   "recallA": "A regulation is made through notice-and-comment rulemaking and binds like law. A guidance document only states the FDA's current thinking and binds neither companies nor the agency. Companies usually follow it because the FDA decides whether their product is approved, so departing from guidance makes approval harder.",
+   "readMore": [
+    {
+     "title": "Enforcement Report Information and Definitions (FDA)",
+     "url": "https://www.fda.gov/safety/enforcement-reports/enforcement-report-information-and-definitions",
+     "why": "The FDA's own definitions of Class I, II and III recalls and of voluntary vs mandated recalls."
+    },
+    {
+     "title": "The New Drugs and Clinical Trials Rules, 2019 (CDSCO)",
+     "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf",
+     "why": "The full text of India's rules for approving new drugs and clinical trials, framed under the 1940 Act."
+    }
+   ]
   }
  ]
 }
