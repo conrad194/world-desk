@@ -2483,6 +2483,18 @@
    "lean": "diaspora, centrist",
    "status": "Watch",
    "dateAdded": "2026-11-19"
+  },
+  {
+   "id": "immigration-analytics",
+   "name": "Immigration Analytics",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Immigration litigation and dockets",
+   "language": "English",
+   "url": "https://immigration-analytics.com/",
+   "lean": "specialist, less established",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
   }
  ]
 }

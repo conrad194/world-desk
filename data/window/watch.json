@@ -1913,6 +1913,50 @@
    "checkDate": "2027-01-18",
    "happened": "",
    "eventId": "E-261119-51"
+  },
+  {
+   "id": "W-261120-01",
+   "dateAdded": "2026-11-20",
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "what": "Ninth Circuit merits ruling on Venezuelan TPS termination; if adverse, a fourth DOJ Supreme Court application within the 7-day window",
+   "expected": "SG letter Nov 19 says DOJ will return to the Supreme Court immediately if it loses; no date set",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-02",
+   "dateAdded": "2026-11-20",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "Judge Cooper's ruling on dissolving the injunction against the Kennedy Center's two-year closure",
+   "expected": "Cooper said he will rule as quickly as he can (BroadwayWorld/MS Now)",
+   "checkDate": "2026-12-07",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-03",
+   "dateAdded": "2026-11-20",
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "what": "Trump's decision on the Iran war 'after January 1' (possible renewed joint US–Israel strikes or a lasting deal)",
+   "expected": "Trump, Fox News interview Nov 18-19; Mako says discussions follow the Asia trip",
+   "checkDate": "2027-01-05",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-04",
+   "dateAdded": "2026-11-20",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "what": "Effective date, comment deadline and industry/China reaction to the BIS remote-access AI chip interim final rule",
+   "expected": "Federal Register doc 2026-23529, published Nov 19",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
