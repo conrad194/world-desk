@@ -2012,6 +2012,39 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261120-10",
+   "dateAdded": "2026-11-20",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Draft resolution ordering a local referendum (SCT, short-term rentals, Main Square carriages, possibly SMRs) and the council's response",
+   "expected": "Gibała (Gazeta Wyborcza interview, 19 Nov): vote in March-April 2027; needs council consent",
+   "checkDate": "2026-12-16",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-11",
+   "dateAdded": "2026-11-20",
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "what": "Outcome of the Małopolska police inquiry into why officers Kulik and Morański wore private vests, and whether the vests were certified",
+   "expected": "Małopolska police say they will establish how it happened (KR24, TVN24); no date",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261120-12",
+   "dateAdded": "2026-11-20",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Mayor's concept and design competition for the new 'Cracoviae Virtus' medal",
+   "expected": "Council resolution of 18 Nov asks the mayor to prepare it (Radio Kraków); no date",
+   "checkDate": "2027-01-15",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

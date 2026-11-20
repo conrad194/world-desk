@@ -2519,6 +2519,18 @@
    "lean": "business, neutral",
    "status": "Watch",
    "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "radio-eska-krak-w",
+   "name": "Radio ESKA Kraków",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "city news",
+   "language": "Polish",
+   "url": "https://krakow.eska.pl/",
+   "lean": "commercial radio, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-20"
   }
  ]
 }
