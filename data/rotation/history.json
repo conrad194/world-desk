@@ -1300,6 +1300,107 @@
    "prevAnswer": "It found no legal basis for China's claim to historic rights over resources within the nine-dash line, and held that Mischief Reef and Second Thomas Shoal are low-tide features inside the Philippines' economic zone. It did not rule on sovereignty over islands, which falls outside UNCLOS, and declined jurisdiction over the military standoff at Second Thomas Shoal.",
    "recallQ": "Why did Israel's east–west road across Gaza in the 2023 war take the name Netzarim?",
    "recallA": "Netzarim was an Israeli settlement founded in 1972 just north of central Gaza's refugee camps and evacuated in the 2005 disengagement. The 2023 corridor ran through its former site, recreating the old ability to cut the strip in two."
+  },
+  {
+   "id": "2026-11-20",
+   "date": "2026-11-20",
+   "segment": "Africa",
+   "title": "Why Western Sahara's referendum never happened",
+   "thread": "Western Sahara after MINURSO",
+   "eventIds": [
+    "E-261120-29"
+   ],
+   "minutes": 4,
+   "hook": "The [[p:Polisario Front]] has declared a general mobilisation, three weeks after the UN mission that watched the Morocco–Polisario ceasefire was shut down. That mission was set up in 1991 to hold a referendum on independence, and the story of why the vote never came explains why the desert is tense again.",
+   "body": "When Spain began to pull out of its desert colony in 1975, the people who lived there were promised a vote on their future. Fifty-one years later that vote has never happened, the UN mission created to hold it has just been wound up, and the [[p:Polisario Front]] has called its fighters to arms. To see why, start with how Spain left.\n\nSpain had ruled the coast since 1884, and from the 1960s the UN pressed it to let the Sahrawi people decide whether to become independent. Morocco claimed the territory as part of a historic kingdom; Mauritania claimed the south. Young Sahrawis, impatient with both Madrid and their neighbours, founded the Polisario in May 1973 to fight for independence. In October 1975 the [[e:Advisory opinion on Western Sahara|International Court of Justice]] found old ties of allegiance between some tribes and Morocco's sultan, but no claim to sovereignty that could override self-determination. [[p:Hassan II of Morocco|King Hassan II]] read it as a win and, within weeks, sent some 350,000 unarmed Moroccans across the border in the [[e:Green March]] {{note: Began on 6 November 1975, organised by Hassan II; marchers carried flags and Qurans a few kilometres into the territory.}}.\n\nWith [[p:Francisco Franco]] on his deathbed, Spain gave way. The [[e:Madrid Accords]] of 14 November 1975 handed the territory's administration to Morocco and Mauritania, without the Sahrawis or a referendum. Tens of thousands of Sahrawis fled to camps near Tindouf in Algeria, where many of their descendants still live, and the Polisario proclaimed the [[p:Sahrawi Arab Democratic Republic]] {{note: Proclaimed at Bir Lehlou on 27 February 1976, one day after Spain's formal departure.}} and went to war, backed by Algeria.\n\nThe [[e:Western Sahara War]] knocked Mauritania out by 1979, and Morocco took its share too. Morocco then changed the war's shape by building the [[p:Moroccan Western Sahara wall|berm]] {{note: A sand wall of roughly 2,700 km, built in stages between 1980 and 1987, lined with mines, radar and troops.}}, which sealed most of the territory, including the coast and the phosphate mines, behind defended lines. The Polisario was left with a thin strip of desert to the east.\n\nBy 1991 neither side could win. The UN's [[e:Settlement Plan]] traded a ceasefire for a referendum, and the Security Council created [[p:United Nations Mission for the Referendum in Western Sahara|MINURSO]] to organise it. The vote foundered on one question: who counts as Sahrawi. Morocco wanted to include people with tribal links who had moved in or lived outside; the Polisario held to the Spanish census of 1974. Each side expected to lose a vote run on the other's list. In 2007 Morocco offered autonomy under its sovereignty instead, and that idea slowly gathered support.\n\nThe balance tipped after 2020. A Polisario blockade at Guerguerat brought Moroccan troops into the buffer zone, the Polisario declared the ceasefire dead, and low-level fighting resumed. Weeks later the United States recognised Moroccan sovereignty; Spain, France and Britain later backed the autonomy plan, and in 2025 the Security Council called it the basis for talks. When Russia vetoed a similar US text this October, MINURSO's mandate ran out, and the last neutral witnesses along the berm went home.",
+   "timeline": [
+    {
+     "when": "1884",
+     "text": "Spain claims the coast; the territory later becomes the province of Spanish Sahara."
+    },
+    {
+     "when": "1973",
+     "text": "Sahrawi activists found the [[p:Polisario Front]] to fight Spanish rule."
+    },
+    {
+     "when": "Nov 1975",
+     "text": "Morocco's [[e:Green March]] crosses the border; the [[e:Madrid Accords]] hand the territory to Morocco and Mauritania."
+    },
+    {
+     "when": "1976–1991",
+     "text": "The [[e:Western Sahara War]]: Mauritania withdraws in 1979, and Morocco seals most of the territory behind a defended sand wall."
+    },
+    {
+     "when": "1991",
+     "text": "The UN [[e:Settlement Plan]] brings a ceasefire and creates [[p:United Nations Mission for the Referendum in Western Sahara|MINURSO]]; the referendum stalls over who may vote."
+    },
+    {
+     "when": "2007",
+     "text": "Morocco presents its [[e:Western Sahara autonomy proposal|autonomy plan]] as an alternative to independence."
+    },
+    {
+     "when": "Nov–Dec 2020",
+     "text": "After a standoff at Guerguerat the Polisario ends the ceasefire ([[e:Western Saharan clashes (2020–present)]]); the US recognises Moroccan sovereignty."
+    },
+    {
+     "when": "Oct–Nov 2026",
+     "text": "Russia vetoes a US draft backing autonomy, MINURSO's mandate lapses, and the Polisario declares a general mobilisation."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Morocco",
+     "view": "Morocco sees the Sahara as provinces cut off by colonialism and restored in 1975, pointing to the sultans' historic ties with Saharan tribes. It calls its autonomy plan a generous compromise now backed by major powers, and casts the Polisario as an Algerian-backed proxy."
+    },
+    {
+     "side": "Polisario and the Sahrawi Republic",
+     "view": "The Polisario sees Western Sahara as Africa's last unfinished decolonisation: a territory invaded in 1975, whose people were promised a referendum by the UN and denied it. It says autonomy under Morocco cannot replace a free vote that includes independence."
+    },
+    {
+     "side": "Algeria",
+     "view": "Algeria, which hosts the refugee camps, says it backs self-determination as a matter of principle, not a territorial claim, and rejects being called a party to the conflict, while its rivalry with Morocco shapes the dispute."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Sahrawis",
+     "meaning": "The Hassaniya-speaking people of Western Sahara, now split between the Moroccan-held territory, the Tindouf camps in Algeria and a diaspora."
+    },
+    {
+     "term": "The berm",
+     "meaning": "Morocco's [[p:Moroccan Western Sahara wall|sand wall]], about 2,700 km long, which divides the Moroccan-held west from a Polisario-held strip in the east."
+    },
+    {
+     "term": "MINURSO",
+     "meaning": "The UN mission created in 1991 to monitor the ceasefire and hold the referendum; its mandate lapsed on 31 October 2026."
+    },
+    {
+     "term": "Autonomy plan",
+     "meaning": "Morocco's 2007 offer of self-rule for the territory under Moroccan sovereignty, without an independence option."
+    }
+   ],
+   "whyItMatters": "For the first time since 1991 no neutral monitor watches the berm, so a single incident, like the disputed drone strike reported near Mijek, could escalate unchecked. The deeper fight over who gets to decide the territory's future is still unresolved, and it is tied up with the Morocco–Algeria rivalry. Watch whether the Security Council returns to the issue, whether Algeria restrains or arms the Polisario, and whether the [[p:African Union]] steps in.",
+   "readMore": [
+    {
+     "title": "Western Sahara",
+     "url": "https://www.britannica.com/place/Western-Sahara",
+     "why": "Encyclopedia overview of the territory, from Spanish rule through the war and the UN process."
+    },
+    {
+     "title": "The failed diplomacy between Morocco and Polisario",
+     "url": "https://www.aljazeera.com/news/2020/11/18/the-failed-diplomacy-between-morocco-and-polisario",
+     "why": "Explains why three decades of UN diplomacy stalled, written as fighting resumed in 2020."
+    },
+    {
+     "title": "UN's peacekeeping mission in Western Sahara ends after 35 years",
+     "url": "https://www.itv.com/news/2026-11-01/un-peacekeeping-mission-in-western-sahara-ends-after-35-years",
+     "why": "News report on the rival US and Russian resolutions that ended MINURSO."
+    }
+   ],
+   "prevQuestion": "Why did Israel's east–west road across Gaza in the 2023 war take the name Netzarim?",
+   "prevAnswer": "Netzarim was an Israeli settlement founded in 1972 just north of central Gaza's refugee camps and evacuated in the 2005 disengagement. The 2023 corridor ran through its former site, recreating the old ability to cut the strip in two.",
+   "recallQ": "Why did Morocco leave the Organisation of African Unity in 1984, and when did it come back?",
+   "recallA": "Morocco walked out in protest when the OAU admitted the Sahrawi Arab Democratic Republic as a member state. It rejoined the OAU's successor, the African Union, in January 2017, without the Sahrawi Republic being expelled."
   }
  ]
 }
