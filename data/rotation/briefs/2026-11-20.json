@@ -1,0 +1,793 @@
+{
+ "date": "2026-11-20",
+ "segment": "Africa",
+ "windowFrom": "2026-11-06",
+ "tier1Summary": "Africa's wars are widening across borders. Ethiopian and Eritrean forces are massed around Badme, Egypt confirmed troops in Saudi Arabia against [[p:Houthis|Houthi]] attacks, and the [[p:Polisario Front]] declared a general mobilisation with no UN monitors left in Western Sahara. In Sudan the army is advancing in Kordofan; in eastern DRC the [[p:Joseph Kabila]]-led FRN displaced over 320,000. Somalia's government is defying its own Supreme Court.\n\nElsewhere, the [[p:Coalition of the willing (Russo-Ukrainian war)|coalition of the willing]] agreed a European negotiating team in Berlin, Ukraine struck the Crimean Bridge again, Iraq defused its standoff with [[p:Kata'ib Hezbollah]], and [[p:Donald Trump]] threatened Iran over disputed chemical-weapons claims.",
+ "segmentItems": [
+  {
+   "id": "E-261120-28",
+   "segment": "Africa",
+   "country": "Egypt / Saudi Arabia",
+   "text": "Foreign Minister [[p:Badr Abdelatty]] confirmed Egyptian troops are in Saudi Arabia at Riyadh's request, with more coming, to guard sensitive sites against [[p:Houthis|Houthi]] attacks.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Hamza Hendawi",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.annahar.com/arab-world/365358/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-29",
+   "segment": "Africa",
+   "country": "Western Sahara / Morocco",
+   "text": "The [[p:Polisario Front]] {{note: Sahrawi independence movement founded in 1973 to fight Spanish colonial rule over Western Sahara.}} declared a general mobilisation, accusing Morocco of massing troops on the berm. Morocco says it respects the ceasefire; no UN monitors remain.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Rafik Tadjer",
+   "outlet": "TSA Algérie",
+   "opinion": "",
+   "thread": "Western Sahara after MINURSO",
+   "links": [
+    {
+     "label": "TSA Algérie",
+     "url": "https://www.tsa-algerie.com/sahara-occidental-le-polisario-decrete-la-mobilisation-generale/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://passblue.com/2026/11/10/what-happens-next-with-western-sahara-no-one-knows/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-13",
+   "segment": "Africa",
+   "country": "Ethiopia / Eritrea",
+   "text": "ACLED and Crisis Group say Ethiopian and Eritrean forces are massed on the border; drone and artillery exchanges near Badme were reported on 12–13 Nov but not confirmed by Reuters. Eritrea's [[p:Yemane Gebremeskel]] calls Ethiopian claims propaganda.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Reuters (The Korea Times)",
+   "opinion": "",
+   "thread": "Ethiopia–Tigray war",
+   "links": [
+    {
+     "label": "Reuters (The Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.hngn.com/articles/273829/20261113/g7-warns-ethiopia-eritrea-escalation-border-clashes-reported.htm"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-25",
+   "segment": "Africa",
+   "country": "DR Congo",
+   "text": "The FRN rebellion led by [[p:Joseph Kabila]] took Kalonge, Bitale and Bulambika in South Kivu; OCHA counted over 323,000 displaced in four days. The army says it is counterattacking.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "James Mutuba",
+   "outlet": "Actualite.cd",
+   "opinion": "",
+   "thread": "Eastern DRC conflict",
+   "links": [
+    {
+     "label": "Actualite.cd",
+     "url": "https://actualite.cd/2026/11/12/rdc-la-suite-dintenses-combats-au-sud-kivu-plus-de-323-000-deplaces-enregistres-en"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-08",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "The army took Al-Saatat and is about 60 km from RSF-held En Nahud; ACLED counts 30+ localities retaken in Kordofan amid [[p:Rapid Support Forces]] defections.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Vanessa Ghanem",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-16",
+   "segment": "Africa",
+   "country": "Somalia",
+   "text": "Federal forces occupied the Supreme Court and a new chief justice was installed; the attorney general says the ruling against [[p:Hassan Sheikh Mohamud]]'s term extension has no legal effect.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Fred Kagonye",
+   "outlet": "The Standard (Kenya)",
+   "opinion": "",
+   "thread": "Somalia constitutional crisis",
+   "links": [
+    {
+     "label": "The Standard (Kenya)",
+     "url": "https://www.standardmedia.co.ke/africa/article/2001561886/somalia-ag-rejects-supreme-court-decision-on-president-mohamuds-term-end"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://allafrica.com/stories/202611090223.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-20",
+   "segment": "Africa",
+   "country": "South Sudan",
+   "text": "First post-independence elections postponed from 22 Dec to 11 Feb 2027; [[p:Salva Kiir Mayardit|Salva Kiir]] will run.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Dawan Africa (citing AFP)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Dawan Africa (citing AFP)",
+     "url": "https://www.dawan.africa/news/south-sudan-postpones-first-post-independence-elections-to-february-2027"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-21",
+   "segment": "Africa",
+   "country": "Tanzania",
+   "text": "Opposition leader [[p:Tundu Lissu]] was cleared of treason but jailed four years for incitement.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Citizen (Tanzania)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Citizen (Tanzania)",
+     "url": "https://thecitizen.co.tz/tanzania/news/national/lissu-sentenced-to-four-years-in-prison-for-incitement-5660818"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.africanews.com/2026/11/06/tanzania-opposition-leader-jailed-for-four-years-after-treason-acquittal/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-22",
+   "segment": "Africa",
+   "country": "Uganda",
+   "text": "Army chief [[p:Muhoozi Kainerugaba]] says he will step down within months and openly claimed the succession to his father.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Kenneth Gachie",
+   "outlet": "Citizen Digital",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Citizen Digital",
+     "url": "https://citizen.digital/article/general-muhoozi-kainerugaba-announces-plan-to-step-down-as-ugandas-military-chief-n393432"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.koaci.com/article/2026/11/18/ouganda/politique/ouganda-je-briguerai-la-presidence-apres-mzee-muhoozi-kainerugaba-revendique-ouvertement-la-succession-de-son-pere_202760.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-32",
+   "segment": "Africa",
+   "country": "Burkina Faso",
+   "text": "Warrants issued for 45 people and entities, mostly exiled journalists and critics, on terrorism-related charges; [[p:Human Rights Watch]] says they had exposed army abuses.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Wakat Séra",
+   "opinion": "",
+   "thread": "Sahel jihadist insurgency and junta rule",
+   "links": [
+    {
+     "label": "Wakat Séra",
+     "url": "https://www.wakatsera.com/burkina-terrorisme-des-mandats-darret-internationaux-lances-contre-45-personnes-physique-et-morale/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://allafrica.com/stories/202611190035.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-39",
+   "segment": "Africa",
+   "country": "South Africa",
+   "text": "An ANC–[[p:ActionSA]]–MK–EFF bloc is reportedly forming to take Johannesburg, Tshwane and Ekurhuleni from the DA; mayors are due by about 27 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "BusinessTech (Bloomberg)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "BusinessTech (Bloomberg)",
+     "url": "https://businesstech.co.za/news/?p=883597"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.ewn.co.za/2026/11/11/actionsa-adamant-on-zille-withdrawal-condition-as-joburg-coalition-talks-loom"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261120-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Germany / Ukraine",
+   "text": "[[p:Friedrich Merz]]'s [[p:Coalition of the willing (Russo-Ukrainian war)|coalition of the willing]] backed four-way talks with a European team, starting from the line of contact.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "German Federal Government",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "German Federal Government",
+     "url": "https://www.bundesregierung.de/breg-de/aktuelles/koalition-der-willigen-in-berlin-2461162"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.zdfheute.de/politik/ukraine-gipfel-koalition-der-willigen-merz-selenskyj-kushner-100.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-02",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Ukraine (Crimea)",
+   "text": "Ukraine hit the [[p:Crimean Bridge]] for the third time in four days; [[p:Vladimir Putin]] vowed a response.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Hanna Arhirova, Jill Hatton",
+   "outlet": "Associated Press (WSLS)",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Associated Press (WSLS)",
+     "url": "https://www.wsls.com/news/world/2026/11/19/a-third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-19-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-03",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "Houthi missiles damaged the [[p:Public Investment Fund]] tower in Riyadh, per reports; a tanker was hit near Khasab.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Surabhi Vasundharadevi, Jay Hilotin",
+   "outlet": "Gulf News",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://shafaq.com/en/Middle-East/Houthis-target-Riyadh-airport-and-financial-center"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-04",
+   "segment": "Middle East",
+   "country": "Iraq",
+   "text": "Iraq and [[p:Kata'ib Hezbollah]] agreed a joint force takes over Jurf al-Sakhar, averting a showdown.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Iraq faction disarmament",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/19/irgcs-esmail-qaani-holds-talks-with-kataib-hezbollah-as-showdown-with-iraqi-forces-averted/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-05",
+   "segment": "Middle East",
+   "country": "United States / Iran / Israel",
+   "text": "[[p:Donald Trump]] threatened a harsh response to Israeli claims of an Iranian chemical weapons programme, which Iran denies.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The Times of Israel (liveblog)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "The Times of Israel (liveblog)",
+     "url": "https://timesofisrael.com/liveblog-november-19-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-06",
+   "segment": "East & Southeast Asia",
+   "country": "China / Taiwan / United States",
+   "text": "[[p:Xinhua News Agency|Xinhua]] says Trump told Xi the US does not support Taiwan independence; Taipei calls the report untrue.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Taiwan News",
+   "opinion": "",
+   "thread": "Taiwan Strait",
+   "links": [
+    {
+     "label": "Taiwan News",
+     "url": "https://www.taiwannews.com.tw/news/6478955"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261120-07",
+   "segment": "EU politics + cross-cutting",
+   "country": "Turkey (COP31)",
+   "text": "The [[e:COP31|2026 United Nations Climate Change Conference]] draft dropped fossil-fuel transition language on the final day.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "RTÉ",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "RTÉ",
+     "url": "https://rte.ie/news/world/2026/1119/1599773-cop31-thursday"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thejournal.ie/cop31-climate-talks-antalya-7232074-Nov2026/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261120-01",
+   "title": "How SAF successes in Sudan's Kordofan could turn tide against the RSF",
+   "reporter": "N Mahmoud",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf",
+   "why": "Reported from Khartoum with Sudanese analysts: explains how the West Kordofan push and RSF defections could open the road to Darfur for the [[p:Sudanese Armed Forces]].",
+   "segment": "Africa",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261120-02",
+   "title": "What Happens Next With Western Sahara? No One Knows",
+   "reporter": "Anton Ferreira",
+   "outlet": "PassBlue",
+   "url": "https://passblue.com/2026/11/10/what-happens-next-with-western-sahara-no-one-knows/",
+   "why": "Clearest account of how the [[p:United Nations Mission for the Referendum in Western Sahara|MINURSO]] wind-down works, with Polisario, UN and analyst views on the risk of war.",
+   "segment": "Africa",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-20",
+   "text": "NATO consultations on letting pilots down radar-tracked drones without visual identification.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-04"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "COP31 climate conference in Antalya, 9–20 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-01"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "UN Secretary-General race: next straw poll, possibly with colour-coded ballots showing permanent-member vetoes.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Moldova's gas-shortage state of emergency expires; watch for an extension and the OSCE-facilitated Transnistria winter gas talks.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-06"
+  },
+  {
+   "date": "2026-11-20",
+   "text": "Sri Lanka: second-reading vote on the 2027 budget; the final vote follows on 14 Dec.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-02"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "OFAC licence for Lukoil foreign-asset sale talks expires; possible approval of the Boehly-led bid.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-07"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Haitian PM [[p:Alix Didier Fils-Aimé]] visits El Salvador to discuss the future of Salvadoran troops in Haiti.",
+   "segment": "The Americas",
+   "watchId": "W-261112-01"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "EU discussion of a further Russia sanctions package after the 16 Nov listings.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-03"
+  },
+  {
+   "date": "2026-11-21",
+   "text": "Mongolia: State Great Khural vote on accepting President Khürelsükh's resignation; speaker would become interim president.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261118-01"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Belarus amnesty bill text: does it cover political prisoners?",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-08"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Israel: talks between Eisenkot's bloc and Likud, 22 Nov, with Eisenkot reportedly planning a Knesset vote before his mandate ends.",
+   "segment": "Middle East",
+   "watchId": "W-261120-06"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Duma third reading of Russia's 2027–29 budget, 24 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261120-05"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Malaysia: whether Anwar accepts Anthony Loke's resignation, and BN's push for an early general election after Melaka.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261118-03"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Venezuela: 24-hour public-sector strike and march on Miraflores over wages and the year-end bonus.",
+   "segment": "The Americas",
+   "watchId": "W-261119-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "segment": "Africa",
+   "watchId": "W-261120-01"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Eritrea (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Rwanda",
+   "status": "quiet"
+  },
+  {
+   "country": "Morocco (beyond Western Sahara)",
+   "status": "quiet"
+  },
+  {
+   "country": "Algeria",
+   "status": "quiet"
+  },
+  {
+   "country": "Angola",
+   "status": "quiet"
+  },
+  {
+   "country": "Central African Republic",
+   "status": "quiet"
+  },
+  {
+   "country": "Guinea-Bissau",
+   "status": "quiet"
+  },
+  {
+   "country": "Niger",
+   "status": "no sources found"
+  },
+  {
+   "country": "Chad",
+   "status": "no sources found"
+  },
+  {
+   "country": "Senegal",
+   "status": "no sources found"
+  },
+  {
+   "country": "Guinea",
+   "status": "no sources found"
+  },
+  {
+   "country": "Côte d'Ivoire",
+   "status": "no sources found"
+  },
+  {
+   "country": "Ghana",
+   "status": "no sources found"
+  },
+  {
+   "country": "Togo",
+   "status": "no sources found"
+  },
+  {
+   "country": "Benin",
+   "status": "no sources found"
+  },
+  {
+   "country": "Tunisia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Zimbabwe",
+   "status": "no sources found"
+  },
+  {
+   "country": "Zambia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Malawi",
+   "status": "no sources found"
+  },
+  {
+   "country": "Namibia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Botswana",
+   "status": "no sources found"
+  },
+  {
+   "country": "Somaliland / Puntland / Jubaland",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "The National",
+   "url": "https://thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Egypt / Saudi Arabia",
+   "url": "https://www.annahar.com/arab-world/365358/",
+   "paywalled": false
+  },
+  {
+   "title": "TSA Algérie",
+   "url": "https://www.tsa-algerie.com/sahara-occidental-le-polisario-decrete-la-mobilisation-generale/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Western Sahara / Morocco",
+   "url": "https://passblue.com/2026/11/10/what-happens-next-with-western-sahara-no-one-knows/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (The Korea Times)",
+   "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Ethiopia / Eritrea",
+   "url": "https://www.hngn.com/articles/273829/20261113/g7-warns-ethiopia-eritrea-escalation-border-clashes-reported.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Actualite.cd",
+   "url": "https://actualite.cd/2026/11/12/rdc-la-suite-dintenses-combats-au-sud-kivu-plus-de-323-000-deplaces-enregistres-en",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: DR Congo",
+   "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Sudan",
+   "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf",
+   "paywalled": false
+  },
+  {
+   "title": "The Standard (Kenya)",
+   "url": "https://www.standardmedia.co.ke/africa/article/2001561886/somalia-ag-rejects-supreme-court-decision-on-president-mohamuds-term-end",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Somalia",
+   "url": "https://allafrica.com/stories/202611090223.html",
+   "paywalled": false
+  },
+  {
+   "title": "Dawan Africa (citing AFP)",
+   "url": "https://www.dawan.africa/news/south-sudan-postpones-first-post-independence-elections-to-february-2027",
+   "paywalled": false
+  },
+  {
+   "title": "The Citizen (Tanzania)",
+   "url": "https://thecitizen.co.tz/tanzania/news/national/lissu-sentenced-to-four-years-in-prison-for-incitement-5660818",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Tanzania",
+   "url": "https://www.africanews.com/2026/11/06/tanzania-opposition-leader-jailed-for-four-years-after-treason-acquittal/",
+   "paywalled": false
+  },
+  {
+   "title": "Citizen Digital",
+   "url": "https://citizen.digital/article/general-muhoozi-kainerugaba-announces-plan-to-step-down-as-ugandas-military-chief-n393432",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Uganda",
+   "url": "https://www.koaci.com/article/2026/11/18/ouganda/politique/ouganda-je-briguerai-la-presidence-apres-mzee-muhoozi-kainerugaba-revendique-ouvertement-la-succession-de-son-pere_202760.html",
+   "paywalled": false
+  },
+  {
+   "title": "Wakat Séra",
+   "url": "https://www.wakatsera.com/burkina-terrorisme-des-mandats-darret-internationaux-lances-contre-45-personnes-physique-et-morale/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Burkina Faso",
+   "url": "https://allafrica.com/stories/202611190035.html",
+   "paywalled": false
+  },
+  {
+   "title": "BusinessTech (Bloomberg)",
+   "url": "https://businesstech.co.za/news/?p=883597",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: South Africa",
+   "url": "https://www.ewn.co.za/2026/11/11/actionsa-adamant-on-zille-withdrawal-condition-as-joburg-coalition-talks-loom",
+   "paywalled": false
+  },
+  {
+   "title": "German Federal Government",
+   "url": "https://www.bundesregierung.de/breg-de/aktuelles/koalition-der-willigen-in-berlin-2461162",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Germany / Ukraine",
+   "url": "https://www.zdfheute.de/politik/ukraine-gipfel-koalition-der-willigen-merz-selenskyj-kushner-100.html",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press (WSLS)",
+   "url": "https://www.wsls.com/news/world/2026/11/19/a-third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Russia / Ukraine (Crimea)",
+   "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-19-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Saudi Arabia / Yemen",
+   "url": "https://shafaq.com/en/Middle-East/Houthis-target-Riyadh-airport-and-financial-center",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Iraq",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/19/irgcs-esmail-qaani-holds-talks-with-kataib-hezbollah-as-showdown-with-iraqi-forces-averted/",
+   "paywalled": false
+  },
+  {
+   "title": "The Times of Israel (liveblog)",
+   "url": "https://timesofisrael.com/liveblog-november-19-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Taiwan News",
+   "url": "https://www.taiwannews.com.tw/news/6478955",
+   "paywalled": false
+  },
+  {
+   "title": "RTÉ",
+   "url": "https://rte.ie/news/world/2026/1119/1599773-cop31-thursday",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Turkey (COP31)",
+   "url": "https://www.thejournal.ie/cop31-climate-talks-antalya-7232074-Nov2026/",
+   "paywalled": false
+  }
+ ]
+}
