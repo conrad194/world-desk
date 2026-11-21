@@ -847,6 +847,22 @@
    "newsLink": "https://finwire.pl/artykuly/sejm-przyjal-poprawki-senatu-najem-krotkoterminowy-druk-2865",
    "eventId": "E-261120-18",
    "lastChecked": "2026-11-20"
+  },
+  {
+   "id": "R-261121-01",
+   "dateLogged": "2026-11-21",
+   "place": "US",
+   "body": "President (Executive Order)",
+   "name": "Executive order protecting executive privileges in federal contracting (contractor notice of congressional requests)",
+   "changes": "Federal contractors and subcontractors must notify the White House and their contracting agencies about congressional requests related to their work, coordinate responses and privilege claims, and withhold material the White House deems privileged.",
+   "affects": "Federal contractors (defence, tech, consulting) and congressional oversight committees, especially the incoming Democratic majorities",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-20",
+   "officialLink": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
+   "newsLink": "https://www.yahoo.com/news/politics/articles/trump-order-says-contractors-must-030043664.html",
+   "eventId": "E-261121-04",
+   "lastChecked": "2026-11-21"
   }
  ]
 }

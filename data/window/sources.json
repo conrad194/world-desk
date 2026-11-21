@@ -2579,6 +2579,30 @@
    "lean": "specialist, independent",
    "status": "Watch",
    "dateAdded": "2026-11-20"
+  },
+  {
+   "id": "capp-notes-closing-look-substack",
+   "name": "Capp Notes 'Closing Look' (Substack)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Detailed daily market close wrap: indices, sectors, Fed speakers, data",
+   "language": "English",
+   "url": "https://cappnotes.substack.com/",
+   "lean": "independent newsletter, less established",
+   "status": "Watch",
+   "dateAdded": "2026-11-21"
+  },
+  {
+   "id": "ct-mirror",
+   "name": "CT Mirror",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Connecticut policy and courts, incl. immigration enforcement litigation",
+   "language": "English",
+   "url": "https://ctmirror.org/",
+   "lean": "nonprofit, centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-21"
   }
  ]
 }

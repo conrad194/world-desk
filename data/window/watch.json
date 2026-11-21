@@ -2100,6 +2100,39 @@
    "checkDate": "2027-01-31",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261121-01",
+   "dateAdded": "2026-11-21",
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "what": "House vote on the Senate-passed BAAJA permitting overhaul (62-33), or House changes sending it back to the Senate",
+   "expected": "Roll Call: the House takes it up after the Thanksgiving recess; Speaker Johnson says it can pass",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": "E-261121-05"
+  },
+  {
+   "id": "W-261121-02",
+   "dateAdded": "2026-11-21",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Legal or congressional challenges to the Nov 20 executive order requiring contractors to route congressional requests through the White House",
+   "expected": "Reuters notes that Democrats take both chambers in January and plan investigations; no challenge filed yet",
+   "checkDate": "2027-01-10",
+   "happened": "",
+   "eventId": "E-261121-04"
+  },
+  {
+   "id": "W-261121-03",
+   "dateAdded": "2026-11-21",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "what": "Whether Trump's threatened penalties or taxes on US firms building data centres abroad become an executive action or legislation",
+   "expected": "Trump, Nov 20 news conference; no mechanism given",
+   "checkDate": "2026-12-20",
+   "happened": "",
+   "eventId": "E-261121-03"
   }
  ]
 }
