@@ -1115,6 +1115,30 @@
    "language": "Polish",
    "url": "https://www.rp.pl/polityka/art45506801-jedno-popoludnie-dwa-sprzeczne-komunikaty-co-sie-dzieje-w-palacu-prezydenckim",
    "why": "Shows the internal Chancellery tensions behind the delayed Domański and Bartol appointments."
+  },
+  {
+   "id": "RL-261121-05",
+   "dateAdded": "2026-11-21",
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "title": "Kraków pięknieje, ale coraz trudniej w nim żyć. Co dzieje się z centrum miasta?",
+   "reporter": "Kamil Stańdo",
+   "outlet": "Krakowski Raport",
+   "language": "Polish",
+   "url": "https://krakowskiraport.pl/artykul/3243-krakow-pieknieje-ale-coraz-trudniej-w-nim-zyc-co-dzieje-sie-z-centrum-miasta",
+   "why": "This opinion column argues the Old Town and Kazimierz are losing residents and everyday shops. It is useful background for the short-term-rental referendum question."
+  },
+  {
+   "id": "RL-261121-06",
+   "dateAdded": "2026-11-21",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "title": "Prezydent zmienia decyzję. Krakowianie nie zapłacą więcej w 2027 roku",
+   "reporter": "Dawid Kuciński",
+   "outlet": "LoveKraków.pl",
+   "language": "Polish",
+   "url": "https://lovekrakow.pl/prezydent-zmienia-decyzje-krakowianie-nie-zaplaca-wiecej-w-2027-roku",
+   "why": "It sets out clearly who gains and who pays under the revised 2027 property tax plan."
   }
  ]
 }

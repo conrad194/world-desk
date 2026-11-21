@@ -701,7 +701,7 @@
    "effectiveDate": "",
    "officialLink": "",
    "newsLink": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586",
-   "eventId": "",
+   "eventId": "E-261121-24",
    "lastChecked": "2026-11-21"
   },
   {
@@ -862,6 +862,22 @@
    "officialLink": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
    "newsLink": "https://www.yahoo.com/news/politics/articles/trump-order-says-contractors-must-030043664.html",
    "eventId": "E-261121-04",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "id": "R-261121-02",
+   "dateLogged": "2026-11-21",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft, druk 1617)",
+   "name": "2027 property tax rates resolution",
+   "changes": "Keeps 2026 property tax rates for flats (1.25 zł/m²) and 'other land' (0.77 zł/m²) instead of raising them to the maximum. Commercial rates rise; the top rate for service buildings goes up by almost 1 zł/m².",
+   "affects": "All Kraków property owners. Residents avoid the rise, businesses pay slightly more. The city gives up about 17m zł of planned extra revenue.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://lovekrakow.pl/prezydent-zmienia-decyzje-krakowianie-nie-zaplaca-wiecej-w-2027-roku",
+   "eventId": "E-261121-25",
    "lastChecked": "2026-11-21"
   }
  ]

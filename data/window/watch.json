@@ -2155,6 +2155,39 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": "E-261121-18"
+  },
+  {
+   "id": "W-261121-06",
+   "dateAdded": "2026-11-21",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Małopolska regional assembly decision on consenting to end Szczęsny Filipiak's KHK employment",
+   "expected": "Required by law because he is a regional councillor (LoveKraków); no date",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261121-28"
+  },
+  {
+   "id": "W-261121-07",
+   "dateAdded": "2026-11-21",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Who takes over the A4 Katowice–Kraków section and its tolls after Stalexport's concession ends on 15 March 2027",
+   "expected": "Concession expiry per Stalexport (CoWKrakowie)",
+   "checkDate": "2027-01-15",
+   "happened": "",
+   "eventId": "E-261121-33"
+  },
+  {
+   "id": "W-261121-08",
+   "dateAdded": "2026-11-21",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Opening of the remaining S7 Mistrzejowice connectors (Nowa Huta–S52, northern bypass–S7)",
+   "expected": "GDDKiA: turn of November and December (LoveKraków)",
+   "checkDate": "2026-12-07",
+   "happened": "",
+   "eventId": "E-261121-31"
   }
  ]
 }
