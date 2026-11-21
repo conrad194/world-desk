@@ -2188,6 +2188,39 @@
    "checkDate": "2026-12-07",
    "happened": "",
    "eventId": "E-261121-31"
+  },
+  {
+   "id": "W-261121-09",
+   "dateAdded": "2026-11-21",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Thiruparankundram: whether the Nov 24 Karthigai lamp lighting passes off peacefully, the Collector's compliance report, and the next SC listing",
+   "expected": "SC order of Nov 20 (LiveLaw): compliance report due within three days of the festival",
+   "checkDate": "2026-11-28",
+   "happened": "",
+   "eventId": "E-261121-50"
+  },
+  {
+   "id": "W-261121-10",
+   "dateAdded": "2026-11-21",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Comment deadline and final SEBI decision on scrapping extra offshore-fund disclosures",
+   "expected": "SEBI consultation paper (Bloomberg, Nov 20); SEBI board meets in December",
+   "checkDate": "2026-12-20",
+   "happened": "",
+   "eventId": "E-261121-47"
+  },
+  {
+   "id": "W-261121-11",
+   "dateAdded": "2026-11-21",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Results of Ladakh panchayat and Leh/Kargil municipal polls (Nov 21) and turnout",
+   "expected": "Counting Dec 4 (Greater Kashmir)",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": "E-261121-43"
   }
  ]
 }

@@ -2603,6 +2603,30 @@
    "lean": "nonprofit, centre",
    "status": "Watch",
    "dateAdded": "2026-11-21"
+  },
+  {
+   "id": "odishabytes",
+   "name": "OdishaBytes",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Odisha news, cyclones, power utilities",
+   "language": "English",
+   "url": "https://odishabytes.com/",
+   "lean": "regional, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-21"
+  },
+  {
+   "id": "chittorgarh-ipo-tracker",
+   "name": "Chittorgarh IPO tracker",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "IPO subscription data",
+   "language": "English",
+   "url": "https://www.chittorgarh.com/",
+   "lean": "data/brokerage",
+   "status": "Watch",
+   "dateAdded": "2026-11-21"
   }
  ]
 }
