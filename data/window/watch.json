@@ -2133,6 +2133,28 @@
    "checkDate": "2026-12-20",
    "happened": "",
    "eventId": "E-261121-03"
+  },
+  {
+   "id": "W-261121-04",
+   "dateAdded": "2026-11-21",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "what": "NATO's response to Poland's request for extra Eastern Sentry forces and air defence after the Nov 20 missile incident, and the outcome of Rutte's Nov 21 Warsaw visit",
+   "expected": "Kosiniak-Kamysz (Nov 20) said he would ask NATO; Tusk said Rutte visits Saturday",
+   "checkDate": "2026-11-28",
+   "happened": "",
+   "eventId": "E-261121-17"
+  },
+  {
+   "id": "W-261121-05",
+   "dateAdded": "2026-11-21",
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "what": "Findings of the check Tusk ordered into the timing of RCB alerts and sirens during the Nov 20 missile incident, and any changes to the warning system",
+   "expected": "Tusk (Nov 20), per WP",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": "E-261121-18"
   }
  ]
 }
