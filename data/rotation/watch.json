@@ -435,10 +435,10 @@
    "dateAdded": "2026-11-07",
    "segment": "South & Central Asia",
    "what": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
-   "expected": "Justice Minister Srbuhi Galyan expects publication in November (Massis Post).",
-   "checkDate": "2026-11-30",
+   "expected": "Justice Minister Srbuhi Galyan expects publication in November (Massis Post). Update 19 Nov: Pashinyan said a preliminary draft would be published the following week (APA/Armenpress).",
+   "checkDate": "2026-11-27",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261121-39"
   },
   {
    "id": "W-261108-01",
@@ -735,10 +735,10 @@
    "dateAdded": "2026-11-14",
    "segment": "South & Central Asia",
    "what": "Georgia: [[p:Constitutional Court of Georgia|Constitutional Court]] ruling on the suit to ban five opposition parties.",
-   "expected": "No date set; the court planned hearings through 13 Nov (DFWatch). Opposition leader Nika Gvaramia expects a ban.",
-   "checkDate": "2026-11-30",
+   "expected": "No date set; the court planned hearings through 13 Nov (DFWatch). Opposition leader Nika Gvaramia expects a ban. Update: the court has until 24 June 2027 to rule; hearings continued on 17–18 Nov (JAMnews).",
+   "checkDate": "2026-12-05",
    "happened": "",
-   "eventId": "E-261114-17"
+   "eventId": "E-261121-42"
   },
   {
    "id": "W-261115-01",
@@ -969,6 +969,136 @@
    "checkDate": "2026-11-23",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261121-01",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Pakistan: Islamabad High Court hearing of [[p:Imran Khan]] and Bushra Bibi's appeals in the £190m Al-Qadir Trust case.",
+   "expected": "IHC registrar's cause list (Nukta).",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": "E-261121-12"
+  },
+  {
+   "id": "W-261121-02",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Pakistan: Islamabad High Court hearing on constituency boundaries that decides whether Islamabad's local elections (rescheduled for 20 Dec) go ahead.",
+   "expected": "Election Commission of Pakistan schedule (ARY News).",
+   "checkDate": "2026-11-26",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261121-03",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Pakistan: IMF Executive Board decision on a roughly $1.2bn tranche.",
+   "expected": "Pakistan's Finance Ministry via Dawn, which mentions 9 Dec.",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261121-13"
+  },
+  {
+   "id": "W-261121-04",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Nepal: PM [[p:Balen Shah]]'s state visit to India, 22–23 Nov: MoUs, a joint vision document and a possible ~$2bn package.",
+   "expected": "Nepal's and India's foreign ministries (Kathmandu Post).",
+   "checkDate": "2026-11-23",
+   "happened": "",
+   "eventId": "E-261121-34"
+  },
+  {
+   "id": "W-261121-05",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Nepal: Supreme Court hearing on the removal of police chief Dan Bahadur Karki.",
+   "expected": "Supreme Court (Kathmandu Post).",
+   "checkDate": "2026-11-23",
+   "happened": "",
+   "eventId": "E-261121-35"
+  },
+  {
+   "id": "W-261121-06",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Bangladesh–India: Joint Rivers Committee in Dhaka (21–23 Nov) and whether talks on renewing the Ganges water treaty start before it expires on 12 Dec.",
+   "expected": "Treaty text; ThePrint and TBS citing officials.",
+   "checkDate": "2026-12-12",
+   "happened": "",
+   "eventId": "E-261121-30"
+  },
+  {
+   "id": "W-261121-07",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Sri Lanka: final (third-reading) vote on the 2027 budget.",
+   "expected": "Parliamentary schedule (Newswire).",
+   "checkDate": "2026-12-14",
+   "happened": "",
+   "eventId": "E-261121-31"
+  },
+  {
+   "id": "W-261121-08",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Maldives: final votes on the Ras Malé real-estate bill and three other government bills, and the opposition MDP's referendum rally.",
+   "expected": "Atoll Times.",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261121-37"
+  },
+  {
+   "id": "W-261121-09",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Kazakhstan: government anti-corruption proposals for state companies due to [[p:Kassym-Jomart Tokayev]].",
+   "expected": "Tokayev at the Security Council (Trend).",
+   "checkDate": "2026-11-24",
+   "happened": "",
+   "eventId": "E-261121-48"
+  },
+  {
+   "id": "W-261121-10",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Kazakhstan: snap maslikhat (local council) elections for 3,447 seats.",
+   "expected": "Kazakhstan's Central Election Commission (Times of Central Asia).",
+   "checkDate": "2026-11-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261121-11",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Georgia: opposition's nationwide rally in Tbilisi.",
+   "expected": "Organisers of the Saturday marches (JAMnews).",
+   "checkDate": "2026-11-28",
+   "happened": "",
+   "eventId": "E-261121-44"
+  },
+  {
+   "id": "W-261121-12",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Azerbaijan: final parliamentary vote on the NGO-law amendments requiring re-registration within 30 days.",
+   "expected": "JAMnews (bill on the 17–18 Nov agenda).",
+   "checkDate": "2026-12-05",
+   "happened": "",
+   "eventId": "E-261121-46"
+  },
+  {
+   "id": "W-261121-13",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Kyrgyzstan: end of signature collection (7–8 Dec) and the CEC's 23 Dec deadline to register presidential candidates.",
+   "expected": "Kyrgyz CEC via 24.kg and Economist.kg.",
+   "checkDate": "2026-12-23",
+   "happened": "",
+   "eventId": "E-261121-50"
   }
  ]
 }

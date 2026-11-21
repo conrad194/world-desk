@@ -1049,6 +1049,62 @@
    "trackRecord": "Steady on-the-ground reporting on Cameroon since the 2025 election.",
    "dateAdded": "2026-11-20",
    "status": "Watch"
+  },
+  {
+   "id": "durga-dulal",
+   "name": "Durga Dulal",
+   "segment": "South & Central Asia",
+   "countries": "Nepal",
+   "languages": "Nepali, English",
+   "outlets": "Kantipur Daily; The Kathmandu Post",
+   "basedIn": "Kathmandu",
+   "slant": "Straight court reporting; no evident partisan slant",
+   "url": "https://kathmandupost.com/national/2026/11/18/supreme-court-seeks-government-explanation-over-dan-bahadur-karki-s-removal-as-police-chief",
+   "trackRecord": "Law and justice beat; bylined Supreme Court coverage with precise bench and hearing detail.",
+   "dateAdded": "2026-11-21",
+   "status": "Watch"
+  },
+  {
+   "id": "aziza-kapar-kyzy",
+   "name": "Aziza Kapar kyzy",
+   "segment": "South & Central Asia",
+   "countries": "Kyrgyzstan",
+   "languages": "Russian, Kyrgyz",
+   "outlets": "Economist.kg",
+   "basedIn": "Bishkek",
+   "slant": "Neutral, procedural election and economy coverage",
+   "url": "https://economist.kg/en/kyrgyzstan-wraps-up-presidential-nominations/",
+   "trackRecord": "Regular 2026 byline on the Kyrgyz presidential nomination and CEC process; longer history unverified.",
+   "dateAdded": "2026-11-21",
+   "status": "Watch"
+  },
+  {
+   "id": "yevgeny-rakhimzhanov",
+   "name": "Yevgeny Rakhimzhanov",
+   "segment": "South & Central Asia",
+   "countries": "Kazakhstan",
+   "languages": "Russian",
+   "outlets": "The Times of Central Asia",
+   "basedIn": "Kazakhstan (unconfirmed)",
+   "slant": "Analytical; quotes independent Kazakh analysts",
+   "url": "https://timesca.com/kazakhstans-local-elections-limited-powers-uneven-competition/",
+   "trackRecord": "Detailed Nov 2026 analysis of Kazakh local elections from CEC data and local press; base and history not confirmed.",
+   "dateAdded": "2026-11-21",
+   "status": "Watch"
+  },
+  {
+   "id": "svyatoslav-polyakov",
+   "name": "Svyatoslav Polyakov",
+   "segment": "South & Central Asia",
+   "countries": "Uzbekistan, Central Asia",
+   "languages": "Russian",
+   "outlets": "Kursiv Uzbekistan",
+   "basedIn": "Tashkent (unconfirmed)",
+   "slant": "Business and foreign affairs; careful with document caveats",
+   "url": "https://uz.kursiv.media/2026-11-15/rossiya-czentralnaya-aziya-nato/",
+   "trackRecord": "Senior editor at Kursiv's Uzbek edition; flags the status of unconfirmed documents.",
+   "dateAdded": "2026-11-21",
+   "status": "Watch"
   }
  ]
 }
