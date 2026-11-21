@@ -1099,6 +1099,16 @@
    "checkDate": "2026-12-23",
    "happened": "",
    "eventId": "E-261121-50"
+  },
+  {
+   "id": "W-261121-14",
+   "dateAdded": "2026-11-21",
+   "segment": "South & Central Asia",
+   "what": "Bangladesh: [[p:Sheikh Hasina]]'s stated plan to return from India in December, India's extradition decision and further Awami League lockdowns.",
+   "expected": "Hasina (AFP); Bangladesh's law minister.",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": "E-261121-29"
   }
  ]
 }
