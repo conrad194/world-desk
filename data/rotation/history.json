@@ -1401,6 +1401,103 @@
    "prevAnswer": "Netzarim was an Israeli settlement founded in 1972 just north of central Gaza's refugee camps and evacuated in the 2005 disengagement. The 2023 corridor ran through its former site, recreating the old ability to cut the strip in two.",
    "recallQ": "Why did Morocco leave the Organisation of African Unity in 1984, and when did it come back?",
    "recallA": "Morocco walked out in protest when the OAU admitted the Sahrawi Arab Democratic Republic as a member state. It rejoined the OAU's successor, the African Union, in January 2017, without the Sahrawi Republic being expelled."
+  },
+  {
+   "id": "2026-11-21",
+   "date": "2026-11-21",
+   "segment": "Russia–Ukraine & European security",
+   "title": "Why the Crimean Bridge is the war's most symbolic target",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "eventIds": [
+    "E-261121-01"
+   ],
+   "minutes": 4,
+   "hook": "Russia's huge 20 November air attack on Kyiv's bridges came a day after [[p:Vladimir Putin]] vowed revenge for Ukraine's strikes on the Crimean Bridge. The history of that bridge, from a short-lived wartime crossing to the Kremlin's showpiece, explains why it matters so much more than its traffic.",
+   "body": "Russia's barrage of 20 November, aimed at bridges over the Dnipro, came after [[p:Vladimir Putin]] vowed revenge for Ukraine's attacks on a bridge of Russia's: the 19-km road and rail link over the Kerch Strait. To see why one structure carries so much weight, start with the water it crosses.\n\nThe Kerch Strait, a few kilometres wide, joins the Black Sea to the Sea of Azov and separates Crimea from Russia's Taman peninsula. Rulers have dreamed of bridging it for over a century, but the only fixed crossing before 2018 lasted a few months. German forces began one in 1943 to supply their Kuban bridgehead; after they retreated, the Soviets used the leftover materials to build the [[e:Kerch railway bridge]] {{note: The first train crossed on 3 November 1944; ice floes wrecked its piers in February 1945, and it was dismantled.}}. For the next seven decades, ferries did the job.\n\nIn 1954 Moscow moved Crimea from the Russian to the Ukrainian Soviet republic, an administrative change that mattered little until the Soviet Union broke up in 1991. Crimea then belonged to an independent Ukraine, its only land links ran north through the Ukrainian mainland, and the strait became a shared and sometimes quarrelled-over waterway.\n\nThat changed in March 2014, when Russia seized and annexed the peninsula in the [[e:Annexation of Crimea by the Russian Federation|annexation of Crimea]], a step most UN members still reject. Crimea was now cut off from Russia by land: Ukraine stopped the canal water and, after activists blew up pylons in 2015, the power. A bridge became the Kremlin's answer and its symbol. [[p:Arkady Rotenberg]] {{note: Childhood judo partner of Vladimir Putin; his Stroygazmontazh firm won the bridge contract in 2015.}} built it for about US$3.7bn, and Putin drove a truck across at the opening of the [[p:Crimean Bridge]] in May 2018; trains followed in December 2019. Within months it showed a military edge too: in the [[e:Kerch Strait incident]] of November 2018, Russia parked a tanker under the span and seized three Ukrainian navy boats.\n\nAfter the full-scale invasion of 2022, the bridge became a supply line for Russian forces in southern Ukraine, and so a target. On 8 October 2022, the day after Putin's 70th birthday, a truck bomb in the [[e:2022 Crimean Bridge explosion]] dropped part of the roadway. Two days later Russia fired a wave of missiles at Kyiv and Ukraine's power grid, which Putin called retaliation, opening its long [[e:Russian strikes against Ukrainian infrastructure|campaign against Ukraine's energy system]]. Sea drones hit the bridge in the [[e:2023 Crimean Bridge explosion]], killing two civilians, and Ukraine's security service said it set off underwater charges near the piers in June 2025.\n\nTwo things blunted the bridge's military value. Russia's capture of the land corridor along the Sea of Azov in 2022 gave Crimea a second road in, and repeated strikes pushed much military cargo onto that route. But the bridge's symbolic weight never faded. That is why the mid-November 2026 strikes, which brought an arch and a stretch of roadway down into the strait, drew a promise of revenge from Putin, and why the answer came as a night of missiles aimed at Kyiv's own bridges, echoing October 2022.",
+   "timeline": [
+    {
+     "when": "1944",
+     "text": "The Soviets open the [[e:Kerch railway bridge]] across the strait; ice destroys it within months, in February 1945."
+    },
+    {
+     "when": "1954",
+     "text": "Crimea is transferred from the Russian to the Ukrainian Soviet republic, and stays with Ukraine at independence in 1991."
+    },
+    {
+     "when": "Mar 2014",
+     "text": "Russia annexes Crimea, leaving the peninsula without a land link to Russia."
+    },
+    {
+     "when": "May 2018",
+     "text": "[[p:Vladimir Putin]] opens the road section of the [[p:Crimean Bridge]]; rail follows in December 2019."
+    },
+    {
+     "when": "Nov 2018",
+     "text": "In the [[e:Kerch Strait incident]], Russia blocks the strait under the bridge and seizes three Ukrainian navy boats."
+    },
+    {
+     "when": "Oct 2022",
+     "text": "A truck bomb damages the bridge; two days later Russia launches mass missile strikes on Kyiv and the power grid."
+    },
+    {
+     "when": "Jul 2023",
+     "text": "Ukrainian sea drones hit the bridge, collapsing a road section and killing two people."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Ukrainian strikes bring down an arch; Russia answers with one of the war's largest air attacks, hitting Kyiv's bridges."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Russia",
+     "view": "The bridge reunited Crimea with Russia after what Moscow calls the peninsula's free choice in 2014. Officials describe it as civilian infrastructure and attacks on it as terrorism that justifies retaliation."
+    },
+    {
+     "side": "Ukraine",
+     "view": "Kyiv sees the bridge as an illegal structure built on occupied Ukrainian territory without its consent, and a military supply line for the occupying army. It calls it a legitimate target and its fall a step towards returning Crimea."
+    },
+    {
+     "side": "Most other governments",
+     "view": "Most UN members, through a 2014 General Assembly resolution, regard Crimea as Ukrainian. The EU and US sanctioned the bridge's builders, while debate over whether particular strikes are proportionate continues."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Kerch Strait",
+     "meaning": "The narrow channel linking the Black Sea and the Sea of Azov, between Crimea and Russia's Taman peninsula. It is the only sea route to Ukraine's Azov ports."
+    },
+    {
+     "term": "Land corridor",
+     "meaning": "The strip of occupied southern Ukraine along the Sea of Azov that Russia captured in 2022, giving it a road and rail route to Crimea that does not need the bridge."
+    },
+    {
+     "term": "Stroygazmontazh",
+     "meaning": "The construction company of [[p:Arkady Rotenberg]] that built the bridge, later placed under Western sanctions."
+    }
+   ],
+   "whyItMatters": "Because the bridge is Putin's personal symbol of holding Crimea, strikes on it bring retaliation out of proportion to their military effect, as in October 2022 and again this week. Watch how fast Russia repairs the span, whether it leans more on the Azov land corridor, and whether Moscow keeps targeting Ukraine's own bridges and power plants in answer.",
+   "readMore": [
+    {
+     "title": "The opening of the bridge from Russia to Crimea",
+     "url": "https://osw.waw.pl/en/publikacje/analyses/2018-05-16/opening-bridge-russia-to-crimea",
+     "why": "Poland's Centre for Eastern Studies on the bridge's cost, capacity and political purpose at its 2018 opening."
+    },
+    {
+     "title": "Crimean Bridge: history, importance, defense and defeat",
+     "url": "https://militarnyi.com/en/articles/crimean-bridge-history-importance-defense-and-defeat/",
+     "why": "A Ukrainian defence outlet's account of the bridge's history, defences and the 2022 and 2023 attacks."
+    },
+    {
+     "title": "'Crimea is turning into an island': How Ukraine hit Putin's prized bridge",
+     "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge",
+     "why": "Al Jazeera on the November 2026 strikes, the weapons used and what the damage means for Crimea's supply."
+    }
+   ],
+   "prevQuestion": "Why did Morocco leave the Organisation of African Unity in 1984, and when did it come back?",
+   "prevAnswer": "Morocco walked out in protest when the OAU admitted the Sahrawi Arab Democratic Republic as a member state. It rejoined the OAU's successor, the African Union, in January 2017, without the Sahrawi Republic being expelled.",
+   "recallQ": "Why did Russia's ability to supply Crimea depend less on the bridge after 2022 than it did in 2014–2021?",
+   "recallA": "In 2022 Russia captured the land corridor along the Sea of Azov through occupied Kherson and Zaporizhzhia regions. That gave Crimea a road and rail route from Russia that bypasses the bridge, and much military cargo shifted to it as Ukrainian strikes on the bridge mounted."
   }
  ]
 }
