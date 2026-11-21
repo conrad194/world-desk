@@ -1941,6 +1941,138 @@
      "why": "The full text of India's rules for approving new drugs and clinical trials, framed under the 1940 Act."
     }
    ]
+  },
+  {
+   "id": "L14",
+   "num": 14,
+   "unit": "How rules get made",
+   "title": "Executive orders and their limits",
+   "dateTaught": "2026-11-21",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "What is the difference between an FDA regulation and an FDA guidance document, and why do companies usually follow guidance anyway?",
+   "prevAnswer": "A regulation is made through notice-and-comment rulemaking and binds like law. A guidance document only states the FDA's current thinking and binds neither companies nor the agency. Companies usually follow it because the FDA decides whether their product is approved, so departing from guidance makes approval harder.",
+   "body": "Lesson 12 showed agencies making binding rules through notice and comment, and Lesson 13 showed the FDA doing it. Today's question is simpler: can a president or a government just order things, without passing a law or running a rulemaking? Each country answers \"yes, but only inside a box\", and the shape of the box is what matters.\n\n**The US: orders from Article II.** An **executive order** is a written, signed directive from the president to the executive branch. The Constitution never mentions executive orders. Presidents draw them from Article II, which vests \"the executive power\" in the president and tells him to see that the laws are faithfully executed, and from powers Congress has delegated by statute. Orders are numbered and published in the Federal Register. They can direct agencies, reorganise how work is done, set conditions for federal contracts and start rulemakings, but they cannot create new crimes, spend money Congress has not appropriated or override a statute.\n\n> Numbering began in 1907, when the State Department retroactively labelled an 1862 order by [@Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) as Executive Order 1.\n\n**Three limits.** First, **the courts**. In the [#Youngstown Sheet & Tube Co. v. Sawyer](https://en.wikipedia.org/wiki/Youngstown_Sheet_%26_Tube_Co._v._Sawyer) case of 1952, Justice [@Robert H. Jackson](https://en.wikipedia.org/wiki/Robert_H._Jackson) set out the test still used today: a president is strongest when acting with Congress's authorisation, in a \"zone of twilight\" when Congress is silent, and weakest when acting against Congress's will. Second, **Congress**, which can pass a law reversing an order, though the president can veto it (Lesson 7) and an override needs two-thirds. Congress can also refuse to fund what an order requires. Third, **the next president**, who can revoke an order with a stroke of the pen. That makes orders fast but fragile; policy built on them often flips when the White House changes hands.\n\n**Poland: no free-floating decrees.** Poland's president has no general power to govern by order. Most of his official acts need the **countersignature** (kontrasygnata) of the prime minister, who thereby takes political responsibility for them before the Sejm. Only a closed list of **prerogatives** escapes that rule, such as appointing the prime minister, nominating judges, calling elections or referring laws to the Constitutional Tribunal. The government's tools are tighter still. A ministerial **regulation** (rozporządzenie) is binding on everyone but may be issued only on a specific authorisation in an act of parliament, a topic for Lesson 15. Resolutions of the Council of Ministers and **orders of the prime minister** (zarządzenia) are internal: they bind only the offices beneath them and cannot be the legal basis for decisions about citizens.\n\n> The 1997 Constitution, adopted by referendum, lists the President's 30 prerogatives in Article 144(3).\n\n**India: executive power follows legislative power.** Under Article 73, the Union government's executive power reaches every subject on which Parliament can legislate. The Supreme Court has read this to mean the government may act by **executive order** where no law yet exists, so long as it does not breach fundamental rights or contradict a statute. All such action is taken formally in the President's name (Article 77), but under Article 74 the President acts on ministers' advice, so the real author is the cabinet. Orders usually appear as **office memoranda**, resolutions or notifications in the Gazette of India. India also has a much stronger tool, the **ordinance**, a temporary law the President can issue when Parliament is not sitting; that gets its own lesson (17).\n\n> The Allocation of Business Rules, which divide work among ministries, were issued by the President in 1961 under Article 77(3).\n\n**The pattern.** The US gives its president the widest room to act alone, then relies on courts, Congress and elections to push back. Poland ties most presidential acts to a government answerable to the Sejm and lets ministers bind citizens only when a law says so. India sits between: broad executive power on paper, exercised by a cabinet that must keep a majority in the Lok Sabha. Scholars still argue over how far each system's executive can stretch, and the US debate in particular has grown sharper as recent presidents have leaned on orders when Congress is divided.",
+   "comparison": [
+    {
+     "aspect": "Main tool for governing without a new law",
+     "US": "Executive order signed by the president",
+     "Poland": "Ministerial regulation (rozporządzenie), only on a statute's specific authorisation",
+     "India": "Executive order or office memorandum issued in the President's name on cabinet advice"
+    },
+    {
+     "aspect": "Legal source",
+     "US": "Article II of the Constitution plus powers delegated by Congress",
+     "Poland": "Constitution Art. 92 (regulations) and Art. 93 (internal resolutions and orders)",
+     "India": "Constitution Art. 73 (executive power) and Art. 77 (action in the President's name)"
+    },
+    {
+     "aspect": "Whom it binds",
+     "US": "Executive-branch officials; others only where a statute gives the order that force",
+     "Poland": "Regulations bind everyone; PM orders and cabinet resolutions bind only subordinate offices",
+     "India": "Government officials; citizens only where backed by law"
+    },
+    {
+     "aspect": "Check on the head of state",
+     "US": "None needed: the president is also head of government",
+     "Poland": "Countersignature by the PM for most presidential acts, except 30 prerogatives",
+     "India": "President must act on the advice of the Council of Ministers (Art. 74)"
+    },
+    {
+     "aspect": "Landmark court limit",
+     "US": "[#Youngstown Sheet & Tube Co. v. Sawyer]({W}Youngstown_Sheet_%26_Tube_Co._v._Sawyer) (1952): no seizure of steel mills without Congress",
+     "Poland": "Constitutional Tribunal review of regulations exceeding their statutory authorisation",
+     "India": "Courts strike down executive action that breaches fundamental rights or conflicts with a statute"
+    },
+    {
+     "aspect": "Stronger emergency-style tool",
+     "US": "–",
+     "Poland": "President's regulations with force of law, only under martial law when the Sejm cannot sit (Art. 234)",
+     "India": "Ordinance when Parliament is not in session (Lesson 17)"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Executive order",
+     "meaning": "A signed, published directive from the US president to the executive branch, based on the Constitution or a statute; a successor can revoke it."
+    },
+    {
+     "term": "Youngstown test",
+     "meaning": "Justice Jackson's three-zone framework from the [#Youngstown Sheet & Tube Co. v. Sawyer]({W}Youngstown_Sheet_%26_Tube_Co._v._Sawyer) case: presidential power is greatest with Congress's backing and weakest against its will."
+    },
+    {
+     "term": "Kontrasygnata (countersignature)",
+     "meaning": "The Polish rule that most presidential acts need the prime minister's signature, which moves political responsibility to the government."
+    },
+    {
+     "term": "Prerogatywa (prerogative)",
+     "meaning": "One of the 30 presidential powers in Article 144(3) of Poland's Constitution that need no countersignature."
+    },
+    {
+     "term": "Zarządzenie (order)",
+     "meaning": "An internal Polish act of the prime minister or a minister, binding only on subordinate offices, never on citizens."
+    },
+    {
+     "term": "Office memorandum",
+     "meaning": "The usual written form of an Indian government executive order, issued by a ministry in the President's name."
+    }
+   ],
+   "example": "In April 1952, with the [#Korean War](https://en.wikipedia.org/wiki/Korean_War) under way and a national steel strike looming, President [@Harry S. Truman](https://en.wikipedia.org/wiki/Harry_S._Truman) issued an executive order directing his Commerce Secretary to seize and run the country's steel mills. He cited his powers as commander in chief, not any statute; Congress had in fact rejected seizure powers when it passed the Taft–Hartley Act. The companies sued, and within two months the Supreme Court ruled 6–3 against him in [#Youngstown Sheet & Tube Co. v. Sawyer](https://en.wikipedia.org/wiki/Youngstown_Sheet_%26_Tube_Co._v._Sawyer). The majority held that the president cannot make law; Justice [@Robert H. Jackson](https://en.wikipedia.org/wiki/Robert_H._Jackson)'s concurrence added the three-zone test. The mills went back to their owners and the strike resumed. The case remains the starting point whenever a president acts alone against Congress's wishes.",
+   "inTheNews": "On 20 November [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) signed an executive order telling federal contractors to alert the White House to congressional requests and withhold material it calls privileged, just before Democrats take both chambers in January; any fight over it will turn on where it sits in the Youngstown zones. In Poland, President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) appointed [@Andrzej Domański](https://en.wikipedia.org/wiki/Andrzej_Doma%C5%84ski) deputy prime minister, an act taken on the prime minister's motion rather than on the President's own initiative.",
+   "newsEvents": [
+    "E-261121-04",
+    "E-261121-19",
+    "E-261121-08"
+   ],
+   "check": [
+    {
+     "q": "A US president issues an executive order on a matter Congress has expressly voted against. Under the Youngstown framework, how strong is the president's position?",
+     "options": [
+      "Strongest, because executive orders outrank statutes",
+      "In the zone of twilight, since Congress has not acted",
+      "Weakest, because the president is acting against Congress's will",
+      "Irrelevant, because courts cannot review executive orders"
+     ],
+     "answer": 2,
+     "explain": "Jackson's lowest zone covers action incompatible with Congress's expressed will; the president can then rely only on his own constitutional powers, minus Congress's."
+    },
+    {
+     "q": "Poland's prime minister issues a zarządzenie (order) setting rules for how citizens must apply for a permit. What is the problem?",
+     "options": [
+      "Nothing; PM orders bind everyone",
+      "PM orders are internal and cannot be the basis for decisions about citizens",
+      "Only the President may issue orders, as a prerogative",
+      "It needs the President's countersignature to take effect"
+     ],
+     "answer": 1,
+     "explain": "Under Article 93 of the Constitution, orders and cabinet resolutions bind only subordinate offices. Rules for citizens require a statute or a regulation issued on a statute's specific authorisation."
+    },
+    {
+     "q": "Why is the US executive order considered fast but fragile compared with a statute?",
+     "options": [
+      "Courts must approve each order before it takes effect",
+      "It expires automatically after six months",
+      "The next president can revoke it without involving Congress",
+      "It only applies in states that consent to it"
+     ],
+     "answer": 2,
+     "explain": "An order takes effect on signature, but a successor can undo it just as easily, so policy built on orders often flips with a change of president."
+    }
+   ],
+   "recallQ": "What are the three main ways a US executive order can be checked, and why does Poland's prime minister rarely face the same kind of fight with the President over orders?",
+   "recallA": "A US order can be struck down by courts (using the Youngstown test), reversed by a statute from Congress (subject to veto) or defunded, and revoked by the next president. In Poland, most presidential acts need the prime minister's countersignature and binding rules for citizens require a statute, so the President has no general power to govern by order.",
+   "readMore": [
+    {
+     "title": "Executive Orders (Federal Register)",
+     "url": "https://www.federalregister.gov/presidential-documents/executive-orders",
+     "why": "The official listing of US executive orders by president and year, with disposition tables showing which were later amended or revoked."
+    },
+    {
+     "title": "Article 73: Extent of executive power of the Union (Constitution of India)",
+     "url": "https://www.constitutionofindia.net/articles/article-73-extent-of-executive-power-of-the-union/",
+     "why": "The text of the article that defines the Indian government's executive power, with the 1948 draft and Constituent Assembly debate."
+    }
+   ]
   }
  ]
 }
