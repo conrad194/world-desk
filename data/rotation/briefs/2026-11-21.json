@@ -1,0 +1,574 @@
+{
+ "date": "2026-11-21",
+ "segment": "South & Central Asia",
+ "windowFrom": "2026-11-14",
+ "tier1Summary": "Pakistan widened its quarrel with the Afghan [[p:Taliban]], shutting Kabul out of a regional summit while fighting militants on two fronts, and pressed on as a go-between in the US–Iran war. Bangladesh saw arson across a dozen districts during an [[p:Awami League]] lockdown. In the Caucasus, [[p:Nikol Pashinyan]] staked his job on a constitutional referendum that Azerbaijan demands before a peace treaty. Putin and a senior US envoy both courted Tajikistan, and Nepal's PM heads to India.\n\nBeyond the region, Russia launched one of the war's largest air attacks on Ukraine and Poland reported missiles on its soil; tanker strikes continued near Hormuz; and COP31 overran.",
+ "segmentItems": [
+  {
+   "id": "E-261121-28",
+   "segment": "South & Central Asia",
+   "country": "Bangladesh",
+   "text": "A lockdown by the banned [[p:Awami League]] {{note: Party founded in Dhaka in 1949; led by Sheikh Hasina since 1981.}} on the anniversary of [[p:Sheikh Hasina]]'s death sentence brought arson in at least 12 districts, including the family home of [[p:Muhammad Yunus]]. AFP counts at least three dead; police made 773 arrests.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AFP (via The Manila Times)",
+   "opinion": "",
+   "thread": "Bangladesh unrest and Hasina's return",
+   "links": [
+    {
+     "label": "AFP (via The Manila Times)",
+     "url": "https://www.manilatimes.net/2026/11/21/world/asia-oceania/fresh-arson-attacks-erupt-in-bangladesh-amid-unrest/2474967"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.tbsnews.net/bangladesh/violence-continues-after-al-lockdown-attacks-reported-12-districts-over-two-days-1609571"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-10",
+   "segment": "South & Central Asia",
+   "country": "Pakistan / Afghanistan",
+   "text": "Pakistan chaired the [[p:Economic Cooperation Organization]] {{note: Regional bloc founded in 1985 by Iran, Pakistan and Turkey, later expanded to ten members.}} ministerial in Islamabad without inviting Afghanistan, citing non-recognition of the Taliban.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Kamran Muraad; Usama Iqbal Khawaja",
+   "outlet": "Associated Press of Pakistan / Arab News Pakistan",
+   "opinion": "",
+   "thread": "Pakistan–Taliban war",
+   "links": [
+    {
+     "label": "Associated Press of Pakistan / Arab News Pakistan",
+     "url": "https://www.app.com.pk/?p=1310037"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.arabnews.pk/pakistan/pakistan-says-it-excluded-afghanistan-from-regional-conference-over-taliban-recognition-3007593"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-05",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "The military says four soldiers and 24 militants died in Balochistan and North Waziristan; two soldiers were killed by armed quadcopters, which Pakistan blames on Baloch separatists.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Saadullah Akhter",
+   "outlet": "Arab News Pakistan",
+   "opinion": "",
+   "thread": "Pakistan–Taliban war",
+   "links": [
+    {
+     "label": "Arab News Pakistan",
+     "url": "https://www.arabnews.pk/pakistan/pakistan-military-says-24-militants-four-soldiers-killed-in-western-provinces-3007029"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://dawn.com/news/2044488"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-11",
+   "segment": "South & Central Asia",
+   "country": "Pakistan / Iran / United States",
+   "text": "Foreign Minister [[p:Ishaq Dar]] says Pakistan awaits a US reply to Iran's offer to reopen Hormuz within two days; the ECO endorsed Pakistani and Qatari mediation.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Munir Ahmed",
+   "outlet": "Associated Press (via AJC)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Associated Press (via AJC)",
+     "url": "https://www.ajc.com/news/2026/11/pakistan-vows-to-proceed-with-us-iran-diplomacy-and-urges-afghanistan-to-act-on-terrorism/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://asianews.network/?p=315401"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-12",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "Lawyers for [[p:Imran Khan]] told the [[p:Islamabad High Court]] they have not seen him in seven months; his appeals resume on 25 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Shahid Rao; Aamir Abbasi",
+   "outlet": "The Nation / Nukta",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Nation / Nukta",
+     "url": "https://www.nation.com.pk/18-Nov-2026/ihc-hear-imran-bushra-appeals-conviction-today"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://nukta.com/ihc-fixes-190m-case"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-14",
+   "segment": "South & Central Asia",
+   "country": "Afghanistan",
+   "text": "Taliban leader [[p:Hibatullah Akhundzada]] {{note: Supreme leader of the Taliban since 2016, succeeding Akhtar Mansour.}} made a rare Kabul appearance; Taliban sources say it was to contain internal rifts.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Abdulhaq Omeri",
+   "outlet": "AFP (via DH.be) / Afghanistan International",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AFP (via DH.be) / Afghanistan International",
+     "url": "https://www.dhnet.be/dernieres-depeches/2026/11/17/le-chef-supreme-des-talibans-afghans-effectue-une-rare-visite-a-kaboul-NOGVIR657ZA6LCB2MVD7GL73LQ/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.afintl.com/en/202611180663"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-21",
+   "segment": "South & Central Asia",
+   "country": "India / Pakistan",
+   "text": "India and Pakistan clashed at the UN over the suspended [[p:Indus Waters Treaty]] {{note: Signed in Karachi in 1960 by India and Pakistan, with the World Bank as broker.}}; Delhi says its position is unchanged.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "The Express Tribune",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Express Tribune",
+     "url": "https://tribune.com.pk/story/2641145/pakistan-rejects-indias-move-to-hold-indus-waters-treaty-in-abeyance-at-un"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://dailypioneer.com/india/india-says-no-change-in-indus-waters-treaty-position-amid-pakistani-ministers-delhi-visit"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-22",
+   "segment": "South & Central Asia",
+   "country": "India / United States",
+   "text": "A US court sentenced Nikhil Gupta to more than 19 years for the plot to kill Sikh separatist [[p:Gurpatwant Singh Pannun]].",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Devirupa Mitra",
+   "outlet": "The Wire",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Wire",
+     "url": "https://m.thewire.in/article/world/us-court-sentences-nikhil-gupta-to-19-years-in-pannun-assassination-plot"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.theweek.in/news/world/2026/11/21/nikhil-gupta-sentenced-to-us-prison-gurpatwant-singh-pannun-murder-plot.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-34",
+   "segment": "South & Central Asia",
+   "country": "Nepal / India",
+   "text": "Nepal's PM [[p:Balen Shah]] visits India on 22–23 Nov; unnamed officials say Delhi is open to about $2bn in support.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Anil Giri",
+   "outlet": "The Kathmandu Post",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Kathmandu Post",
+     "url": "https://kathmandupost.com/national/2026/11/20/india-calls-shah-s-visit-very-important-promises-full-state-honours"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kathmandupost.com/national/2026/11/20/shah-to-lead-34-member-delegation-on-india-visit"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-39",
+   "segment": "South & Central Asia",
+   "country": "Armenia",
+   "text": "[[p:Nikol Pashinyan]] pledged to resign if a referendum rejects a new constitution, Azerbaijan's condition for a peace treaty, and to publish a draft next week.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "APA (citing Armenpress)",
+   "opinion": "",
+   "thread": "Armenia–Azerbaijan peace process",
+   "links": [
+    {
+     "label": "APA (citing Armenpress)",
+     "url": "https://en.apa.az/cis-countries/pashinyan-vows-not-to-run-for-prime-minister-in-next-elections-if-new-constitution-is-adopted-537142"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kz.kursiv.media/?p=7179692"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-42",
+   "segment": "South & Central Asia",
+   "country": "Georgia",
+   "text": "The [[p:Constitutional Court of Georgia]] kept hearing the suit to ban five opposition parties; it has until June 2027 to rule.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "JAMnews",
+   "opinion": "",
+   "thread": "Georgia democratic backsliding",
+   "links": [
+    {
+     "label": "JAMnews",
+     "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-16-20-november/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://jam-news.net/georgia-opposition-ban-trial-court-removes-leaders-of-coalition-for-change/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-53",
+   "segment": "South & Central Asia",
+   "country": "Tajikistan / Russia",
+   "text": "[[p:Vladimir Putin]] visited [[p:Emomali Rahmon]] in Dushanbe to discuss migrants and Russia's [[p:201st Military Base]], days after a US deputy secretary of state pitched mining deals.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Asia-Plus",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Asia-Plus",
+     "url": "https://asiaplus.news/en/2026/11/20/rahmon-and-putin-discuss-labor-migration-and-operations-of-russias-201st-military-base/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://timesca.com/?p=60977"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261121-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "Russia fired 84 cruise missiles and 404 drones at Ukraine overnight into 20 Nov, damaging three Kyiv bridges and killing at least eight, after [[p:Vladimir Putin]] vowed revenge for the Crimean Bridge strike.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Abbey Fenbert, Dmytro Basmat, Volodymyr Ivanyshyn",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-02",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Poland",
+   "text": "Poland says two Russian missiles and a drone fell on its territory; [[p:Donald Tusk]] called it a likely deliberate provocation.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Kateryna Hodunova",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-03",
+   "segment": "Middle East",
+   "country": "Oman / Strait of Hormuz",
+   "text": "Two more tanker strikes were reported off Khasab, Oman, near the Strait of Hormuz.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Reuters (via Business Recorder)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Reuters (via Business Recorder)",
+     "url": "https://www.brecorder.com/news/40450111/two-tanker-attack-incidents-reported-near-omans-khasab-on-saturday-ukmto-says"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261121-04",
+   "segment": "EU politics + cross-cutting",
+   "country": "Türkiye",
+   "text": "[[e:COP31|2026 United Nations Climate Change Conference]] ran into overtime with finance and fossil-fuel language unresolved.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Antalya Ekspres",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Antalya Ekspres",
+     "url": "https://www.antalyaekspres.com.tr/cop31de-kritik-final"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/crunch-time-for-cop31-but-no-agreement-in-sight/2474972"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261121-01",
+   "title": "Clock ticking on Ganga Water Treaty, Indian delegation heads to Dhaka but renewal not on agenda",
+   "reporter": "Moushumi Das Gupta",
+   "outlet": "ThePrint",
+   "url": "https://theprint.in/diplomacy/exclusive-clock-ticking-on-ganga-water-treaty-indian-delegation-heads-to-dhaka-but-renewal-not-on-agenda/3101531/",
+   "why": "Sourced explainer on the 12 Dec deadline: Dhaka's demand for a guaranteed dry-season flow, pressure in Bihar to scrap the treaty, and why renewal has stalled.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261121-02",
+   "title": "NGOs in Azerbaijan face re-registration as experts warn of tighter rules",
+   "reporter": "JAMnews desk",
+   "outlet": "JAMnews",
+   "url": "https://jam-news.net/?p=238647",
+   "why": "Clause-by-clause breakdown of the NGO bill, with Azerbaijani lawyers explaining how suspension and dissolution move from courts to the executive.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-23",
+   "text": "Belarus amnesty bill text: does it cover political prisoners?",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261109-08"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Israel: talks between Eisenkot's bloc and Likud, 22 Nov, with Eisenkot reportedly planning a Knesset vote before his mandate ends.",
+   "segment": "Middle East",
+   "watchId": "W-261120-06"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Nepal: PM [[p:Balen Shah]]'s state visit to India, 22–23 Nov: MoUs, a joint vision document and a possible ~$2bn package.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-04"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Nepal: Supreme Court hearing on the removal of police chief Dan Bahadur Karki.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-05"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Duma third reading of Russia's 2027–29 budget, 24 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261120-05"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Kazakhstan: government anti-corruption proposals for state companies due to [[p:Kassym-Jomart Tokayev]].",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-09"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Malaysia: whether Anwar accepts Anthony Loke's resignation, and BN's push for an early general election after Melaka.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261118-03"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Pakistan: Islamabad High Court hearing of [[p:Imran Khan]] and Bushra Bibi's appeals in the £190m Al-Qadir Trust case.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-01"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Pakistan: Islamabad High Court hearing on constituency boundaries that decides whether Islamabad's local elections (rescheduled for 20 Dec) go ahead.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-02"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-03"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Venezuela: 24-hour public-sector strike and march on Miraflores over wages and the year-end bonus.",
+   "segment": "The Americas",
+   "watchId": "W-261119-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "segment": "Africa",
+   "watchId": "W-261120-01"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Georgia: opposition's nationwide rally in Tbilisi.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-11"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Turkmenistan",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "AFP (via The Manila Times): Bangladesh",
+   "url": "https://www.manilatimes.net/2026/11/21/world/asia-oceania/fresh-arson-attacks-erupt-in-bangladesh-amid-unrest/2474967",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press of Pakistan / Arab News Pakistan: Pakistan / Afghanistan",
+   "url": "https://www.app.com.pk/?p=1310037",
+   "paywalled": false
+  },
+  {
+   "title": "Arab News Pakistan: Pakistan",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-military-says-24-militants-four-soldiers-killed-in-western-provinces-3007029",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press (via AJC): Pakistan / Iran / United States",
+   "url": "https://www.ajc.com/news/2026/11/pakistan-vows-to-proceed-with-us-iran-diplomacy-and-urges-afghanistan-to-act-on-terrorism/",
+   "paywalled": false
+  },
+  {
+   "title": "The Nation / Nukta: Pakistan",
+   "url": "https://www.nation.com.pk/18-Nov-2026/ihc-hear-imran-bushra-appeals-conviction-today",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via DH.be) / Afghanistan International: Afghanistan",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/11/17/le-chef-supreme-des-talibans-afghans-effectue-une-rare-visite-a-kaboul-NOGVIR657ZA6LCB2MVD7GL73LQ/",
+   "paywalled": false
+  },
+  {
+   "title": "The Express Tribune: India / Pakistan",
+   "url": "https://tribune.com.pk/story/2641145/pakistan-rejects-indias-move-to-hold-indus-waters-treaty-in-abeyance-at-un",
+   "paywalled": false
+  },
+  {
+   "title": "The Wire: India / United States",
+   "url": "https://m.thewire.in/article/world/us-court-sentences-nikhil-gupta-to-19-years-in-pannun-assassination-plot",
+   "paywalled": false
+  },
+  {
+   "title": "The Kathmandu Post: Nepal / India",
+   "url": "https://kathmandupost.com/national/2026/11/20/india-calls-shah-s-visit-very-important-promises-full-state-honours",
+   "paywalled": false
+  },
+  {
+   "title": "APA (citing Armenpress): Armenia",
+   "url": "https://en.apa.az/cis-countries/pashinyan-vows-not-to-run-for-prime-minister-in-next-elections-if-new-constitution-is-adopted-537142",
+   "paywalled": false
+  },
+  {
+   "title": "JAMnews: Georgia",
+   "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-16-20-november/",
+   "paywalled": false
+  },
+  {
+   "title": "Asia-Plus: Tajikistan / Russia",
+   "url": "https://asiaplus.news/en/2026/11/20/rahmon-and-putin-discuss-labor-migration-and-operations-of-russias-201st-military-base/",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent: Ukraine",
+   "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent: Poland",
+   "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Business Recorder): Oman / Strait of Hormuz",
+   "url": "https://www.brecorder.com/news/40450111/two-tanker-attack-incidents-reported-near-omans-khasab-on-saturday-ukmto-says",
+   "paywalled": false
+  },
+  {
+   "title": "Antalya Ekspres: Türkiye",
+   "url": "https://www.antalyaekspres.com.tr/cop31de-kritik-final",
+   "paywalled": false
+  }
+ ]
+}
