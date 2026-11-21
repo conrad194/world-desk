@@ -1,0 +1,1538 @@
+{
+ "date": "2026-11-21",
+ "top5": [
+  {
+   "text": "Two Russian missiles and probably a drone fell in south-east Poland during a strike on Ukraine; no one was hurt. Tusk called it deliberate provocation and openly disagreed with the US reading of such incidents.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "RMF24",
+     "url": "https://www.rmf24.pl/fakty/polska/news-szef-mon-potwierdza-to-byla-rakieta-ch-101-data-nie-jest-prz,nIdn,1026966"
+    }
+   ]
+  },
+  {
+   "text": "US stocks slid into correction: the S&P 500 fell 3.7% and the Nasdaq 5.3% as the AI sell-off deepened.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Reuters (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+    }
+   ]
+  },
+  {
+   "text": "Nikhil Gupta was sentenced to 235 months in the Pannun murder-for-hire case; India has not commented.",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "LiveLaw (DOJ release); PTI via ETV Bharat",
+     "url": "https://www.livelaw.in/news-updates/indian-national-nikhil-gupta-sentenced-to-19-years-in-us-prison-for-plotting-to-assassinate-sikh-separatist-gurpatwant-singh-pannun-559392"
+    }
+   ]
+  },
+  {
+   "text": "Consultation on shrinking Kraków's Clean Transport Zone to about 1 km² runs 27 Nov–18 Dec.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "KRKnews",
+     "url": "https://krknews.pl/konsultacje-sct-w-krakowie/"
+    }
+   ]
+  },
+  {
+   "text": "Odisha reports no deaths from Cyclone Akvan after evacuating about 3.7 lakh people.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Business Standard (PTI)",
+     "url": "https://www.business-standard.com/amp/india-news/cyclone-akvan-crosses-odisha-coast-brings-heavy-rain-no-damage-reported-126112000320_1.html"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261121-01",
+    "domain": "Economy, business & markets",
+    "text": "S&P 500 (-3.7%) and Dow fell into correction and the Nasdaq dropped 5.3% on Nov 20 as an AI-stock rout deepened; Nvidia fell about 14%.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-02",
+    "domain": "Economy, business & markets",
+    "text": "Trump publicly urged Nvidia's board to give ousted CEO Jensen Huang 'a second chance'; the board has said it will not reinstate him.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Nvidia leadership crisis",
+    "links": [
+     {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-04",
+    "domain": "Politics & government",
+    "text": "Trump ordered federal contractors to alert the White House about congressional requests and to withhold material it deems privileged, ahead of a Democratic Congress.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Reuters (via Yahoo News)",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-order-says-contractors-must-030043664.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-05",
+    "domain": "Environment, energy & disasters",
+    "text": "The Senate passed a sweeping bipartisan permitting overhaul (BAAJA) 62-33; it now goes to the House, where Democrats want changes.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Federal permitting overhaul",
+    "links": [
+     {
+      "label": "Roll Call",
+      "url": "https://www.rollcall.com/2026/11/19/sweeping-permitting-overhaul-passes-senate-on-to-house"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-14",
+    "domain": "Environment, energy & disasters",
+    "text": "The administration asked the Supreme Court to let the EPA cancel $16bn in Biden-era green-bank climate grants after losing in the DC Circuit.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "AP (via WSLS)",
+      "url": "https://www.wsls.com/business/2026/11/19/trump-wants-the-supreme-court-to-let-his-epa-cancel-billions-in-biden-era-climate-grants/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.eenews.net/articles/epa-climate-grant-deal-avoids-supreme-court-emergency-docket-2/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261121-16",
+    "domain": "Defense, security & crime",
+    "text": "Two Russian missiles, including a Kh-101, and probably a jet drone crashed in south-east Poland during a strike on Ukraine; nobody was hurt.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-szef-mon-potwierdza-to-byla-rakieta-ch-101-data-nie-jest-prz,nIdn,1026966"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45521111-po-nalocie-rosyjskich-obiektow-drony-sprawdzaja-teren-szukaja-sladow-materialow-wybuchowych"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-17",
+    "domain": "Foreign relations",
+    "text": "Tusk calls the missile incident a deliberate Russian provocation; NATO chief Rutte visits Warsaw on Saturday as Poland seeks Eastern Sentry reinforcements.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45520011-donald-tusk-rozmawialem-z-szefem-nato-to-co-spadlo-w-polsce-jest-z-rosji"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.dziennikwschodni.pl/artykul/394211,rakieta-spadla-pod-bilgorajem-rzad-mowi-o-rosyjskiej-prowokacji-i-zlozy-wniosek-do-nato"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-18",
+    "domain": "Society: education, labor, immigration",
+    "text": "Residents and a local mayor say missile warnings came too late; Tusk orders a check of alert and siren timing.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Wirtualna Polska",
+      "url": "https://wiadomosci.wp.pl/rosyjskie-rakiety-i-dron-spadly-w-polsce-wszystko-co-wiadomo-7353117235648544a"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/rosyjski-pocisk-przelecial-nad-jego-gmina-wojt-wskazuje-na-powazny-problem/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-19",
+    "domain": "Politics & government",
+    "text": "Nawrocki finally appoints Domański deputy PM and Bartol funds minister, a month after Tusk asked.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Polish coalition stability and Polska 2050",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/kraj/news-zamiany-w-rzadzie-nawrocki-powolal-domanskiego-na-wicepremie,nId,23576554"
+     },
+     {
+      "label": "Second source",
+      "url": "https://xyz.pl/dzieje-sie/agnieszka-bartol-zostala-ministrem-funduszy-i-polityki-regionalnej-prezydent-wreczyl-akt-powolania-2050"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261121-24",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Consultation on shrinking Kraków's Clean Transport Zone to about 1 km² will run from 27 November to 18 December, with four open meetings.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Clean Transport Zone (SCT) overhaul",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/konsultacje-sct-w-krakowie/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-26",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors say the Main Square attacker fired more than 100 shots and held a permit for 10 guns, and they will examine how that permit was issued.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "PAP via nczas.info; Kraków Portal; Krakowski Raport",
+      "url": "https://nczas.info/2026/11/20/ponad-sto-strzalow-i-nowe-tropy-prokuratura-ujawnia-ustalenia-sledztwa-po-zamachu-w-krakowie/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakowportal.pl/strzelanina-na-rynku-glownym-w-krakowie-nowe-ustalenia-prokuratury/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-25",
+    "domain": "Economy, business & markets",
+    "text": "Kraków City Hall now proposes freezing 2027 property tax rates for flats and residential land, giving up about 13–14m zł of planned extra revenue.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków city finances and the 2027 budget",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/prezydent-zmienia-decyzje-krakowianie-nie-zaplaca-wiecej-w-2027-roku"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-34",
+    "domain": "Politics & government",
+    "text": "PSL leader Kosiniak-Kamysz pledged to seek metro funding, but Gibała still wants written guarantees before the 25 November extraordinary session.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "Puls Krakowa; Radio Kraków",
+      "url": "https://pulskrakowa.pl/wicepremier-kosiniak-kamysz-deklaruje-wsparcie-dla-metra-prezydent-gibala-czeka-na-gwarancje-finansowania/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://radiokrakow.pl/audycje/publicystyka/co-niesie-dzien/referendum-metro-i-spor-ze-lwowem-prof-danel-lukasz-gibala-zderzyl-sie-z-rzeczywistoscia/187999"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-30",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Work on ul. Witosa starts 25 November, narrowing the road towards Kurdwanów to one lane. The design was revised after residents protested about trees.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl; Krakowski Raport",
+      "url": "https://lovekrakow.pl/rusza-inwestycja-drogowa-przy-ulicy-witosa-budzila-sprzeciw-mieszkancow"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakowskiraport.pl/artykul/3229-od-25-listopada-jeden-pas-na-witosa-w-strone-kurdwanowa-na-250-m"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261121-42",
+    "domain": "Environment, energy & disasters",
+    "text": "Odisha reports no deaths or major damage from Cyclone Akvan after evacuating about 3.7 lakh people; power was largely restored within hours.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard (PTI)",
+      "url": "https://www.business-standard.com/amp/india-news/cyclone-akvan-crosses-odisha-coast-brings-heavy-rain-no-damage-reported-126112000320_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.aajtak.in/india/news/story/cyclone-akvan-deep-depression-odisha-west-bengal-heavy-rain-ntc-acwi-dskc-2701868-2026-11-21"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-43",
+    "domain": "Politics & government",
+    "text": "Ladakh held its first panchayat and municipal polls since becoming a UT, despite opposition from Leh groups; counting is on Dec 4.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Ladakh statehood protests and council polls",
+    "links": [
+     {
+      "label": "Greater Kashmir",
+      "url": "https://www.greaterkashmir.com/ladakh/ladakh-votes-in-panchayat-and-municipal-polls-amid-bitter-chill-after-eight-year-gap-12828341"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.dailyexcelsior.com/panchayat-municipal-polls-in-ladakh-today-many-candidates-already-elected-unopposed/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-45",
+    "domain": "Foreign relations",
+    "text": "India restates an unchanged Indus treaty stance as Pakistan's Musadik Malik attends the SCO forum; reports say his Taj Mahal visit was refused.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Aaj Tak",
+      "url": "https://www.aajtak.in/india/news/story/sco-forum-india-pakistan-indus-water-treaty-musadik-malik-ntc-acwi-dskc-2701896-2026-11-21"
+     },
+     {
+      "label": "Second source",
+      "url": "https://navbharatlive.com/india/sco-meet-pakistan-minister-musadik-malik-taj-mahal-nizamuddin-centre-denies-visit-aks03"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-47",
+    "domain": "Law, courts & regulation",
+    "text": "SEBI proposes dropping extra ownership disclosures for offshore funds, unwinding a post-Adani 2023 rule, to attract foreign investors.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.socialnews.xyz/2026/11/20/sebi-proposes-easing-disclosure-norms-for-offshore-funds/"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261121-50",
+    "domain": "Law, courts & regulation",
+    "text": "The Supreme Court stayed the Madras HC Thiruparankundram ruling but allowed a one-time, officials-only Karthigai lamp lighting on Nov 24.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LiveLaw",
+      "url": "https://www.livelaw.in/top-stories/thiruparankundram-hill-supreme-court-stays-madras-hc-judgment-allows-karthigai-lamp-lighting-at-deepathoon-on-nov-24-559296"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Air quality",
+   "text": "On Saturday morning (06:00) the air was 'very good' at all six GIOŚ stations in Kraków: Krasińskiego, Bujaka, Bulwarowa, Złoty Róg, Piastów and Swoszowice. The AQICN index was 26 (good) at 04:00.",
+   "link": "https://krakowskiraport.pl/"
+  },
+  {
+   "kind": "Weather",
+   "text": "Expect drizzle and about 4–5°C on Saturday, with sleet or snow in the foothills. Sunday is around 6°C by day and 1°C at night, and Monday 3°C, falling to -2°C overnight.",
+   "link": "https://dziendobry.tvn.pl/newsy/pogoda/prognoza-pogody-na-sobote-21-listopada-2026-ile-bedzie-stopni-st9348329"
+  },
+  {
+   "kind": "Transit",
+   "text": "Buses 238 and 248 are on temporary routes until 25 Nov while the Modlniczka junction is resurfaced. Lines 268, 278 and 288 are back on ul.",
+   "link": "https://mpk.krakow.pl/"
+  },
+  {
+   "kind": "Closure",
+   "text": "The bike path along Park Szwedzki (al. Solidarności) is under repair from 23 to 30 Nov; follow the temporary signs.",
+   "link": "https://krakowskiraport.pl/artykul/3206-od-23-do-30-listopada-remont-drogi-dla-rowerow-przy-parku-szwedzkim"
+  },
+  {
+   "kind": "Event",
+   "text": "World Balloon Festival, with more than 100,000 balloons, at EXPO Kraków (ul. Galicyjska 9), 21–22 Nov, 9:00–20:00, ticketed.",
+   "link": "https://krakowportal.pl/weekend-w-krakowie-20-22-listopada-2026-teatr-podroze-i-koncerty/"
+  },
+  {
+   "kind": "Event",
+   "text": "Football on Saturday: Cracovia v Jagiellonia at home at 14:45 (expect traffic around ul. Kałuży), and Radomiak v Wisła away at 20:15.",
+   "link": "https://krakowskiraport.pl/artykul/3209-cracovia-jagiellonia-bialystok-jutro-21-listopada-o-14-45-zapowiedz-ekstraklasy"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261121-64",
+    "domain": "Foreign relations",
+    "text": "Tusk said he disagrees with the US reading of Russian missile incursions after Trump called them a mistake, and offered US officials access to the wreckage.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "AFP (Yahoo); PAP via Forsal.pl",
+      "url": "https://sg.news.yahoo.com/warsaw-says-russian-missiles-hit-143506637.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://forsal.pl/kraj/artykuly/11348928,naruszenie-polskiej-przestrzeni-tusk-mamy-do-czynienia-z-intencjonalna-prowokacja.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-65",
+    "domain": "Environment, energy & disasters",
+    "text": "Poland's energy minister said the EPC contract with Westinghouse-Bechtel for the first nuclear plant should be signed by the end of 2026.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Polish nuclear power programme",
+    "links": [
+     {
+      "label": "Rzeczpospolita (energia.rp.pl)",
+      "url": "https://energia.rp.pl/surowce-i-paliwa/art45517291-powrot-europy-do-paliw-z-rosji-amerykanie-zaprzeczaja"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261121-60",
+    "domain": "Defense, security & crime",
+    "text": "A US judge sentenced Nikhil Gupta to 235 months in prison for the foiled plot to kill Pannun; India has not commented.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Pannun assassination plot cases",
+    "links": [
+     {
+      "label": "LiveLaw (DOJ release); PTI via ETV Bharat",
+      "url": "https://www.livelaw.in/news-updates/indian-national-nikhil-gupta-sentenced-to-19-years-in-us-prison-for-plotting-to-assassinate-sikh-separatist-gurpatwant-singh-pannun-559392"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.etvbharat.com/en/international/us-court-sentences-indian-national-nikhil-gupta-to-235-months-in-jail-in-murder-for-hire-plot-enn26112007883"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-61",
+    "domain": "Infrastructure, transport & housing",
+    "text": "The FAA finished its safety audit of India's DGCA on Nov 20; results, and India's Category 1 status, are expected only in months.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Economic Times (via fvbb aggregator)",
+      "url": "https://fvbb.com/ns/faa-completes-five-day-aviation-safety-audit/331769"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.nationpathindia.com/international/us-faa-india-dgca-aviation-safety-assessment-november-2026"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-62",
+    "domain": "Defense, security & crime",
+    "text": "An NCB–DEA operation broke up an Indian network shipping about 500,000 prescription opioid and psychotropic pills to US buyers; six people were arrested.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Outlook India",
+      "url": "https://www.outlookindia.com/national/operation-monsoon-thunder-india-us-ncb-dea-joint-ops-bust-opiod-drug-racket"
+     },
+     {
+      "label": "Second source",
+      "url": "https://pressnewsagency.org/us-india-partnership-in-action-sergio-gor-hails-operation-monsoon-thunder-after-ncb-dea-drug-bust/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261121-63",
+    "domain": "Foreign relations",
+    "text": "India's MEA declined to judge the Trump–Xi–Putin summit, saying it awaits a fuller account of concrete outcomes.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Quad and India–US diplomacy",
+    "links": [
+     {
+      "label": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/india/india-holds-back-assessment-of-trump-xi-putin-summit-awaits-fuller-account-of-outcomes"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.chennaionline.com/news/india-reacts-cautiously-to-trump-xi-putin-summit/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261121-01",
+   "name": "Executive order protecting executive privileges in federal contracting (contractor notice of congressional requests)",
+   "place": "US",
+   "body": "President (Executive Order)",
+   "stage": "Signed / published",
+   "changes": "Federal contractors and subcontractors must notify the White House and their contracting agencies about congressional requests related to their work, coordinate responses and privilege claims, and withhold material the White House deems privileged.",
+   "affects": "Federal contractors (defence, tech, consulting) and congressional oversight committees, especially the incoming Democratic majorities",
+   "effectiveDate": "2026-11-20",
+   "commentDeadline": "",
+   "officialLink": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
+   "newsLink": "https://www.yahoo.com/news/politics/articles/trump-order-says-contractors-must-030043664.html"
+  },
+  {
+   "id": "R-261121-02",
+   "name": "2027 property tax rates resolution",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft, druk 1617)",
+   "stage": "Proposed",
+   "changes": "Keeps 2026 property tax rates for flats (1.25 zł/m²) and 'other land' (0.77 zł/m²) instead of raising them to the maximum.",
+   "affects": "All Kraków property owners. Residents avoid the rise, businesses pay slightly more. The city gives up about 17m zł of planned extra revenue.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://lovekrakow.pl/prezydent-zmienia-decyzje-krakowianie-nie-zaplaca-wiecej-w-2027-roku"
+  },
+  {
+   "id": "R-261121-03",
+   "name": "Proposal to remove additional disclosure requirements for high-risk offshore funds/FPIs",
+   "place": "India",
+   "body": "SEBI",
+   "stage": "Open for comment",
+   "changes": "Would scrap the extra beneficial-ownership disclosures imposed in 2023 on offshore funds with concentrated holdings in Indian companies, relying instead on existing beneficial-ownership norms.",
+   "affects": "Foreign portfolio investors and offshore funds investing in Indian equities.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money"
+  }
+ ],
+ "deepDive": {
+  "domain": "Society: education, labor, immigration + Environment, energy & disasters + Infrastructure, transport & housing",
+  "title": "Sirens, permits and bridges: who gets protected, and how fast",
+  "body": "Saturday's theme is the plumbing of daily life, and this week it was tested.\n\n**Poland: the warning came after the blast.** The government centre (RCB) sent a general alert at 2:31, but the phone alert for the Biłgoraj area went out at 6:30 and local sirens a minute later. The missile hit at 6:36, and several residents say they heard nothing until the explosion ([WP](https://wiadomosci.wp.pl/rosyjskie-rakiety-i-dron-spadly-w-polsce-wszystko-co-wiadomo-7353117235648544a)). The wójt of Aleksandrów says outlying villages have too few sirens, and local leaders learn no sooner than residents ([Polsat News](https://www.polsatnews.pl/wiadomosc/2026-11-20/rosyjski-pocisk-przelecial-nad-jego-gmina-wojt-wskazuje-na-powazny-problem/)). Tusk has ordered a review of the alert timing.\n\n**India: the drill worked, the costs moved.** Odisha's evacuation of about 3.7 lakh people before Cyclone Akvan, its third storm threat in 24 days, kept deaths at zero. Power was almost fully back within seven hours ([OdishaBytes](https://odishabytes.com/cyclone-akvan-tpsodl-restores-power-to-10-69-lakh-consumers-achieves-nearly-99-restoration-within-7-hours/)). The costs fell instead on cancelled trains, waterlogged cities and standing paddy in Jharkhand, where crop-loss surveys have been ordered ([Kisan India](https://www.kisanindia.in/agriculture-money/cyclone-akvan-crop-damage-compensation-farmers-chhattisgarh-jharkhand-odisha-170110.html)). Delhi's air, meanwhile, is back to 'very poor'.\n\n**US: faster building, fewer lawsuits.** The Senate's 62-33 permitting overhaul (BAAJA) would speed up environmental reviews, limit project lawsuits and give FERC power over interstate power lines. Backers say it helps clean and fossil projects alike; environmental groups and 17 Democratic states say it guts protections ([CBS](https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/)). The AI data-centre boom is driving the grid side of this fight.\n\n**Kraków: a smaller zone, a changing centre.** The plan to cut the Clean Transport Zone from about 196 km² to about 1 km² goes to residents from 27 Nov ([KRKnews](https://krknews.pl/konsultacje-sct-w-krakowie/)). An opinion column in Krakowski Raport argues the Old Town is emptying of residents and everyday shops; this is analysis, not news ([Krakowski Raport](https://krakowskiraport.pl/artykul/3243-krakow-pieknieje-ale-coraz-trudniej-w-nim-zyc-co-dzieje-sie-z-centrum-miasta)).\n\nThe common thread: each system is judged by what reaches the last village, field or street.",
+  "links": [
+   {
+    "label": "Wirtualna Polska",
+    "url": "https://wiadomosci.wp.pl/rosyjskie-rakiety-i-dron-spadly-w-polsce-wszystko-co-wiadomo-7353117235648544a"
+   },
+   {
+    "label": "OdishaBytes",
+    "url": "https://odishabytes.com/cyclone-akvan-tpsodl-restores-power-to-10-69-lakh-consumers-achieves-nearly-99-restoration-within-7-hours/"
+   },
+   {
+    "label": "CBS News",
+    "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/"
+   },
+   {
+    "label": "KRKnews",
+    "url": "https://krknews.pl/konsultacje-sct-w-krakowie/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261121-03",
+   "title": "Rosyjskie rakiety i dron spadły w Polsce. Wszystko, co wiadomo",
+   "reporter": "",
+   "outlet": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/rosyjskie-rakiety-i-dron-spadly-w-polsce-wszystko-co-wiadomo-7353117235648544a",
+   "why": "The clearest timeline of the Nov 20 incident, including the alert timings and why the objects were not shot down.",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261121-09",
+   "title": "Indian National Nikhil Gupta Sentenced To 19 Years In US Prison For Plotting To Assassinate Sikh Separatist Gurpatwant Singh Pannun",
+   "reporter": "LiveLaw News Network",
+   "outlet": "LiveLaw",
+   "url": "https://www.livelaw.in/news-updates/indian-national-nikhil-gupta-sentenced-to-19-years-in-us-prison-for-plotting-to-assassinate-sikh-separatist-gurpatwant-singh-pannun-559392",
+   "why": "Clear legal summary of the sentence and the DOJ's account of the plot, including the Nijjar link and Yadav's role.",
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-22",
+   "text": "Pakistani minister Musadik Malik's speech at the SCO…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Formal notification of Agniveer second-tour terms before…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Supreme Court hearing in the digital-arrest suo motu case:…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Supreme Court's next hearing in the Delhi-NCR…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Prosecutors’ findings on motive and on whether anyone…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Święczkowski's further attempts to enter the…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "FAA/DOT findings on the cause of the Nov 13 nationwide…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "J&K and Ladakh High Court (Leh bench) hearing on Sonam…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Final results in the Mississippi (Colom v. Hyde-Smith) and…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Karnataka–oil companies E20 dispute: whether the Petroleum…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Government reply to Gibała's request for 10m zł for the…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Scale of the Autopay data breach (number of customers…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Council vote on starting consultations to end sales of…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Findings on the cause of the NSANet outage and any…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Results of Wałachowski's analysis of money already spent…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Extraordinary Kraków City Council session on halting metro…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Prosecutors summon or charge Święczkowski and Sochański…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "President Nawrocki decides whether to sign or veto the…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "President Nawrocki signs or vetoes the two abortion bills…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Whether the Panchayati Raj Ministry formally issues…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Outcome of Modi's Nov 13 Karnataka visit, and whether…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Next Russia–Ukraine round in Abu Dhabi with the European…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "SCT exemption renewals open (queues at ul. Centralna,…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Parties submit written TK reform proposals to the…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "East Potomac Park TRO (expires Nov 28):…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "NATO's response to Poland's request for extra Eastern…",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Thiruparankundram: whether the Nov 24 Karthigai lamp…",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Reuters: Wall St ends sharply lower on AI selloff (Yahoo)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html",
+   "paywalled": false
+  },
+  {
+   "title": "Capp Notes Closing Look Nov 20 2026",
+   "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Trump calls for Nvidia to reinstate Huang",
+   "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News live updates: Trump press conference Nov 20",
+   "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/",
+   "paywalled": false
+  },
+  {
+   "title": "LA Times via Spokesman: Trump to penalize data centers abroad",
+   "url": "https://www.spokesman.com/stories/2026/nov/20/trump-says-hell-penalize-us-companies-that-build-d/",
+   "paywalled": false
+  },
+  {
+   "title": "White House fact sheet: contractor privileges EO",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters via Yahoo: contractor order",
+   "url": "https://www.yahoo.com/news/politics/articles/trump-order-says-contractors-must-030043664.html",
+   "paywalled": false
+  },
+  {
+   "title": "Roll Call: permitting overhaul passes Senate",
+   "url": "https://www.rollcall.com/2026/11/19/sweeping-permitting-overhaul-passes-senate-on-to-house",
+   "paywalled": false
+  },
+  {
+   "title": "CBS: Senate passes BAAJA",
+   "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/",
+   "paywalled": false
+  },
+  {
+   "title": "InvestmentNews: Nvidia SEC probe",
+   "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-eyes-action/269054",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Now headlines Nov 20",
+   "url": "https://www.democracynow.org/2026/11/20/headlines/a_mockery_of_court_orders_federal_judge_holds_ice_in_contempt_for_rearresting_immigrants",
+   "paywalled": false
+  },
+  {
+   "title": "CT Mirror: judge blocks CT ICE law",
+   "url": "https://ctmirror.org/2026/11/20/federal-judge-blocks-ct-law-that-sought-to-regulate-ice-agents/",
+   "paywalled": false
+  },
+  {
+   "title": "AP via WSLS: EPA climate grants at SCOTUS",
+   "url": "https://www.wsls.com/business/2026/11/19/trump-wants-the-supreme-court-to-let-his-epa-cancel-billions-in-biden-era-climate-grants/",
+   "paywalled": false
+  },
+  {
+   "title": "E&E News: climate grant deal",
+   "url": "https://www.eenews.net/articles/epa-climate-grant-deal-avoids-supreme-court-emergency-docket-2/",
+   "paywalled": true
+  },
+  {
+   "title": "Immigration Analytics: Venezuelan TPS application withdrawn",
+   "url": "https://immigration-analytics.com/2026/11/19/venezuelan-tps-supreme-court-application-withdrawn/",
+   "paywalled": false
+  },
+  {
+   "title": "AFDO Federal Register Update Nov 20 2026",
+   "url": "https://www.afdo.org/federal-register-update-november-20-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "WLBT: MS SoS final numbers",
+   "url": "https://www.wlbt.com/2026/11/14/ms-secretary-state-releases-final-election-numbers/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 – Szef MON potwierdza: to była rakieta Ch-101",
+   "url": "https://www.rmf24.pl/fakty/polska/news-szef-mon-potwierdza-to-byla-rakieta-ch-101-data-nie-jest-prz,nIdn,1026966",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita – drony sprawdzają teren upadku rakiet",
+   "url": "https://www.rp.pl/konflikty-zbrojne/art45521111-po-nalocie-rosyjskich-obiektow-drony-sprawdzaja-teren-szukaja-sladow-materialow-wybuchowych",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita – Tusk: to co spadło jest z Rosji",
+   "url": "https://www.rp.pl/polityka/art45520011-donald-tusk-rozmawialem-z-szefem-nato-to-co-spadlo-w-polsce-jest-z-rosji",
+   "paywalled": false
+  },
+  {
+   "title": "WP – relacja na żywo",
+   "url": "https://wiadomosci.wp.pl/niezidentyfikowany-obiekt-pod-bilgorajem-sluzby-na-miejscu-7352965491005440l",
+   "paywalled": false
+  },
+  {
+   "title": "WP – wszystko co wiadomo",
+   "url": "https://wiadomosci.wp.pl/rosyjskie-rakiety-i-dron-spadly-w-polsce-wszystko-co-wiadomo-7353117235648544a",
+   "paywalled": false
+  },
+  {
+   "title": "WP – Szef NATO reaguje",
+   "url": "https://wiadomosci.wp.pl/szef-nato-reaguje-na-wydarzenia-w-polsce-wyraznie-niebezpieczne-7353060321814528a",
+   "paywalled": false
+  },
+  {
+   "title": "Interia – BBN podało nowe informacje",
+   "url": "https://wydarzenia.interia.pl/kraj/news-przekroczenie-polskiej-przestrzeni-powietrznej-nowe-informac,nId,23576519",
+   "paywalled": false
+  },
+  {
+   "title": "Dziennik Wschodni – wniosek do NATO",
+   "url": "https://www.dziennikwschodni.pl/artykul/394211,rakieta-spadla-pod-bilgorajem-rzad-mowi-o-rosyjskiej-prowokacji-i-zlozy-wniosek-do-nato",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland – unidentified object hits Poland",
+   "url": "https://notesfrompoland.com/2026/11/20/unidentified-object-hits-poland-amid-russian-attacks-on-western-ukraine/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – wójt Aleksandrowa",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/rosyjski-pocisk-przelecial-nad-jego-gmina-wojt-wskazuje-na-powazny-problem/",
+   "paywalled": false
+  },
+  {
+   "title": "Interia – Domański wicepremierem, Bartol ministrą",
+   "url": "https://wydarzenia.interia.pl/kraj/news-zamiany-w-rzadzie-nawrocki-powolal-domanskiego-na-wicepremie,nId,23576554",
+   "paywalled": false
+  },
+  {
+   "title": "XYZ – Bartol ministrem funduszy",
+   "url": "https://xyz.pl/dzieje-sie/agnieszka-bartol-zostala-ministrem-funduszy-i-polityki-regionalnej-prezydent-wreczyl-akt-powolania-2050",
+   "paywalled": false
+  },
+  {
+   "title": "XYZ – NBP: prezydent powołał czwórkę członków zarządu (Nov 6)",
+   "url": "https://xyz.pl/?p=272969",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita – sprzeczne komunikaty Pałacu (Nov 17)",
+   "url": "https://www.rp.pl/polityka/art45506801-jedno-popoludnie-dwa-sprzeczne-komunikaty-co-sie-dzieje-w-palacu-prezydenckim",
+   "paywalled": false
+  },
+  {
+   "title": "OKO.press – prezydent się ugiął (Nov 17)",
+   "url": "https://oko.press/na-zywo/na-zywo-relacja/prezydent-sie-ugial-w-piatek-dokona-zmian-w-rzadzie",
+   "paywalled": false
+  },
+  {
+   "title": "XYZ – podatkowa rewolucja może skończyć się wetem",
+   "url": "https://xyz.pl/?p=273927",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – nie będzie opłatka",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/nie-bedzie-oplatka-nawrockiego-i-tuska-nie-zobaczymy-sie-przed-swietami/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – żołnierz oddał 12 strzałów, decyzja sądu",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-20/oddal-12-strzalow-na-granicy-z-bialorusia-sad-zadecydowal/",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland – InPost takeover completed",
+   "url": "https://notesfrompoland.com/2026/11/20/fedex-led-consortium-completes-e7-8bn-takeover-of-polish-delivery-giant-inpost/",
+   "paywalled": false
+  },
+  {
+   "title": "prawy.pl – Ch-101, Jasionka",
+   "url": "https://prawy.pl/rakieta-ch101-nowy-lipowiec-jasionka-patriot/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews – SCT consultation",
+   "url": "https://krknews.pl/konsultacje-sct-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – property tax freeze",
+   "url": "https://lovekrakow.pl/prezydent-zmienia-decyzje-krakowianie-nie-zaplaca-wiecej-w-2027-roku",
+   "paywalled": false
+  },
+  {
+   "title": "nczas.info (PAP) – prosecutors' findings",
+   "url": "https://nczas.info/2026/11/20/ponad-sto-strzalow-i-nowe-tropy-prokuratura-ujawnia-ustalenia-sledztwa-po-zamachu-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "Krakowski Raport – evening digest 20 Nov",
+   "url": "https://krakowskiraport.pl/artykul/3242-nowe-ustalenia-prokuratury-kamizelki-policji-pociag-sniezny-co-sie-dzieje-w-mies",
+   "paywalled": false
+  },
+  {
+   "title": "Krakowski Raport – Krótko z Krakowa 20 Nov",
+   "url": "https://krakowskiraport.pl/artykul/3241-krotko-z-krakowa-2026-11-20",
+   "paywalled": false
+  },
+  {
+   "title": "Krakowski Raport – homepage/daily data",
+   "url": "https://krakowskiraport.pl/",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl – management competitions",
+   "url": "https://krakow.pl/aktualnosci/346702,29,komunikat,prezydent_oglasza_kolejne_konkursy_na_stanowiska_kierownicze.html",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – Filipiak/KHK",
+   "url": "https://lovekrakow.pl/szczesny-filipiak-ma-stracic-prace-w-miejskiej-spolce-decyzja-nalezy-teraz-do-radnych-pis-u",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – Christmas market",
+   "url": "https://lovekrakow.pl/swiateczny-klimat-wraca-na-rynek-to-moze-byc-ostatni-jarmark-w-tej-formule",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – Witosa",
+   "url": "https://lovekrakow.pl/rusza-inwestycja-drogowa-przy-ulicy-witosa-budzila-sprzeciw-mieszkancow",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – S7 Mistrzejowice",
+   "url": "https://lovekrakow.pl/mieli-jechac-estakadami-pojada-inaczej-wezel-s7-ciagle-budzi-dyskusje",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – ZIS stadium commercialisation",
+   "url": "https://lovekrakow.pl/co-z-dalsza-komercjalizacja-stadionu-wisly-miasto-tlumaczy-i-zapowiada",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków – Małopolska roads",
+   "url": "https://lovekrakow.pl/miliony-na-lokalne-drogi-w-malopolsce-samorzady-ze-wsparciem",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews – Batowice",
+   "url": "https://krknews.pl/cztery-perony-windy-i-szybsze-pociagi-krakow-batowice-po-wielkiej-przebudowie/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews – Cracovia board",
+   "url": "https://krknews.pl/cracovia-ma-nowy-zarzad-wyglada-na-to-ze-tymczasowy/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews – Wałachowski on metro",
+   "url": "https://krknews.pl/jesli-pojawia-sie-pieniadze-chetnie-wybudujemy-wiceprezydent-walachowski-o-przyszlosci-metra-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews – Gibała's first month",
+   "url": "https://krknews.pl/miesiac-prezydentury-gibaly-pod-lupa-krakowscy-politycy-oceniaja/",
+   "paywalled": false
+  },
+  {
+   "title": "CoWKrakowie – tram derailment",
+   "url": "https://cowkrakowie.pl/2026/11/utrudnienia-w-ruchu-tramwajowym-w-krakowie",
+   "paywalled": false
+  },
+  {
+   "title": "CoWKrakowie – A4 concession",
+   "url": "https://cowkrakowie.pl/2026/11/koniec-koncesji-na-a4-katowice-krakow-beda-zwolnienia-pracownikow",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa – Kosiniak-Kamysz on metro",
+   "url": "https://pulskrakowa.pl/wicepremier-kosiniak-kamysz-deklaruje-wsparcie-dla-metra-prezydent-gibala-czeka-na-gwarancje-finansowania/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków – Prof. Danel",
+   "url": "https://radiokrakow.pl/audycje/publicystyka/co-niesie-dzien/referendum-metro-i-spor-ze-lwowem-prof-danel-lukasz-gibala-zderzyl-sie-z-rzeczywistoscia/187999",
+   "paywalled": false
+  },
+  {
+   "title": "Kraków Portal – weekend guide",
+   "url": "https://krakowportal.pl/weekend-w-krakowie-20-22-listopada-2026-teatr-podroze-i-koncerty/",
+   "paywalled": false
+  },
+  {
+   "title": "MPK Kraków – announcements",
+   "url": "https://mpk.krakow.pl/",
+   "paywalled": false
+  },
+  {
+   "title": "AQICN Kraków",
+   "url": "https://aqicn.org/city/krakow/pl/",
+   "paywalled": false
+  },
+  {
+   "title": "Dzień Dobry TVN – forecast 21 Nov",
+   "url": "https://dziendobry.tvn.pl/newsy/pogoda/prognoza-pogody-na-sobote-21-listopada-2026-ile-bedzie-stopni-st9348329",
+   "paywalled": false
+  },
+  {
+   "title": "Cyclone Akvan crosses Odisha coast, brings heavy rain; no damage reported (Business Standard/PTI)",
+   "url": "https://www.business-standard.com/amp/india-news/cyclone-akvan-crosses-odisha-coast-brings-heavy-rain-no-damage-reported-126112000320_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "चक्रवात अकवान पड़ा कमजोर (Aaj Tak)",
+   "url": "https://www.aajtak.in/india/news/story/cyclone-akvan-deep-depression-odisha-west-bengal-heavy-rain-ntc-acwi-dskc-2701868-2026-11-21",
+   "paywalled": false
+  },
+  {
+   "title": "TPSODL restores power to 10.69 lakh consumers (OdishaBytes)",
+   "url": "https://odishabytes.com/cyclone-akvan-tpsodl-restores-power-to-10-69-lakh-consumers-achieves-nearly-99-restoration-within-7-hours/",
+   "paywalled": false
+  },
+  {
+   "title": "Cyclone Akvan crop damage compensation (Kisan India)",
+   "url": "https://www.kisanindia.in/agriculture-money/cyclone-akvan-crop-damage-compensation-farmers-chhattisgarh-jharkhand-odisha-170110.html",
+   "paywalled": false
+  },
+  {
+   "title": "Ladakh votes in panchayat and municipal polls (Greater Kashmir)",
+   "url": "https://www.greaterkashmir.com/ladakh/ladakh-votes-in-panchayat-and-municipal-polls-amid-bitter-chill-after-eight-year-gap-12828341",
+   "paywalled": false
+  },
+  {
+   "title": "PIB Summaries 21 November 2026 (Legacy IAS)",
+   "url": "https://www.legacyias.com/pib-summaries-21-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "SCO Civilisational Dialogue Forum (Organiser)",
+   "url": "https://organiser.org/2026/11/21/427710/bharat/delhi/sco-civilisational-dialogue-forum-pm-modi-inaugurates-platform-to-celebrate-shared-heritage-and-ancient-traditions/",
+   "paywalled": false
+  },
+  {
+   "title": "PM inaugurates First SCO Civilisational Dialogue Forum (PMIndia)",
+   "url": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-first-sco-civilisational-dialogue-forum/?comment=disable",
+   "paywalled": false
+  },
+  {
+   "title": "Pakistani minister, MEA on Indus Waters Treaty (Aaj Tak)",
+   "url": "https://www.aajtak.in/india/news/story/sco-forum-india-pakistan-indus-water-treaty-musadik-malik-ntc-acwi-dskc-2701896-2026-11-21",
+   "paywalled": false
+  },
+  {
+   "title": "Pak minister denied Taj Mahal visit (Navbharat Live)",
+   "url": "https://navbharatlive.com/india/sco-meet-pakistan-minister-musadik-malik-taj-mahal-nizamuddin-centre-denies-visit-aks03",
+   "paywalled": false
+  },
+  {
+   "title": "ICJ verdict noted: MEA (ThePrint/PTI)",
+   "url": "https://theprint.in/india/icj-verdict-noted-india-consistently-supported-speedy-return-of-rohingya-people-mea/3104759/",
+   "paywalled": false
+  },
+  {
+   "title": "India in touch with Qatar on naval veteran (ETV Bharat)",
+   "url": "https://www.etvbharat.com/en/bharat/india-in-touch-with-qatar-authorities-to-ascertain-well-being-of-naval-veteran-says-mea-enn26112005480",
+   "paywalled": false
+  },
+  {
+   "title": "India proposes easing disclosure rules (Bloomberg)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
+   "paywalled": true
+  },
+  {
+   "title": "SEBI proposes easing disclosure norms for offshore funds (Social News XYZ/IANS)",
+   "url": "https://www.socialnews.xyz/2026/11/20/sebi-proposes-easing-disclosure-norms-for-offshore-funds/",
+   "paywalled": false
+  },
+  {
+   "title": "Closing Bell 20 November 2026 (Kotak Neo)",
+   "url": "https://www.kotakneo.com/news/market-news/closing-bell-20-november-2026-sensex-nifty-rally-on-banking-it-stocks-and-fii-buying/",
+   "paywalled": false
+  },
+  {
+   "title": "Mahanadi Coalfields IPO subscription (Chittorgarh)",
+   "url": "https://www.chittorgarh.com/ipo_subscription/mahanadi-coalfields-ipo/3247/",
+   "paywalled": false
+  },
+  {
+   "title": "Mahanadi Coalfields IPO Day 2 (Goodreturns)",
+   "url": "https://www.goodreturns.in/news/mahanadi-coalfields-ipo-day-2-issue-subscribed-0-42-times-gmp-drops-as-retail-demand-falls-1548473.html",
+   "paywalled": false
+  },
+  {
+   "title": "Thiruparankundram Hill SC order (LiveLaw)",
+   "url": "https://www.livelaw.in/top-stories/thiruparankundram-hill-supreme-court-stays-madras-hc-judgment-allows-karthigai-lamp-lighting-at-deepathoon-on-nov-24-559296",
+   "paywalled": false
+  },
+  {
+   "title": "No extra Cauvery water for TN (Outlook)",
+   "url": "https://www.outlookindia.com/national/no-extra-cauvery-water-for-tamil-nadu-sc-dismisses-two-pleas-seeking-direction-to-karnataka",
+   "paywalled": false
+  },
+  {
+   "title": "Kashmir free of India-born terrorists, says Amit Shah (APN Live)",
+   "url": "https://apnlive.com/india-news/kashmir-free-india-born-terrorists-amit-shah",
+   "paywalled": false
+  },
+  {
+   "title": "Top LeT terrorist killed in Kulgam (National Herald)",
+   "url": "https://www.nationalheraldindia.com/national/top-lashkar-e-taiba-terrorist-killed-in-encounter-in-south-kashmirs-kulgam",
+   "paywalled": false
+  },
+  {
+   "title": "Maharashtra FDA supplement crackdown (Kashmir Observer)",
+   "url": "https://kashmirobserver.net/2026/11/20/fda-orders-statewide-crackdown-on-health-supplements/",
+   "paywalled": false
+  },
+  {
+   "title": "PM Modi to visit Bihar, Bengal and UP (Business Upturn)",
+   "url": "https://businessupturn.com/nation/pm-modi-to-visit-bihar-bengal-and-up-on-november-21-rs34-470-crore-projects-in-vaishali/",
+   "paywalled": false
+  },
+  {
+   "title": "21 November 2026 major events (Amar Ujala)",
+   "url": "https://www.amarujala.com/india-news/21-november-2026-major-event-2026-2026-11-20",
+   "paywalled": false
+  },
+  {
+   "title": "PIB all releases",
+   "url": "https://www.pib.gov.in/allrelease.aspx?reg=3&lang=1",
+   "paywalled": false
+  },
+  {
+   "title": "Delhi AQI Nov 21 (ETV Bharat)",
+   "url": "https://www.etvbharat.com/en/bharat/delhi-aqi-air-qulaity-updates-air-pollution-grap-restrictions-november-21-enn26112100604",
+   "paywalled": false
+  },
+  {
+   "title": "Delhi AQI 327 (Ommcom/IANS)",
+   "url": "https://ommcomnews.com/india-news/winter-chill-intensifies-in-delhi-ncr-aqi-remains-in-very-poor-category-at-327/",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw – Gupta sentenced to 19 years",
+   "url": "https://www.livelaw.in/news-updates/indian-national-nikhil-gupta-sentenced-to-19-years-in-us-prison-for-plotting-to-assassinate-sikh-separatist-gurpatwant-singh-pannun-559392",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat (PTI) – Gupta 235 months",
+   "url": "https://www.etvbharat.com/en/international/us-court-sentences-indian-national-nikhil-gupta-to-235-months-in-jail-in-murder-for-hire-plot-enn26112007883",
+   "paywalled": false
+  },
+  {
+   "title": "The Week – Gupta sentenced",
+   "url": "https://www.theweek.in/news/world/2026/11/21/nikhil-gupta-sentenced-to-us-prison-gurpatwant-singh-pannun-murder-plot.html",
+   "paywalled": false
+  },
+  {
+   "title": "fvbb (ET) – FAA completes audit",
+   "url": "https://fvbb.com/ns/faa-completes-five-day-aviation-safety-audit/331769",
+   "paywalled": false
+  },
+  {
+   "title": "Nation Path India – FAA assessment",
+   "url": "https://www.nationpathindia.com/international/us-faa-india-dgca-aviation-safety-assessment-november-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook India – Operation Monsoon Thunder",
+   "url": "https://www.outlookindia.com/national/operation-monsoon-thunder-india-us-ncb-dea-joint-ops-bust-opiod-drug-racket",
+   "paywalled": false
+  },
+  {
+   "title": "PressNewsAgency (ANI) – Gor hails Monsoon Thunder",
+   "url": "https://pressnewsagency.org/us-india-partnership-in-action-sergio-gor-hails-operation-monsoon-thunder-after-ncb-dea-drug-bust/",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News – Monsoon Thunder",
+   "url": "https://gulfnews.com/world/asia/india/ncb-dea-operation-busts-india-linked-us-drug-supply-network-1.500754839",
+   "paywalled": false
+  },
+  {
+   "title": "Tribune – India holds back assessment of summit",
+   "url": "https://www.tribuneindia.com/news/india/india-holds-back-assessment-of-trump-xi-putin-summit-awaits-fuller-account-of-outcomes",
+   "paywalled": false
+  },
+  {
+   "title": "AFP via Yahoo – Warsaw says Russian missiles hit Poland",
+   "url": "https://sg.news.yahoo.com/warsaw-says-russian-missiles-hit-143506637.html",
+   "paywalled": false
+  },
+  {
+   "title": "Forsal/PAP – Tusk: intentional provocation",
+   "url": "https://forsal.pl/kraj/artykuly/11348928,naruszenie-polskiej-przestrzeni-tusk-mamy-do-czynienia-z-intencjonalna-prowokacja.html",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Beast via Yahoo – Trump 'little missiles'",
+   "url": "https://www.yahoo.com/news/politics/articles/trump-humiliated-vladimir-putin-defending-163831497.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita – atom i LNG z USA",
+   "url": "https://energia.rp.pl/surowce-i-paliwa/art45517291-powrot-europy-do-paliw-z-rosji-amerykanie-zaprzeczaja",
+   "paywalled": true
+  },
+  {
+   "title": "Visegrad Insight – Poland and India long game",
+   "url": "https://visegradinsight.eu/poland-and-india-settle-in-for-a-long-game/",
+   "paywalled": true
+  },
+  {
+   "title": "Boundless – This Week in Immigration Nov 20",
+   "url": "https://www.boundless.com/blog/boundless-weekly-immigration-news",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint – Open Doors 2026",
+   "url": "https://theprint.in/india/education/us-sees-15-drop-in-fresh-international-student-enrolments-india-top-source-despite-6-5-decline/3099854/",
+   "paywalled": false
+  }
+ ]
+}
