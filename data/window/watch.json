@@ -2221,6 +2221,17 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": "E-261121-43"
+  },
+  {
+   "id": "W-261121-12",
+   "dateAdded": "2026-11-21",
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "what": "Whether Nikhil Gupta files a notice of appeal against his 235-month sentence, and whether India's MEA comments on the sentencing",
+   "expected": "Defence lawyers said they were disappointed (PTI); a criminal notice of appeal is normally due 14 days after judgment is entered",
+   "checkDate": "2026-12-07",
+   "happened": "",
+   "eventId": "E-261121-60"
   }
  ]
 }
