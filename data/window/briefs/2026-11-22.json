@@ -1,0 +1,1145 @@
+{
+ "date": "2026-11-22",
+ "top5": [
+  {
+   "text": "NATO chief Rutte, in Warsaw, pledged to defend every centimetre of Poland after the Russian missile incursion. Poland will table air-defence proposals at an extraordinary NATO Council on Monday, without invoking Article 4.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "WP Wiadomości (PAP)",
+     "url": "https://wiadomosci.wp.pl/jest-reakcja-z-nato-na-rakiety-jasna-deklaracja-dla-polski-7353412676540448a"
+    },
+    {
+     "label": "RMF24",
+     "url": "https://www.rmf24.pl/fakty/swiat/news-polska-przedstawi-w-poniedzialek-nato-konkretne-propozycje-w,nIdn,1027097"
+    }
+   ]
+  },
+  {
+   "text": "Iran's IRGC claims it downed two US drones over Hormuz and struck Bahrain again; the US has not confirmed. Treasury added sanctions on Iranian oil networks.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    },
+    {
+     "label": "Al Jazeera English",
+     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    }
+   ]
+  },
+  {
+   "text": "The Washington Post reports Hegseth signed a secret memo curbing US–Canada military cooperation; the Pentagon says NORAD and intelligence ties are unaffected.",
+   "place": "US",
+   "links": [
+    {
+     "label": "The Washington Post (via Newsmax/Yahoo)",
+     "url": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/"
+    }
+   ]
+  },
+  {
+   "text": "Pakistani minister Musadik Malik addressed the SCO forum in Delhi, the first such visit since Op Sindoor; no bilateral meeting was reported.",
+   "place": "India",
+   "links": [
+    {
+     "label": "ThePrint / PTI (via Telangana Today)",
+     "url": "https://theprint.in/diplomacy/at-purana-qila-in-delhi-pakistan-minister-invokes-ghalib-addresses-sco-forum-in-urdu/3105301/"
+    }
+   ]
+  },
+  {
+   "text": "UniBus and Inter end the Kraków–Katowice express coaches on 30 Nov after 17 years, leaving rail as the main option.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "LoveKraków",
+     "url": "https://lovekrakow.pl/wielka-zmiana-dla-pasazerow-koniec-kursow-do-katowic-po-17-latach"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261122-04",
+    "domain": "Foreign relations",
+    "text": "Hegseth reportedly signed a secret memo curbing US-Canada military cooperation; the Pentagon says NORAD, NATO and intelligence ties are not affected.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Washington Post (via Newsmax/Yahoo)",
+      "url": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.yahoo.com/news/politics/articles/hegseth-secret-memo-restricts-us-003042331.html"
+     }
+    ],
+    "paywalled": true
+   },
+   {
+    "id": "E-261122-01",
+    "domain": "Defense, security & crime",
+    "text": "Iran's IRGC claims it shot down two US drones over the Strait of Hormuz on Nov 21; the US has not confirmed.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-02",
+    "domain": "Defense, security & crime",
+    "text": "Iran hit Bahrain again Nov 21-22 and says it targeted US bases; reports say it is readying 14 tankers to test the US blockade.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-03",
+    "domain": "Foreign relations",
+    "text": "Treasury sanctioned four Iranian 'oil trustees' on Nov 20; Araghchi set seven conditions for reopening Hormuz and kept uranium a red line.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.omanobserver.om/article/1199981/world/region/araqchi-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-05",
+    "domain": "Society: education, labor, immigration",
+    "text": "Masked federal agents detained two people boarding a flight at Seattle airport; state, port and airline officials condemned it.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ABC News",
+      "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.kuow.org/immigration/2026-11-21/outraged-port-officials-react-after-ice-arrests-family-at-sea-tac-airport"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-06",
+    "domain": "Law, courts & regulation",
+    "text": "A New York judge refused a long-term ban on DHS-funded pro-administration TV ads, saying the post-election harm is no longer imminent.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "AP (via Business Standard)",
+      "url": "https://www.business-standard.com/world-news/us-judge-declines-long-term-ban-on-trump-admin-s-taxpayer-funded-ads-126112100092_1.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-07",
+    "domain": "Society: education, labor, immigration",
+    "text": "A federal judge signalled he may block the freeze on 100,000+ refugee green-card applications (Reuters via secondary outlet).",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "Alex Jones Live (citing Reuters)",
+      "url": "https://www.alexjoneslive.com/2026/11/21/judge-ready-to-block-trump-freeze-on-more-than-100000-green-card-applications/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-08",
+    "domain": "Society: education, labor, immigration",
+    "text": "Labor Department's independent-contractor rule, reverting to a 2021-style two-core-factor test, is published Nov 23 and takes effect in 60 days.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "SHRM",
+      "url": "https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.shrm.org/topics-tools/employment-law-compliance/dol-finalizes-independent-contractor-rule-reversing-biden"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-10",
+    "domain": "Science & space",
+    "text": "An Anthropic researcher claims a Claude-assisted, machine-checked proof of the Riemann Hypothesis; mathematicians say verification will take time.",
+    "tier": 2,
+    "verification": "Claimed",
+    "thread": "Anthropic IPO and AI market valuations",
+    "links": [
+     {
+      "label": "AP (via Broadband Breakfast)",
+      "url": "https://broadbandbreakfast.com/anthropic-worker-claims-to-have-solved-riemann-hypothesis-with-help-from-claude/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261122-12",
+    "domain": "Foreign relations",
+    "text": "In Warsaw, NATO chief Rutte pledged to defend 'every centimetre' of Poland after the Russian missile incursion, but announced no new deployments.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "WP Wiadomości (PAP)",
+      "url": "https://wiadomosci.wp.pl/jest-reakcja-z-nato-na-rakiety-jasna-deklaracja-dla-polski-7353412676540448a"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wiadomosci.dziennik.pl/polityka/artykuly/11349833,szef-nato-w-warszawie-sojusz-bedzie-bronic-kazdego-centymetra-polskiego-terytorium.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-13",
+    "domain": "Defense, security & crime",
+    "text": "Poland will table air-defence proposals at an extraordinary NATO Council meeting on Monday but will not invoke Article 4.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/swiat/news-polska-przedstawi-w-poniedzialek-nato-konkretne-propozycje-w,nIdn,1027097"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/szef-mon-zabral-glos-ws-wschodniej-granicy-polski-mowi-o-dodatkowych-wsparciu-nato/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-14",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors say the Kh-101 that fell at Nowy Lipowiec was built this quarter and blew up in mid-air.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/rakieta-w-nowym-lipowcu-prokuratura-ma-kolejne-informacje-czwarty-kwartal-roku/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-rosyjska-rakieta-spadla-w-nowym-lipowcu-na-jaw-wychodza-nowe,nId,23577069"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-15",
+    "domain": "Politics & government",
+    "text": "The opposition accuses the government of late missile warnings; ministers call some witness accounts disinformation.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Interia",
+      "url": "https://wydarzenia.interia.pl/kraj/news-wielki-spor-o-alerty-opozycja-uderza-w-rzad-fala-komentarzy,nId,23576739"
+     },
+     {
+      "label": "Second source",
+      "url": "https://nczas.info/2026/11/21/watpliwosci-wokol-dzialan-sluzb-syreny-po-wybuchu-rakiety/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-16",
+    "domain": "Politics & government",
+    "text": "Sikorski and the President's office clash again after the Foreign Ministry sought foreign consent for new ambassadors without Nawrocki's approval.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "RMF24 / Polsat News (PAP)",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/przydacz-zarzuca-sikorskiemu-eskalowanie-konfliktu-rozeslalo-do-kilkunastu-stolic/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-przeciez-to-jest-absurdalne-sikorski-odpowiada-na-oskarzenia,nIdn,1027129"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261122-23",
+    "domain": "Culture, media & sport",
+    "text": "Wisła threatened to boycott its match in Radom after its fans were barred over vandalism; the ban was lifted, kick-off slipped 30 minutes, and it ended 0:0.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://rmf24.pl/fakty/sport/news-wisla-zagrozila-ze-nie-wyjdzie-na-boisko-kuriozalne-okoliczn,nIdn,1027127"
+     },
+     {
+      "label": "Second source",
+      "url": "https://sportowefakty.wp.pl/pilka-nozna/1285463/wisla-grozila-bojkotem-meczu-wyjasniamy-co-stalo-sie-w-radomiu"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-26",
+    "domain": "Infrastructure, transport & housing",
+    "text": "UniBus and Inter end their 17-year Katowice–Kraków coach service on 30 November, citing costs and passengers switching to rail.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków",
+      "url": "https://lovekrakow.pl/wielka-zmiana-dla-pasazerow-koniec-kursow-do-katowic-po-17-latach"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261122-30",
+    "domain": "Foreign relations",
+    "text": "At the SCO forum in Delhi, Pakistan's Musadik Malik invoked Ghalib and shared heritage and sought terror evidence-sharing; no bilateral meeting took place.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ThePrint / PTI (via Telangana Today)",
+      "url": "https://theprint.in/diplomacy/at-purana-qila-in-delhi-pakistan-minister-invokes-ghalib-addresses-sco-forum-in-urdu/3105301/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://telanganatoday.com/pak-minister-invokes-humayun-sher-shah-in-his-address-at-sco-civilisational-forum-at-purana-quila"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-31",
+    "domain": "Politics & government",
+    "text": "Ladakh's first UT-era local polls drew about 70% turnout in panchayats and 52% in municipalities, while Leh groups claimed village boycotts.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Ladakh statehood protests and council polls",
+    "links": [
+     {
+      "label": "PTI (via Free Press Journal); IBTimes India",
+      "url": "https://www.freepressjournal.in/india/ladakh-records-7003-per-cent-turnout-in-panchayat-polls-524-pc-in-municipal-elections"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.ibtimes.co.in/defying-boycott-call-braving-sub-zero-cold-ladakh-records-over-62-turnout-panchayat-polls-908561"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-32",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Modi opened the 9.76-km Nitish Setu over the Ganga in Bihar and attacked Congress and RJD during a three-state tour.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ETV Bharat; ANI",
+      "url": "https://www.etvbharat.com/en/bharat/indias-longest-river-bridge-nitish-setu-in-bihar-vaishali-inaugurated-by-prime-minister-narendra-modi-enn26112103298"
+     },
+     {
+      "label": "Second source",
+      "url": "https://aninews.in/news/national/politics/bihar-pm-modi-inaugurates-nitish-setu-over-river-ganga-in-vaishali16020261121142742/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-34",
+    "domain": "Defense, security & crime",
+    "text": "A drone industry body says the Army floated 580 tenders naming Chinese drone parts since 2021 and calls for a ban.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "ThePrint",
+      "url": "https://theprint.in/defence/industry-body-raises-alarm-689-tenders-for-chinese-drones-parts-floated-since-2021-84-by-army/3105003/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-36",
+    "domain": "Foreign relations",
+    "text": "Nepal PM Balendra Shah begins a two-day India visit, seeking air routes and an economic package.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Kathmandu Post; Amar Ujala",
+      "url": "https://kathmandupost.com/national/2026/11/16/shah-to-make-two-day-state-visit-to-india-from-november-22"
+     },
+     {
+      "label": "Second source",
+      "url": "https://news24online.com/world/nepal-pm-india-visit-balendra-shah-to-arrive-in-new-delhi-on-november-22-for-first-bilateral-trip-whats-on-agenda/951403/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Weather",
+   "text": "IMGW-based forecasts point to a cold week. Monday 23 Nov brings a risk of ice on roads and pavements in Małopolska, with highs of 1–4°C and nights down to about -4°C (colder in the foothills).",
+   "link": "https://natemat.pl/676414,to-nie-sa-cwiczenia-idzie-atak-zimy-snieg-na-nizinach-oblodzenia-i-mroz-do-11-stopni"
+  },
+  {
+   "kind": "Closure",
+   "text": "Ul. Kościuszkowców near Zakopiańska is closed to cars from Mon 23 Nov for about a week. Detour via Niemcewicza, Montwiłła-Mireckiego and Zbrojarzy, with no parking on Niemcewicza.",
+   "link": "https://www.halokrakow.pl/zamkniecie-kosciuszkowcow-od-23-listopada-kierowcow-czeka-objazd-i-zakaz-parkowania/"
+  },
+  {
+   "kind": "Transit",
+   "text": "Trams still avoid ul. św. Gertrudy (track curve repair, MPK changes since 9 Nov). Cars on Stradomska/Gertrudy can only go towards Dietla until about mid-December. Suburban buses 238, 248, 268, 278 and 288 are diverted for the Modlniczka junction repair until 25 Nov.",
+   "link": "https://mpk.krakow.pl/komunikaty"
+  },
+  {
+   "kind": "Closure",
+   "text": "A4 bypass slip roads at the Kraków Skawina junction close overnight (about 20:00–06:00) on scheduled nights through early December: 23/24 Nov Rzeszów→Kraków/Oświęcim, 24/25 Nov Kraków/Oświęcim→Balice. A 110 km/h limit applies; GDDKiA expects to finish by 11 Dec.",
+   "link": "https://krknews.pl/utrudnienia-na-obwodnicy-krakowa-drogowcy-zamkna-kolejne-zjazdy/"
+  },
+  {
+   "kind": "Transit",
+   "text": "The UniBus/Inter express coaches between Kraków and Katowice make their last runs on 30 Nov. After that, rail is the main public option on this route.",
+   "link": "https://lovekrakow.pl/wielka-zmiana-dla-pasazerow-koniec-kursow-do-katowic-po-17-latach"
+  },
+  {
+   "kind": "Event",
+   "text": "Wed 25 Nov, 16:00: extraordinary City Council session on Mayor Gibała's halt to metro preparations. From Fri 27 Nov the Main Square Christmas market opens (to 1 Jan), and on 28 Nov at 12:00 a free piano laureates' concert at Radio Kraków marks Józef Hofmann's 150th anniversary.",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/spor-o-metro-w-krakowie-radni-zwoluja-nadzwyczajna-sesje-i-zadaja-wyjasnien-od-prezydenta/187918"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261122-44",
+    "domain": "Environment, energy & disasters",
+    "text": "PEJ's head now expects the $50bn Westinghouse-Bechtel EPC deal by end-Q1 2027, later than the minister's end-2026 target.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Polish nuclear power programme",
+    "links": [
+     {
+      "label": "The Jerusalem Post (citing Dow Jones Newswires / WSJ)",
+      "url": "https://www.jpost.com/international/article-915555"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.newsquawk.com/headlines/poland-reportedly-expects-a-deal-with-us-consortium-for-usd-50bln-nuclear-power-plant-wsj-reports"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261122-45",
+    "domain": "Defense, security & crime",
+    "text": "Deputy minister Tomczyk discussed the permanent base and a Tomahawk purchase with the State Department's DiNanno, who he says will back Poland.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "RMF24 (with PAP)",
+      "url": "https://www.rmf24.pl/fakty/swiat/news-tomczyk-w-waszyngtonie-rozmawial-o-bazie-amerykanskiej-i-zak,nIdn,1026854"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261122-41",
+    "domain": "Defense, security & crime",
+    "text": "A US court mailed summonses for NSA Doval and ex-R&AW chief Goel to three Delhi courts, in Pannun's civil suit, after India refused the formal route.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Pannun assassination plot cases",
+    "links": [
+     {
+      "label": "PTC News",
+      "url": "https://www.ptcnews.tv/world-news/pannun-lawsuit-us-court-dispatches-summonses-to-ajit-doval-and-ex-raw-chief-samant-goel-4431980"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kmsnews.org/kms/2026/11/22/us-court-issues-summons-to-doval-goel-in-pannun-case.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261122-01",
+   "name": "Employee or Independent Contractor Status Under the FLSA, FMLA and MSPA (final rule, RIN 1235-AA46)",
+   "place": "US",
+   "body": "Department of Labor, Wage and Hour Division",
+   "stage": "Signed / published",
+   "changes": "Rescinds the 2024 rule. Restores a 2021-style economic-reality test with control and profit/loss opportunity as core factors, and adds 14 examples (platform workers, truck drivers, farm labour contractors).",
+   "affects": "Employers and gig/platform workers nationwide; classification for minimum wage, overtime and FMLA",
+   "effectiveDate": "2027-01-22",
+   "commentDeadline": "",
+   "officialLink": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+   "newsLink": "https://www.shrm.org/topics-tools/employment-law-compliance/dol-finalizes-independent-contractor-rule-reversing-biden"
+  }
+ ],
+ "deepDive": {
+  "domain": "Culture, media & sport",
+  "title": "Who runs Kraków's Music Centre? A one-year truce and an open question",
+  "body": "**Analysis.** Kraków's new Music Centre (Centrum Muzyki) next to Cichy Kącik is the biggest cultural building the city has under way. It has become an early test of how Mayor Łukasz Gibała's administration weighs culture against a strained budget. City Hall now expects the opening in **spring 2027**. At a [public hearing on 5 November](https://krakow.pl/aktualnosci/344314,33,komunikat,wysluchanie_publiczne_dotyczace_modelu_zarzadzania_centrum_muzyki_w_krakowie.html), Deputy Mayor Jan Hoffman said 2027 would be a transitional year. The building stays with the municipal development agency ARMK, and the two city orchestras, Capella Cracoviensis and Sinfonietta Cracovia, rent space there with extra city subsidies.\n\nThe disagreement is about what comes after 2027. ARMK president Katarzyna Olesiak argued that the company should keep running the building, with the orchestras setting the programme and a joint committee approving the calendar. The orchestra directors, Rafał Kokot and Jan Tomasz Adamus, want a cultural institution to run it rather than a company. Adamus warned that the one-year arrangement should not turn into an \"extravagant experiment\", [LoveKraków reported](https://lovekrakow.pl/zejdzcie-na-ziemie-zderzenie-dwoch-wizji-centrum-muzyki).\n\n**Money is the main issue.** ARMK puts annual running costs at 15m zł. Some residents at the hearing said that figure leaves out construction loan costs. One speaker put the real cost nearer 50m zł, and that estimate has not been verified. Councillor Michał Starobrat, from the mayor's club, said the centre will never cover its costs. He cited a debt ratio above 95% and warned of a possible recovery programme in 2028. Critics noted that the orchestras gave few figures, while former culture plenipotentiary Paweł Szczepanik said culture is an investment, not a cost.\n\n**What to watch.** On 18 November, Hoffman confirmed to the council that ARMK will run the building in 2027. Culture committee chair Mazurkiewicz's draft resolution asking the mayor to leave the centre with cultural institutions has not yet been voted on. The 2027 budget debate, alongside proposals to leave city memberships and set new 2027 tax rates, will show how much money the orchestras' rent subsidies get. It will also show whether the transitional model becomes the permanent one.",
+  "links": [
+   {
+    "label": "krakow.pl – public hearing on the Music Centre management model",
+    "url": "https://krakow.pl/aktualnosci/344314,33,komunikat,wysluchanie_publiczne_dotyczace_modelu_zarzadzania_centrum_muzyki_w_krakowie.html"
+   },
+   {
+    "label": "LoveKraków – 'Zejdźcie na ziemię': two visions of the Music Centre",
+    "url": "https://lovekrakow.pl/zejdzcie-na-ziemie-zderzenie-dwoch-wizji-centrum-muzyki"
+   },
+   {
+    "label": "LoveKraków – temporary decision: company keeps the building in 2027",
+    "url": "https://lovekrakow.pl/zapadla-tymczasowa-decyzja-w-kwestii-centrum-muzyki-w-2027-roku-obiekt-zostanie-w-rekach-spolki"
+   },
+   {
+    "label": "Gazeta Krakowska – Music Centre goes to ARMK for a year",
+    "url": "https://gazetakrakowska.pl/krakowskie-centrum-muzyki-trafi-w-rece-agencji-rozwoju-miasta-krakowa-na-rok-co-potem-pytanie-wciaz-pozostaje-otwarte/ar/c13p2-29499731"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261122-02",
+   "title": "Rosyjskie obiekty nad Polską. Opozycja pyta o alerty RCB. Mnóstwo komentarzy",
+   "reporter": "Maria Literacka",
+   "outlet": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-wielki-spor-o-alerty-opozycja-uderza-w-rzad-fala-komentarzy,nId,23576739",
+   "why": "Lays out the official alert timeline and both government and opposition positions in one place.",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261122-07",
+   "title": "Zielone światło z Pentagonu, decyzja w rękach Trumpa. Baza USA w Polsce coraz bliżej",
+   "reporter": "Marzena Tabor-Olszewska, Maciej Miłosz",
+   "outlet": "Rzeczpospolita",
+   "url": "https://rp.pl/kraj/art45513881-rzecz-w-tym-kiedy-gdzie-i-za-ile-moze-powstac-baza-wojsk-usa-w-polsce",
+   "why": "Lays out the possible sites, costs (up to 25bn zł) and realistic timing (not operational before 2029) of a permanent US base.",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-23",
+   "text": "Formal notification of Agniveer second-tour terms before the first batch exits on Nov 21. Pay and Seva…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Supreme Court hearing in the digital-arrest suo motu case: WhatsApp and other platforms’ anti-scam proposals",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Extraordinary NATO Council meeting on the Russian missile incursion into Poland",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Supreme Court's next hearing in the Delhi-NCR air-pollution case: further orders on vehicle emissions and…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Prosecutors’ findings on motive and on whether anyone helped plan or supply the Kraków attack, and whether…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Święczkowski's further attempts to enter the Constitutional Tribunal, possibly with a bailiff",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "FAA/DOT findings on the cause of the Nov 13 nationwide ground stop, and any congressional response to…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "J&K and Ladakh High Court (Leh bench) hearing on Sonam Wangchuk's petition against his house detention",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Outcomes of Nepal PM Balendra Shah's Nov 22–23 visit: air routes (Mahendranagar/Bhairahawa), an economic…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Final results in the Mississippi (Colom v. Hyde-Smith) and Alaska (Peltola v. Sullivan) Senate races.…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Karnataka–oil companies E20 dispute: whether the Petroleum Ministry or the oil companies agree to joint…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Government reply to Gibała's request for 10m zł for the security and monitoring centre",
+   "place": "Kraków"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English (second source)",
+   "url": "https://www.omanobserver.om/article/1199981/world/region/araqchi-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable",
+   "paywalled": false
+  },
+  {
+   "title": "The Washington Post (via Newsmax/Yahoo)",
+   "url": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/",
+   "paywalled": true
+  },
+  {
+   "title": "The Washington Post (via Newsmax/Yahoo) (second source)",
+   "url": "https://www.yahoo.com/news/politics/articles/hegseth-secret-memo-restricts-us-003042331.html",
+   "paywalled": true
+  },
+  {
+   "title": "ABC News",
+   "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News (second source)",
+   "url": "https://www.kuow.org/immigration/2026-11-21/outraged-port-officials-react-after-ice-arrests-family-at-sea-tac-airport",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via Business Standard)",
+   "url": "https://www.business-standard.com/world-news/us-judge-declines-long-term-ban-on-trump-admin-s-taxpayer-funded-ads-126112100092_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Alex Jones Live (citing Reuters)",
+   "url": "https://www.alexjoneslive.com/2026/11/21/judge-ready-to-block-trump-freeze-on-more-than-100000-green-card-applications/",
+   "paywalled": false
+  },
+  {
+   "title": "SHRM",
+   "url": "https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking",
+   "paywalled": false
+  },
+  {
+   "title": "SHRM (second source)",
+   "url": "https://www.shrm.org/topics-tools/employment-law-compliance/dol-finalizes-independent-contractor-rule-reversing-biden",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via Broadband Breakfast)",
+   "url": "https://broadbandbreakfast.com/anthropic-worker-claims-to-have-solved-riemann-hypothesis-with-help-from-claude/",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości (PAP)",
+   "url": "https://wiadomosci.wp.pl/jest-reakcja-z-nato-na-rakiety-jasna-deklaracja-dla-polski-7353412676540448a",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości (PAP) (second source)",
+   "url": "https://wiadomosci.dziennik.pl/polityka/artykuly/11349833,szef-nato-w-warszawie-sojusz-bedzie-bronic-kazdego-centymetra-polskiego-terytorium.html",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/swiat/news-polska-przedstawi-w-poniedzialek-nato-konkretne-propozycje-w,nIdn,1027097",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 (second source)",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/szef-mon-zabral-glos-ws-wschodniej-granicy-polski-mowi-o-dodatkowych-wsparciu-nato/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/rakieta-w-nowym-lipowcu-prokuratura-ma-kolejne-informacje-czwarty-kwartal-roku/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News (second source)",
+   "url": "https://wydarzenia.interia.pl/kraj/news-rosyjska-rakieta-spadla-w-nowym-lipowcu-na-jaw-wychodza-nowe,nId,23577069",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-wielki-spor-o-alerty-opozycja-uderza-w-rzad-fala-komentarzy,nId,23576739",
+   "paywalled": false
+  },
+  {
+   "title": "Interia (second source)",
+   "url": "https://nczas.info/2026/11/21/watpliwosci-wokol-dzialan-sluzb-syreny-po-wybuchu-rakiety/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 / Polsat News (PAP)",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/przydacz-zarzuca-sikorskiemu-eskalowanie-konfliktu-rozeslalo-do-kilkunastu-stolic/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 / Polsat News (PAP) (second source)",
+   "url": "https://www.rmf24.pl/fakty/polityka/news-przeciez-to-jest-absurdalne-sikorski-odpowiada-na-oskarzenia,nIdn,1027129",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://rmf24.pl/fakty/sport/news-wisla-zagrozila-ze-nie-wyjdzie-na-boisko-kuriozalne-okoliczn,nIdn,1027127",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 (second source)",
+   "url": "https://sportowefakty.wp.pl/pilka-nozna/1285463/wisla-grozila-bojkotem-meczu-wyjasniamy-co-stalo-sie-w-radomiu",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków",
+   "url": "https://lovekrakow.pl/wielka-zmiana-dla-pasazerow-koniec-kursow-do-katowic-po-17-latach",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint / PTI (via Telangana Today)",
+   "url": "https://theprint.in/diplomacy/at-purana-qila-in-delhi-pakistan-minister-invokes-ghalib-addresses-sco-forum-in-urdu/3105301/",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint / PTI (via Telangana Today) (second source)",
+   "url": "https://telanganatoday.com/pak-minister-invokes-humayun-sher-shah-in-his-address-at-sco-civilisational-forum-at-purana-quila",
+   "paywalled": false
+  },
+  {
+   "title": "PTI (via Free Press Journal); IBTimes India",
+   "url": "https://www.freepressjournal.in/india/ladakh-records-7003-per-cent-turnout-in-panchayat-polls-524-pc-in-municipal-elections",
+   "paywalled": false
+  },
+  {
+   "title": "PTI (via Free Press Journal); IBTimes India (second source)",
+   "url": "https://www.ibtimes.co.in/defying-boycott-call-braving-sub-zero-cold-ladakh-records-over-62-turnout-panchayat-polls-908561",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat; ANI",
+   "url": "https://www.etvbharat.com/en/bharat/indias-longest-river-bridge-nitish-setu-in-bihar-vaishali-inaugurated-by-prime-minister-narendra-modi-enn26112103298",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat; ANI (second source)",
+   "url": "https://aninews.in/news/national/politics/bihar-pm-modi-inaugurates-nitish-setu-over-river-ganga-in-vaishali16020261121142742/",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/defence/industry-body-raises-alarm-689-tenders-for-chinese-drones-parts-floated-since-2021-84-by-army/3105003/",
+   "paywalled": false
+  },
+  {
+   "title": "Kathmandu Post; Amar Ujala",
+   "url": "https://kathmandupost.com/national/2026/11/16/shah-to-make-two-day-state-visit-to-india-from-november-22",
+   "paywalled": false
+  },
+  {
+   "title": "Kathmandu Post; Amar Ujala (second source)",
+   "url": "https://news24online.com/world/nepal-pm-india-visit-balendra-shah-to-arrive-in-new-delhi-on-november-22-for-first-bilateral-trip-whats-on-agenda/951403/",
+   "paywalled": false
+  },
+  {
+   "title": "PTC News",
+   "url": "https://www.ptcnews.tv/world-news/pannun-lawsuit-us-court-dispatches-summonses-to-ajit-doval-and-ex-raw-chief-samant-goel-4431980",
+   "paywalled": false
+  },
+  {
+   "title": "PTC News (second source)",
+   "url": "https://kmsnews.org/kms/2026/11/22/us-court-issues-summons-to-doval-goel-in-pannun-case.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Jerusalem Post (citing Dow Jones Newswires / WSJ)",
+   "url": "https://www.jpost.com/international/article-915555",
+   "paywalled": false
+  },
+  {
+   "title": "The Jerusalem Post (citing Dow Jones Newswires / WSJ) (second source)",
+   "url": "https://www.newsquawk.com/headlines/poland-reportedly-expects-a-deal-with-us-consortium-for-usd-50bln-nuclear-power-plant-wsj-reports",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 (with PAP)",
+   "url": "https://www.rmf24.pl/fakty/swiat/news-tomczyk-w-waszyngtonie-rozmawial-o-bazie-amerykanskiej-i-zak,nIdn,1026854",
+   "paywalled": false
+  },
+  {
+   "title": "Weather: natemat.pl",
+   "url": "https://natemat.pl/676414,to-nie-sa-cwiczenia-idzie-atak-zimy-snieg-na-nizinach-oblodzenia-i-mroz-do-11-stopni",
+   "paywalled": false
+  },
+  {
+   "title": "Closure: www.halokrakow.pl",
+   "url": "https://www.halokrakow.pl/zamkniecie-kosciuszkowcow-od-23-listopada-kierowcow-czeka-objazd-i-zakaz-parkowania/",
+   "paywalled": false
+  },
+  {
+   "title": "Transit: mpk.krakow.pl",
+   "url": "https://mpk.krakow.pl/komunikaty",
+   "paywalled": false
+  },
+  {
+   "title": "Closure: krknews.pl",
+   "url": "https://krknews.pl/utrudnienia-na-obwodnicy-krakowa-drogowcy-zamkna-kolejne-zjazdy/",
+   "paywalled": false
+  },
+  {
+   "title": "Event: radiokrakow.pl",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/spor-o-metro-w-krakowie-radni-zwoluja-nadzwyczajna-sesje-i-zadaja-wyjasnien-od-prezydenta/187918",
+   "paywalled": false
+  }
+ ]
+}
