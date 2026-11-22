@@ -1498,6 +1498,109 @@
    "prevAnswer": "Morocco walked out in protest when the OAU admitted the Sahrawi Arab Democratic Republic as a member state. It rejoined the OAU's successor, the African Union, in January 2017, without the Sahrawi Republic being expelled.",
    "recallQ": "Why did Russia's ability to supply Crimea depend less on the bridge after 2022 than it did in 2014–2021?",
    "recallA": "In 2022 Russia captured the land corridor along the Sea of Azov through occupied Kherson and Zaporizhzhia regions. That gave Crimea a road and rail route from Russia that bypasses the bridge, and much military cargo shifted to it as Ukrainian strikes on the bridge mounted."
+  },
+  {
+   "id": "2026-11-22",
+   "date": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "title": "Why every EU budget ends in a veto fight",
+   "thread": "EU budget 2028–34",
+   "eventIds": [
+    "E-261122-03",
+    "E-261122-04",
+    "E-261122-05"
+   ],
+   "minutes": 4,
+   "hook": "[[p:António Costa]] has cut the EU's 2028–34 budget plan to win over the frugal states, and [[p:Robert Fico]] says Slovakia won't join a new Ukraine loan that needs all 27. Both moves follow a script written over fifty years of budget fights where every capital holds a veto.",
+   "body": "Every seven years the EU must agree how much it will spend and on what, and every time the deal comes down to a marathon summit. Next week's meeting on the 2028–34 budget will be no different. The reason is built into the rules: the long-term budget needs the consent of every government, so each one holds a veto, and over five decades members have learned to use it.\n\nThe fight began over money flowing back home. In 1970 the Community gave itself \"own resources\", customs duties, farm levies and later a slice of VAT, so its income no longer depended on yearly handouts from capitals. But most spending went to farm subsidies, and Britain, with a small farm sector and large imports from outside Europe, paid in far more than it received. [[p:Margaret Thatcher]] spent five years demanding her money back until the [[e:UK rebate]] {{note: Agreed at the Fontainebleau European Council in June 1984 and in effect from 1985 until Britain left the EU.}} gave Britain a permanent discount. It set a lasting idea: what a country pays in and gets out can be bargained over.\n\nEndless yearly budget crises led [[p:Jacques Delors]] to a fix. The 1988 Delors package set the first multi-year spending plan, capped spending as a share of national income and doubled regional aid for poorer members. The seven-year cycle and the trade-off at its heart, net payers holding down the total while poorer regions defend cohesion and farm money, grew from there. The [[e:Treaty of Lisbon]] {{note: Signed in Lisbon in December 2007; in force from 1 December 2009.}} wrote the framework into the treaties and kept unanimity.\n\nFrom then on the vetoes got louder. In 2013 Britain and its allies won the first real-terms cut in a long-term budget. In July 2020, after four days of talks, the Netherlands, Austria, Sweden and Denmark, the so-called frugals, accepted the first large-scale joint borrowing, the [[e:Next Generation EU]] {{note: A €750bn recovery fund agreed by EU leaders in July 2020, financed by borrowing on the markets by the Commission.}} recovery fund, in exchange for bigger rebates of their own. Months later Hungary and Poland held up the whole package over a new link between EU money and the rule of law, until a December compromise.\n\nUkraine turned the veto into a geopolitical lever. In December 2023 [[p:Viktor Orbán]] blocked €50bn for Kyiv in a budget revision, giving way only in February 2024. In December 2025, when the plan to fund Ukraine from frozen Russian assets stalled, leaders agreed €90bn of joint borrowing for 2026–27 but let Hungary, Slovakia and Czechia stay out of it.\n\nThat is the backdrop to this week. [[p:António Costa]] has trimmed the Commission's plan by about 10% to win over the frugals, and a further €45bn for Ukraine in 2027 needs a change to budget rules that every member must accept. [[p:Robert Fico]] calls the link blackmail. The old bargains over national returns now carry the war's cost as well.",
+   "timeline": [
+    {
+     "when": "1970",
+     "text": "The Community gets its own resources (customs duties, farm levies, later a share of VAT) instead of national contributions."
+    },
+    {
+     "when": "June 1984",
+     "text": "[[p:Margaret Thatcher]] wins the [[e:UK rebate]] at the Fontainebleau summit."
+    },
+    {
+     "when": "1988",
+     "text": "The Delors package creates the first multi-year spending plan and doubles regional aid."
+    },
+    {
+     "when": "2009",
+     "text": "The [[e:Treaty of Lisbon]] makes the [[p:Multiannual Financial Framework]] binding, adopted by unanimity with Parliament's consent."
+    },
+    {
+     "when": "Feb 2013",
+     "text": "Leaders agree the first real-terms cut in a long-term budget, for 2014–20."
+    },
+    {
+     "when": "Jul–Dec 2020",
+     "text": "The frugals accept [[e:Next Generation EU]] joint borrowing for larger rebates; Hungary and Poland hold the package up over rule-of-law conditions."
+    },
+    {
+     "when": "Dec 2025",
+     "text": "After the frozen-assets plan stalls, leaders agree €90bn of joint borrowing for Ukraine, with Hungary, Slovakia and Czechia exempted."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Costa tables a 2028–34 budget about 10% below the Commission's plan; Fico rejects a new €45bn Ukraine loan ahead of the 26–27 Nov summit."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Net contributors (the 'frugals')",
+     "view": "They see themselves as guardians of taxpayers' money: the EU should spend better rather than more, and rebates correct an unfair burden. Joint borrowing in 2020 was a one-off, not a precedent."
+    },
+    {
+     "side": "Cohesion countries in the east and south",
+     "view": "For them the budget is the price of the single market, from which richer members profit most. Cutting regional and farm money breaks the bargain that made enlargement and integration work."
+    },
+    {
+     "side": "Veto-wielding governments such as Hungary and Slovakia",
+     "view": "They argue unanimity protects national sovereignty and that tying EU money to rule-of-law tests or Ukraine support is political pressure. Critics answer that they use the veto to extract concessions."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Multiannual Financial Framework (MFF)",
+     "meaning": "The EU's seven-year spending plan setting ceilings for each area; under the [[e:Treaty of Lisbon]] it needs unanimity in the Council and Parliament's consent."
+    },
+    {
+     "term": "Own resources",
+     "meaning": "The EU's revenue streams: customs duties, a share of VAT, contributions based on national income and newer levies such as on unrecycled plastic."
+    },
+    {
+     "term": "Net contributor",
+     "meaning": "A member that pays more into the EU budget than it receives back in EU spending."
+    },
+    {
+     "term": "Negotiating box",
+     "meaning": "The draft deal the European Council President tables before a budget summit, with figures left for leaders to settle."
+    }
+   ],
+   "whyItMatters": "Because the budget needs every government's consent, a single capital can hold up both the 2028–34 plan and money for Ukraine. Watch whether leaders strike a deal on 26–27 Nov or push it into 2027, and whether the Ukraine loan again goes ahead with holdouts exempted, a workaround that keeps aid flowing but chips away at the idea of a common budget.",
+   "readMore": [
+    {
+     "title": "EU budget 2028–2034: Overview of the Commission's proposal",
+     "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2025)775885",
+     "why": "European Parliament research briefing comparing the new proposal with the 2021–27 budget."
+    },
+    {
+     "title": "EU budget 2028–2034 explained",
+     "url": "https://commission.europa.eu/topics/budget/eu-budget-2028-2034-explained_en",
+     "why": "The Commission's own explainer on what it proposed and how it would be funded."
+    },
+    {
+     "title": "UK rebate",
+     "url": "https://en.wikipedia.org/wiki/UK_rebate",
+     "why": "How the 1984 rebate worked and how it shaped later budget bargaining."
+    }
+   ],
+   "prevQuestion": "Why did Russia's ability to supply Crimea depend less on the bridge after 2022 than it did in 2014–2021?",
+   "prevAnswer": "In 2022 Russia captured the land corridor along the Sea of Azov through occupied Kherson and Zaporizhzhia regions. That gave Crimea a road and rail route from Russia that bypasses the bridge, and much military cargo shifted to it as Ukrainian strikes on the bridge mounted.",
+   "recallQ": "Why did Britain, though not among the richest members, end up one of the biggest net payers into the EU budget before 1984?",
+   "recallA": "Most EU spending went to farm subsidies under the Common Agricultural Policy, and Britain's small farm sector received little of it. Meanwhile Britain paid in heavily through customs duties and VAT, because it imported much from outside Europe. The mismatch drove Thatcher's demand for a rebate."
   }
  ]
 }
