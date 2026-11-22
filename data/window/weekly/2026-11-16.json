@@ -71,5 +71,43 @@
    "explain": "Judge Victor Marrero in Manhattan sentenced Gupta to 235 months; India has not commented.",
    "from": "news"
   }
+ ],
+ "lessonQuiz": [
+  {
+   "q": "What makes Poland a unitary state even though its voivodeships have elected assemblies?",
+   "options": [
+    "Voivodeships have no budgets",
+    "Their powers come from ordinary national law, which parliament can change",
+    "The President appoints every councillor",
+    "Poland has no local elections"
+   ],
+   "answer": 1,
+   "explain": "In a unitary state sovereignty stays with the centre; regional powers are granted by statute rather than guaranteed as in a federation.",
+   "from": "lesson"
+  },
+  {
+   "q": "Which is true of an FDA guidance document?",
+   "options": [
+    "It binds companies like a statute",
+    "It must pass Congress",
+    "It states the FDA's current thinking but is not legally binding",
+    "It can only be issued by the President"
+   ],
+   "answer": 2,
+   "explain": "Guidance binds neither companies nor the agency, but companies usually follow it because the FDA decides on approvals.",
+   "from": "lesson"
+  },
+  {
+   "q": "Under the Youngstown test, when is a president's executive order on the weakest footing?",
+   "options": [
+    "When Congress has expressly authorised it",
+    "When Congress has said nothing",
+    "When it contradicts the expressed or implied will of Congress",
+    "When it is published in the Federal Register"
+   ],
+   "answer": 2,
+   "explain": "Justice Jackson's third zone: acting against Congress, the president can rely only on his own constitutional powers.",
+   "from": "lesson"
+  }
  ]
 }

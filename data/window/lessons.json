@@ -2073,6 +2073,97 @@
      "why": "The text of the article that defines the Indian government's executive power, with the 1948 draft and Constituent Assembly debate."
     }
    ]
+  },
+  {
+   "id": "REV-261122",
+   "review": true,
+   "unit": "Weekly review",
+   "title": "Week of 2026-11-16",
+   "dateTaught": "2026-11-22",
+   "minutes": 5,
+   "prevQuestion": "What are the three main ways a US executive order can be checked, and why does Poland's prime minister rarely face the same kind of fight with the President over orders?",
+   "prevAnswer": "A US order can be struck down by courts (using the Youngstown test), reversed by a statute from Congress (subject to veto) or defunded, and revoked by the next president. In Poland, most presidential acts need the prime minister's countersignature and binding rules for citizens require a statute, so the President has no general power to govern by order.",
+   "body": "Last week asked how a majority turns into law. This week asked two different questions: how majorities are won, and how power is shared out once they are, between the centre and the regions, and between lawmakers and the officials who run things day to day.\n\n**Winning the seats.** Lesson 9 showed that the counting rule shapes the whole system. First-past-the-post gives the US two big parties and gives India a crowd of regional parties that dominate their own states, which is why Uttar Pradesh's 2027 assembly race already fills the Indian news. Poland's proportional Sejm almost guarantees coalitions, and the Electoral College explains why American campaigns live in a handful of swing states. The November midterms that hand Democrats both houses of Congress in January set up much of what followed.\n\n**Sharing power downward.** Lessons 10 and 11 split the world into federal and unitary states. US states hold powers the [#Tenth Amendment](https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution) reserves to them; India divides powers into Union, State and Concurrent lists; Poland lends its regions and towns real powers by ordinary statute. Kraków showed what that looks like up close: the mayor drafts an 11.9bn zł budget and fare plans, but nothing becomes local law without the 43-member City Council. This weekend's arrests by federal immigration agents at Seattle's airport, condemned by Washington state and port officials, show the federal line from the other side: states can protest, but immigration is a federal power they cannot override.\n\n> Poland's elected local governments were reborn in the [#1990 Polish local elections](https://en.wikipedia.org/wiki/1990_Polish_local_elections), held in May 1990.\n\n**Sharing power sideways.** Lessons 12 to 14 followed rules that are not written by legislatures. US agencies make binding rules through notice and comment under the [#Administrative Procedure Act](https://en.wikipedia.org/wiki/Administrative_Procedure_Act), as with CMS's anti-fraud proposal now open for comment, or take the faster interim-final route that Commerce used for AI-chip exports, which matters for Poland's access to advanced chips. The FDA showed the gap between a binding regulation and guidance that companies follow anyway. Then executive orders: [@Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)'s 20 November order on contractors and congressional requests will be judged by the zones of [#Youngstown Sheet & Tube Co. v. Sawyer](https://en.wikipedia.org/wiki/Youngstown_Sheet_%26_Tube_Co._v._Sawyer). In Poland, by contrast, President [@Karol Nawrocki](https://en.wikipedia.org/wiki/Karol_Nawrocki) has no general power to govern by order, and most of his acts need the prime minister's countersignature.\n\n**The thread.** In every country, the people who actually make a rule are often not the ones voters chose for that job: a city council rather than parliament, an agency rather than Congress, a president's pen rather than a statute. Each lesson asked the same follow-up: who gave them that power, and who can take it back? Next week moves on to Polish acts and regulations, then to the EU, where that question gets a fourth layer.",
+   "comparison": [
+    {
+     "aspect": "Voting rule for the main chamber",
+     "US": "First-past-the-post, 435 districts",
+     "Poland": "Proportional, 5% threshold",
+     "India": "First-past-the-post, 543 constituencies"
+    },
+    {
+     "aspect": "Federal or unitary",
+     "US": "Federal: Tenth Amendment",
+     "Poland": "Unitary, with elected regions and gminas",
+     "India": "Federal with a strong centre: three lists"
+    },
+    {
+     "aspect": "Who runs a big city",
+     "US": "Mayor and council under state law",
+     "Poland": "Directly elected mayor plus city council (Kraków: 43 seats)",
+     "India": "Municipal corporation; often weak mayor, state-appointed commissioner"
+    },
+    {
+     "aspect": "Rules made by officials",
+     "US": "Agency rules under the APA, in the Federal Register",
+     "Poland": "Ministerial regulations under a statute",
+     "India": "Rules and gazette notifications under Acts"
+    },
+    {
+     "aspect": "Leader governing by order",
+     "US": "Executive orders, limited by courts, Congress, next president",
+     "Poland": "President: few acts, most countersigned",
+     "India": "Ordinances when Parliament is not sitting"
+    }
+   ],
+   "check": [
+    {
+     "q": "Why does first-past-the-post produce two parties in the US but many in India?",
+     "options": [
+      "India uses proportional representation for the Lok Sabha",
+      "Regional parties in India can win pluralities in their own states, so they still win seats",
+      "The US bans third parties",
+      "India's Election Commission assigns seats to small parties"
+     ],
+     "answer": 1,
+     "explain": "The rule rewards whoever wins the most votes locally. In India strong regional and identity-based parties do that in their home states; in the US only two national parties usually can."
+    },
+    {
+     "q": "Kraków's mayor wants a new fare plan. What must happen before it binds residents?",
+     "options": [
+      "The voivode must sign it",
+      "The Sejm must approve it",
+      "The City Council must adopt a resolution",
+      "The President of Poland must countersign it"
+     ],
+     "answer": 2,
+     "explain": "The mayor drafts and executes, but local law and fees are adopted by the City Council; the voivode only checks legality afterwards."
+    },
+    {
+     "q": "A US agency issues an interim final rule. What has it skipped?",
+     "options": [
+      "Publication in the Federal Register",
+      "Taking public comment before the rule takes effect",
+      "Judicial review",
+      "Statutory authority"
+     ],
+     "answer": 1,
+     "explain": "Claiming good cause, the agency puts the rule in force immediately and takes comments afterwards. It still needs statutory authority and can still be challenged in court."
+    },
+    {
+     "q": "Washington state officials condemn federal immigration arrests at Seattle airport. Why can't the state simply stop them?",
+     "options": [
+      "Washington is a unitary region of the US",
+      "Immigration enforcement is a federal power, and federal law prevails where it validly applies",
+      "Airports are owned by the Supreme Court",
+      "States have no police of their own"
+     ],
+     "answer": 1,
+     "explain": "In a federal system states keep their reserved powers, but immigration is a federal responsibility; states can refuse to help but cannot override it."
+    }
+   ],
+   "recallQ": "Who can stop a rule written by a US agency, and how does that differ from who can stop a decision of Kraków's mayor?",
+   "recallA": "A US agency rule can be struck down by courts if it exceeds the statute or skipped procedure, overturned by Congress, or withdrawn by a new administration. A Kraków mayor's proposals need a City Council vote to become local law, and the voivode, as the central government's representative, can challenge unlawful resolutions. Both are cases of power lent by a higher law and checked by another body."
   }
  ]
 }
