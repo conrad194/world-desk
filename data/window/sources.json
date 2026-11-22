@@ -2639,6 +2639,18 @@
    "lean": "Centre-left public media",
    "status": "Watch",
    "dateAdded": "2026-11-22"
+  },
+  {
+   "id": "halokrak-w-pl",
+   "name": "HaloKraków.pl",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "City services, road works, local notices",
+   "language": "Polish",
+   "url": "https://www.halokrakow.pl/",
+   "lean": "local service portal, unclear",
+   "status": "Watch",
+   "dateAdded": "2026-11-22"
   }
  ]
 }

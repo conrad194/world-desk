@@ -2276,6 +2276,17 @@
    "checkDate": "2026-12-15",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261122-05",
+   "dateAdded": "2026-11-22",
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "what": "Any Ekstraklasa/PZPN disciplinary action or new fan-safety standards after the Radomiak–Wisła away-sector dispute",
+   "expected": "Mazovian voivode Frankowski asked PZPN and Ekstraklasa SA for standards (21 Nov); no timeline given",
+   "checkDate": "2026-12-05",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
