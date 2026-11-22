@@ -1109,6 +1109,86 @@
    "checkDate": "2026-12-01",
    "happened": "",
    "eventId": "E-261121-29"
+  },
+  {
+   "id": "W-261122-01",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "Commission formally tables the 22nd Russia sanctions package; Denmark proposes an EU-wide tourist visa ban on Russians.",
+   "expected": "Estonian FM Tsahkna (end of November); EU officials via Kyiv Independent (23 Nov).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261122-07"
+  },
+  {
+   "id": "W-261122-02",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "Belgium: [[p:Bart De Wever]] reports to the King on the federal budget, 23 Nov, the day of a national union demonstration.",
+   "expected": "VRT NWS; Belga.",
+   "checkDate": "2026-11-24",
+   "happened": "",
+   "eventId": "E-261122-23"
+  },
+  {
+   "id": "W-261122-03",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "Sweden: Speaker's round with party leaders and Kristersson's final report, 24 Nov; a third PM vote may follow.",
+   "expected": "SVT Nyheter.",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": "E-261122-20"
+  },
+  {
+   "id": "W-261122-04",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "France: joint committee on the 2027 social security budget, 26 Nov, when the 50-day deadline expires; 49.3 or ordinance possible.",
+   "expected": "Toute l'Europe; NosParlementaires.",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261122-17"
+  },
+  {
+   "id": "W-261122-05",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "[[e:2026 United Nations Climate Change Conference|COP31]]: adoption or collapse of the final Antalya text.",
+   "expected": "COP31 presidency (Murat Kurum); Reuters, AP.",
+   "checkDate": "2026-11-23",
+   "happened": "",
+   "eventId": "E-261122-14"
+  },
+  {
+   "id": "W-261122-06",
+   "dateAdded": "2026-11-22",
+   "segment": "Middle East",
+   "what": "Iran's convoy of 14+ tankers off Kharg Island tries to run the US naval blockade.",
+   "expected": "Iranian officials via Euronews.",
+   "checkDate": "2026-11-29",
+   "happened": "",
+   "eventId": "E-261122-02"
+  },
+  {
+   "id": "W-261122-07",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "EU General Affairs Council, 15 Dec: possible opening of clusters 4 and 5 for Ukraine and Moldova.",
+   "expected": "European Pravda; Kyiv Post.",
+   "checkDate": "2026-12-16",
+   "happened": "",
+   "eventId": "E-261122-06"
+  },
+  {
+   "id": "W-261122-08",
+   "dateAdded": "2026-11-22",
+   "segment": "EU politics + cross-cutting",
+   "what": "Serbia: Speaker Aleksandar Čupić calls the presidential election (20 or 27 Dec) by 27 Nov.",
+   "expected": "Srbija Danas; Niš TV.",
+   "checkDate": "2026-11-28",
+   "happened": "",
+   "eventId": "E-261122-10"
   }
  ]
 }

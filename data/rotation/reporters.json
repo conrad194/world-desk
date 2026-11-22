@@ -1105,6 +1105,76 @@
    "trackRecord": "Senior editor at Kursiv's Uzbek edition; flags the status of unconfirmed documents.",
    "dateAdded": "2026-11-21",
    "status": "Watch"
+  },
+  {
+   "id": "tetyana-vysotska",
+   "name": "Tetyana Vysotska",
+   "segment": "EU politics + cross-cutting",
+   "countries": "EU / Ukraine",
+   "languages": "Ukrainian, English",
+   "outlets": "European Pravda (Yevropeiska Pravda)",
+   "basedIn": "Brussels",
+   "slant": "Pro-European Ukrainian outlet; factual Council reporting",
+   "url": "https://www.eurointegration.com.ua/eng/news/2026/11/20/7250427/",
+   "trackRecord": "Brussels correspondent with sourced reporting on Coreper agendas; reported the dates of each Hungarian block on Ukraine clusters (Oct–Nov 2026) ahead of other outlets.",
+   "dateAdded": "2026-11-22",
+   "status": "Watch"
+  },
+  {
+   "id": "vilmos-weiler",
+   "name": "Vilmos Weiler",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Hungary",
+   "languages": "Hungarian",
+   "outlets": "Telex",
+   "basedIn": "Budapest",
+   "slant": "Independent; critical of Orbán-era business networks",
+   "url": "https://telex.hu/gazdasag/2026/11/18/autopalya-koncesszio-megszuntetes",
+   "trackRecord": "Telex economy reporter covering state concessions and public finances, including the 2026 motorway concession case.",
+   "dateAdded": "2026-11-22",
+   "status": "Watch"
+  },
+  {
+   "id": "dorota-hilger",
+   "name": "Dorota Hilger",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Poland",
+   "languages": "Polish",
+   "outlets": "Interia Wydarzenia",
+   "basedIn": "Poland",
+   "slant": "Mainstream portal; neutral news style",
+   "url": "https://wydarzenia.interia.pl/kraj/news-wyrazamy-stanowczy-sprzeciw-oswiadczenie-sedziow-tk,nId,23574937",
+   "trackRecord": "Covers Polish domestic politics and the courts, including the Constitutional Tribunal dispute.",
+   "dateAdded": "2026-11-22",
+   "status": "Watch"
+  },
+  {
+   "id": "stefan-grommen",
+   "name": "Stefan Grommen",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Belgium",
+   "languages": "Dutch",
+   "outlets": "VRT NWS",
+   "basedIn": "Brussels",
+   "slant": "Public broadcaster; neutral",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/oppositie-kritisch-nu-premier-de-wever-week-extra-tijd-krijgt-va~1793247532380/",
+   "trackRecord": "VRT federal politics reporter following the De Wever government and its budget talks.",
+   "dateAdded": "2026-11-22",
+   "status": "Watch"
+  },
+  {
+   "id": "miguel-dantas",
+   "name": "Miguel Dantas",
+   "segment": "EU politics + cross-cutting",
+   "countries": "Portugal",
+   "languages": "Portuguese",
+   "outlets": "Público",
+   "basedIn": "Lisbon",
+   "slant": "Centre-left daily; factual labour coverage",
+   "url": "https://www.publico.pt/2026/11/20/sociedade/noticia/greve-funcao-publica-comeca-afectar-recolha-lixo-consultas-servicos-2195661",
+   "trackRecord": "Público society and labour reporter covering public-sector strikes and pay talks.",
+   "dateAdded": "2026-11-22",
+   "status": "Watch"
   }
  ]
 }
