@@ -2232,6 +2232,39 @@
    "checkDate": "2026-12-07",
    "happened": "",
    "eventId": "E-261121-60"
+  },
+  {
+   "id": "W-261122-01",
+   "dateAdded": "2026-11-22",
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "what": "Whether Iran sends about 14 tankers through the US naval blockade and whether US forces stop them",
+   "expected": "Gulf News (Nov 22) reports Iran preparing; no date given",
+   "checkDate": "2026-11-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261122-02",
+   "dateAdded": "2026-11-22",
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "what": "Judge Myong Joun's ruling on the freeze of 100,000+ refugee green-card applications and the 10-day appeal window",
+   "expected": "Signalled at Nov 20 hearing (Reuters); timing unknown",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261122-03",
+   "dateAdded": "2026-11-22",
+   "place": "US",
+   "domain": "Foreign relations",
+   "what": "Details and Canadian response to Hegseth's classified memo restricting US-Canada defence cooperation",
+   "expected": "Washington Post, Nov 20; Ottawa's reaction pending",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

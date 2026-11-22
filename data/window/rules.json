@@ -895,6 +895,22 @@
    "newsLink": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
    "eventId": "E-261121-47",
    "lastChecked": "2026-11-21"
+  },
+  {
+   "id": "R-261122-01",
+   "dateLogged": "2026-11-22",
+   "place": "US",
+   "body": "Department of Labor, Wage and Hour Division",
+   "name": "Employee or Independent Contractor Status Under the FLSA, FMLA and MSPA (final rule, RIN 1235-AA46)",
+   "changes": "Rescinds the 2024 rule. Restores a 2021-style economic-reality test with control and profit/loss opportunity as core factors, and adds 14 examples (platform workers, truck drivers, farm labour contractors).",
+   "affects": "Employers and gig/platform workers nationwide; classification for minimum wage, overtime and FMLA",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+   "newsLink": "https://www.shrm.org/topics-tools/employment-law-compliance/dol-finalizes-independent-contractor-rule-reversing-biden",
+   "eventId": "E-261122-08",
+   "lastChecked": "2026-11-22"
   }
  ]
 }

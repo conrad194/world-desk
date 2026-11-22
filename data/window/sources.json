@@ -2627,6 +2627,18 @@
    "lean": "data/brokerage",
    "status": "Watch",
    "dateAdded": "2026-11-21"
+  },
+  {
+   "id": "kuow-npr-seattle",
+   "name": "KUOW (NPR Seattle)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Pacific Northwest, immigration enforcement",
+   "language": "English",
+   "url": "https://www.kuow.org/",
+   "lean": "Centre-left public media",
+   "status": "Watch",
+   "dateAdded": "2026-11-22"
   }
  ]
 }
