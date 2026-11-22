@@ -2651,6 +2651,18 @@
    "lean": "local service portal, unclear",
    "status": "Watch",
    "dateAdded": "2026-11-22"
+  },
+  {
+   "id": "kathmandu-post",
+   "name": "Kathmandu Post",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Nepal–India relations, from Kathmandu",
+   "language": "English",
+   "url": "https://kathmandupost.com/",
+   "lean": "centrist, independent (Nepal)",
+   "status": "Watch",
+   "dateAdded": "2026-11-22"
   }
  ]
 }

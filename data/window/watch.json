@@ -2287,6 +2287,28 @@
    "checkDate": "2026-12-05",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261122-06",
+   "dateAdded": "2026-11-22",
+   "place": "India",
+   "domain": "Foreign relations",
+   "what": "Outcomes of Nepal PM Balendra Shah's Nov 22–23 visit: air routes (Mahendranagar/Bhairahawa), an economic package, the Ayodhya–Janakpur rail link and any boundary language",
+   "expected": "Kathmandu Post expects announcements after Modi–Shah talks on Nov 22–23",
+   "checkDate": "2026-11-24",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261122-07",
+   "dateAdded": "2026-11-22",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Whether Ladakh's Dec 4 LAHDC hill-council polls go ahead despite the Leh Apex Body and Kargil groups' demand to defer them",
+   "expected": "The Ladakh SEC has scheduled polling for Dec 4, with the process to finish by Dec 8",
+   "checkDate": "2026-12-05",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
