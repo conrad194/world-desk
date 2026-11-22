@@ -1,0 +1,717 @@
+{
+ "date": "2026-11-22",
+ "segment": "EU politics + cross-cutting",
+ "windowFrom": "2026-11-15",
+ "tier1Summary": "Europe goes into its budget summit with one veto lifted and another threatened. Hungary let Ukraine's and Moldova's next accession clusters move forward, while [[p:António Costa]] trimmed the 2028–34 budget to win over frugal states. The Commission's €45bn Ukraine loan for 2027 needs all 27, and [[p:Robert Fico]] says Slovakia is out.\n\nAt home, France's budgets hit a 26 Nov deadline, Belgium's government has until Monday to agree a budget, Sweden still has no government, and Spain votes on 29 Nov with the right ahead. [[e:COP31|2026 United Nations Climate Change Conference]] is in overtime.\n\nElsewhere, a burning Russian military cargo ship drifted into Finnish waters after a drone strike, and Iran says it hit US bases in Bahrain.",
+ "segmentItems": [
+  {
+   "id": "E-261122-03",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU",
+   "text": "[[p:António Costa]] tabled a [[p:2028–34 budget|Multiannual Financial Framework]] box about 10% below the Commission's plan, with Global Europe cut by a fifth and the Ukraine Reserve kept. Parliament's negotiator calls it unacceptable; leaders meet on 26–27 Nov.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "EUalive; New Union Post",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "EUalive",
+     "url": "https://eualive.net/costa-trims-eu-budget-proposal-by-10-to-woo-frugal-states-ahead-of-summit/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://newunionpost.eu/2026/11/21/costa-nego-box-eu-mff-global-europe/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-04",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Ukraine",
+   "text": "The [[p:European Commission]] proposed up to €45bn for Ukraine in 2027 (€25bn military, €20bn budget), borrowed by the EU and repaid only from Russian reparations. It needs every member's consent.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Tetyana Vysotska",
+   "outlet": "European Pravda",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "European Pravda",
+     "url": "https://www.eurointegration.com.ua/eng/news/2026/11/18/7250254"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-05",
+   "segment": "EU politics + cross-cutting",
+   "country": "Slovakia / EU / Ukraine",
+   "text": "[[p:Robert Fico]] says Slovakia will not join the loan, calling the budget link blackmail (translated).",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "UNN",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "UNN",
+     "url": "https://unn.ua/en/news/slovakia-refused-to-participate-in-the-eus-euro45-billion-loan-for-ukraine"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://eualive.net/merz-holds-firm-after-fico-calls-eu-budget-ukraine-link-classic-blackmail/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-06",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Hungary / Ukraine / Moldova",
+   "text": "Hungary lifted its block: EU ambassadors approved screening reports for clusters 4 and 5 for Ukraine and Moldova. Openings still need unanimity, possibly by 15 Dec.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Tetyana Vysotska; Oksana Martsun",
+   "outlet": "European Pravda; Kyiv Post",
+   "opinion": "",
+   "thread": "EU enlargement: Ukraine and Moldova",
+   "links": [
+    {
+     "label": "European Pravda",
+     "url": "https://www.eurointegration.com.ua/eng/news/2026/11/20/7250427/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.kyivpost.com/post/90747"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-07",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / Russia",
+   "text": "The 22nd Russia sanctions package is ready, says [[p:Margus Tsahkna]]: about 150 listings, a Schengen ban for Russian combatants, crypto platforms and tankers. Contents are unofficial until tabled.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Ulviyya Poladova",
+   "outlet": "Azernews (citing Postimees); TASS",
+   "opinion": "",
+   "thread": "US–Russia diesel deal and sanctions",
+   "links": [
+    {
+     "label": "Azernews (citing Postimees)",
+     "url": "https://www.azernews.az/region/267807.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://tass.com/world/2222103"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-08",
+   "segment": "EU politics + cross-cutting",
+   "country": "EU / United Kingdom",
+   "text": "An EU–UK summit signed food-safety, carbon-market and youth-mobility deals, all frozen until a tuition-fees dispute is settled.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "RTÉ (with Reuters)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "RTÉ (with Reuters)",
+     "url": "https://www.rte.ie/news/uk/2026/1120/1599944-uk-eu-summit/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://ieu-monitoring.com/editorial/eu-uk-summit-deepens-strategic-partnership-anchored-in-security-cooperation/1255213"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-09",
+   "segment": "EU politics + cross-cutting",
+   "country": "Montenegro / EU",
+   "text": "Montenegro closed two more chapters (25 of 33) and aims to finish talks this year.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "European Western Balkans",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "European Western Balkans",
+     "url": "https://europeanwesternbalkans.com/2026/11/19/montenegro-closes-two-more-chapters-with-eu-reaches-18-out-of-33-2/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://enlargement.ec.europa.eu/news/eu-and-montenegro-close-accession-negotiations-taxation-and-regional-policy-2026-11-20_en"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-13",
+   "segment": "EU politics + cross-cutting",
+   "country": "UN",
+   "text": "The ninth straw poll for [[e:UN Secretary-General|2026 United Nations Secretary-General selection]] ended deadlocked; [[p:Rebeca Grynspan]] leads but every candidate faces permanent-member objections.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Damilola Banjo",
+   "outlet": "PassBlue",
+   "opinion": "",
+   "thread": "UN Secretary-General selection 2026",
+   "links": [
+    {
+     "label": "PassBlue",
+     "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thenationalnews.com/news/2026/11/20/un-secretary-general-race-straw-poll/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-14",
+   "segment": "EU politics + cross-cutting",
+   "country": "Türkiye (COP31)",
+   "text": "[[e:COP31|2026 United Nations Climate Change Conference]] went into a second day of overtime on a draft without fossil-fuel language; not adopted at the time of writing.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Seth Borenstein; Sarah McFarlane; Peter Hobson",
+   "outlet": "AP; Reuters",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AP",
+     "url": "https://www.rappler.com/world/global-affairs/cop31-climate-talks-close-final-deal-november-22-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-17",
+   "segment": "EU politics + cross-cutting",
+   "country": "France",
+   "text": "France's Senate passed the social security budget but reinstated the 2023 pension reform; a joint committee meets on 26 Nov, when the deadline expires.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Manon Mazuir",
+   "outlet": "Toute l'Europe",
+   "opinion": "",
+   "thread": "France fiscal and political crisis",
+   "links": [
+    {
+     "label": "Toute l'Europe",
+     "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-23",
+   "segment": "EU politics + cross-cutting",
+   "country": "Belgium",
+   "text": "Belgium's [[p:Bart De Wever]] has until 23 Nov to agree a roughly €10bn budget; [[p:Vooruit|Vooruit (political party)]] is the holdout.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Stefan Grommen; Benedikte Coussement",
+   "outlet": "VRT NWS; Belga (DH)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "VRT NWS",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/oppositie-kritisch-nu-premier-de-wever-week-extra-tijd-krijgt-va~1793247532380/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.dhnet.be/dernieres-depeches/2026/11/16/crise-gouvernementale-lopposition-pas-tendre-avec-larizona-5YOCGGOT5ZBDPBQ5AGBOSW2NBM/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-20",
+   "segment": "EU politics + cross-cutting",
+   "country": "Sweden",
+   "text": "Sweden's Speaker gave parties another week; two of four PM votes remain before a snap election.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Hanna Hellman",
+   "outlet": "HurBra.se; SVT Nyheter",
+   "opinion": "",
+   "thread": "Swedish government formation 2026",
+   "links": [
+    {
+     "label": "HurBra.se",
+     "url": "https://hurbra.se/?p=51303"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-19",
+   "segment": "EU politics + cross-cutting",
+   "country": "Poland",
+   "text": "Rival [[p:Constitutional Tribunal|Constitutional Tribunal (Poland)]] judges stripped its president and vice-president of immunity and suspended them; the pair call it illegal.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Aleksandra Gałka-Reczko; Dorota Hilger",
+   "outlet": "Euronews (Polish); Interia",
+   "opinion": "",
+   "thread": "Polish Constitutional Tribunal crisis",
+   "links": [
+    {
+     "label": "Euronews (Polish)",
+     "url": "https://pl.euronews.com/2026/11/18/zgromadzenie-sedziow-tk-zdecydowalo-w-sprawie-immunitetow-swieczkowskiego-i-sochanskiego"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://wydarzenia.interia.pl/kraj/news-wyrazamy-stanowczy-sprzeciw-oswiadczenie-sedziow-tk,nId,23574937"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-18",
+   "segment": "EU politics + cross-cutting",
+   "country": "Spain",
+   "text": "Spain's only debate produced no clear winner, in Euronews' view; a 40dB poll gives the PP and Vox 192 of 350 seats before the 29 Nov vote.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Javier Íñiguez de Onzoño; Núria Orriols",
+   "outlet": "Euronews (Spanish); Ara",
+   "opinion": "analysis (verdicts on the debate)",
+   "thread": "Spanish snap election 2026",
+   "links": [
+    {
+     "label": "Euronews (Spanish)",
+     "url": "https://es.euronews.com/2026/11/19/debate-del-29n-sanchez-reivindica-al-psoe-como-el-partido-mas-limpio-de-la-democracia-en-u"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.ara.cat/politics/feijoo-the-attack-corners-sanchez_1_5916669.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-16",
+   "segment": "EU politics + cross-cutting",
+   "country": "Netherlands",
+   "text": "The Dutch cabinet of [[p:Rob Jetten]] survived its crisis, with an adviser asked to broker a budget framework.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Rijksoverheid; Parlement.com; NL Times",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Rijksoverheid",
+     "url": "https://www.rijksoverheid.nl/documenten/2026/11/17/letterlijke-tekst-persconferentie-na-ministerraad-17-november-2026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.parlement.com/nieuws/202611/vicepresident-raad-van-state-buma-gaat-kabinet-adviseren-over-samenwerking"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261122-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Finland / Russia",
+   "text": "Drones set the sanctioned Russian military cargo ship Sparta II ablaze in the Gulf of Finland; it drifted into Finnish waters. Finland alerted NATO and says Ukraine was likely responsible; Kyiv has not commented.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Tamara Nowakowsky",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.yahoo.com/news/world/articles/russian-cargo-ship-catches-fire-225308723.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261122-02",
+   "segment": "Middle East",
+   "country": "Bahrain / Iran / United States",
+   "text": "The [[p:IRGC|Islamic Revolutionary Guard Corps]] says it struck US positions in Bahrain and destroyed two Patriot radars; Bahrain reports interceptions and an industrial fire. Iran readies a tanker convoy to run the US blockade.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Peter Barabas",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261122-01",
+   "title": "Le Sénat adopte le budget 2027 de la Sécurité sociale en première lecture",
+   "reporter": "Manon Mazuir",
+   "outlet": "Toute l'Europe",
+   "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/",
+   "why": "Measure-by-measure guide to what the Senate changed and the 49.3 and ordinance scenarios before the 26 Nov deadline.",
+   "segment": "EU politics + cross-cutting",
+   "language": "French"
+  },
+  {
+   "readingId": "RL-261122-02",
+   "title": "Serbia Still Has a Steep Hill to Climb",
+   "reporter": "Dimitar Bechev",
+   "outlet": "Carnegie Europe",
+   "url": "https://carnegieendowment.org/research/2026/11/serbia-still-has-a-steep-hill-to-climb",
+   "why": "Analysis of whether the [[p:Student List]] can govern, and where it stands on Russia, Kosovo and China.",
+   "segment": "EU politics + cross-cutting",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-23",
+   "text": "Belgium: De Wever reports to the King on the budget.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-02"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "COP31 final text adopted or abandoned.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-05"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Sweden: Speaker's round with party leaders.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-03"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Russia: Duma's final vote on the 2027–29 budget.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261120-05"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "France: joint committee on the social security budget.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-04"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Special European Council on the budget and Ukraine loan (26–27 Nov).",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Serbia: deadline to call the presidential election.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-08"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Taiwan local elections.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Spain general election.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "22nd Russia sanctions package tabled (expected by end of November).",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Duterte's ICC trial opens.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-03"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Germany (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Austria",
+   "status": "no sources found"
+  },
+  {
+   "country": "Greece",
+   "status": "no sources found"
+  },
+  {
+   "country": "Ireland",
+   "status": "no sources found"
+  },
+  {
+   "country": "Denmark (domestic)",
+   "status": "no sources found"
+  },
+  {
+   "country": "Finland (domestic)",
+   "status": "no sources found"
+  },
+  {
+   "country": "Croatia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Slovenia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Lithuania",
+   "status": "no sources found"
+  },
+  {
+   "country": "Estonia (domestic)",
+   "status": "no sources found"
+  },
+  {
+   "country": "Albania",
+   "status": "quiet"
+  },
+  {
+   "country": "Georgia (EU candidacy)",
+   "status": "quiet"
+  },
+  {
+   "country": "UN Security Council (votes)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "EUalive",
+   "url": "https://eualive.net/costa-trims-eu-budget-proposal-by-10-to-woo-frugal-states-ahead-of-summit/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://newunionpost.eu/2026/11/21/costa-nego-box-eu-mff-global-europe/",
+   "paywalled": false
+  },
+  {
+   "title": "European Pravda",
+   "url": "https://www.eurointegration.com.ua/eng/news/2026/11/18/7250254",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://enlargement.ec.europa.eu/news/commission-proposes-eur45-billion-additional-financial-support-ukraine-2027-2026-11-18_en",
+   "paywalled": false
+  },
+  {
+   "title": "UNN",
+   "url": "https://unn.ua/en/news/slovakia-refused-to-participate-in-the-eus-euro45-billion-loan-for-ukraine",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://eualive.net/merz-holds-firm-after-fico-calls-eu-budget-ukraine-link-classic-blackmail/",
+   "paywalled": false
+  },
+  {
+   "title": "European Pravda",
+   "url": "https://www.eurointegration.com.ua/eng/news/2026/11/20/7250427/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.kyivpost.com/post/90747",
+   "paywalled": false
+  },
+  {
+   "title": "Azernews (citing Postimees)",
+   "url": "https://www.azernews.az/region/267807.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://tass.com/world/2222103",
+   "paywalled": false
+  },
+  {
+   "title": "RTÉ (with Reuters)",
+   "url": "https://www.rte.ie/news/uk/2026/1120/1599944-uk-eu-summit/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://ieu-monitoring.com/editorial/eu-uk-summit-deepens-strategic-partnership-anchored-in-security-cooperation/1255213",
+   "paywalled": false
+  },
+  {
+   "title": "European Western Balkans",
+   "url": "https://europeanwesternbalkans.com/2026/11/19/montenegro-closes-two-more-chapters-with-eu-reaches-18-out-of-33-2/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://enlargement.ec.europa.eu/news/eu-and-montenegro-close-accession-negotiations-taxation-and-regional-policy-2026-11-20_en",
+   "paywalled": false
+  },
+  {
+   "title": "PassBlue",
+   "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.thenationalnews.com/news/2026/11/20/un-secretary-general-race-straw-poll/",
+   "paywalled": false
+  },
+  {
+   "title": "AP",
+   "url": "https://www.rappler.com/world/global-affairs/cop31-climate-talks-close-final-deal-november-22-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+   "paywalled": false
+  },
+  {
+   "title": "Toute l'Europe",
+   "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+   "paywalled": false
+  },
+  {
+   "title": "VRT NWS",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/oppositie-kritisch-nu-premier-de-wever-week-extra-tijd-krijgt-va~1793247532380/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/11/16/crise-gouvernementale-lopposition-pas-tendre-avec-larizona-5YOCGGOT5ZBDPBQ5AGBOSW2NBM/",
+   "paywalled": false
+  },
+  {
+   "title": "HurBra.se",
+   "url": "https://hurbra.se/?p=51303",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews (Polish)",
+   "url": "https://pl.euronews.com/2026/11/18/zgromadzenie-sedziow-tk-zdecydowalo-w-sprawie-immunitetow-swieczkowskiego-i-sochanskiego",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://wydarzenia.interia.pl/kraj/news-wyrazamy-stanowczy-sprzeciw-oswiadczenie-sedziow-tk,nId,23574937",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews (Spanish)",
+   "url": "https://es.euronews.com/2026/11/19/debate-del-29n-sanchez-reivindica-al-psoe-como-el-partido-mas-limpio-de-la-democracia-en-u",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://en.ara.cat/politics/feijoo-the-attack-corners-sanchez_1_5916669.html",
+   "paywalled": false
+  },
+  {
+   "title": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/11/17/letterlijke-tekst-persconferentie-na-ministerraad-17-november-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.parlement.com/nieuws/202611/vicepresident-raad-van-state-buma-gaat-kabinet-adviseren-over-samenwerking",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent",
+   "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.yahoo.com/news/world/articles/russian-cargo-ship-catches-fire-225308723.html",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews",
+   "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+   "paywalled": false
+  }
+ ]
+}
