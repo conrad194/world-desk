@@ -1,0 +1,47 @@
+{
+ "date": "2026-11-22",
+ "items": [
+  {
+   "id": "E-261122-01",
+   "dateLogged": "2026-11-22",
+   "eventDate": "2026-11-21",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Finland / Russia",
+   "text": "Drones hit the sanctioned Russian cargo ship Sparta II, operated by [[p:Oboronlogistika]] {{note: Logistics company of Russia's Defence Ministry, sanctioned by the US and EU for military shipping to Syria and elsewhere.}}, in the Gulf of Finland on 21 Nov. The burning ship lost steering and drifted into Finnish waters off Loviisa; its 16 crew were evacuated. Finland's Defence Ministry notified NATO allies and restricted sea and air traffic. A Finnish military spokesperson said Ukraine was likely behind it; Kyiv has not claimed it. PM [[p:Petteri Orpo]] said the war is spreading into neighbouring areas.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Tamara Nowakowsky",
+   "outlet": "Kyiv Independent",
+   "language": "English",
+   "link1": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
+   "link2": "https://www.yahoo.com/news/world/articles/russian-cargo-ship-catches-fire-225308723.html",
+   "archive": "https://web.archive.org/web/2026/https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
+   "paywalled": "N",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "followsUp": "",
+   "notes": "Strike confirmed by Finnish MoD and Leningrad governor Drozdenko; attribution to Ukraine is only an assessment. Location disputed (west of Suursaari per Finland; ~3 nm from the Russian border per Drozdenko). Finland also investigating a suspected Russian helicopter airspace violation near Loviisa. Separately, late 21 Nov, unverified reports (Kyiv Independent, RBC-Ukraine, from Telegram/OSINT) of explosions near the Baltic Fleet base at Baltiysk, Kaliningrad; Russia has not confirmed any strike."
+  },
+  {
+   "id": "E-261122-02",
+   "dateLogged": "2026-11-22",
+   "eventDate": "2026-11-21",
+   "loggedFrom": "Daily Tier 1 check",
+   "segment": "Middle East",
+   "country": "Bahrain / Iran / United States",
+   "text": "The [[p:Islamic Revolutionary Guard Corps|IRGC]] said it struck US positions in Bahrain with missiles and drones in two waves on the evening of 21 Nov, in response to US drone flights over Iran, and claimed two Patriot radars destroyed. Bahrain said it intercepted several attacks and reported a fire at a civilian industrial site, without injuries. Iran is reportedly readying more than 14 tankers off Kharg Island to run the US naval blockade and threatens a response if they are stopped.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Peter Barabas",
+   "outlet": "Euronews",
+   "language": "English",
+   "link1": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+   "link2": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+   "archive": "https://web.archive.org/web/2026/https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+   "paywalled": "N",
+   "thread": "US–Iran war and Hormuz",
+   "followsUp": "E-261119-01",
+   "notes": "Attack confirmed by both sides; Patriot damage is an IRGC claim. Targets differ (IRGC: al-Riffa, Awali; Fars: Sheikh Isa, Juffair). IRNA alternatively said a malfunctioning US interceptor fell on Sitra. CENTCOM denied an IRGC claim of a damaged F-16. Iran starts rolling power cuts 22 Nov. Cross-check also AFP via Yahoo: https://sg.news.yahoo.com/bahrain-says-iran-struck-industrial-032110698.html"
+  }
+ ]
+}
