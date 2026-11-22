@@ -2265,6 +2265,17 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261122-04",
+   "dateAdded": "2026-11-22",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Whether President Nawrocki signs any of the pending ambassador nominations or credentials, including for the candidates the Foreign Ministry sought agrément for",
+   "expected": "Przydacz (Nov 21) says no credentials without the President's consent; no date set",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
