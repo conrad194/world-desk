@@ -1,0 +1,109 @@
+{
+ "weekStart": "2026-11-16",
+ "keyEvents": {
+  "Russia–Ukraine & European security": [
+   "E-261116-04",
+   "E-261117-01",
+   "E-261120-01",
+   "E-261121-01",
+   "E-261121-02"
+  ],
+  "Middle East": [
+   "E-261116-01",
+   "E-261117-07",
+   "E-261118-03",
+   "E-261119-02",
+   "E-261122-02"
+  ],
+  "East & Southeast Asia": [
+   "E-261116-03",
+   "E-261118-04",
+   "E-261118-05",
+   "E-261118-07",
+   "E-261120-06"
+  ],
+  "The Americas": [
+   "E-261119-03",
+   "E-261119-04",
+   "E-261119-07",
+   "E-261119-10"
+  ],
+  "Africa": [
+   "E-261117-06",
+   "E-261118-02",
+   "E-261120-13",
+   "E-261120-25",
+   "E-261120-29"
+  ],
+  "South & Central Asia": [
+   "E-261121-10",
+   "E-261121-11",
+   "E-261121-28",
+   "E-261121-39"
+  ],
+  "EU politics + cross-cutting": [
+   "E-261122-03",
+   "E-261122-04",
+   "E-261122-06",
+   "E-261122-14",
+   "E-261117-05"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Why does the Commission's €45bn Ukraine plan for 2027 give a single country like Slovakia leverage?",
+   "options": [
+    "Slovakia holds the Council presidency",
+    "It needs a change to the EU budget regulation, which requires unanimity",
+    "Slovakia would have to provide most of the money",
+    "Ukraine's loan is guaranteed only by Slovakia"
+   ],
+   "answer": 1,
+   "explain": "The money would be borrowed against EU budget headroom, so the budget regulation must be amended, and that needs all 27. [[p:Robert Fico]] says Slovakia will not take part, which is why the loan and the [[p:2028–34 budget|Multiannual Financial Framework]] talks are tangled together."
+  },
+  {
+   "q": "What did Hungary's decision on 20 Nov actually change for Ukraine and Moldova?",
+   "options": [
+    "Both countries joined the EU single market",
+    "Screening reports for clusters 4 and 5 were approved, clearing a step before those clusters can open",
+    "Hungary agreed to fund Ukraine's 2027 budget",
+    "Accession talks were frozen until 2028"
+   ],
+   "answer": 1,
+   "explain": "Approving screening reports is a preparatory step. Opening the clusters still needs unanimous EU positions, possibly by the 15 Dec General Affairs Council."
+  },
+  {
+   "q": "Why did the drone strike on the Russian ship Sparta II worry Finland even though the ship was Russian?",
+   "options": [
+    "It carried Finnish cargo",
+    "The burning ship drifted into Finnish waters, bringing the war's effects next to a NATO member's coast",
+    "Finland had leased the ship",
+    "It blocked Finland's only port"
+   ],
+   "answer": 1,
+   "explain": "Finland notified NATO allies and restricted sea and air traffic; PM [[p:Petteri Orpo]] said the war is spreading into neighbouring areas. Who launched the drones is an assessment, not confirmed."
+  },
+  {
+   "q": "What did the US–China–Russia meeting in Shenzhen produce on nuclear weapons?",
+   "options": [
+    "A new trilateral arms-reduction treaty",
+    "A declaration repeating that nuclear war cannot be won, with dialogue but no limits or timeline",
+    "An agreement to resume nuclear testing",
+    "China's accession to New START"
+   ],
+   "answer": 1,
+   "explain": "The declaration restated a principle the five permanent Security Council members endorsed in 2022, and committed to talks on risk reduction without concrete limits."
+  },
+  {
+   "q": "Why are COP31 negotiators struggling over the final text?",
+   "options": [
+    "The United States is blocking it from inside the room",
+    "Some states, reportedly including Saudi Arabia, resist any fossil-fuel language, while vulnerable countries refuse a text without it",
+    "The host country withdrew",
+    "There is no disagreement; only translation remains"
+   ],
+   "answer": 1,
+   "explain": "Drafts dropped explicit fossil-fuel wording and leaned on carbon removal. Panama threatened to object, and the talks ran into a second day of overtime in Antalya."
+  }
+ ]
+}
