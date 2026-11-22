@@ -1,0 +1,75 @@
+{
+ "weekStart": "2026-11-16",
+ "keyEvents": {
+  "US": [
+   "E-261120-01",
+   "E-261121-01",
+   "E-261119-02",
+   "E-261118-03",
+   "E-261121-05"
+  ],
+  "Poland": [
+   "E-261121-16",
+   "E-261118-16",
+   "E-261121-19",
+   "E-261120-12",
+   "E-261122-12"
+  ],
+  "Kraków": [
+   "E-261117-19",
+   "E-261118-25",
+   "E-261120-24",
+   "E-261121-26"
+  ],
+  "India": [
+   "E-261117-32",
+   "E-261120-33",
+   "E-261118-37",
+   "E-261120-36"
+  ],
+  "Relations": [
+   "E-261118-49",
+   "E-261121-60",
+   "E-261118-55",
+   "E-261120-50"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "What did Kraków City Hall propose for the Clean Transport Zone (SCT) this week?",
+   "options": [
+    "Extending it to the whole of Małopolska",
+    "Shrinking it from about 196 km² to about 1 km² around the centre",
+    "Scrapping it entirely from January",
+    "Doubling the entry fee for older cars"
+   ],
+   "answer": 1,
+   "explain": "The draft resolution would cut the SCT from roughly 196 km² to about 0.99 km²; public consultation runs 27 Nov–18 Dec.",
+   "from": "news"
+  },
+  {
+   "q": "What was the outcome of the constructive no-confidence vote against Donald Tusk's government in the Sejm?",
+   "options": [
+    "It passed and a new PM was named",
+    "It was withdrawn before the vote",
+    "It was rejected",
+    "It was postponed to December"
+   ],
+   "answer": 2,
+   "explain": "The Sejm rejected the motion filed by Mateusz Morawiecki's Rozwój Plus club, so Tusk's government stays in office.",
+   "from": "news"
+  },
+  {
+   "q": "How long was Nikhil Gupta sentenced to in the Pannun murder-for-hire case?",
+   "options": [
+    "5 years",
+    "235 months (about 19.5 years)",
+    "Life imprisonment",
+    "Time served"
+   ],
+   "answer": 1,
+   "explain": "Judge Victor Marrero in Manhattan sentenced Gupta to 235 months; India has not commented.",
+   "from": "news"
+  }
+ ]
+}
