@@ -1601,6 +1601,107 @@
    "prevAnswer": "In 2022 Russia captured the land corridor along the Sea of Azov through occupied Kherson and Zaporizhzhia regions. That gave Crimea a road and rail route from Russia that bypasses the bridge, and much military cargo shifted to it as Ukrainian strikes on the bridge mounted.",
    "recallQ": "Why did Britain, though not among the richest members, end up one of the biggest net payers into the EU budget before 1984?",
    "recallA": "Most EU spending went to farm subsidies under the Common Agricultural Policy, and Britain's small farm sector received little of it. Meanwhile Britain paid in heavily through customs duties and VAT, because it imported much from outside Europe. The mismatch drove Thatcher's demand for a rebate."
+  },
+  {
+   "id": "2026-11-23",
+   "date": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "title": "Why Russia has warships in Libya",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "eventIds": [
+    "E-261123-09"
+   ],
+   "minutes": 4,
+   "hook": "Ukraine's [[p:Security Service of Ukraine|SBU]] says its sea drones sank the Russian corvette Merkury in Benghazi, far from its home waters in the Black Sea. Russian ships are in eastern Libya because of a relationship with [[p:Khalifa Haftar]] built over a decade of civil war, and made more valuable when Russia's hold on Syria slipped.",
+   "body": "A Russian warship refuelling in Benghazi is the product of fifteen years of Libyan chaos and one Russian grudge. To see why Moscow's navy is in eastern Libya at all, start with 2011.\n\nThat year, as rebels rose against [[p:Muammar Gaddafi]] {{note: An army officer who seized power in a bloodless coup in September 1969 and ruled Libya for 42 years.}}, Russia let the UN Security Council authorise a no-fly zone by abstaining. The [[e:2011 military intervention in Libya]] that followed went far beyond protecting civilians: NATO air power helped topple Gaddafi, who was killed in October. Russian leaders concluded they had been tricked into regime change, and Libya became a standing example in Kremlin speeches of Western overreach. It also cost Russia arms and rail contracts worth billions.\n\nLibya did not settle. In 2014 the country split between rival authorities in Tripoli and the east, and the [[e:Second Libyan Civil War]] began. In the east, [[p:Khalifa Haftar]] {{note: A Gaddafi-era officer who broke with the regime in the 1980s, lived for years in the United States and returned in 2011.}} built the [[p:Libyan National Army]] and courted foreign patrons, among them Egypt, the UAE and, increasingly, Russia. In January 2017 he was received aboard the carrier Admiral Kuznetsov off the Libyan coast, a sign that Moscow saw in him a partner.\n\nThe turning point came in 2019. Haftar marched on Tripoli, seat of the UN-recognised [[p:Government of National Accord]], and by autumn fighters of the [[p:Wagner Group]] {{note: A private military company linked to Yevgeny Prigozhin, first seen fighting in eastern Ukraine in 2014.}} were at the front. Turkey answered in early 2020 with drones, advisers and Syrian fighters, and Haftar's siege collapsed. Yet Wagner did not go home. It pulled back to the Jufra air base and the area around Sirte, and in 2020 the US military said Russia had flown in fighter jets. Defeat at Tripoli gave Russia something better than a victory: a lasting presence in the middle of the country.\n\nTwo shocks then deepened it. After [[p:Yevgeny Prigozhin]]'s mutiny and death in 2023, the Russian defence ministry took over Wagner's African network, rebranding it the Africa Corps, and Libya became its logistics hub for the Sahel. Then, in December 2024, the [[e:Fall of the Assad regime|fall of the Assad regime]] put Russia's Syrian bases at risk, and equipment began moving to eastern Libya. Analysts now describe Haftar's territory as Russia's most important foothold in the region, with reported work at several air bases and plans for the port of Tobruk.\n\nUkraine has followed. This year it has struck Russian shipping in the Mediterranean and reportedly operates from western Libya, on the other side of the country's divide. The attack in Benghazi turns Libya's old split between east and west into a front in Europe's war.",
+   "timeline": [
+    {
+     "when": "Mar 2011",
+     "text": "Russia abstains on UN Resolution 1973; the [[e:2011 military intervention in Libya]] helps topple [[p:Muammar Gaddafi]], killed in October."
+    },
+    {
+     "when": "2014",
+     "text": "Libya splits between rival authorities in the west and east; [[p:Khalifa Haftar]] launches his campaign in the east."
+    },
+    {
+     "when": "Jan 2017",
+     "text": "Haftar is received aboard the Russian carrier Admiral Kuznetsov off Libya."
+    },
+    {
+     "when": "2019–2020",
+     "text": "Haftar's offensive on Tripoli draws in the [[p:Wagner Group]]; Turkish support for the government breaks the siege, and Wagner withdraws to Jufra and Sirte."
+    },
+    {
+     "when": "2023",
+     "text": "After [[p:Yevgeny Prigozhin]]'s mutiny and death, the Russian defence ministry absorbs Wagner's Libyan operations into its Africa Corps."
+    },
+    {
+     "when": "Dec 2024",
+     "text": "The [[e:Fall of the Assad regime|fall of the Assad regime]] threatens Russia's Syrian bases; equipment begins moving to eastern Libya."
+    },
+    {
+     "when": "2026",
+     "text": "Ukraine strikes Russian shipping in the Mediterranean and is reported to operate from western Libya."
+    },
+    {
+     "when": "22 Nov 2026",
+     "text": "A blast destroys a Russian warship at Benghazi; Ukraine claims sea drones sank the corvette Merkury."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Russia",
+     "view": "Moscow tells this story as one of Western recklessness: NATO's 2011 campaign destroyed the Libyan state, and Russia now works with Libyan authorities to restore stability. It long denied any state role for Wagner and calls its current ties ordinary military cooperation."
+    },
+    {
+     "side": "Haftar's eastern administration",
+     "view": "The [[p:Libyan National Army]] presents itself as the force that defeated terrorists and militias, and its foreign partnerships as a sovereign choice. It condemned the Benghazi strike as a violation of Libyan sovereignty."
+    },
+    {
+     "side": "Ukraine and Western governments",
+     "view": "They see a foothold Russia gained through mercenaries and a divided country, now used to supply its operations in Africa and move sanctioned cargo. Kyiv says Russian military assets are legitimate targets wherever they are."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Resolution 1973",
+     "meaning": "The March 2011 UN Security Council resolution authorising a no-fly zone and 'all necessary measures' to protect Libyan civilians; Russia and China abstained."
+    },
+    {
+     "term": "Libyan National Army (LNA)",
+     "meaning": "The armed coalition led by [[p:Khalifa Haftar]] that controls most of eastern and southern Libya."
+    },
+    {
+     "term": "Africa Corps",
+     "meaning": "The Russian defence ministry structure that took over most of Wagner's operations in Africa after 2023."
+    },
+    {
+     "term": "Jufra",
+     "meaning": "An air base in central Libya that became the main hub for Russian forces after the 2020 retreat from Tripoli."
+    }
+   ],
+   "whyItMatters": "Russia's position in eastern Libya gives it a Mediterranean foothold on NATO's southern flank and a supply route to the Sahel, which matters more now that its Syrian bases are uncertain. A Ukrainian strike there exposes those ships and tests [[p:Khalifa Haftar]]'s balancing between Moscow and the West. Watch whether Russia reinforces air defences in Libya, how Tripoli responds to reports of Ukrainians on its side, and whether the strike affects US-led peace talks.",
+   "readMore": [
+    {
+     "title": "The bear who came to tea: Russia, Libya and the Kremlin's playbook for fragile states (ECFR, 2025)",
+     "url": "https://ecfr.eu/publication/the-bear-who-came-to-tea-russia-libya-and-the-kremlins-playbook-for-fragile-states",
+     "why": "How Russia built its Libyan presence step by step, from Wagner to the defence ministry."
+    },
+    {
+     "title": "Russia's most important Middle East base is not where you think (Atlantic Council, Dec 2025)",
+     "url": "https://www.atlanticcouncil.org/blogs/menasource/russias-most-important-middle-east-base-is-not-where-you-think/",
+     "why": "Why Libya may now matter more to Moscow than Syria."
+    },
+    {
+     "title": "The Threat of Russia's Growing Presence in Libya (Washington Institute, Oct 2026)",
+     "url": "https://www.washingtoninstitute.org/policy-analysis/threat-russias-growing-presence-libya",
+     "why": "Recent reporting on new work at Libyan air bases and plans for Tobruk."
+    }
+   ],
+   "prevQuestion": "Why did Britain, though not among the richest members, end up one of the biggest net payers into the EU budget before 1984?",
+   "prevAnswer": "Most EU spending went to farm subsidies under the Common Agricultural Policy, and Britain's small farm sector received little of it. Meanwhile Britain paid in heavily through customs duties and VAT, because it imported much from outside Europe. The mismatch drove Thatcher's demand for a rebate.",
+   "recallQ": "Which outside power broke Haftar's siege of Tripoli in 2020, and where did the Russian fighters go afterwards?",
+   "recallA": "Turkey, which sent drones, military advisers and Syrian fighters to back the Tripoli government. Haftar's offensive collapsed by June 2020, and Wagner's fighters fell back to the Jufra air base and the area around Sirte, where Russia has stayed ever since."
   }
  ]
 }
