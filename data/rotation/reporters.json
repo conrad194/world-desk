@@ -1175,6 +1175,48 @@
    "trackRecord": "Público society and labour reporter covering public-sector strikes and pay talks.",
    "dateAdded": "2026-11-22",
    "status": "Watch"
+  },
+  {
+   "id": "diana-kozlova",
+   "name": "Diana Kozlova",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Ukraine",
+   "languages": "Ukrainian",
+   "outlets": "Suspilne Donbas",
+   "basedIn": "Donetsk oblast (Kramatorsk area)",
+   "slant": "Public broadcaster; relies on General Staff and brigade statements",
+   "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-22-listopada-2026-roku/",
+   "trackRecord": "Writes Suspilne Donbas daily front summaries for the Pokrovsk and Kostiantynivka axes; longer record not yet checked.",
+   "dateAdded": "2026-11-23",
+   "status": "Watch"
+  },
+  {
+   "id": "tetiana-boiarchuk",
+   "name": "Tetiana Boiarchuk",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Ukraine",
+   "languages": "Ukrainian",
+   "outlets": "LB.ua",
+   "basedIn": "Kyiv",
+   "slant": "Factual courts and anti-corruption coverage",
+   "url": "https://lb.ua/pravo/2026/11/20/782484_nabu_sap_pidozryuyut_posadovtsya.html",
+   "trackRecord": "Covers NABU, SAP and court cases for LB.ua; longer record not yet checked.",
+   "dateAdded": "2026-11-23",
+   "status": "Watch"
+  },
+  {
+   "id": "rain-kooli",
+   "name": "Rain Kooli",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Estonia, Finland, Baltic Sea",
+   "languages": "Finnish, Estonian",
+   "outlets": "Yle",
+   "basedIn": "Tallinn",
+   "slant": "Public broadcaster; careful about unproven claims",
+   "url": "https://yle.fi/a/74-20258279",
+   "trackRecord": "Yle's Estonia correspondent; wrote a sourced analysis of the Sparta II and Naro-Fominsk strikes in the Gulf of Finland.",
+   "dateAdded": "2026-11-23",
+   "status": "Watch"
   }
  ]
 }
