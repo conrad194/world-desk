@@ -2687,6 +2687,18 @@
    "lean": "centrist, pan-European",
    "status": "Watch",
    "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "interia-wydarzenia-biznes",
+   "name": "Interia (Wydarzenia / Biznes)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "National news portal with Małopolska section",
+   "language": "Polish",
+   "url": "https://wydarzenia.interia.pl/malopolskie/",
+   "lean": "centrist commercial portal",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
   }
  ]
 }
