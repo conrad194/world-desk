@@ -1217,6 +1217,34 @@
    "trackRecord": "Yle's Estonia correspondent; wrote a sourced analysis of the Sparta II and Naro-Fominsk strikes in the Gulf of Finland.",
    "dateAdded": "2026-11-23",
    "status": "Watch"
+  },
+  {
+   "id": "urszula-lesman",
+   "name": "Urszula Lesman",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Poland",
+   "languages": "Polish",
+   "outlets": "Rzeczpospolita",
+   "basedIn": "Warsaw",
+   "slant": "Centre-right daily; defence and NATO beat",
+   "url": "https://www.rp.pl/wojsko/art45526191-nadzwyczajne-posiedzenie-nato-polska-chce-wzmocnienia-ochrony-nieba",
+   "trackRecord": "Covers defence and NATO for Rzeczpospolita; longer record not yet checked.",
+   "dateAdded": "2026-11-23",
+   "status": "Watch"
+  },
+  {
+   "id": "vera-koriavskaya",
+   "name": "Vera Koriavskaya",
+   "segment": "Russia–Ukraine & European security",
+   "countries": "Belarus",
+   "languages": "Russian, Belarusian",
+   "outlets": "Zerkalo",
+   "basedIn": "Exile (Zerkalo works outside Belarus)",
+   "slant": "Independent, critical of Lukashenko",
+   "url": "https://news.zerkalo.io/economics/140945.html",
+   "trackRecord": "Zerkalo correspondent on Belarusian politics and political prisoners; longer record not yet checked.",
+   "dateAdded": "2026-11-23",
+   "status": "Watch"
   }
  ]
 }

@@ -1189,6 +1189,76 @@
    "checkDate": "2026-11-28",
    "happened": "",
    "eventId": "E-261122-10"
+  },
+  {
+   "id": "W-261123-01",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Outcome of the extraordinary [[p:North Atlantic Council]] meeting on the Russian missiles that hit Poland: more air defence and jets for the eastern flank?",
+   "expected": "Polish Defence Ministry (Paweł Zalewski), per Rzeczpospolita and RBC-Ukraine",
+   "checkDate": "2026-11-24",
+   "happened": "",
+   "eventId": "E-261123-21"
+  },
+  {
+   "id": "W-261123-02",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Moldova's energy state of emergency expires on 24 Nov: extension or not.",
+   "expected": "Energy Minister Dorin Junghietu, per TVR Moldova",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": "E-261123-26"
+  },
+  {
+   "id": "W-261123-03",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Possible visit by the French, German and British national security advisers to Moscow at [[p:Yuri Ushakov]]'s invitation.",
+   "expected": "RFE/RL, via Kyiv Post",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261123-06"
+  },
+  {
+   "id": "W-261123-04",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Next Ukraine–Europe–US–Russia round, proposed by the US for before Christmas; security advisers meet first to set the agenda.",
+   "expected": "[[p:Volodymyr Zelenskyy]]; Kremlin spokesman Dmitry Peskov says no dates yet",
+   "checkDate": "2026-12-24",
+   "happened": "",
+   "eventId": "E-261123-05"
+  },
+  {
+   "id": "W-261123-05",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "Verkhovna Rada final vote on Ukraine's 2027 budget, now expected 7–10 Dec.",
+   "expected": "MP Yaroslav Zhelezniak, per UNN",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261123-18"
+  },
+  {
+   "id": "W-261123-06",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "G20 summit in Miami, 14–15 Dec: possible Trump–Putin–Zelenskyy meeting.",
+   "expected": "Zelenskyy, per UNITED24; Kyiv had no invitation as of 21 Nov",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261123-05"
+  },
+  {
+   "id": "W-261123-07",
+   "dateAdded": "2026-11-23",
+   "segment": "Russia–Ukraine & European security",
+   "what": "OFAC licence for Lukoil foreign-asset sale talks (GL 131L) expires 19 Dec.",
+   "expected": "OFAC, per Vedomosti",
+   "checkDate": "2026-12-19",
+   "happened": "",
+   "eventId": "E-261123-29"
   }
  ]
 }
