@@ -2663,6 +2663,18 @@
    "lean": "centrist, independent (Nepal)",
    "status": "Watch",
    "dateAdded": "2026-11-22"
+  },
+  {
+   "id": "nextgov-fcw",
+   "name": "Nextgov/FCW",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "federal IT and cybersecurity",
+   "language": "English",
+   "url": "https://www.nextgov.com/",
+   "lean": "Centre / trade",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
   }
  ]
 }

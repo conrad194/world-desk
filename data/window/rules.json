@@ -910,7 +910,23 @@
    "officialLink": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
    "newsLink": "https://www.shrm.org/topics-tools/employment-law-compliance/dol-finalizes-independent-contractor-rule-reversing-biden",
    "eventId": "E-261122-08",
-   "lastChecked": "2026-11-22"
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "id": "R-261123-01",
+   "dateLogged": "2026-11-23",
+   "place": "US",
+   "body": "Federal Communications Commission",
+   "name": "Order barring China Mobile, China Telecom, China Unicom and other covered providers from direct access to US telephone numbers",
+   "changes": "The Chinese state carriers and covered IP-enabled providers can no longer get US phone numbers directly.",
+   "affects": "Chinese carriers and their US customers; aimed at cutting scam robocalls",
+   "stage": "Passed / final",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
+   "eventId": "E-261123-07",
+   "lastChecked": "2026-11-23"
   }
  ]
 }
