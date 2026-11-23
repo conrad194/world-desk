@@ -2675,6 +2675,18 @@
    "lean": "Centre / trade",
    "status": "Watch",
    "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "euronews-polska",
+   "name": "Euronews Polska",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "General news, international",
+   "language": "Polish",
+   "url": "https://pl.euronews.com/",
+   "lean": "centrist, pan-European",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
   }
  ]
 }

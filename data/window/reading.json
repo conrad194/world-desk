@@ -1295,6 +1295,18 @@
    "language": "English",
    "url": "https://www.nextgov.com/cybersecurity/2026/11/usda-grapples-security-breach-it-staff-take-multiple-systems-offline/417350/",
    "why": "Uses internal emails to show how a federal breach disrupted farmers' payment systems."
+  },
+  {
+   "id": "RL-261123-02",
+   "dateAdded": "2026-11-23",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "title": "Trzy rosyjskie pociski spadły w Polsce. Wcześniej jeden uznano za drona",
+   "reporter": "Łukasz Kuczera",
+   "outlet": "WP Wiadomości",
+   "language": "Polish",
+   "url": "https://wiadomosci.wp.pl/trzy-rosyjskie-pociski-spadly-w-polsce-wczesniej-jeden-uznano-za-drona-7353797850634272a",
+   "why": "The clearest account of how the official version changed from two missiles and a drone to three Kh-101s, with site details."
   }
  ]
 }
