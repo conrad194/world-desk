@@ -335,7 +335,7 @@
    "dateAdded": "2026-10-26",
    "place": "Poland–India",
    "domain": "Defense, security & crime",
-   "what": "Signing of the Poland–India Agreement on Mutual Protection and Exchange of Classified Information, and confirmation of WB Group's India investment Update (Nov 19): No signing or WB Group announcement was found in Polish, English or Hindi sources. Update (Nov 20): Still no signing of the classified-information agreement or WB Group announcement in Polish, English or Hindi sources for Nov 19–20. Update (Nov 21): Still no signing of the classified-information agreement or WB Group India investment announcement in Polish, English or Hindi sources for Nov 20–21; the gov.pl Polish Embassy New Delhi news page shows nothing newer than September. Update (Nov 22): Nov 22: Still no signing of the Poland–India classified-information agreement found. WB Group's $100m UP drone plan (announced Oct 25) has had no new confirmation.",
+   "what": "Signing of the Poland–India Agreement on Mutual Protection and Exchange of Classified Information, and confirmation of WB Group's India investment Update (Nov 19): No signing or WB Group announcement was found in Polish, English or Hindi sources. Update (Nov 20): Still no signing of the classified-information agreement or WB Group announcement in Polish, English or Hindi sources for Nov 19–20. Update (Nov 21): Still no signing of the classified-information agreement or WB Group India investment announcement in Polish, English or Hindi sources for Nov 20–21; the gov.pl Polish Embassy New Delhi news page shows nothing newer than September. Update (Nov 22): Nov 22: Still no signing of the Poland–India classified-information agreement found. WB Group's $100m UP drone plan (announced Oct 25) has had no new confirmation. Update (Nov 23): Nov 23: Still no signing of the Poland–India classified-information agreement or WB Group India investment news in Polish, English or Hindi sources for Nov 22–23.",
    "expected": "Joint statement of 22 Oct says 'soon'",
    "checkDate": "2026-11-30",
    "happened": "",
@@ -1138,7 +1138,7 @@
    "dateAdded": "2026-11-11",
    "place": "US–Poland",
    "domain": "Defense, security & crime",
-   "what": "White House decision on a permanent US base in Poland Update (Nov 18): Polish officials expect the White House to receive the review in early December. Zalewski says formal negotiations closed during the Nov 10 Washington visit. Update (Nov 19): Nothing new on Nov 18. Defence24 (Nov 16, unofficial) puts the announcement on Dec 4, alongside the end of the posture review. Update (Nov 20): Nothing new on the base decision. On Nov 19, amid the row over Trump calling Putin a friend, Tusk said US troops in Poland remain one of the key guarantors of security and referred to the planned permanent base (rp.pl). Update (Nov 22): Nov 22: In an updated Rzeczpospolita piece, Polish MoD says the US military side has given a green light and the decision rests with Trump. Areas near Wrocław, Poznań, Bydgoszcz and Szczecin are mentioned, with costs estimated at up to 25bn zł (https://rp.pl/kraj/art45513881-rzecz-w-tym-kiedy-gdzie-i-za-ile-moze-powstac-baza-wojsk-usa-w-polsce).",
+   "what": "White House decision on a permanent US base in Poland Update (Nov 18): Polish officials expect the White House to receive the review in early December. Zalewski says formal negotiations closed during the Nov 10 Washington visit. Update (Nov 19): Nothing new on Nov 18. Defence24 (Nov 16, unofficial) puts the announcement on Dec 4, alongside the end of the posture review. Update (Nov 20): Nothing new on the base decision. On Nov 19, amid the row over Trump calling Putin a friend, Tusk said US troops in Poland remain one of the key guarantors of security and referred to the planned permanent base (rp.pl). Update (Nov 22): Nov 22: In an updated Rzeczpospolita piece, Polish MoD says the US military side has given a green light and the decision rests with Trump. Areas near Wrocław, Poznań, Bydgoszcz and Szczecin are mentioned, with costs estimated at up to 25bn zł (https://rp.pl/kraj/art45513881-rzecz-w-tym-kiedy-gdzie-i-za-ile-moze-powstac-baza-wojsk-usa-w-polsce). Update (Nov 23): Nov 23: Nothing new on the base decision over the weekend. Tomczyk's earlier line still stands: a Trump announcement around Dec 4–6 (Polsat News, Nov 19).",
    "expected": "Defence Minister Kosiniak-Kamysz expects a decision in early December (rp.pl)",
    "checkDate": "2026-12-04",
    "happened": "",
@@ -2227,7 +2227,7 @@
    "dateAdded": "2026-11-21",
    "place": "US–India",
    "domain": "Law, courts & regulation",
-   "what": "Whether Nikhil Gupta files a notice of appeal against his 235-month sentence, and whether India's MEA comments on the sentencing Update (Nov 22): Nov 22: No notice of appeal by Nikhil Gupta and no MEA comment on the sentencing were found.",
+   "what": "Whether Nikhil Gupta files a notice of appeal against his 235-month sentence, and whether India's MEA comments on the sentencing Update (Nov 22): Nov 22: No notice of appeal by Nikhil Gupta and no MEA comment on the sentencing were found. Update (Nov 23): Nov 23: Still no notice of appeal by Nikhil Gupta and no MEA comment on the sentence. Eastern Eye (Nov 21) reports Pannun thanked the US and no transfer or appeal step so far.",
    "expected": "Defence lawyers said they were disappointed (PTI); a criminal notice of appeal is normally due 14 days after judgment is entered",
    "checkDate": "2026-12-07",
    "happened": "",
@@ -2397,6 +2397,17 @@
    "checkDate": "2026-12-01",
    "happened": "",
    "eventId": "E-261123-30"
+  },
+  {
+   "id": "W-261123-09",
+   "dateAdded": "2026-11-23",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "Outcome of the North Atlantic Council meeting on the Russian missile incursion: any NATO air-defence reinforcement for Poland, any change to engagement rules, and the US position stated in the room or afterwards",
+   "expected": "Zalewski (Polsat News, Nov 22): Poland will propose stronger eastern-flank air defence and faster shoot-down procedures; no Article 4 request",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

@@ -2735,6 +2735,18 @@
    "lean": "centrist (Nepal)",
    "status": "Watch",
    "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "polsat-news-polsatnews-pl",
+   "name": "Polsat News (polsatnews.pl)",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Polish politics, foreign and defence news",
+   "language": "Polish",
+   "url": "https://www.polsatnews.pl",
+   "lean": "commercial broadcaster, centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
   }
  ]
 }

@@ -660,6 +660,46 @@
    "thread": "",
    "followsUp": "",
    "notes": "Roundup sources only; casualty figures may change."
+  },
+  {
+   "id": "E-261123-34",
+   "dateLogged": "2026-11-23",
+   "eventDate": "2026-11-21",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "text": "Democratic Senators Jeanne Shaheen and Chris Coons issued a joint statement condemning Russia for the recent airspace incursions into US allies, including Poland, which they described as a test of Western resolve and an attempt to weaken support for Ukraine. They said the United States should respond immediately. They also criticised President Trump's friendly tone toward Putin at the Shenzhen meeting, arguing it had emboldened rather than restrained him, and pledged that Congress would stand by US allies and Ukraine. The statement was first reported by The Hill.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Bartosz Przyborowski",
+   "outlet": "Polsat News (citing The Hill)",
+   "language": "Polish",
+   "link1": "https://www.polsatnews.pl/wiadomosc/2026-11-21/demokratyczni-senatorowie-wydali-oswiadczenie-chodzi-o-polske-sprawdzian-determinacji/",
+   "link2": "",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "US–Poland and Ukraine diplomacy",
+   "followsUp": "E-261121-64",
+   "notes": "Late catch from Nov 21, not in recent events. Opposition (Democratic) view; contrasts with the administration, which has made no formal statement. Original Hill article not read directly."
+  },
+  {
+   "id": "E-261123-35",
+   "dateLogged": "2026-11-23",
+   "eventDate": "2026-11-21",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "text": "On Saturday Trump posted a series of photos from his China trip on Truth Social, including one with Vladimir Putin captioned 'My friend' and a composite setting a Putin–Xi–Trump picture beside the Stalin–Roosevelt–Churchill wartime photo under the caption 'Great Powers 1945, 2026'. Kremlin envoy Kirill Dmitriev reposted the Putin image. A day earlier in Washington, Trump said Putin had clearly expressed a wish to end the war, that a deal was likely and that his personal relationship with Putin was fantastic. The posts follow Tusk's Nov 19 rebuke of Trump's 'friend' remark; no Polish government reaction to the new posts was reported.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "Michał Blus",
+   "outlet": "Polsat News",
+   "language": "Polish",
+   "link1": "https://www.polsatnews.pl/wiadomosc/2026-11-22/seria-zdjec-trumpa-z-chin-fotografie-z-putinem-podpisal-moj-przyjaciel/",
+   "link2": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-22-listopada-2026-roku-st9345247",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "US–Poland and Ukraine diplomacy",
+   "followsUp": "",
+   "notes": "Posts described by Polsat; Truth Social originals not viewed. The Big Three photo the caption refers to is from Tehran 1943 (or Yalta 1945), so the caption's date is ambiguous. TVN24 carries Trump's remarks about Putin wanting peace. Byline attribution on the Polsat page is unclear."
   }
  ]
 }
