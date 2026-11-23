@@ -2164,6 +2164,136 @@
    ],
    "recallQ": "Who can stop a rule written by a US agency, and how does that differ from who can stop a decision of Kraków's mayor?",
    "recallA": "A US agency rule can be struck down by courts if it exceeds the statute or skipped procedure, overturned by Congress, or withdrawn by a new administration. A Kraków mayor's proposals need a City Council vote to become local law, and the voivode, as the central government's representative, can challenge unlawful resolutions. Both are cases of power lent by a higher law and checked by another body."
+  },
+  {
+   "id": "L15",
+   "num": 15,
+   "unit": "How rules get made",
+   "title": "Polish law: acts vs ministerial regulations; Dziennik Ustaw",
+   "dateTaught": "2026-11-23",
+   "minutes": 9,
+   "pulledForward": false,
+   "prevQuestion": "What are the three main ways a US executive order can be checked, and why does Poland's prime minister rarely face the same kind of fight with the President over orders?",
+   "prevAnswer": "A US order can be struck down by courts (using the Youngstown test), reversed by a statute from Congress (subject to veto) or defunded, and revoked by the next president. In Poland, most presidential acts need the prime minister's countersignature and binding rules for citizens require a statute, so the President has no general power to govern by order.",
+   "body": "Lesson 12 showed US agencies turning statutes into binding rules, and Lesson 14 ended with a Polish rule: a minister can bind citizens only if an act of parliament says so. Today we open that box. Poland's legal system is built as a strict ladder, and each rung may only do what the rung above allows.\n\n**The closed list.** Article 87 of the 1997 Constitution names the sources of universally binding law: the Constitution, **statutes** (ustawy), ratified international agreements and **regulations** (rozporządzenia). Add **acts of local law** (akty prawa miejscowego), which bind only inside the territory of the council or voivode that made them. Anything else, such as a prime minister's order or a cabinet resolution, binds only offices inside the government. This list is deliberately closed: a citizen can check whether a rule really binds them by asking which rung it sits on.\n\n**Acts versus regulations.** An **act** (ustawa) is passed by the Sejm and Senate and signed by the President, the path you met in Lesson 6. Only an act may restrict a constitutional freedom (Article 31(3)), impose a tax or define a crime. A **regulation** is issued by a minister, the Council of Ministers or the prime minister, and it fills in the details: forms, deadlines, technical standards, fee amounts. Under Article 92 it needs a **specific authorisation** (upoważnienie ustawowe) in an act, which must name who issues the regulation, what it may cover and guidelines for its content. The minister cannot hand that power to someone else, and the regulation cannot go beyond the authorisation. If it does, the Constitutional Tribunal (Lesson 8) can strike it down, and ordinary courts may simply refuse to apply it in a case.\n\n**No rule without publication.** Article 88 says acts, regulations and local law take effect only once promulgated. National acts and regulations appear in **Dziennik Ustaw** (the Journal of Laws). The standard waiting period, the **vacatio legis**, is 14 days after publication unless the act sets another date, so that people can learn the rule before it bites. Acts that bind only the administration go in a separate journal, **Monitor Polski**, while each voivodeship has its own official journal for local law, such as Kraków city council resolutions.\n\n> Dziennik Ustaw traces its line to a journal of laws first published in Warsaw in 1918. Publishing it is the Prime Minister's responsibility, and since 2012 the electronic edition has been the official one.\n\n**How this compares.** The US and India use the same idea, delegated or subordinate legislation, but police it differently. In the US, Congress must give agencies an \"intelligible principle\", and since [#Loper Bright Enterprises v. Raimondo](https://en.wikipedia.org/wiki/Loper_Bright_Enterprises_v._Raimondo) in 2024 courts no longer defer to an agency's reading of an unclear statute. In India, ministries issue **rules** under a parent act, publish them in the Gazette of India and lay them before Parliament, where a Committee on Subordinate Legislation in each House checks that they stay within the act. Poland writes the limits into the Constitution itself, which makes the question \"is there a specific authorisation?\" the first one any Polish lawyer asks.\n\n**Why it matters.** Polish governments often reach for regulations because they are quick: no Sejm votes, no presidential veto. That speed is exactly why the courts watch them. When a regulation does something only an act may do, it is the regulation that falls, however urgent the reason. Scholars and politicians still disagree over how detailed an authorisation must be, and the Tribunal's answer has shifted from case to case.",
+   "comparison": [
+    {
+     "aspect": "Main law passed by the legislature",
+     "US": "Act of Congress (statute), compiled in the US Code",
+     "Poland": "Ustawa (act) passed by the Sejm and Senate, signed by the President",
+     "India": "Act of Parliament, assented to by the President"
+    },
+    {
+     "aspect": "Detailed rules made by the executive",
+     "US": "Agency regulations made by notice and comment, codified in the CFR",
+     "Poland": "Rozporządzenie (regulation) of a minister or the Council of Ministers",
+     "India": "Rules and regulations issued by ministries under a parent act"
+    },
+    {
+     "aspect": "What limits those rules",
+     "US": "The statute's delegation; courts review without deference since [#Loper Bright Enterprises v. Raimondo](https://en.wikipedia.org/wiki/Loper_Bright_Enterprises_v._Raimondo) (2024)",
+     "Poland": "Constitution Art. 92: a specific statutory authorisation naming issuer, scope and guidelines",
+     "India": "Must stay within the parent act; courts strike down excessive delegation"
+    },
+    {
+     "aspect": "Official publication",
+     "US": "Federal Register (rules), Statutes at Large (acts)",
+     "Poland": "Dziennik Ustaw; Monitor Polski for internal acts; voivodeship journals for local law",
+     "India": "Gazette of India; state gazettes for state laws"
+    },
+    {
+     "aspect": "Who checks the executive's rules",
+     "US": "Federal courts; Congress via the Congressional Review Act",
+     "Poland": "Constitutional Tribunal; courts may refuse to apply an unlawful regulation",
+     "India": "High Courts and Supreme Court; Committees on Subordinate Legislation in Parliament"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Ustawa (act, statute)",
+     "meaning": "A law passed by the Sejm and Senate and signed by the President; the only rung that may restrict freedoms, set taxes or define crimes."
+    },
+    {
+     "term": "Rozporządzenie (regulation)",
+     "meaning": "A universally binding rule issued by a minister, the Council of Ministers or the prime minister, valid only within a statute's specific authorisation."
+    },
+    {
+     "term": "Upoważnienie ustawowe (statutory authorisation)",
+     "meaning": "The clause in an act that names who may issue a regulation, on what matters and with what guidelines (Constitution Art. 92)."
+    },
+    {
+     "term": "Dziennik Ustaw (Journal of Laws)",
+     "meaning": "The official journal in which Polish acts and regulations must be published before they take effect."
+    },
+    {
+     "term": "Vacatio legis",
+     "meaning": "The gap between publication and entry into force, normally 14 days in Poland, so people can learn a new rule."
+    },
+    {
+     "term": "Akt prawa miejscowego (act of local law)",
+     "meaning": "A binding rule made by a local council or voivode under a statute, valid only in that territory and published in the voivodeship's official journal."
+    }
+   ],
+   "example": "In spring 2020, during the [#COVID-19 pandemic in Poland](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Poland), the government restricted movement, gatherings and business through Council of Ministers regulations issued under the act on infectious diseases. It chose not to declare a constitutional state of natural disaster, which would have allowed rights to be limited more widely. Thousands of people were fined. The then Ombudsman, [@Adam Bodnar](https://en.wikipedia.org/wiki/Adam_Bodnar), appealed many of these cases. In March 2021 the Supreme Court set aside the first three fines, and lawyers widely read the rulings as confirming that a regulation cannot restrict a constitutional freedom on its own: Article 31(3) reserves that for an act. Administrative courts reached similar results on fines imposed by sanitary inspectors. The government argued it had acted lawfully in an emergency; the episode became a textbook case of a regulation reaching beyond its statute.",
+   "inTheNews": "Kraków's smaller Clean Transport Zone will be a city council resolution, an act of local law that rests on a national statute and goes out for consultation on 27 November. The shooting range at Fort 'Za Rzeką' was approved under a July 2023 special act (specustawa), a statute written to fast-track one type of project, which is why the voivode could make the permit immediately enforceable.",
+   "newsEvents": [
+    "E-261123-11",
+    "E-261123-15"
+   ],
+   "check": [
+    {
+     "q": "A Polish minister issues a regulation that sets a new fine for citizens, but the act it cites only authorises rules on the design of application forms. What follows?",
+     "options": [
+      "It is valid, because regulations are universally binding",
+      "It goes beyond its specific authorisation and can be struck down or refused by the courts",
+      "It becomes valid once published in Monitor Polski",
+      "It needs only the President's countersignature to be valid"
+     ],
+     "answer": 1,
+     "explain": "Under Article 92 a regulation may act only within the scope its authorising act sets. A fine outside that scope has no legal basis, so the Constitutional Tribunal can strike it down and courts can decline to apply it."
+    },
+    {
+     "q": "Why does Poland require publication in Dziennik Ustaw and usually a vacatio legis before a law takes effect?",
+     "options": [
+      "To give the Senate time to amend it",
+      "So people can know a binding rule before it applies to them",
+      "Because the President's veto period runs after publication",
+      "Because EU law requires a waiting period for all national laws"
+     ],
+     "answer": 1,
+     "explain": "Article 88 ties binding force to promulgation, and the default 14-day vacatio legis gives citizens and officials time to learn the rule."
+    },
+    {
+     "q": "Which statement best captures the difference between how the US and Poland limit executive rulemaking?",
+     "options": [
+      "The US forbids agencies from making binding rules",
+      "Poland's limits are written into the Constitution (a specific authorisation), while US limits come mostly from statutes and court doctrine",
+      "Only Poland lets courts review executive rules",
+      "Polish regulations need a parliamentary vote before taking effect"
+     ],
+     "answer": 1,
+     "explain": "Poland's Article 92 spells out what an authorisation must contain. In the US, the limits come from the delegating statute, the Administrative Procedure Act and judge-made doctrines such as the intelligible principle test."
+    }
+   ],
+   "recallQ": "What three things must a Polish statutory authorisation for a regulation contain, and what happens if a regulation goes beyond it?",
+   "recallA": "Under Article 92 of the Constitution, the authorisation must name the body that issues the regulation, the matters it may cover and guidelines for its content. A regulation that strays outside it lacks a legal basis: the Constitutional Tribunal can strike it down and ordinary courts can refuse to apply it, as happened with many 2020 lockdown fines.",
+   "readMore": [
+    {
+     "title": "Constitution of the Republic of Poland, Chapter III: Sources of Law (Senate of Poland)",
+     "url": "https://www.senat.gov.pl/en/about-the-senate/konstytucja/chapter-iii/",
+     "why": "The official English text of Articles 87–94, which set the ladder of acts, regulations and local law and the publication rule."
+    },
+    {
+     "title": "Dziennik Ustaw (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Dziennik_Ustaw",
+     "why": "A short overview of Poland's Journal of Laws, its history and its role as the official place where laws are promulgated."
+    },
+    {
+     "title": "Polish Supreme Court overturns fines for violation of unlawful lockdown restrictions (Notes from Poland)",
+     "url": "https://notesfrompoland.com/2021/03/18/polish-supreme-court-overturns-fines-for-violation-of-unlawful-lockdown-restrictions/",
+     "why": "A news report on the March 2021 rulings that show what happens when a regulation restricts freedoms without proper statutory basis."
+    }
+   ]
   }
  ]
 }
