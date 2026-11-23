@@ -2699,6 +2699,42 @@
    "lean": "centrist commercial portal",
    "status": "Watch",
    "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "lawbeat",
+   "name": "LawBeat",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Supreme Court and High Court reporting",
+   "language": "English",
+   "url": "https://lawbeat.in/",
+   "lean": "specialist legal, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "the-news-minute",
+   "name": "The News Minute",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "South India politics and society",
+   "language": "English",
+   "url": "https://www.thenewsminute.com/",
+   "lean": "centre-left, independent",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "khabarhub-english",
+   "name": "Khabarhub (English)",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Nepali outlet covering Nepal–India ties",
+   "language": "English",
+   "url": "https://english.khabarhub.com/",
+   "lean": "centrist (Nepal)",
+   "status": "Watch",
+   "dateAdded": "2026-11-23"
   }
  ]
 }
