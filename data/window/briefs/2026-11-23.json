@@ -1,0 +1,950 @@
+{
+ "date": "2026-11-23",
+ "top5": [
+  {
+   "text": "Prosecutors now say all three objects that fell on Nov 20 were Russian Kh-101 missiles made this quarter. NATO's Council meets today at Poland's request.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "WP Wiadomości",
+     "url": "https://wiadomosci.wp.pl/trzy-rosyjskie-pociski-spadly-w-polsce-wczesniej-jeden-uznano-za-drona-7353797850634272a"
+    },
+    {
+     "label": "Polsat News",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/pawel-zalewski-przed-szczyt-nato-w-brukseli-wiadomo-czego-chce-polska/"
+    }
+   ]
+  },
+  {
+   "text": "Trump dared Iran to run the US blockade with its reported 14-tanker convoy; the convoy is still unconfirmed.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Fox News (via Yahoo News)",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-dares-iran-breach-us-224324367.html"
+    }
+   ]
+  },
+  {
+   "text": "The FBI is investigating an apparent hack of its NCIC crime database, and a separate USDA breach knocked farm-payment systems offline.",
+   "place": "US",
+   "links": [
+    {
+     "label": "AP (via Boston.com)",
+     "url": "https://boston.com/news/crime/2026/11/21/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says"
+    },
+    {
+     "label": "Nextgov/FCW",
+     "url": "https://www.nextgov.com/cybersecurity/2026/11/usda-grapples-security-breach-it-staff-take-multiple-systems-offline/417350/"
+    }
+   ]
+  },
+  {
+   "text": "Kraków's smaller Clean Transport Zone draft would exempt residents' cars acquired by end-2028; consultation runs 27 Nov–18 Dec.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Radio Kraków",
+     "url": "https://radiokrakow.pl/wiadomosci/krakow/sct-tylko-w-centrum-krakowa-konsultacje-rusza-27-listopada/188042"
+    }
+   ]
+  },
+  {
+   "text": "Nepal PM Balendra Shah is in Delhi for talks with Modi today; the EU has sent the India–EU FTA to member states ahead of a Dec 16 signing.",
+   "place": "India",
+   "links": [
+    {
+     "label": "IANS",
+     "url": "https://ianslive.in/nepal-prime-minister-to-hold-delegation-level-talks-with-pm-modi-today--20261123061818"
+    },
+    {
+     "label": "Swarajya",
+     "url": "https://swarajyamag.com/news-brief/india-and-eu-set-to-sign-mother-of-all-deals-free-trade-pact-in-brussels-on-16-december"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261123-01",
+    "domain": "Technology, AI & cyber",
+    "text": "The FBI is investigating an apparent hack of its NCIC national crime database; Trump called it 'not good'. The scope is unclear.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "AP (via Boston.com)",
+      "url": "https://boston.com/news/crime/2026/11/21/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-03",
+    "domain": "Defense, security & crime",
+    "text": "Trump dared Iran to send its reported 14-tanker convoy through the US blockade; UKMTO logged an unexplained tanker incident in the Gulf of Oman.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Fox News (via Yahoo News)",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-dares-iran-breach-us-224324367.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-02",
+    "domain": "Technology, AI & cyber",
+    "text": "A USDA security incident forced a full password reset and multi-day outages of farmer payment and loan systems; the attacker is unknown.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/cybersecurity/2026/11/usda-grapples-security-breach-it-staff-take-multiple-systems-offline/417350/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.agweb.com/news/policy/politics/usda-allegedly-impacted-by-russian-speaking-hackers"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-04",
+    "domain": "Law, courts & regulation",
+    "text": "A federal judge struck down HUD's overhaul of the $4bn+ homelessness grant programme and ordered awards by Dec 31 under lawful criteria.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Reuters (via WABX/US News)",
+      "url": "https://wabx.net/2026/11/20/us-judge-rejects-trump-administrations-homelessness-program-revamp/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.theepochtimes.com/us/federal-judge-blocks-key-parts-of-trump-admins-4-billion-homelessness-overhaul-6127978"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261123-08",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors say all three objects that fell on Nov 20 were Russian Kh-101 cruise missiles made in Dubna in Q4 2026. The third was not a drone.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "WP Wiadomości",
+      "url": "https://wiadomosci.wp.pl/trzy-rosyjskie-pociski-spadly-w-polsce-wczesniej-jeden-uznano-za-drona-7353797850634272a"
+     },
+     {
+      "label": "Second source",
+      "url": "https://pl.euronews.com/2026/11/22/prokuratura-we-wszystkich-trzech-lokalizacjach-odnaleziono-szczatki-rakiet-ch-101"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-09",
+    "domain": "Defense, security & crime",
+    "text": "NATO's North Atlantic Council meets today at Poland's request. Warsaw seeks more eastern-flank air defence, AWACS and faster shoot-down rules, without invoking Article 4.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/pawel-zalewski-przed-szczyt-nato-w-brukseli-wiadomo-czego-chce-polska/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/fakty/polska/news-nadzwyczajne-posiedzenie-nato-polska-wysle-nie-tylko-wicemin,nIdn,1027193"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-10",
+    "domain": "Technology, AI & cyber",
+    "text": "Digital Affairs Ministry warns of Russian disinformation blaming Poland and NATO for a reported Ukrainian drone strike on Kaliningrad.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "WP Wiadomości",
+      "url": "https://wiadomosci.wp.pl/rosja-wciaga-polske-w-narracje-o-ataku-na-krolewiec-wiceminister-reaguje-7353757615065088a"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bankier.pl/wiadomosc/NATO-zaatakowalo-Kaliningrad-Polska-wykrywa-rosyjskie-falszywe-przekazy-9233123.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261123-11",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Smaller SCT draft: residents' exemption covers cars acquired by end-2028, with no registration needed; consultation 27 Nov–18 Dec, rules possibly from Feb–Mar 2027.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Clean Transport Zone (SCT) overhaul",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/sct-tylko-w-centrum-krakowa-konsultacje-rusza-27-listopada/188042"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__wkrotce_rusza_konsultacje_spoleczne.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-12",
+    "domain": "Defense, security & crime",
+    "text": "Retractable bollards planned for all Main Square entrances in 2027, reportedly co-financed by the voivode; extra patrols expected during the Christmas market.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/kupcy-szykuja-jarmark-na-krakowskim-rynku-czy-za-rok-zorganizuje-go-samo-miasto/188044"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-13",
+    "domain": "Law, courts & regulation",
+    "text": "Prosecutors are preparing a court motion to lift medical secrecy so they can question the doctors who cleared the attacker for a gun permit; police internal affairs to review the permit.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Interia Wydarzenia (citing Rzeczpospolita)",
+      "url": "https://wydarzenia.interia.pl/malopolskie/news-poklosie-zamachu-w-krakowie-media-prokuratura-chce-przesluch,nId,23576320"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-14",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Metro council chair Prof. Szarata says Gibała did not consult it, warns the halt costs 2–3 years, and plans a position letter to the mayor.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "Interia Biznes",
+      "url": "https://biznes.interia.pl/gospodarka/news-chca-rozmow-z-gibala-zapowiadaja-list-do-prezydenta-wystarcz,nId,23576709"
+     },
+     {
+      "label": "Second source",
+      "url": "https://innpoland.pl/233923,metro-w-krakowie-jednak-powstanie-rzad-zabral-glos"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-22",
+    "domain": "Environment, energy & disasters",
+    "text": "First snow and frost in Małopolska; highs near zero later in the week and icy roads expected, with no IMGW warnings reported so far.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/snieg-i-nocny-mroz-w-malopolsce/188039"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/fakty/pogoda/news-nadciaga-mroz-i-snieg-imgw-na-termometrach-nawet-10-st-c,nIdn,1026589"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261123-24",
+    "domain": "Foreign relations",
+    "text": "Nepal PM Balendra Shah arrived in Delhi and met Jaishankar; Modi talks, MoUs, a joint vision document and the Lower Arun foundation stone are due Nov 23.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "IANS",
+      "url": "https://ianslive.in/nepal-prime-minister-to-hold-delegation-level-talks-with-pm-modi-today--20261123061818"
+     },
+     {
+      "label": "Second source",
+      "url": "https://english.khabarhub.com/2026/23/576638/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-25",
+    "domain": "Law, courts & regulation",
+    "text": "Tamil Nadu sought review of the SC's one-time Deepathoon lamp order on the eve of the Nov 24 Karthigai Deepam; Muslim groups backed the plea.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LawBeat",
+      "url": "https://lawbeat.in/top-stories/tamil-nadu-seeks-review-of-supreme-courts-one-time-karthigai-deepam-order-for-thiruparankundram-deepathoon-1654084"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thenewsminute.com/tamil-nadu/muslim-federation-welcomes-tn-govt-review-petition-urges-following-tradition-at-thiruparankundram"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-26",
+    "domain": "Trade & tariffs",
+    "text": "EU Commission sent the India–EU FTA text to the Council for approval; signing in Brussels on Dec 16 during Modi's visit is reiterated.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Swarajya",
+      "url": "https://swarajyamag.com/news-brief/india-and-eu-set-to-sign-mother-of-all-deals-free-trade-pact-in-brussels-on-16-december"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Weather",
+   "text": "Snow overnight into Mon 23 Nov and frost about -1°C in Kraków. Highs of about 1–4°C early in the week; Thu–Fri may stay below zero with icy roads and pavements. No IMGW warning for Małopolska reported yet. Check meteo.imgw.pl.",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/snieg-i-nocny-mroz-w-malopolsce/188039"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Air was 'very good' at all six GIOŚ stations on 21–22 Nov. Colder, still nights later in the week raise the risk of smog. Check powietrze.gios.gov.pl.",
+   "link": "https://krakowskiraport.pl/artykul/3265-powietrze-w-krakowie-niedziela-22-listopada-bardzo-dobre-podobnie-jak-wczoraj"
+  },
+  {
+   "kind": "Transit",
+   "text": "Andrzejki night service: extra 611 runs on 26–27 Nov. On 27–28 and 29–30 Nov, temporary night buses 604 and 618 run hourly, 605, 611 and 664 every 15 minutes, and trams 62 and 69 use larger vehicles. The UniBus/Inter Kraków–Katowice coach ends on 30 Nov.",
+   "link": "https://krakow.pl/aktualnosci/346597,1912,komunikat,andrzejki_ze_wzmocniona_komunikacja_miejska_.html"
+  },
+  {
+   "kind": "Closure",
+   "text": "ul. Kościuszkowców near Zakopiańska is closed to cars for about a week from 23 Nov. ul. Witosa narrows to one lane towards Kurdwanów from 25 Nov, 10:00. Bike path repairs along al. Solidarności (Park Szwedzki) run 23–30 Nov. Planned TAURON power cuts on 23 and 25–27 Nov in parts of the city (Myślenicka area, Kościelnicka, Bogucianka, Opatkowicka, Soczyny and others).",
+   "link": "https://cowkrakowie.pl/2026/11/tauron-podal-harmonogram-wylaczen-w-krakowie-nie-bedzie-pradu"
+  },
+  {
+   "kind": "Event",
+   "text": "The Main Square Christmas market opens on 27 Nov (to 1 Jan, about 100 stalls) with extra patrols and temporary barriers at entrances. The Mały Rynek fair runs 30 Nov–3 Jan. A Penderecki birthday concert is on 23 Nov at 19:00 at the Philharmonic.",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/kupcy-szykuja-jarmark-na-krakowskim-rynku-czy-za-rok-zorganizuje-go-samo-miasto/188044"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261123-34",
+    "domain": "Foreign relations",
+    "text": "Senators Shaheen and Coons condemned Russia's incursions into Poland, urged an immediate US response and criticised Trump's warmth toward Putin.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "Polsat News (citing The Hill)",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/demokratyczni-senatorowie-wydali-oswiadczenie-chodzi-o-polske-sprawdzian-determinacji/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261123-35",
+    "domain": "Foreign relations",
+    "text": "Trump posted a 'My friend' photo with Putin and a 'Great Powers 1945, 2026' image, extending the row with Warsaw over his tone.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/seria-zdjec-trumpa-z-chin-fotografie-z-putinem-podpisal-moj-przyjaciel/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-22-listopada-2026-roku-st9345247"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261118-06",
+   "name": "Draft resolution shrinking the Clean Transport Zone (SCT) to the city centre",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "stage": "Open for comment",
+   "changes": "Cuts the SCT from about 196 km² to about 0.99 km² (first ring road plus al. Krasińskiego). The residents' exemption would depend on paying tax in Kraków, not registration, and would extend to company, leased and rented cars. Medical-visit exemptions would cover any facility in the zone. Paid stickers would be replaced by plate checks. Emission standards are unchanged.",
+   "affects": "Drivers of non-compliant cars, especially commuters from outside Kraków; residents near main roads outside the centre lose zone protection",
+   "effectiveDate": "",
+   "commentDeadline": "2026-12-18",
+   "officialLink": "",
+   "newsLink": "https://tvn24.pl/krakow/krakow-strefa-czystego-transportu-bedzie-mniejsza-jest-zapowiedz-wladz-miasta-st9343586"
+  },
+  {
+   "id": "R-261123-01",
+   "name": "Order barring China Mobile, China Telecom, China Unicom and other covered providers from direct access to US telephone numbers",
+   "place": "US",
+   "body": "Federal Communications Commission",
+   "stage": "Passed / final",
+   "changes": "The Chinese state carriers and covered IP-enabled providers can no longer get US phone numbers directly.",
+   "affects": "Chinese carriers and their US customers; aimed at cutting scam robocalls",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers"
+  }
+ ],
+ "deepDive": {
+  "domain": "Law, courts & regulation",
+  "title": "Three contested laws reach the President's desk, and the Tribunal can't settle them",
+  "body": "By about **Friday 27 November**, President Karol Nawrocki must act on three of the government's most contested laws. Under Article 122 of the Constitution he has 21 days to sign, veto or refer each one to the Constitutional Tribunal. No decision had been announced as of Monday morning.\n\n**The 'rule of law' act** would void the effect of National Council of the Judiciary (KRS) recommendations made from 2018 to 2026. Judges appointed in that period would return to their earlier posts, and their seats would be re-advertised. The Senate passed it 63–32 on 6 November. PiS calls it a purge and urges a veto; the coalition says it repairs appointments that European courts have found defective.\n\n**Two abortion bills** would restore termination for severe foetal defects and partly decriminalise helping someone obtain an abortion. **The PIT/CIT package** adds a 24% income-tax band, 22% CIT for firms with turnover above €50m and a 5% solidarity levy. It must be decided and published by the end of November to take effect in 2027.\n\nA veto is the likeliest tool for any law the President opposes. Overriding one takes three-fifths of the Sejm, which the coalition does not have. A referral to the Tribunal is murkier, because the Tribunal is itself split. Its general assembly suspended president Bogdan Święczkowski and lifted his immunity. He rejects that decision, and prosecutors may now summon him. Talks at the President's Chancellery on a Tribunal 'reset' based on a PSL plan are boycotted by KO and the Left.\n\n**Why it matters:** the decisions show whether President and government can still pass anything together before 2027. One recent precedent points both ways: on 18 November Nawrocki signed a smaller tax-relief act but vetoed the VAT act. Analysis based on reporting by Interia, Rzeczpospolita/PAP and Finwire.",
+  "links": [
+   {
+    "label": "Interia: Senate passes rule-of-law act",
+    "url": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104"
+   },
+   {
+    "label": "Rzeczpospolita: Chancellery TK draft",
+    "url": "https://www.rp.pl/polityka/art45511321-w-kancelarii-prezydenta-wypracowano-projekt-zmian-w-tk-podstawa-byl-pomysl-psl"
+   },
+   {
+    "label": "Finwire: print 3149 signed",
+    "url": "https://finwire.pl/artykuly/prezydent-podpisal-nowelizacje-pit-druk-3149-krwiodawcy-robotyzacja"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261123-02",
+   "title": "Trzy rosyjskie pociski spadły w Polsce. Wcześniej jeden uznano za drona",
+   "reporter": "Łukasz Kuczera",
+   "outlet": "WP Wiadomości",
+   "url": "https://wiadomosci.wp.pl/trzy-rosyjskie-pociski-spadly-w-polsce-wczesniej-jeden-uznano-za-drona-7353797850634272a",
+   "why": "The clearest account of how the official version changed from two missiles and a drone to three Kh-101s, with site details.",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261123-05",
+   "title": "Exclusive: Centre backs down on kill switch for 'digital arrests', WhatsApp's warnings-first plan prevails",
+   "reporter": "Vrinda Tulsian",
+   "outlet": "ThePrint",
+   "url": "https://theprint.in/tech/exclusive-centre-backs-down-on-kill-switch-for-digital-arrests-whatsapps-warnings-first-plan-prevails/3096987/",
+   "why": "Document-based background on what the government will tell the Supreme Court in the digital-arrest case listed Nov 23.",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-23",
+   "text": "Formal notification of Agniveer second-tour terms before the first batch exits on Nov 21. Pay and Seva Nidh…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-23",
+   "text": "Supreme Court hearing in the digital-arrest suo motu case: WhatsApp and other platforms’ anti-scam proposals",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Supreme Court's next hearing in the Delhi-NCR air-pollution case: further orders on vehicle emissions and t…",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Prosecutors’ findings on motive and on whether anyone helped plan or supply the Kraków attack, and whether…",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Święczkowski's further attempts to enter the Constitutional Tribunal, possibly with a bailiff",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "FAA/DOT findings on the cause of the Nov 13 nationwide ground stop, and any congressional response to Duffy…",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "J&K and Ladakh High Court (Leh bench) hearing on Sonam Wangchuk's petition against his house detention",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "EU (applies in Poland)",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "AP (via Boston.com)",
+   "url": "https://boston.com/news/crime/2026/11/21/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via Boston.com)",
+   "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News (via Yahoo News)",
+   "url": "https://www.yahoo.com/news/politics/articles/trump-dares-iran-breach-us-224324367.html",
+   "paywalled": false
+  },
+  {
+   "title": "Fox News (via Yahoo News)",
+   "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade",
+   "paywalled": false
+  },
+  {
+   "title": "Nextgov/FCW",
+   "url": "https://www.nextgov.com/cybersecurity/2026/11/usda-grapples-security-breach-it-staff-take-multiple-systems-offline/417350/",
+   "paywalled": false
+  },
+  {
+   "title": "Nextgov/FCW",
+   "url": "https://www.agweb.com/news/policy/politics/usda-allegedly-impacted-by-russian-speaking-hackers",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via WABX/US News)",
+   "url": "https://wabx.net/2026/11/20/us-judge-rejects-trump-administrations-homelessness-program-revamp/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via WABX/US News)",
+   "url": "https://www.theepochtimes.com/us/federal-judge-blocks-key-parts-of-trump-admins-4-billion-homelessness-overhaul-6127978",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości",
+   "url": "https://wiadomosci.wp.pl/trzy-rosyjskie-pociski-spadly-w-polsce-wczesniej-jeden-uznano-za-drona-7353797850634272a",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości",
+   "url": "https://pl.euronews.com/2026/11/22/prokuratura-we-wszystkich-trzech-lokalizacjach-odnaleziono-szczatki-rakiet-ch-101",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/pawel-zalewski-przed-szczyt-nato-w-brukseli-wiadomo-czego-chce-polska/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.rmf24.pl/fakty/polska/news-nadzwyczajne-posiedzenie-nato-polska-wysle-nie-tylko-wicemin,nIdn,1027193",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości",
+   "url": "https://wiadomosci.wp.pl/rosja-wciaga-polske-w-narracje-o-ataku-na-krolewiec-wiceminister-reaguje-7353757615065088a",
+   "paywalled": false
+  },
+  {
+   "title": "WP Wiadomości",
+   "url": "https://www.bankier.pl/wiadomosc/NATO-zaatakowalo-Kaliningrad-Polska-wykrywa-rosyjskie-falszywe-przekazy-9233123.html",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/sct-tylko-w-centrum-krakowa-konsultacje-rusza-27-listopada/188042",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__wkrotce_rusza_konsultacje_spoleczne.html",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/kupcy-szykuja-jarmark-na-krakowskim-rynku-czy-za-rok-zorganizuje-go-samo-miasto/188044",
+   "paywalled": false
+  },
+  {
+   "title": "Interia Wydarzenia (citing Rzeczpospolita)",
+   "url": "https://wydarzenia.interia.pl/malopolskie/news-poklosie-zamachu-w-krakowie-media-prokuratura-chce-przesluch,nId,23576320",
+   "paywalled": false
+  },
+  {
+   "title": "Interia Biznes",
+   "url": "https://biznes.interia.pl/gospodarka/news-chca-rozmow-z-gibala-zapowiadaja-list-do-prezydenta-wystarcz,nId,23576709",
+   "paywalled": false
+  },
+  {
+   "title": "Interia Biznes",
+   "url": "https://innpoland.pl/233923,metro-w-krakowie-jednak-powstanie-rzad-zabral-glos",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/snieg-i-nocny-mroz-w-malopolsce/188039",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://www.rmf24.pl/fakty/pogoda/news-nadciaga-mroz-i-snieg-imgw-na-termometrach-nawet-10-st-c,nIdn,1026589",
+   "paywalled": false
+  },
+  {
+   "title": "IANS",
+   "url": "https://ianslive.in/nepal-prime-minister-to-hold-delegation-level-talks-with-pm-modi-today--20261123061818",
+   "paywalled": false
+  },
+  {
+   "title": "IANS",
+   "url": "https://english.khabarhub.com/2026/23/576638/",
+   "paywalled": false
+  },
+  {
+   "title": "LawBeat",
+   "url": "https://lawbeat.in/top-stories/tamil-nadu-seeks-review-of-supreme-courts-one-time-karthigai-deepam-order-for-thiruparankundram-deepathoon-1654084",
+   "paywalled": false
+  },
+  {
+   "title": "LawBeat",
+   "url": "https://www.thenewsminute.com/tamil-nadu/muslim-federation-welcomes-tn-govt-review-petition-urges-following-tradition-at-thiruparankundram",
+   "paywalled": false
+  },
+  {
+   "title": "Swarajya",
+   "url": "https://swarajyamag.com/news-brief/india-and-eu-set-to-sign-mother-of-all-deals-free-trade-pact-in-brussels-on-16-december",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News (citing The Hill)",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/demokratyczni-senatorowie-wydali-oswiadczenie-chodzi-o-polske-sprawdzian-determinacji/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-22/seria-zdjec-trumpa-z-chin-fotografie-z-putinem-podpisal-moj-przyjaciel/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-22-listopada-2026-roku-st9345247",
+   "paywalled": false
+  },
+  {
+   "title": "Interia: Senate passes rule-of-law act",
+   "url": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita: Chancellery TK draft",
+   "url": "https://www.rp.pl/polityka/art45511321-w-kancelarii-prezydenta-wypracowano-projekt-zmian-w-tk-podstawa-byl-pomysl-psl",
+   "paywalled": false
+  },
+  {
+   "title": "Finwire: print 3149 signed",
+   "url": "https://finwire.pl/artykuly/prezydent-podpisal-nowelizacje-pit-druk-3149-krwiodawcy-robotyzacja",
+   "paywalled": false
+  }
+ ]
+}
