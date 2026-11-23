@@ -1,0 +1,567 @@
+{
+ "date": "2026-11-23",
+ "segment": "Russia–Ukraine & European security",
+ "windowFrom": "2026-11-16",
+ "tier1Summary": "Washington is in a hurry. It reportedly wants a Ukraine deal before January and has proposed a four-way round with Russia and Europe before Christmas, while [[p:Yuri Ushakov]] invites European security advisers to Moscow. [[p:Vladimir Putin]] rejects local truces, and the war is spreading at sea: Ukraine says it sank a Russian corvette in Libya, and a Russian cargo ship burned off Finland.\n\nRussia's missiles in Poland were Kh-101s, prosecutors say; Warsaw went to NATO without invoking Article 4. Ukraine's refinery strikes now reach Perm, and a strike on Dymer killed 11.\n\nElsewhere, COP31 collapsed over fossil fuels, a tanker incident hit Iran's blockade run, and the [[p:Houthis]] claim a strike on a Saudi refinery.",
+ "segmentItems": [
+  {
+   "id": "E-261123-04",
+   "segment": "Russia–Ukraine & European security",
+   "country": "United States / Ukraine / Russia",
+   "text": "Washington wants a settlement before Democrats take Congress in January, the [[p:Financial Times]] reports; Kyiv fears pressure to accept Moscow's terms.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Nina Savić",
+   "outlet": "Kyiv Post (citing the Financial Times)",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Post (citing the Financial Times)",
+     "url": "https://www.kyivpost.com/post/90759"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.sigmalive.com/ukraine-trump-pushes-for-peace-deal-by-january/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-05",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States / Europe",
+   "text": "[[p:Volodymyr Zelenskyy]] agreed to a US proposal for a four-way round before Christmas; [[p:Dmitry Peskov]] says 'soon' but gives no date.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Ukrinform / UA.NEWS",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Ukrinform / UA.NEWS",
+     "url": "https://ua.news/en/ukraine/zelenskii-povidomiv-shcho-nastupnii-etap-peregovoriv-mozhe-vidbutisia-do-rizdva"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://united24media.com/war-in-ukraine/zelenskyy-says-trump-putin-ukraine-talks-possible-at-g20-but-kyiv-still-awaits-invite-24593"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-06",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / France / Germany / United Kingdom",
+   "text": "[[p:Yuri Ushakov]] invited the French, German and British security advisers to Moscow, RFE/RL reports. Paris wants a full seat at the main talks instead.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Kyiv Post (citing RFE/RL)",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "Kyiv Post (citing RFE/RL)",
+     "url": "https://www.kyivpost.com/post/90792"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-09",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / Libya",
+   "text": "Ukraine's [[p:Security Service of Ukraine|SBU]] says sea drones sank the Russian corvette Merkury at Benghazi, Libya; Naval News confirms a vessel destroyed. Libya's eastern government condemned it.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "H I Sutton",
+   "outlet": "Naval News",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Naval News",
+     "url": "https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-10",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia / Ukraine",
+   "text": "Drones set fire to [[p:Lukoil]]'s Perm refinery, 1,500 km from the front, and hit the start of the [[p:Druzhba pipeline]]. Moscow has told refiners to make lower-grade gasoline.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Yuri Zoria",
+   "outlet": "Euromaidan Press",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/11/23/russias-perm-refinery-sits-some-1500-km-from-the-front-line-ukrainian-drones-set-it-on-fire-again/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.kyivpost.com/post/90874"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-12",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine",
+   "text": "A strike on an apartment block in Dymer, north of Kyiv, killed 11. Zelenskyy faults US delays on paid-for Patriot interceptors.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Ukrinform",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4187563-death-toll-from-russian-strike-on-apartment-building-in-kyiv-regions-dymer-rises-to-11.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-14",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia",
+   "text": "Russian troops are infiltrating northern Kostiantynivka; fighting around Dobropillia goes both ways and Russia made no gains near Huliaipole.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Diana Kozlova",
+   "outlet": "ISW; Suspilne Donbas",
+   "opinion": "analysis (ISW)",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "ISW; Suspilne Donbas",
+     "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-22-listopada-2026-roku/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-21-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-21",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Poland / NATO",
+   "text": "Prosecutors found Kh-101 missiles at all three Polish impact sites. Warsaw took the case to the [[p:North Atlantic Council]] on 23 Nov but did not invoke Article 4.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Urszula Lesman",
+   "outlet": "Rzeczpospolita",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/wojsko/art45526191-nadzwyczajne-posiedzenie-nato-polska-chce-wzmocnienia-ochrony-nieba"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://newsukraine.rbc.ua/news/poland-wants-nato-to-strengthen-defenses-1795369392.html"
+    }
+   ],
+   "paywalled": true
+  },
+  {
+   "id": "E-261123-24",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Russia (Kaliningrad) / Lithuania",
+   "text": "Kaliningrad had its first air alert of the war; Lithuania denies Moscow's claim that the object came from its airspace.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AP",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "AP",
+     "url": "https://www.click2houston.com/business/2026/11/22/air-alert-sounds-in-kaliningrad-as-finland-tries-to-extinguish-fire-aboard-russian-cargo-ship/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://euromaidanpress.com/2026/11/22/russia-tied-its-kaliningrad-drone-scare-to-lithuania-vilnius-says-the-viral-fire-photos-came-from-iran/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-25",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Bulgaria / Romania (Black Sea)",
+   "text": "Drones hit the LPG tanker Gas Husky off Bulgaria, the second vessel there in a week; its 19 crew were rescued.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Loredana Brumă",
+   "outlet": "Romania TV",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Romania TV",
+     "url": "https://www.romaniatv.net/petrolier-scufundat-de-drone-in-marea-neagra-nava-se-indrepta-spre-portul-midia_9923704.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://safety4sea.com/two-ships-sink-off-bulgaria-amid-reports-of-black-sea-drone-attacks/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-26",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Moldova (Transnistria)",
+   "text": "Transnistria's main power plant burned coal for a week after gas deliveries dipped. Moldova's energy emergency expires on 24 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Rupor.md",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Rupor.md",
+     "url": "https://rupor.md/kuchurganskaya-tes-vernulas-k-rabote-na-gaze-moldovagaz-prodolzhaet-zadejstvovat-rezervy/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://tvrmoldova.md/article/d0c93a8119e89806/va-fi-prelungita-starea-de-urgenta-in-energetica-junghietu-avem-nevoie-de-parghii-de-interventie.html"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261123-01",
+   "segment": "EU politics + cross-cutting",
+   "country": "Türkiye (COP31)",
+   "text": "[[e:COP31|2026 United Nations Climate Change Conference]] ended without its cover decision after the EU rejected a draft with no fossil-fuel language.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "UN News",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168855"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.downtoearth.org.in/climate-change/cop31-ends-with-no-major-deal-divisions-over-fossil-fuels-and-climate-finance-deepen"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-02",
+   "segment": "Middle East",
+   "country": "Iran / United States (Gulf of Oman)",
+   "text": "An unidentified tanker was in an incident with military forces near the US blockade line. The [[p:Islamic Revolutionary Guard Corps]] claims two supertankers hit mines.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Peter Barabas",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://global.chinadaily.com.cn/a/202611/23/WS6b03a2c7e4b03ebf8519e082.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261123-03",
+   "segment": "Middle East",
+   "country": "Yemen / Saudi Arabia",
+   "text": "The [[p:Houthis]] claim a hit on Saudi Arabia's Rabigh refinery; Riyadh reports only interceptions.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Reuters",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Reuters",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/yemen-s-houthis-say-they-attacked-saudi-rabigh-oil-refinery"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261123-01",
+   "title": "Russian Warship Explosion in Libya Destroys Corvette Merkury",
+   "reporter": "H I Sutton",
+   "outlet": "Naval News",
+   "url": "https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/",
+   "why": "Specialist first account, with satellite imagery, of Ukraine's naval campaign reaching the Mediterranean, and careful about what is still unknown.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261123-02",
+   "title": "Analyysi: Ukrainan isku venäläislaivaan vaikuttaa Suomenlahdella ainakin neljällä tavalla",
+   "reporter": "Rain Kooli",
+   "outlet": "Yle",
+   "url": "https://yle.fi/a/74-20258279",
+   "why": "How the Sparta II and Naro-Fominsk strikes bring the war into the Gulf of Finland: shipping, drifting wrecks, oil-spill risk and Estonian alerts.",
+   "segment": "Russia–Ukraine & European security",
+   "language": "Finnish"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-24",
+   "text": "Duma third reading of Russia's 2027–29 budget, 24 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261120-05"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Outcome of the extraordinary [[p:North Atlantic Council]] meeting on the Russian missiles that hit Poland: more air defence and jets for the eastern flank?",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-01"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Moldova's energy state of emergency expires on 24 Nov: extension or not.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Iran's convoy of 14+ tankers off Kharg Island tries to run the US naval blockade.",
+   "segment": "Middle East",
+   "watchId": "W-261122-06"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Taiwan local elections, 28 Nov, amid PLA pressure and Lai's warnings of Chinese interference.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Gagauzia bashkan runoff on 29 Nov: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-01"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Spain general election, 29 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Possible visit by the French, German and British national security advisers to Moscow at [[p:Yuri Ushakov]]'s invitation.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Commission formally tables the 22nd Russia sanctions package; Denmark proposes an EU-wide tourist visa ban on Russians.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-01"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Estonia's closure of all Russian border crossings takes effect; the government decides whether it is temporary or indefinite.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Germany",
+   "status": "quiet"
+  },
+  {
+   "country": "Latvia",
+   "status": "quiet"
+  },
+  {
+   "country": "Estonia",
+   "status": "quiet"
+  },
+  {
+   "country": "Romania",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kyiv Post (citing the Financial Times)",
+   "url": "https://www.kyivpost.com/post/90759",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://en.sigmalive.com/ukraine-trump-pushes-for-peace-deal-by-january/",
+   "paywalled": false
+  },
+  {
+   "title": "Ukrinform / UA.NEWS",
+   "url": "https://ua.news/en/ukraine/zelenskii-povidomiv-shcho-nastupnii-etap-peregovoriv-mozhe-vidbutisia-do-rizdva",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://united24media.com/war-in-ukraine/zelenskyy-says-trump-putin-ukraine-talks-possible-at-g20-but-kyiv-still-awaits-invite-24593",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Post (citing RFE/RL)",
+   "url": "https://www.kyivpost.com/post/90792",
+   "paywalled": false
+  },
+  {
+   "title": "Naval News",
+   "url": "https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya",
+   "paywalled": false
+  },
+  {
+   "title": "Euromaidan Press",
+   "url": "https://euromaidanpress.com/2026/11/23/russias-perm-refinery-sits-some-1500-km-from-the-front-line-ukrainian-drones-set-it-on-fire-again/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.kyivpost.com/post/90874",
+   "paywalled": false
+  },
+  {
+   "title": "Ukrinform",
+   "url": "https://www.ukrinform.net/rubric-ato/4187563-death-toll-from-russian-strike-on-apartment-building-in-kyiv-regions-dymer-rises-to-11.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles",
+   "paywalled": false
+  },
+  {
+   "title": "ISW; Suspilne Donbas",
+   "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-22-listopada-2026-roku/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-21-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/wojsko/art45526191-nadzwyczajne-posiedzenie-nato-polska-chce-wzmocnienia-ochrony-nieba",
+   "paywalled": true
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://newsukraine.rbc.ua/news/poland-wants-nato-to-strengthen-defenses-1795369392.html",
+   "paywalled": false
+  },
+  {
+   "title": "AP",
+   "url": "https://www.click2houston.com/business/2026/11/22/air-alert-sounds-in-kaliningrad-as-finland-tries-to-extinguish-fire-aboard-russian-cargo-ship/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://euromaidanpress.com/2026/11/22/russia-tied-its-kaliningrad-drone-scare-to-lithuania-vilnius-says-the-viral-fire-photos-came-from-iran/",
+   "paywalled": false
+  },
+  {
+   "title": "Romania TV",
+   "url": "https://www.romaniatv.net/petrolier-scufundat-de-drone-in-marea-neagra-nava-se-indrepta-spre-portul-midia_9923704.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://safety4sea.com/two-ships-sink-off-bulgaria-amid-reports-of-black-sea-drone-attacks/",
+   "paywalled": false
+  },
+  {
+   "title": "Rupor.md",
+   "url": "https://rupor.md/kuchurganskaya-tes-vernulas-k-rabote-na-gaze-moldovagaz-prodolzhaet-zadejstvovat-rezervy/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://tvrmoldova.md/article/d0c93a8119e89806/va-fi-prelungita-starea-de-urgenta-in-energetica-junghietu-avem-nevoie-de-parghii-de-interventie.html",
+   "paywalled": false
+  },
+  {
+   "title": "UN News",
+   "url": "https://news.un.org/en/story/2026/11/1168855",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.downtoearth.org.in/climate-change/cop31-ends-with-no-major-deal-divisions-over-fossil-fuels-and-climate-finance-deepen",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews",
+   "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://global.chinadaily.com.cn/a/202611/23/WS6b03a2c7e4b03ebf8519e082.html",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/yemen-s-houthis-say-they-attacked-saudi-rabigh-oil-refinery",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check",
+   "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone",
+   "paywalled": false
+  }
+ ]
+}
