@@ -587,7 +587,7 @@
    "what": "Belarus amnesty bill text: does it cover political prisoners?",
    "expected": "Lukashenko's press service (Zerkalo)",
    "checkDate": "2026-11-23",
-   "happened": "",
+   "happened": "No bill text had been published by 23 Nov. [[p:Alexander Lukashenko]] said on 19 Nov that arrests will continue, and earlier amnesties excluded 'extremism' convictions ([Zerkalo](https://news.zerkalo.io/economics/140945.html)).",
    "eventId": ""
   },
   {
@@ -794,8 +794,8 @@
    "id": "W-261116-01",
    "dateAdded": "2026-11-16",
    "segment": "Russia–Ukraine & European security",
-   "what": "Gagauzia bashkan runoff: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
-   "expected": "Moldova's electoral authorities, per Pivot and QNC News",
+   "what": "Gagauzia bashkan runoff on 29 Nov: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "expected": "Moldova's electoral authorities, per Pivot and QNC News; date of 29 Nov per TV8 and Timpul",
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261116-19"
@@ -967,7 +967,7 @@
    "what": "Israel: talks between Eisenkot's bloc and Likud, 22 Nov, with Eisenkot reportedly planning a Knesset vote before his mandate ends.",
    "expected": "Times of Israel.",
    "checkDate": "2026-11-23",
-   "happened": "",
+   "happened": "Eisenkot's Yashar and Likud met on 22 Nov and agreed only to keep talking; Likud wants an end to attacks on Netanyahu and a unity government without Arab parties ([Euronews](https://www.euronews.com/2026/11/22/gadi-eisenkot-invites-netanyahus-likud-party-for-marathon-coalition-talks)).",
    "eventId": ""
   },
   {
@@ -1007,7 +1007,7 @@
    "what": "Nepal: PM [[p:Balen Shah]]'s state visit to India, 22–23 Nov: MoUs, a joint vision document and a possible ~$2bn package.",
    "expected": "Nepal's and India's foreign ministries (Kathmandu Post).",
    "checkDate": "2026-11-23",
-   "happened": "",
+   "happened": "Balen Shah met Modi in New Delhi on 23 Nov; reports say eight MoUs were signed, a joint vision document adopted and the Ayodhya–Janakpur train launched ([Onlinekhabar](https://english.onlinekhabar.com/balen-nepal-india-partnership-blossom.html)).",
    "eventId": "E-261121-34"
   },
   {
@@ -1017,7 +1017,7 @@
    "what": "Nepal: Supreme Court hearing on the removal of police chief Dan Bahadur Karki.",
    "expected": "Supreme Court (Kathmandu Post).",
    "checkDate": "2026-11-23",
-   "happened": "",
+   "happened": "No ruling: the bench moved the hearing to 25 Nov because there was no proof the new police chief had received notice ([Onlinekhabar](https://english.onlinekhabar.com/sc-schedules-hearing-on-former-igp-dan-bahadur-karkis-petition-for-november-25.html)).",
    "eventId": "E-261121-35"
   },
   {
@@ -1157,7 +1157,7 @@
    "what": "[[e:COP31|2026 United Nations Climate Change Conference]]: adoption or collapse of the final Antalya text.",
    "expected": "COP31 presidency (Murat Kurum); Reuters, AP.",
    "checkDate": "2026-11-23",
-   "happened": "",
+   "happened": "The cover decision was not adopted: COP31 closed on 22 Nov after the EU, Panama and the Marshall Islands objected to a draft without fossil-fuel language, though narrower decisions such as the Just Transition Work Programme passed ([UN News](https://news.un.org/en/story/2026/11/1168855)).",
    "eventId": "E-261122-14"
   },
   {
