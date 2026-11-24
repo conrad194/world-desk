@@ -1259,6 +1259,26 @@
    "checkDate": "2026-12-19",
    "happened": "",
    "eventId": "E-261123-29"
+  },
+  {
+   "id": "W-261124-01",
+   "dateAdded": "2026-11-24",
+   "segment": "Middle East",
+   "what": "Turkey: [[p:Constitutional Court of Turkey|Constitutional Court]] plenary takes up [[p:Ekrem İmamoğlu]]'s application against his pretrial detention, 26 Nov.",
+   "expected": "Turkish Minute, citing DW Turkish, reports the case is on the 26 Nov plenary agenda; the court may rule or postpone.",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261124-21"
+  },
+  {
+   "id": "W-261124-02",
+   "dateAdded": "2026-11-24",
+   "segment": "Middle East",
+   "what": "Israel: whether [[p:Gadi Eisenkot]] brings a minority 'national emergency government' to a Knesset vote if Likud talks fail.",
+   "expected": "Eisenkot said so on 20 Nov (AFP); Kan reports he may call the vote at short notice.",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": "E-261124-13"
   }
  ]
 }
