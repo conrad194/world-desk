@@ -2294,6 +2294,143 @@
      "why": "A news report on the March 2021 rulings that show what happens when a regulation restricts freedoms without proper statutory basis."
     }
    ]
+  },
+  {
+   "id": "L18",
+   "num": 18,
+   "unit": "How rules get made",
+   "title": "Central banks: Fed, NBP, RBI",
+   "dateTaught": "2026-11-24",
+   "minutes": 10,
+   "pulledForward": true,
+   "prevQuestion": "What three things must a Polish statutory authorisation for a regulation contain, and what happens if a regulation goes beyond it?",
+   "prevAnswer": "Under Article 92 of the Constitution, the authorisation must name the body that issues the regulation, the matters it may cover and guidelines for its content. A regulation that strays outside it lacks a legal basis: the Constitutional Tribunal can strike it down and ordinary courts can refuse to apply it, as happened with many 2020 lockdown fines.",
+   "body": "Lessons 12 to 15 were about who writes the rules. Today's lesson is about a body that writes almost none of them, yet moves markets more than any ministry: the **central bank**. All three countries have one, and all three have tried to answer the same question: how do you give unelected experts power over the price of money and still keep them accountable?\n\n**What a central bank does.** It issues the currency, keeps the banking system liquid (it is the **lender of last resort** when banks panic), usually supervises banks, and above all sets the **policy interest rate**: the rate at which it lends to or borrows from commercial banks. Raise that rate and loans, mortgages and credit cards get dearer, spending cools and inflation should fall, at the cost of slower growth. Cut it and the reverse happens. A higher rate also tends to make a currency more attractive to foreign savers, which is why rate decisions and exchange rates appear in the same headlines.\n\n**The Federal Reserve.** The Fed is a creature of statute, not of the Constitution. A seven-member **Board of Governors** in Washington is appointed by the President and confirmed by the Senate for 14-year terms; the chair serves a renewable four-year term, held since May 2026 by [@Kevin Warsh](https://en.wikipedia.org/wiki/Kevin_Warsh). Rates are set by the **Federal Open Market Committee** (FOMC): the seven governors, the president of the New York Fed, who always votes, and four of the other eleven regional bank presidents in rotation. Congress gave the Fed a **dual mandate**, maximum employment and stable prices, and the Fed itself chose to define stable prices as 2% inflation.\n\n> The Fed was created by the [#Federal Reserve Act](https://en.wikipedia.org/wiki/Federal_Reserve_Act), signed by [@Woodrow Wilson](https://en.wikipedia.org/wiki/Woodrow_Wilson) in December 1913, a response to the [#Panic of 1907](https://en.wikipedia.org/wiki/Panic_of_1907).\n\n**Narodowy Bank Polski.** Poland is the only one of the three to write its central bank into the Constitution. Article 227 gives NBP the exclusive right to issue money and to make and carry out monetary policy, and makes it responsible for the value of the złoty. The NBP president (currently [@Adam Glapiński](https://en.wikipedia.org/wiki/Adam_Glapi%C5%84ski)) is elected by the Sejm on the President's motion for six years. Rates are set by the **Monetary Policy Council** (Rada Polityki Pieniężnej, RPP): the NBP president plus nine members, three each chosen by the President, the Sejm and the Senate, for single six-year terms. The split appointment is a deliberate check: no single branch can pack the council. The RPP set its own target of 2.5% inflation, give or take one point.\n\n> NBP was founded in 1945; its interwar predecessor, Bank Polski, opened in 1924 during [@Władysław Grabski](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Grabski)'s reform that introduced the złoty.\n\n**The Reserve Bank of India.** The RBI also rests on an ordinary law, and for most of its history the governor decided rates alone. A 2016 amendment created a six-member **Monetary Policy Committee** (MPC): three from the RBI, including the governor, who has a casting vote, and three outside experts appointed by the central government. Unlike in the US or Poland, the **government sets the target** — 4% consumer inflation, with a band of 2 to 6% — and the RBI must explain itself in writing if it misses the band for three quarters in a row.\n\n> The RBI opened on 1 April 1935 in Calcutta under the [#Reserve Bank of India Act, 1934](https://en.wikipedia.org/wiki/Reserve_Bank_of_India_Act,_1934); it began as a shareholder-owned bank and was nationalised in 1949.\n\n**Independence is a spectrum.** Economists generally argue that a central bank shielded from politicians fights inflation more credibly, because voters reward cheap money before elections. Critics reply that such independence leaves big distributive choices with officials nobody elected. Each country sits at a different point: Poland protects its bank in the Constitution; the US relies on long terms and a statute Congress could change; India's government chooses the target, appoints half the committee and, under section 7 of the RBI Act, may issue directions to the bank after consulting the governor. That last point matters for Lesson 16: if Poland ever adopted the euro, rate-setting would pass from the RPP to the European Central Bank in Frankfurt.",
+   "comparison": [
+    {
+     "aspect": "Central bank",
+     "US": "Federal Reserve System",
+     "Poland": "Narodowy Bank Polski (NBP)",
+     "India": "Reserve Bank of India (RBI)"
+    },
+    {
+     "aspect": "Legal basis",
+     "US": "Statute: Federal Reserve Act (1913)",
+     "Poland": "Constitution, Art. 227, plus the NBP Act",
+     "India": "Statute: Reserve Bank of India Act (1934)"
+    },
+    {
+     "aspect": "Who sets rates",
+     "US": "Federal Open Market Committee (12 voters)",
+     "Poland": "Monetary Policy Council, RPP (10 members)",
+     "India": "Monetary Policy Committee, MPC (6 members, since 2016)"
+    },
+    {
+     "aspect": "Who chooses the inflation target",
+     "US": "The Fed itself: 2%",
+     "Poland": "The RPP itself: 2.5% ± 1 point",
+     "India": "The central government: 4% (band 2–6%)"
+    },
+    {
+     "aspect": "How leaders are appointed",
+     "US": "President nominates, Senate confirms; governors serve 14 years",
+     "Poland": "Sejm elects NBP president on the President's motion; RPP seats split among President, Sejm and Senate",
+     "India": "Central government appoints the governor and three outside MPC members"
+    },
+    {
+     "aspect": "Government power to direct",
+     "US": "None over rate decisions",
+     "Poland": "None; independence is constitutional",
+     "India": "Section 7 directions after consulting the governor"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Policy rate",
+     "meaning": "The short-term rate a central bank sets; the federal funds target in the US, the reference rate in Poland, the repo rate in India."
+    },
+    {
+     "term": "Rada Polityki Pieniężnej (RPP)",
+     "meaning": "Poland's Monetary Policy Council: the NBP president plus nine members chosen in threes by the President, Sejm and Senate."
+    },
+    {
+     "term": "FOMC",
+     "meaning": "The Fed's Federal Open Market Committee, which sets US interest-rate policy."
+    },
+    {
+     "term": "Monetary Policy Committee (MPC)",
+     "meaning": "India's six-member rate-setting body, created in 2016; the RBI governor has the casting vote."
+    },
+    {
+     "term": "Inflation targeting",
+     "meaning": "A framework in which the central bank commits publicly to a numerical inflation goal and is judged against it."
+    },
+    {
+     "term": "Lender of last resort",
+     "meaning": "The central bank's role of lending to sound banks in a panic so that a run does not become a collapse."
+    }
+   ],
+   "example": "In autumn 2018 India's government and the RBI clashed openly over how much of the bank's reserves should be transferred to the government, how tightly weak banks should be restricted from lending, and how much credit to free up before the 2019 election. Reports said the finance ministry had begun consultations under section 7 of the RBI Act, a power never used before to direct the bank. On 10 December 2018 Governor [@Urjit Patel](https://en.wikipedia.org/wiki/Urjit_Patel) resigned, citing personal reasons, more than a year before his term ended. His successor, a former finance ministry official, soon cut rates and later agreed to a large reserve transfer recommended by an expert committee. Supporters saw a government correcting an overly cautious bank; critics saw a warning about how thin India's statutory independence can be. Compare the US: a president can criticise the Fed chair, but cannot direct the FOMC's votes.",
+   "inTheNews": "New York Fed President [@John C. Williams](https://en.wikipedia.org/wiki/John_C._Williams_(economist)), a permanent FOMC voter, refused to rule out back-to-back rate hikes; in Poland, senators must nominate two new RPP members by noon on 25 November after two members moved to NBP's management board; and the rupee slid past 93 per dollar despite the RBI's October rate rise.",
+   "newsEvents": [
+    "E-261124-04",
+    "E-261124-19",
+    "E-261124-31"
+   ],
+   "check": [
+    {
+     "q": "Which of the three countries' governments, rather than the central bank itself, chooses the numerical inflation target?",
+     "options": [
+      "United States",
+      "Poland",
+      "India",
+      "All three"
+     ],
+     "answer": 2,
+     "explain": "Since 2016 India's central government sets the target (4%, band 2–6%) and the RBI's committee must meet it. The Fed and Poland's RPP set their own targets."
+    },
+    {
+     "q": "Why are Poland's ten RPP seats (apart from the NBP president) split equally among the President, Sejm and Senate?",
+     "options": [
+      "So that each region of Poland is represented",
+      "So that no single branch of government can control rate-setting",
+      "Because the EU requires it",
+      "So that the council can override the Constitutional Tribunal"
+     ],
+     "answer": 1,
+     "explain": "Splitting appointments across three bodies, with single six-year terms, makes it hard for any one political camp to pack the council."
+    },
+    {
+     "q": "A central bank raises its policy rate. Which outcome is it mainly aiming for?",
+     "options": [
+      "Cheaper mortgages to boost house building",
+      "Slower spending that brings inflation down",
+      "A weaker currency to help exporters",
+      "Larger government budget deficits"
+     ],
+     "answer": 1,
+     "explain": "Higher rates make borrowing dearer, cooling demand and inflation. They usually strengthen, not weaken, the currency."
+    }
+   ],
+   "recallQ": "Name one way India's government can influence monetary policy that the US and Polish governments cannot, and explain why Poland's central bank is the hardest of the three to change.",
+   "recallA": "India's central government sets the inflation target, appoints three of the six MPC members and can issue directions to the RBI under section 7 of the RBI Act. Poland's NBP and its monopoly on monetary policy are written into Article 227 of the Constitution, so changing them needs a constitutional amendment rather than an ordinary law.",
+   "readMore": [
+    {
+     "title": "Constitution of the Republic of Poland, Chapter X: Public Finances (Polish Senate)",
+     "url": "https://www.senat.gov.pl/en/about-the-senate/konstytucja/chapter-x/",
+     "why": "Article 227 sets out NBP's role, the NBP president's election and the Monetary Policy Council."
+    },
+    {
+     "title": "Monetary Policy Council (Narodowy Bank Polski)",
+     "url": "https://nbp.pl/en/monetary-policy-council",
+     "why": "NBP's official page on the RPP's members and decisions."
+    },
+    {
+     "title": "Monetary Policy Committee (India) – Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Monetary_Policy_Committee_(India)",
+     "why": "Overview of India's 2016 framework, the 4% target and the committee's make-up."
+    }
+   ]
   }
  ]
 }
