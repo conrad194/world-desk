@@ -461,6 +461,28 @@
    "language": "Finnish",
    "url": "https://yle.fi/a/74-20258279",
    "why": "How the Sparta II and Naro-Fominsk strikes bring the war into the Gulf of Finland: shipping, drifting wrecks, oil-spill risk and Estonian alerts."
+  },
+  {
+   "id": "RL-261124-01",
+   "dateAdded": "2026-11-24",
+   "segment": "Middle East",
+   "title": "What next for Iraq's push against militias following Jurf al-Sakhar deal?",
+   "reporter": "Rached El-Moctar",
+   "outlet": "Al Jazeera",
+   "language": "English",
+   "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal",
+   "why": "Explains how Baghdad got [[p:Kata'ib Hezbollah]] to let the state into its stronghold, the reported Iranian role, and why analysts disagree on whether the deal changes anything."
+  },
+  {
+   "id": "RL-261124-02",
+   "dateAdded": "2026-11-24",
+   "segment": "Middle East",
+   "title": "Yemen's war fronts expand as Houthis attempt to encircle Aden",
+   "reporter": "Faris al-Jalal",
+   "outlet": "The New Arab",
+   "language": "English",
+   "url": "https://www.newarab.com/news/yemens-war-fronts-expand-houthis-attempt-encircle-aden",
+   "why": "Aden-based reporting on the new Al-Bayda–Abyan front, showing how the [[p:Houthis]] could squeeze Aden from two directions rather than storm it."
   }
  ]
 }
