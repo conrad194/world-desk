@@ -2441,6 +2441,28 @@
    "checkDate": "2027-01-15",
    "happened": "",
    "eventId": "E-261124-05"
+  },
+  {
+   "id": "W-261124-04",
+   "dateAdded": "2026-11-24",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "Senate nominations for the two Monetary Policy Council seats (deadline Nov 25 noon) and the Senate vote",
+   "expected": "PAP Biznes schedule; press floats Marcin Piątkowski and Izabela Leszczyna",
+   "checkDate": "2026-11-26",
+   "happened": "",
+   "eventId": "E-261124-19"
+  },
+  {
+   "id": "W-261124-05",
+   "dateAdded": "2026-11-24",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "October retail sales (Nov 24) and Q3 labour force survey (Nov 25), after weak industry/construction data and 8% PPI",
+   "expected": "PAP consensus: retail sales +3.3% y/y real",
+   "checkDate": "2026-11-25",
+   "happened": "",
+   "eventId": "E-261124-16"
   }
  ]
 }

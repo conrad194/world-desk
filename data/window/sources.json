@@ -2771,6 +2771,30 @@
    "lean": "centre",
    "status": "Watch",
    "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "fxmag",
+   "name": "FXMAG",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "FX and macro data",
+   "language": "Polish",
+   "url": "https://www.fxmag.pl",
+   "lean": "neutral / markets",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "innpoland",
+   "name": "INNPoland",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Consumer economy, fuel prices",
+   "language": "Polish",
+   "url": "https://innpoland.pl",
+   "lean": "centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
   }
  ]
 }
