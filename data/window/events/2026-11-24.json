@@ -800,6 +800,26 @@
    "thread": "Karnataka politics and governance",
    "followsUp": "",
    "notes": ""
+  },
+  {
+   "id": "E-261124-41",
+   "dateLogged": "2026-11-24",
+   "eventDate": "2026-11-23",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "text": "No White House, State Department, Pentagon or US NATO mission statement on the incursion was found after the North Atlantic Council meeting, and accounts do not quote the US delegation. The US role on record is Gen. Alexus Grynkewich's approval of the AWACS deployment as SACEUR; Rutte says he will also review alliance air defences. Zalewski credited Kosiniak-Kamysz's relationship with Grynkewich for the quick decision.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Joseph Hunt",
+   "outlet": "HNGN",
+   "language": "English",
+   "link1": "https://www.hngn.com/articles/273936/20261123/nato-sends-awacs-poland-says-russia-bears-full-responsibility.htm",
+   "link2": "https://tvn24.pl/swiat/polske-wesprze-samolot-wczesnego-ostrzegania-awacs-pawel-zalewski-o-szczegolach-spotkania-rady-polnocnoatlantyckiej-w-kwaterze-glownej-nato-st9353675",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "US–Poland and Ukraine diplomacy",
+   "followsUp": "E-261123-34",
+   "notes": "Records the absence of a US statement, not a statement."
   }
  ]
 }
