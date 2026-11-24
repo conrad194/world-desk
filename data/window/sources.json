@@ -2747,6 +2747,30 @@
    "lean": "commercial broadcaster, centre",
    "status": "Watch",
    "dateAdded": "2026-11-23"
+  },
+  {
+   "id": "the-record",
+   "name": "The Record (Recorded Future News)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Government cyber incidents",
+   "language": "English",
+   "url": "https://therecord.media/",
+   "lean": "neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "wral",
+   "name": "WRAL",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "North Carolina politics",
+   "language": "English",
+   "url": "https://www.wral.com/",
+   "lean": "centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
   }
  ]
 }

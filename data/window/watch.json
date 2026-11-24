@@ -2408,6 +2408,39 @@
    "checkDate": "2026-11-25",
    "happened": "NATO's North Atlantic Council met Nov 23 and sent one AWACS to a 'forward location' for Poland (DPA says Lithuania), said Russia bears full responsibility and will consider Poland's other air-defence proposals next week; no rule change or separate US statement. https://www.polsatnews.pl/wiadomosc/2026-11-23/rada-polnocnoatlantycka-w-brukseli-wiceminister-deklaruje/",
    "eventId": ""
+  },
+  {
+   "id": "W-261124-01",
+   "dateAdded": "2026-11-24",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "Appeal or cert petition, and any DOJ/EEOC guidance, after the Fifth Circuit en banc ruling voiding the Pregnant Workers Fairness Act",
+   "expected": "A Better Balance expects a Supreme Court appeal",
+   "checkDate": "2026-12-21",
+   "happened": "",
+   "eventId": "E-261124-08"
+  },
+  {
+   "id": "W-261124-02",
+   "dateAdded": "2026-11-24",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "what": "Whether a US–Canada tariff-relief deal is announced, and how Chinese EV and steel access is handled",
+   "expected": "USTR Jamieson Greer ('fairly close', Nov 22)",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261124-06"
+  },
+  {
+   "id": "W-261124-03",
+   "dateAdded": "2026-11-24",
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "what": "Antitrust review filing and timetable for CrowdStrike's $43.9bn purchase of Zscaler",
+   "expected": "CrowdStrike 8-K (regulatory approvals required)",
+   "checkDate": "2027-01-15",
+   "happened": "",
+   "eventId": "E-261124-05"
   }
  ]
 }
