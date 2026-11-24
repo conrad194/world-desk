@@ -1,0 +1,1201 @@
+{
+ "date": "2026-11-24",
+ "top5": [
+  {
+   "text": "NATO sent one AWACS to protect Polish airspace and blamed Russia for the Kh-101 missiles; Poland's other air-defence requests come next week. A Russian drone briefly crossed near Dorohusk hours later.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Polsat News",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rada-polnocnoatlantycka-w-brukseli-wiceminister-deklaruje/"
+    },
+    {
+     "label": "Polsat News",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rosyjski-dron-w-polskiej-przestrzeni-komunikat-wojska/"
+    }
+   ]
+  },
+  {
+   "text": "Nvidia reinstated Jensen Huang after Trump pressed for it; lawmakers of both parties object and Huang testifies Dec 3.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
+    },
+    {
+     "label": "AP (via PBS NewsHour)",
+     "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings"
+    }
+   ]
+  },
+  {
+   "text": "Wall Street had its best day since April 2025 (Nasdaq +6.5%), after Indian shares fell 1.8% and the rupee neared 93.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Reuters (via Lufkin Daily News)",
+     "url": "https://lufkindailynews.com/news_reuters/business/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article_e6d9ac41-7498-5fb0-ad1e-4379284b6679.html"
+    },
+    {
+     "label": "Marketcalls; Business Standard",
+     "url": "https://www.marketcalls.in/futures-and-options/post-market-report-23-november-2026.html"
+    }
+   ]
+  },
+  {
+   "text": "India pledged Nepal ₹15,000 crore in grants and credit after Modi–Shah talks; boundary disputes were set aside.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Business Standard",
+     "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-nepal-announce-21-outcomes-15-000-cr-economic-aid-package-126112301332_1.html"
+    }
+   ]
+  },
+  {
+   "text": "Polish industry stalled in October (+0.1% y/y) while producer prices rose 8%; the zloty sits near three-year lows.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Interia Biznes; Rzeczpospolita",
+     "url": "https://biznes.interia.pl/gospodarka/news-dane-gus-za-pazdziernik-polski-przemysl-z-ledwo-widocznym-wz,nId,23577446"
+    },
+    {
+     "label": "FXMAG; Bankier.pl",
+     "url": "https://www.fxmag.pl/waluty/waluty-kurs-euro-eurpln-wysoko-przy-4455-zl-dolar-po-4065-zl-wiadomosci-23-listopada"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261124-01",
+    "domain": "Economy, business & markets",
+    "text": "Nvidia's board reinstated Jensen Huang as CEO after Trump pressed for it, saying senior government officials told it his return poses no national security risk.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Nvidia leadership crisis",
+    "links": [
+     {
+      "label": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://lufkindailynews.com/news_reuters/business/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article_e6d9ac41-7498-5fb0-ad1e-4379284b6679.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-02",
+    "domain": "Politics & government",
+    "text": "Lawmakers in both parties attacked Huang's return; Sen. Tim Scott says Huang testifies publicly to Senate Banking on Dec 3, and incoming Democratic chairs promise probes.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Nvidia leadership crisis",
+    "links": [
+     {
+      "label": "AP (via PBS NewsHour)",
+      "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings"
+     },
+     {
+      "label": "Second source",
+      "url": "https://thehill.com/homenews/house/6237899-huang-testifies-capitol-hill-december/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-03",
+    "domain": "Economy, business & markets",
+    "text": "Stocks had their best day since April 2025: Nasdaq +6.5%, S&P 500 +4.7%, ending a seven-day slide as Nvidia rose about 31%.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Reuters (via Lufkin Daily News)",
+      "url": "https://lufkindailynews.com/news_reuters/business/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article_e6d9ac41-7498-5fb0-ad1e-4379284b6679.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.stl.news/us-stock-market-today-november-23-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-04",
+    "domain": "Economy, business & markets",
+    "text": "NY Fed's Williams said inflation is too high with upside risks and did not rule out back-to-back hikes; markets price a December hike at about 92-98%.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "CNBC; Yahoo Finance",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-05",
+    "domain": "Economy, business & markets",
+    "text": "CrowdStrike agreed to buy Zscaler in an all-stock deal valuing it at about $43.9bn, one of the largest cybersecurity takeovers.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "SEC EDGAR (CrowdStrike 8-K)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+     },
+     {
+      "label": "Second source",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-06",
+    "domain": "Trade & tariffs",
+    "text": "USTR Greer said the US and Canada are 'fairly close' to a tariff deal but objected to Ottawa's openings to Chinese EVs and steel.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "CTV News",
+      "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/us-canada-fairly-close-to-trade-deal-greer/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.netnewsledger.com/2026/11/23/u-s-trade-chief-says-canada-talks-are-close-but-raises-concerns-over-china/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-07",
+    "domain": "Foreign relations",
+    "text": "Iran said it will use 'all available means' against the US blockade and called tanker-loading reports speculation; TankerTrackers says one tanker is loading Iranian crude.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-08",
+    "domain": "Law, courts & regulation",
+    "text": "The full Fifth Circuit voted 9-8 to void the Pregnant Workers Fairness Act, ruling that 2022 House proxy voting broke the Quorum Clause.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Yahoo News / LiveNOW from FOX",
+      "url": "https://www.yahoo.com/news/politics/articles/pregnant-workers-could-lose-workplace-215957033.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://dailycaller.com/2026/11/23/turns-out-absentee-voting-is-unconstitutional-when-congress-does-it-pregnant/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-09",
+    "domain": "Health, medicine & food safety",
+    "text": "FDA approved Genentech's oral Wilserdly (giredestrant) after surgery for early ER+/HER2- breast cancer, the first new adjuvant hormone therapy in over 20 years.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "FDA leadership vacuum",
+    "links": [
+     {
+      "label": "FDA press announcement",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261124-12",
+    "domain": "Defense, security & crime",
+    "text": "NATO's council, meeting at Poland's request, sent one AWACS to a forward location to protect Polish airspace and said Russia bears full responsibility. Other requests come next week.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rada-polnocnoatlantycka-w-brukseli-wiceminister-deklaruje/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/swiat/polske-wesprze-samolot-wczesnego-ostrzegania-awacs-pawel-zalewski-o-szczegolach-spotkania-rady-polnocnoatlantyckiej-w-kwaterze-glownej-nato-st9353675"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-13",
+    "domain": "Defense, security & crime",
+    "text": "A Russian drone briefly entered Polish airspace near Dorohusk late Monday; a shootdown was authorised but not carried out once it turned back.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rosyjski-dron-w-polskiej-przestrzeni-komunikat-wojska/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wiadomosci.wp.pl/dron-z-rosji-w-polsce-ujawniono-nieoficjalne-ustalenia-z-mon-7354271786711072a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-14",
+    "domain": "Foreign relations",
+    "text": "The Foreign Ministry will summon Russia's envoy over the missiles once military and security procedures finish; no date set.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News (PAP)",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/ambasador-bedzie-wezwany-msz-reaguje-po-naruszeniu-przestrzeni-powietrznej/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/polska/msz-wezwie-ambasadora-rosji-po-naruszeniu-polskiej-przestrzeni-powietrznej-rzecznik-resortu-komentuje-st9352841"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-15",
+    "domain": "Foreign relations",
+    "text": "In Bratislava, Tusk told Visegrad leaders and Austria the missiles were Russia's most dangerous provocation yet and urged solidarity with Poland.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Ukraine security guarantees",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/swiat/apel-premiera-donalda-tuska-przed-spotkaniem-grupy-wyszehradzkiej-tak-groznej-prowokacji-do-tej-pory-nie-bylo-st9353860"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wiadomosci.wp.pl/tusk-alarmuje-w-sprawie-rosji-padlo-ostrzezenie-dotyczace-najblizszych-miesiecy-7354203548821536a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-16",
+    "domain": "Economy, business & markets",
+    "text": "October data disappointed: industrial output +0.1% y/y, construction −9.3%, and producer prices +8%, the fastest since March 2023.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland monetary policy and NBP",
+    "links": [
+     {
+      "label": "Interia Biznes; Rzeczpospolita",
+      "url": "https://biznes.interia.pl/gospodarka/news-dane-gus-za-pazdziernik-polski-przemysl-z-ledwo-widocznym-wz,nId,23577446"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/dane-gospodarcze/art45526911-fatalne-budownictwo-slaby-przemysl-ceny-w-fabrykach-mocno-w-gore-nowe-dane-gus"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-17",
+    "domain": "Economy, business & markets",
+    "text": "The zloty held near three-year lows at about 4.455 per euro after weak data and a global tech sell-off.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland monetary policy and NBP",
+    "links": [
+     {
+      "label": "FXMAG; Bankier.pl",
+      "url": "https://www.fxmag.pl/waluty/waluty-kurs-euro-eurpln-wysoko-przy-4455-zl-dolar-po-4065-zl-wiadomosci-23-listopada"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldowy-pogrom-zaszkodzil-zlotemu-Kurs-euro-najwyzej-od-3-lat-9233378.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-18",
+    "domain": "Environment, energy & disasters",
+    "text": "Fuel caps for Tue 24 Nov: Pb95 unchanged at 5.90 zł/l, diesel down 7 grosze to 7.32 zł/l.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland fuel price caps",
+    "links": [
+     {
+      "label": "INNPoland",
+      "url": "https://innpoland.pl/233995,ceny-paliw-na-24-listopada-diesel-potanieje-a-benzyna-w-gore"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/biznes/moto/ceny-paliw-od-23-11-do-27-11-benzyna-95-ponizej-6-zl-diesel-moze-potaniec-st9349848"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261124-20",
+    "domain": "Environment, energy & disasters",
+    "text": "IMGW issued a first-degree icing warning for Kraków until 08:00 Tuesday; MPO put 97 winter-service vehicles on the roads.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl; CowKrakowie.pl",
+      "url": "https://lovekrakow.pl/ostrzezenie-imgw-dla-krakowa-pierwszy-cios-zimy"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cowkrakowie.pl/2026/11/w-krakowie-ruszyla-zimowa-akcja-na-drogach-pracuja-dziesiatki-pojazdow"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-21",
+    "domain": "Infrastructure, transport & housing",
+    "text": "An mKraków app fault on Monday blocked buying and showing periodic tickets and paid-parking payments; valid ticket holders could still travel.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "CowKrakowie.pl",
+      "url": "https://cowkrakowie.pl/2026/11/problemy-z-biletami-w-aplikacji-mkrakow"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cowkrakowie.pl/2026/11/uwaga-pasazerowie-mpk-wieczorem-nie-kupicie-biletu-w-aplikacji-komunikat"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-22",
+    "domain": "Politics & government",
+    "text": "Tourism department director Natalia Kulec-Greń was removed; her deputy is acting head as the city rethinks leaving tourism bodies.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/krakow-zmienia-kurs-w-sprawie-turystyki-kolejne-zmiany-w-magistracie"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cowkrakowie.pl/2026/11/zmiany-kadrowe-w-urzedzie-miasta-krakowa"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-23",
+    "domain": "Politics & government",
+    "text": "Mayor Gibała ordered everyone blocked on city social media accounts, including the official Kraków PL Facebook page, to be unblocked.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "CowKrakowie.pl",
+      "url": "https://cowkrakowie.pl/2026/11/miasto-odblokuje-wszystkich-zablokowanych-w-mediach-spolecznosciowych-jest-decyzja"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-24",
+    "domain": "Defense, security & crime",
+    "text": "Officer Jakub Kulik, wounded stopping the 7 Nov gunman, left hospital for rehabilitation and asked for privacy.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "CowKrakowie.pl; LoveKraków.pl",
+      "url": "https://cowkrakowie.pl/2026/11/policjant-ranny-w-zamachu-w-krakowie-opuscil-szpital-przed-nim-rehabilitacja"
+     },
+     {
+      "label": "Second source",
+      "url": "https://lovekrakow.pl/apel-rannego-policjanta-prosi-o-uszanowanie-prywatnosci"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261124-30",
+    "domain": "Foreign relations",
+    "text": "India and Nepal agreed a ₹15,000 crore package, 8 MoUs and a joint vision document after Modi–Balendra Shah talks; boundary disputes were left to foreign secretaries.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-nepal-announce-21-outcomes-15-000-cr-economic-aid-package-126112301332_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kathmandupost.com/national/2026/11/24/longstanding-disputes-set-aside-progress-on-development-projects-and-economic-aid"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-31",
+    "domain": "Economy, business & markets",
+    "text": "Sensex fell 1.77% and Nifty 1.75% as Friday's US AI-stock rout hit banks and metals; the rupee closed at 92.91 per dollar after briefly passing 93.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "Marketcalls; Business Standard",
+      "url": "https://www.marketcalls.in/futures-and-options/post-market-report-23-november-2026.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-32",
+    "domain": "Economy, business & markets",
+    "text": "Tata Steel will buy APL Apollo Tubes' promoter stake for ₹15,510 crore and sell it its tubes business; APL Apollo shares fell 22%.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/tata-steel-acquire-apl-apollo-stake-15510-crore-open-offer-business-deal-126112300184_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.business-standard.com/markets/news/apl-apollo-tanks-10-tata-steel-5-on-28k-cr-deal-what-it-means-for-cos-126112300182_1.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-33",
+    "domain": "Law, courts & regulation",
+    "text": "The Supreme Court said it will allow only BS-VI vehicles in Delhi, possibly NCR, and floated a five-year phase-out of polluting commercial vehicles entering the city.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "News24",
+      "url": "https://news24online.com/india/delhi-aqi-supreme-court-backs-bs-vi-only-vehicle-rule-suggests-5-year-plan-to-curb-pollution/956361"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.ibtimes.co.in/delhi-aqi-236-remains-poor-category-caqm-sets-15-20-pollution-reduction-target-2027-908615"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-34",
+    "domain": "Environment, energy & disasters",
+    "text": "CAQM told Delhi and NCR states to draw up 2027 action plans cutting pollution load by at least 15%, aiming for 20%.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "IBTimes India",
+      "url": "https://www.ibtimes.co.in/delhi-aqi-236-remains-poor-category-caqm-sets-15-20-pollution-reduction-target-2027-908615"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-35",
+    "domain": "Law, courts & regulation",
+    "text": "About 6,000 police and a ban on climbing Thiruparankundram hill are in place for today's Supreme Court-allowed Karthigai Deepam lighting.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Hans India (IANS)",
+      "url": "https://www.thehansindia.com/tamilnadu/tight-security-cover-over-6000-cops-deployed-at-thiruparankundram-ahead-of-deepam-lighting-today-1145258"
+     },
+     {
+      "label": "Second source",
+      "url": "https://thesouthfirst.com/tamilnadu/over-1700-police-personnel-deployed-at-thiruparankundram-ahead-of-karthigai-deepam-lighting-at-deepathoon/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-36",
+    "domain": "Politics & government",
+    "text": "Sonam Wangchuk, his home restrictions lifted, joined the Leh Apex Body's hunger strike against holding the Dec 4 hill-council polls; Leh police deny he was under house arrest.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Ladakh statehood protests and council polls",
+    "links": [
+     {
+      "label": "Greater Kashmir",
+      "url": "https://www.greaterkashmir.com/ladakh/sonam-wangchuk-joins-hunger-strike-questions-winter-polls-12830552"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kashmirreader.com/2026/11/22/wangchuk-not-under-house-arrest-leh-police"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261124-37",
+    "domain": "Law, courts & regulation",
+    "text": "Calcutta High Court extended Abhishek Banerjee's interim protection in a batch of criminal cases to Feb 26, 2027.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "LiveLaw",
+      "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-23-november-2026-559536"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Weather",
+   "text": "IMGW icing warning for Kraków until 08:00 today; lows of -3 to -1°C and icy roads and pavements likely through Tuesday. Report slippery spots to MPO on 12 64 62 361.",
+   "link": "https://lovekrakow.pl/ostrzezenie-imgw-dla-krakowa-pierwszy-cios-zimy"
+  },
+  {
+   "kind": "Transit",
+   "text": "The mKraków app failed on Monday for periodic tickets, Karta Krakowska and parking payments; valid ticket holders may travel. Check the app before paying for parking.",
+   "link": "https://cowkrakowie.pl/2026/11/problemy-z-biletami-w-aplikacji-mkrakow"
+  },
+  {
+   "kind": "Closure",
+   "text": "Part of ul. Kościuszkowców at Zakopiańska is closed for about a week, with Zakopiańska down to one lane towards Orzechowa. ul. Witosa rebuilding starts Wed 25 Nov.",
+   "link": "https://cowkrakowie.pl/2026/11/kolejny-remont-drogowy-w-krakowie-rusza-dzisiaj-utrudnienia-i-objazdy"
+  },
+  {
+   "kind": "Closure",
+   "text": "TAURON planned power cuts: Dobrego Pasterza 127 (25 Nov, 08:00–16:00), Klasztorna and Podbipięty (26 Nov), several streets in Kantorowice, Soczyny and Opatkowice (27 Nov).",
+   "link": "https://cowkrakowie.pl/2026/11/tauron-podal-harmonogram-wylaczen-w-krakowie-nie-bedzie-pradu"
+  },
+  {
+   "kind": "Event",
+   "text": "The Main Square Christmas market opens Fri 27 Nov; official opening Sat 28 Nov at 12:00, Andrzejki evening Sun 29 Nov.",
+   "link": "https://cowkrakowie.pl/2026/11/nie-tylko-swiateczne-stoiska-na-rynku-glownym-zaplanowano-mnostwo-wydarzen-program"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261124-41",
+    "domain": "Foreign relations",
+    "text": "Washington made no separate public statement after the NATO council on the Russian missiles; the AWACS move was approved by the US general serving as SACEUR.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "HNGN",
+      "url": "https://www.hngn.com/articles/273936/20261123/nato-sends-awacs-poland-says-russia-bears-full-responsibility.htm"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/swiat/polske-wesprze-samolot-wczesnego-ostrzegania-awacs-pawel-zalewski-o-szczegolach-spotkania-rady-polnocnoatlantyckiej-w-kwaterze-glownej-nato-st9353675"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261124-01",
+   "name": "CAQM direction on 2027 State Action Plans for Delhi-NCR (15-20% cut in pollution load)",
+   "place": "India",
+   "body": "Commission for Air Quality Management (CAQM)",
+   "stage": "Signed / published",
+   "changes": "Delhi and the NCR states must prepare state and district action plans for 2027 with named responsible officers, cutting overall pollution load by at least 15% (20% target).",
+   "affects": "State governments, district administrations and polluting sectors (transport, industry, construction) in Delhi-NCR",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "https://caqm.nic.in/",
+   "newsLink": "https://www.ibtimes.co.in/delhi-aqi-236-remains-poor-category-caqm-sets-15-20-pollution-reduction-target-2027-908615"
+  }
+ ],
+ "deepDive": {
+  "domain": "Economy, business & markets",
+  "title": "One boardroom decision swung markets on three continents",
+  "body": "**Analysis.** Monday showed how tightly markets in all four places are now tied to a single trade: US AI stocks. Friday's Wall Street rout (Nasdaq −5.3%) arrived in Mumbai before the US reopened. The Sensex fell 1.8%, led by banks and metals, and the rupee briefly passed 93 per dollar. In Warsaw the zloty stayed near a three-year low against the euro after the WIG20 lost 6.5% last week.\n\nThen Nvidia's board brought back Jensen Huang, and the S&P 500 had its best day since April 2025. That one company's governance can move global indices this much is itself the risk. Strategists noted that nothing has changed on the underlying worries: returns on AI spending, a Fed that markets price at about 92–98% to raise rates on Dec 9, and soft consumer demand. Wednesday's PCE inflation figure is the next test.\n\n**Poland** faces a home-grown problem as well. October industry barely grew (+0.1% y/y), construction fell 9.3%, and producer prices rose 8%. Weak output argues for cuts, but factory-gate inflation limits how far the RPP can ease, and two seats on the council change hands this winter. In Kraków, pay is still rising but registered unemployment rose to 2.8% in September (GUS via Manager+), which matters for a city budget that depends on PIT.\n\n**India** also faces tight policy: CPI is above 6% and analysts expect an RBI hike on Dec 4. With Brent near $89, oil remains the main risk for the rupee.\n\n**Trade.** USTR Greer says a US–Canada deal is 'fairly close', but Chinese EVs and steel are the sticking point. The same China-transshipment test applies to the India–US first tranche. India is also using trade as diplomacy: it offered Nepal transit through Kandla port as part of the ₹15,000 crore package.",
+  "links": [
+   {
+    "label": "Reuters (via Lufkin Daily News)",
+    "url": "https://lufkindailynews.com/news_reuters/business/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article_e6d9ac41-7498-5fb0-ad1e-4379284b6679.html"
+   },
+   {
+    "label": "Marketcalls",
+    "url": "https://www.marketcalls.in/futures-and-options/post-market-report-23-november-2026.html"
+   },
+   {
+    "label": "Interia Biznes",
+    "url": "https://biznes.interia.pl/gospodarka/news-dane-gus-za-pazdziernik-polski-przemysl-z-ledwo-widocznym-wz,nId,23577446"
+   },
+   {
+    "label": "Manager+",
+    "url": "https://managerplus.pl/krakow-wynagrodzenia-zatrudnienie-wrzesien-2026"
+   },
+   {
+    "label": "CTV News",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/us-canada-fairly-close-to-trade-deal-greer/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261124-02",
+   "title": "Szczyt NATO w Brukseli. Wiceszef MSZ Paweł Zalewski deklaruje",
+   "reporter": "Andrzej Wyrwiński",
+   "outlet": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rada-polnocnoatlantycka-w-brukseli-wiceminister-deklaruje/",
+   "why": "Reported from NATO HQ, it sets the one-AWACS decision against eastern-flank frustration and the lack of an agreed escalation ladder (headline mislabels Zalewski, who is deputy defence minister).",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261124-04",
+   "title": "India, Nepal announce 21 outcomes, ₹15,000 cr economic aid package",
+   "reporter": "Archis Mohan",
+   "outlet": "Business Standard",
+   "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-nepal-announce-21-outcomes-15-000-cr-economic-aid-package-126112301332_1.html",
+   "why": "A veteran diplomatic correspondent sets the package against India's earlier credit lines and the boundary strain; pair it with the Kathmandu Post's sceptical view.",
+   "place": "India",
+   "domain": "Foreign relations",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-24",
+   "text": "Thiruparankundram Karthigai Deepam lighting under Supreme Court order and heavy police presence.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Polish October retail sales (GUS); consensus +3.3% y/y.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "US October PCE inflation, the last big input before the Fed's Dec 9 decision.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Extraordinary Kraków City Council session on halting metro preparations (16:00).",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Senate deadline for nominating two Monetary Policy Council members; bond auction.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Alaska targets certifying Peltola's Senate win.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 EU budget and Ukraine funding.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Expected decisions by President Nawrocki on the judges' status act and the abortion bills.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Main Square Christmas market opens; SCT fee-freeze consultation closes.",
+   "place": "Kraków"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "no sources found"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "no sources found"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html",
+   "paywalled": false
+  },
+  {
+   "title": "lufkindailynews.com",
+   "url": "https://lufkindailynews.com/news_reuters/business/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article_e6d9ac41-7498-5fb0-ad1e-4379284b6679.html",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via PBS NewsHour)",
+   "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
+   "paywalled": false
+  },
+  {
+   "title": "thehill.com",
+   "url": "https://thehill.com/homenews/house/6237899-huang-testifies-capitol-hill-december/",
+   "paywalled": false
+  },
+  {
+   "title": "www.stl.news",
+   "url": "https://www.stl.news/us-stock-market-today-november-23-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "CNBC; Yahoo Finance",
+   "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "paywalled": false
+  },
+  {
+   "title": "SEC EDGAR (CrowdStrike 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm",
+   "paywalled": false
+  },
+  {
+   "title": "CTV News",
+   "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/us-canada-fairly-close-to-trade-deal-greer/",
+   "paywalled": false
+  },
+  {
+   "title": "www.netnewsledger.com",
+   "url": "https://www.netnewsledger.com/2026/11/23/u-s-trade-chief-says-canada-talks-are-close-but-raises-concerns-over-china/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
+   "paywalled": false
+  },
+  {
+   "title": "www.euronews.com",
+   "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo News / LiveNOW from FOX",
+   "url": "https://www.yahoo.com/news/politics/articles/pregnant-workers-could-lose-workplace-215957033.html",
+   "paywalled": false
+  },
+  {
+   "title": "dailycaller.com",
+   "url": "https://dailycaller.com/2026/11/23/turns-out-absentee-voting-is-unconstitutional-when-congress-does-it-pregnant/",
+   "paywalled": false
+  },
+  {
+   "title": "FDA press announcement",
+   "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rada-polnocnoatlantycka-w-brukseli-wiceminister-deklaruje/",
+   "paywalled": false
+  },
+  {
+   "title": "tvn24.pl",
+   "url": "https://tvn24.pl/swiat/polske-wesprze-samolot-wczesnego-ostrzegania-awacs-pawel-zalewski-o-szczegolach-spotkania-rady-polnocnoatlantyckiej-w-kwaterze-glownej-nato-st9353675",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/rosyjski-dron-w-polskiej-przestrzeni-komunikat-wojska/",
+   "paywalled": false
+  },
+  {
+   "title": "wiadomosci.wp.pl",
+   "url": "https://wiadomosci.wp.pl/dron-z-rosji-w-polsce-ujawniono-nieoficjalne-ustalenia-z-mon-7354271786711072a",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News (PAP)",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-23/ambasador-bedzie-wezwany-msz-reaguje-po-naruszeniu-przestrzeni-powietrznej/",
+   "paywalled": false
+  },
+  {
+   "title": "tvn24.pl",
+   "url": "https://tvn24.pl/polska/msz-wezwie-ambasadora-rosji-po-naruszeniu-polskiej-przestrzeni-powietrznej-rzecznik-resortu-komentuje-st9352841",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/swiat/apel-premiera-donalda-tuska-przed-spotkaniem-grupy-wyszehradzkiej-tak-groznej-prowokacji-do-tej-pory-nie-bylo-st9353860",
+   "paywalled": false
+  },
+  {
+   "title": "wiadomosci.wp.pl",
+   "url": "https://wiadomosci.wp.pl/tusk-alarmuje-w-sprawie-rosji-padlo-ostrzezenie-dotyczace-najblizszych-miesiecy-7354203548821536a",
+   "paywalled": false
+  },
+  {
+   "title": "Interia Biznes; Rzeczpospolita",
+   "url": "https://biznes.interia.pl/gospodarka/news-dane-gus-za-pazdziernik-polski-przemysl-z-ledwo-widocznym-wz,nId,23577446",
+   "paywalled": false
+  },
+  {
+   "title": "www.rp.pl",
+   "url": "https://www.rp.pl/dane-gospodarcze/art45526911-fatalne-budownictwo-slaby-przemysl-ceny-w-fabrykach-mocno-w-gore-nowe-dane-gus",
+   "paywalled": true
+  },
+  {
+   "title": "FXMAG; Bankier.pl",
+   "url": "https://www.fxmag.pl/waluty/waluty-kurs-euro-eurpln-wysoko-przy-4455-zl-dolar-po-4065-zl-wiadomosci-23-listopada",
+   "paywalled": false
+  },
+  {
+   "title": "www.bankier.pl",
+   "url": "https://www.bankier.pl/wiadomosc/Gieldowy-pogrom-zaszkodzil-zlotemu-Kurs-euro-najwyzej-od-3-lat-9233378.html",
+   "paywalled": false
+  },
+  {
+   "title": "INNPoland",
+   "url": "https://innpoland.pl/233995,ceny-paliw-na-24-listopada-diesel-potanieje-a-benzyna-w-gore",
+   "paywalled": false
+  },
+  {
+   "title": "tvn24.pl",
+   "url": "https://tvn24.pl/biznes/moto/ceny-paliw-od-23-11-do-27-11-benzyna-95-ponizej-6-zl-diesel-moze-potaniec-st9349848",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl; CowKrakowie.pl",
+   "url": "https://lovekrakow.pl/ostrzezenie-imgw-dla-krakowa-pierwszy-cios-zimy",
+   "paywalled": false
+  },
+  {
+   "title": "cowkrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/w-krakowie-ruszyla-zimowa-akcja-na-drogach-pracuja-dziesiatki-pojazdow",
+   "paywalled": false
+  },
+  {
+   "title": "CowKrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/problemy-z-biletami-w-aplikacji-mkrakow",
+   "paywalled": false
+  },
+  {
+   "title": "cowkrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/uwaga-pasazerowie-mpk-wieczorem-nie-kupicie-biletu-w-aplikacji-komunikat",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/krakow-zmienia-kurs-w-sprawie-turystyki-kolejne-zmiany-w-magistracie",
+   "paywalled": false
+  },
+  {
+   "title": "cowkrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/zmiany-kadrowe-w-urzedzie-miasta-krakowa",
+   "paywalled": false
+  },
+  {
+   "title": "CowKrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/miasto-odblokuje-wszystkich-zablokowanych-w-mediach-spolecznosciowych-jest-decyzja",
+   "paywalled": false
+  },
+  {
+   "title": "CowKrakowie.pl; LoveKraków.pl",
+   "url": "https://cowkrakowie.pl/2026/11/policjant-ranny-w-zamachu-w-krakowie-opuscil-szpital-przed-nim-rehabilitacja",
+   "paywalled": false
+  },
+  {
+   "title": "lovekrakow.pl",
+   "url": "https://lovekrakow.pl/apel-rannego-policjanta-prosi-o-uszanowanie-prywatnosci",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-nepal-announce-21-outcomes-15-000-cr-economic-aid-package-126112301332_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "kathmandupost.com",
+   "url": "https://kathmandupost.com/national/2026/11/24/longstanding-disputes-set-aside-progress-on-development-projects-and-economic-aid",
+   "paywalled": false
+  },
+  {
+   "title": "Marketcalls; Business Standard",
+   "url": "https://www.marketcalls.in/futures-and-options/post-market-report-23-november-2026.html",
+   "paywalled": false
+  },
+  {
+   "title": "www.business-standard.com",
+   "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/companies/news/tata-steel-acquire-apl-apollo-stake-15510-crore-open-offer-business-deal-126112300184_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "www.business-standard.com",
+   "url": "https://www.business-standard.com/markets/news/apl-apollo-tanks-10-tata-steel-5-on-28k-cr-deal-what-it-means-for-cos-126112300182_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "News24",
+   "url": "https://news24online.com/india/delhi-aqi-supreme-court-backs-bs-vi-only-vehicle-rule-suggests-5-year-plan-to-curb-pollution/956361",
+   "paywalled": false
+  },
+  {
+   "title": "www.ibtimes.co.in",
+   "url": "https://www.ibtimes.co.in/delhi-aqi-236-remains-poor-category-caqm-sets-15-20-pollution-reduction-target-2027-908615",
+   "paywalled": false
+  },
+  {
+   "title": "The Hans India (IANS)",
+   "url": "https://www.thehansindia.com/tamilnadu/tight-security-cover-over-6000-cops-deployed-at-thiruparankundram-ahead-of-deepam-lighting-today-1145258",
+   "paywalled": false
+  },
+  {
+   "title": "thesouthfirst.com",
+   "url": "https://thesouthfirst.com/tamilnadu/over-1700-police-personnel-deployed-at-thiruparankundram-ahead-of-karthigai-deepam-lighting-at-deepathoon/",
+   "paywalled": false
+  },
+  {
+   "title": "Greater Kashmir",
+   "url": "https://www.greaterkashmir.com/ladakh/sonam-wangchuk-joins-hunger-strike-questions-winter-polls-12830552",
+   "paywalled": false
+  },
+  {
+   "title": "kashmirreader.com",
+   "url": "https://kashmirreader.com/2026/11/22/wangchuk-not-under-house-arrest-leh-police",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw",
+   "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-23-november-2026-559536",
+   "paywalled": false
+  },
+  {
+   "title": "HNGN",
+   "url": "https://www.hngn.com/articles/273936/20261123/nato-sends-awacs-poland-says-russia-bears-full-responsibility.htm",
+   "paywalled": false
+  }
+ ]
+}
