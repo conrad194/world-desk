@@ -1245,6 +1245,34 @@
    "trackRecord": "Zerkalo correspondent on Belarusian politics and political prisoners; longer record not yet checked.",
    "dateAdded": "2026-11-23",
    "status": "Watch"
+  },
+  {
+   "id": "faris-al-jalal",
+   "name": "Faris al-Jalal",
+   "segment": "Middle East",
+   "countries": "Yemen",
+   "languages": "Arabic, English",
+   "outlets": "The New Arab / Al-Araby Al-Jadeed",
+   "basedIn": "Aden",
+   "slant": "Qatari-owned outlet; draws on government-side military sources",
+   "url": "https://www.newarab.com/news/yemens-war-fronts-expand-houthis-attempt-encircle-aden",
+   "trackRecord": "Aden-datelined front-line reporting for The New Arab on the southern fronts",
+   "dateAdded": "2026-11-24",
+   "status": "Watch"
+  },
+  {
+   "id": "youssef-diab",
+   "name": "Youssef Diab",
+   "segment": "Middle East",
+   "countries": "Lebanon",
+   "languages": "Arabic",
+   "outlets": "Asharq Al-Awsat",
+   "basedIn": "Beirut",
+   "slant": "Saudi-owned paper; strong on judicial and security sources",
+   "url": "https://english.aawsat.com/arab-world/5344787-lebanon-number-detainees-al-qaa-explosives-case-rises-six",
+   "trackRecord": "Long-time Beirut judicial and security correspondent for Asharq Al-Awsat",
+   "dateAdded": "2026-11-24",
+   "status": "Watch"
   }
  ]
 }
