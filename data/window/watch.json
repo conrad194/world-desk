@@ -2463,6 +2463,17 @@
    "checkDate": "2026-11-25",
    "happened": "",
    "eventId": "E-261124-16"
+  },
+  {
+   "id": "W-261124-06",
+   "dateAdded": "2026-11-24",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Permanent appointment of a Tourism Department director, and whether the city leaves the Małopolska Tourism Organisation and other tourism bodies",
+   "expected": "LoveKraków (pending resolutions awaiting the tourism committee's opinion)",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261124-22"
   }
  ]
 }
