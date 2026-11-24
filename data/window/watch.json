@@ -801,7 +801,7 @@
    "expected": "CJI Surya Kant's bench listed it after the Diwali vacation (Open Magazine).",
    "checkDate": "2026-11-24",
    "happened": "At the Nov 23 hearing the CJI's bench said only BS-VI vehicles will be allowed in Delhi, possibly NCR, and floated a five-year phase-out of polluting commercial vehicles; no written order or school-closure ruling reported. https://news24online.com/india/delhi-aqi-supreme-court-backs-bs-vi-only-vehicle-rule-suggests-5-year-plan-to-curb-pollution/956361",
-   "eventId": ""
+   "eventId": "E-261124-33"
   },
   {
    "id": "W-261106-14",
@@ -2297,7 +2297,7 @@
    "expected": "Kathmandu Post expects announcements after Modi–Shah talks on Nov 22–23",
    "checkDate": "2026-11-24",
    "happened": "On Nov 23 India and Nepal announced a ₹15,000 cr package (₹3,500 cr grant, ₹11,500 cr credit line), 8 MoUs, a joint vision document and the Ayodhya–Janakpur train; the Kathmandu–Bhairahawa–Lucknow route becomes two-way after studies, with no new boundary agreement. https://www.business-standard.com/external-affairs-defence-security/news/india-nepal-announce-21-outcomes-15-000-cr-economic-aid-package-126112301332_1.html",
-   "eventId": ""
+   "eventId": "E-261124-30"
   },
   {
    "id": "W-261122-07",
@@ -2474,6 +2474,39 @@
    "checkDate": "2026-12-09",
    "happened": "",
    "eventId": "E-261124-22"
+  },
+  {
+   "id": "W-261124-07",
+   "dateAdded": "2026-11-24",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Whether the Supreme Court issues a written order making Delhi (or NCR) BS-VI-only with a five-year plan for commercial-vehicle entry, and the next hearing date",
+   "expected": "Oral remarks of CJI Surya Kant's bench, Nov 23",
+   "checkDate": "2026-12-08",
+   "happened": "",
+   "eventId": "E-261124-33"
+  },
+  {
+   "id": "W-261124-08",
+   "dateAdded": "2026-11-24",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "APL Apollo open-offer timetable (SEBI draft letter of offer) and any CCI filing for the Tata Steel deal",
+   "expected": "SEBI takeover code, after the Nov 23 announcement",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261124-32"
+  },
+  {
+   "id": "W-261124-09",
+   "dateAdded": "2026-11-24",
+   "place": "India",
+   "domain": "Foreign relations",
+   "what": "India–Nepal foreign secretaries' boundary meeting, and project/disbursement agreements for the ₹15,000 cr package",
+   "expected": "India–Nepal joint statement; Kathmandu Post",
+   "checkDate": "2027-01-31",
+   "happened": "",
+   "eventId": "E-261124-30"
   }
  ]
 }

@@ -2795,6 +2795,42 @@
    "lean": "centre",
    "status": "Watch",
    "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "greater-kashmir",
+   "name": "Greater Kashmir",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "J&K and Ladakh",
+   "language": "English",
+   "url": "https://www.greaterkashmir.com",
+   "lean": "centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "prabhat-khabar",
+   "name": "Prabhat Khabar",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National, Bihar and Jharkhand",
+   "language": "Hindi",
+   "url": "https://www.prabhatkhabar.com",
+   "lean": "centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "the-south-first",
+   "name": "The South First",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "South India",
+   "language": "English",
+   "url": "https://thesouthfirst.com",
+   "lean": "centre-left",
+   "status": "Watch",
+   "dateAdded": "2026-11-24"
   }
  ]
 }

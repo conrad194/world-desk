@@ -270,7 +270,7 @@
    "officialLink": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332474&reg=48&lang=1",
    "newsLink": "https://vajiramandravi.com/current-affairs/viability-gap-funding-scheme-for-grid-scale-energy-storage-systems/",
    "eventId": "E-261105-28",
-   "lastChecked": "2026-11-13"
+   "lastChecked": "2026-11-24"
   },
   {
    "id": "R-261106-01",
@@ -382,7 +382,7 @@
    "officialLink": "https://x.com/rajnathsingh/status/2117911265716875355",
    "newsLink": "https://aninews.in/news/national/general-news/union-cabinet-approves-two-year-8216second-tour-of-duty8217-for-agniveers-under-agnipath-scheme-rajnath-singh20261104160253/",
    "eventId": "E-261106-43",
-   "lastChecked": "2026-11-13"
+   "lastChecked": "2026-11-24"
   },
   {
    "id": "R-261110-01",
@@ -562,7 +562,7 @@
   },
   {
    "dateLogged": "2026-11-14",
-   "lastChecked": "2026-11-14",
+   "lastChecked": "2026-11-24",
    "place": "India",
    "body": "Ministry of Home Affairs",
    "name": "UAPA notification extending the ban on the Islamic Research Foundation",
@@ -894,7 +894,7 @@
    "officialLink": "",
    "newsLink": "https://www.bloomberg.com/news/articles/2026-11-20/india-seeks-to-scrap-key-disclosure-to-draw-foreign-money",
    "eventId": "E-261121-47",
-   "lastChecked": "2026-11-21"
+   "lastChecked": "2026-11-24"
   },
   {
    "id": "R-261122-01",
@@ -926,6 +926,22 @@
    "officialLink": "",
    "newsLink": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
    "eventId": "E-261123-07",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "id": "R-261124-01",
+   "dateLogged": "2026-11-24",
+   "place": "India",
+   "body": "Commission for Air Quality Management (CAQM)",
+   "name": "CAQM direction on 2027 State Action Plans for Delhi-NCR (15-20% cut in pollution load)",
+   "changes": "Delhi and the NCR states must prepare state and district action plans for 2027 with named responsible officers, cutting overall pollution load by at least 15% (20% target).",
+   "affects": "State governments, district administrations and polluting sectors (transport, industry, construction) in Delhi-NCR",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "https://caqm.nic.in/",
+   "newsLink": "https://www.ibtimes.co.in/delhi-aqi-236-remains-poor-category-caqm-sets-15-20-pollution-reduction-target-2027-908615",
+   "eventId": "E-261124-34",
    "lastChecked": "2026-11-24"
   }
  ]
