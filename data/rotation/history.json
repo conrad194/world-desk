@@ -1702,6 +1702,109 @@
    "prevAnswer": "Most EU spending went to farm subsidies under the Common Agricultural Policy, and Britain's small farm sector received little of it. Meanwhile Britain paid in heavily through customs duties and VAT, because it imported much from outside Europe. The mismatch drove Thatcher's demand for a rebate.",
    "recallQ": "Which outside power broke Haftar's siege of Tripoli in 2020, and where did the Russian fighters go afterwards?",
    "recallA": "Turkey, which sent drones, military advisers and Syrian fighters to back the Tripoli government. Haftar's offensive collapsed by June 2020, and Wagner's fighters fell back to the Jufra air base and the area around Sirte, where Russia has stayed ever since."
+  },
+  {
+   "id": "2026-11-24",
+   "date": "2026-11-24",
+   "segment": "Middle East",
+   "title": "Why Iran ties Hormuz to sanctions: 75 years of economic war over Iranian oil",
+   "thread": "US–Iran war and Hormuz",
+   "eventIds": [
+    "E-261124-04",
+    "E-261124-05",
+    "E-261124-06"
+   ],
+   "minutes": 4,
+   "hook": "Tehran says Hormuz reopens only if the US lifts both the [[e:2026 United States naval blockade of Iran|naval blockade]] and its sanctions, while [[p:Donald Trump]] threatens to sink any ship that runs the blockade. Behind that demand lies a long history in which Western pressure on Iran has been, above all, pressure on its oil.",
+   "body": "Iran's spokesman says the Strait of Hormuz reopens only when the blockade and the sanctions end. To see why Tehran ties the two together, go back 75 years: for most of that time the fight between Iran and the West has been a fight over who gets to sell Iran's oil.\n\nIt began with the [[e:Abadan Crisis]]. {{note: Began in 1951 when Iran's parliament nationalised the British-owned Anglo-Iranian Oil Company, whose refinery at Abadan was then among the world's largest.}} Prime Minister [[p:Mohammad Mosaddegh]] took over the oil industry, and Britain answered with a worldwide boycott of Iranian oil, backed by its navy in the Gulf. Iran's exports collapsed. The standoff ended not in a deal but in the [[e:1953 Iranian coup d'état]], organised by the CIA and Britain's MI6. Many Iranians still read every later embargo through that memory: economic pressure first, regime change after.\n\nThe modern sanctions era opened with the [[e:Iran hostage crisis]]. {{note: Began on 4 November 1979, when student followers of Ayatollah Khomeini seized the US embassy in Tehran and held 52 Americans for 444 days.}} Jimmy Carter froze Iranian assets in the United States, and the [[e:Algiers Accords]] that freed the hostages in January 1981 unwound only part of that. Through the 1980s Washington banned imports of Iranian goods, while the Tanker War, the subject of an earlier lesson, showed that Iran's oil could also be fought over at sea.\n\nThe turning point was the move from American to global pressure. In 1995 Bill Clinton banned almost all US trade with Iran, and the next year Congress passed the [[e:Iran and Libya Sanctions Act]], which threatened foreign companies that invested in Iran's energy sector. That reach beyond US borders, now called secondary sanctions, became Washington's main weapon. As fears about Iran's nuclear programme grew, the UN joined in, most heavily with [[e:United Nations Security Council Resolution 1929|Resolution 1929]] in 2010. In 2012 the EU stopped buying Iranian oil and Iranian banks were cut off from the SWIFT payments network. Iran's oil exports fell by roughly half.\n\nThat pain brought Tehran to the [[e:Joint Comprehensive Plan of Action]] in 2015, which traded limits on its nuclear work for sanctions relief. The relief proved short-lived. In May 2018 Donald Trump withdrew and launched a \"maximum pressure\" campaign aimed at driving Iran's oil sales towards zero, and in September 2025 Britain, France and Germany triggered the return of UN sanctions. {{note: The 'snapback' mechanism was written into the 2015 deal and endorsed by UN Security Council Resolution 2231.}}\n\nThe 2026 war turned economic pressure into force. After Iran closed Hormuz, the US imposed the [[e:2026 United States naval blockade of Iran|naval blockade]] in April: a blockade does at sea what sanctions had tried to do through banks. The June memorandum from the [[e:Islamabad Talks]] lifted it, but Washington reimposed the blockade in July and now rejects the memorandum. Seen from Tehran, reopening the strait without sanctions relief would mean giving up its one counterweight to seventy years of being squeezed.",
+   "timeline": [
+    {
+     "when": "1951",
+     "text": "Iran nationalises its oil industry; Britain answers with a worldwide boycott in the [[e:Abadan Crisis]]."
+    },
+    {
+     "when": "Aug 1953",
+     "text": "A CIA- and MI6-backed coup topples [[p:Mohammad Mosaddegh]]."
+    },
+    {
+     "when": "Nov 1979",
+     "text": "After the US embassy is seized, Washington freezes Iranian assets; the [[e:Algiers Accords]] partly unwind the freeze in 1981."
+    },
+    {
+     "when": "1995–96",
+     "text": "A US trade embargo, then the [[e:Iran and Libya Sanctions Act]], begin the era of secondary sanctions on foreign firms."
+    },
+    {
+     "when": "2010–12",
+     "text": "UN [[e:United Nations Security Council Resolution 1929|Resolution 1929]], an EU oil embargo and a SWIFT cut-off roughly halve Iran's oil exports."
+    },
+    {
+     "when": "2015–18",
+     "text": "The [[e:Joint Comprehensive Plan of Action]] brings sanctions relief; the US withdraws in May 2018 and launches 'maximum pressure'."
+    },
+    {
+     "when": "Apr–Jul 2026",
+     "text": "The US blockades Iran in April, lifts it under the June Islamabad memorandum, and reimposes it in July."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Trump threatens to sink blockade runners; Iran demands an end to sanctions and the blockade before Hormuz reopens."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Iran",
+     "view": "Tehran tells this as one continuous story, from the 1951 boycott and the 1953 coup to 'maximum pressure' and the blockade: outside powers using its oil to punish or overthrow it. It argues that sanctions are economic warfare, so lifting them is a fair condition for reopening the strait."
+    },
+    {
+     "side": "United States",
+     "view": "Washington says sanctions answered Iranian actions, from hostage-taking to support for armed groups and a nuclear programme it believes aimed at a bomb. It sees the blockade as a response to Iran closing an international waterway, and refuses to pay for reopening it with sanctions relief."
+    },
+    {
+     "side": "European signatories",
+     "view": "Britain, France and Germany long defended the 2015 deal and tried to keep trade with Iran after the US left it. They triggered UN snapback in 2025 over Iran's nuclear steps, but back the Islamabad memorandum and free passage through Hormuz."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Secondary sanctions",
+     "meaning": "Penalties on companies and banks from other countries that do business with a sanctioned state, used by the US against Iran since the [[e:Iran and Libya Sanctions Act]] of 1996."
+    },
+    {
+     "term": "Snapback",
+     "meaning": "A clause of the 2015 nuclear deal letting any party restore the old UN sanctions; Britain, France and Germany used it, and the sanctions returned in September 2025."
+    },
+    {
+     "term": "Naval blockade",
+     "meaning": "Using warships to stop shipping to or from an enemy's ports. Under the laws of war it is an act of war, which is why Iran calls the US blockade military aggression."
+    },
+    {
+     "term": "Islamabad memorandum",
+     "meaning": "The 14-point US–Iran memorandum of June 2026, brokered by Pakistan and Qatar after the [[e:Islamabad Talks]], which ended the blockade and reopened Hormuz for a time."
+    }
+   ],
+   "whyItMatters": "Because both sides read today's standoff through decades of sanctions, neither sees the strait as a separate issue: Washington will not trade sanctions relief for reopening it, and Tehran will not reopen it without relief. Watch whether the convoy of tankers off Kharg Island tries to run the blockade, and whether Qatar's mediation can revive the Islamabad memorandum before a clash at sea forces the question.",
+   "readMore": [
+    {
+     "title": "International sanctions against Iran",
+     "url": "https://en.wikipedia.org/wiki/International_sanctions_against_Iran",
+     "why": "Overview of the UN, US and EU sanctions regimes and how they built up."
+    },
+    {
+     "title": "U.S. Relations With Iran (timeline)",
+     "url": "https://www.cfr.org/timeline/us-relations-iran",
+     "why": "Council on Foreign Relations timeline from the 1953 coup to recent years."
+    },
+    {
+     "title": "U.S. Sanctions on Iran: Background and Political Context",
+     "url": "https://www.everycrsreport.com/files/2026-11-03_IF12452_0ead35ca0e85531f9ec71c8ca5c241f70f6ef79b.html",
+     "why": "Congressional Research Service brief, updated November 2026."
+    }
+   ],
+   "recallQ": "What triggered the first US freeze of Iranian assets, and which agreement partly unwound it?",
+   "recallA": "The seizure of the US embassy in Tehran in November 1979, which led Jimmy Carter to freeze Iranian assets in the United States. The Algiers Accords of January 1981 freed the 52 hostages and returned part of the frozen funds, but much of the sanctions architecture remained.",
+   "prevQuestion": "Which outside power broke Haftar's siege of Tripoli in 2020, and where did the Russian fighters go afterwards?",
+   "prevAnswer": "Turkey, which sent drones, military advisers and Syrian fighters to back the Tripoli government. Haftar's offensive collapsed by June 2020, and Wagner's fighters fell back to the Jufra air base and the area around Sirte, where Russia has stayed ever since."
   }
  ]
 }
