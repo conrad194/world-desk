@@ -1,0 +1,692 @@
+{
+ "date": "2026-11-24",
+ "segment": "Middle East",
+ "windowFrom": "2026-11-17",
+ "tier1Summary": "Iran and the US are trading threats over the blockade. [[p:Donald Trump]] says any ship that runs it will be sunk, and Tehran vows 'all available means' to stop it while Qatar carries messages between them. Seven tankers have been hit in a week. In Yemen, the [[p:Houthis]] are massing to encircle Aden, and an airstrike in Lahj killed 26.\n\nIn Israel, [[p:Gadi Eisenkot]] {{note: Former IDF chief of staff (2015–2019) who entered politics with Benny Gantz's National Unity in 2022.}} is negotiating with [[p:Likud]] but threatens a minority government. Gaza's ceasefire is eroding under Israel's central push, and the UN has no plan after [[p:United Nations Interim Force in Lebanon|UNIFIL]].\n\nElsewhere, NATO sends an AWACS to Poland, Russia is reportedly ready to put a nuclear weapon in orbit, and drones hit a UN compound in Khartoum.",
+ "segmentItems": [
+  {
+   "id": "E-261124-04",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "Iran's foreign ministry spokesman [[p:Esmaeil Baghaei|Esmail Baghaei]] vowed 'all available means' against the US blockade after [[p:Donald Trump]] threatened to sink any Iranian ship that runs it. Tehran says Hormuz reopens only if sanctions and the [[e:2026 United States naval blockade of Iran|blockade]] end and the [[e:Islamabad Talks|Islamabad]] memorandum is honoured.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Resul Serdar Atas",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-05",
+   "segment": "Middle East",
+   "country": "Iran / United States / Qatar",
+   "text": "Qatari envoys spent two hours in Tehran on 20 Nov, and Qatar's PM was due to meet [[p:Marco Rubio]] on 23 Nov. [[p:Abbas Araghchi]] says talking about Hormuz is pointless until Iran's demands are met.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "CBS News (AFP)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "CBS News (AFP)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-06",
+   "segment": "Middle East",
+   "country": "Strait of Hormuz / Oman / UAE",
+   "text": "Seven tankers have been hit since 16 Nov, three of them off Khasab in Oman, and a Jordanian sailor is missing. Brent is above $92.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Jay Hilotin",
+   "outlet": "Gulf News",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Gulf News",
+     "url": "https://gulfnews.com/amp/story/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-23-2026-1.500757486"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-08",
+   "segment": "Middle East",
+   "country": "Yemen",
+   "text": "An airstrike in Lahj killed 26, 12 of them [[p:Houthis|Houthi]] fighters and 14 civilians in a passing bus and truck, local officials told AFP. The Houthis blame Saudi Arabia; the government blames the Houthis.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AFP (via Free Malaysia Today)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "AFP (via Free Malaysia Today)",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/24/yemen-officials-say-strike-on-buses-trucks-kills-26"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-09",
+   "segment": "Middle East",
+   "country": "Yemen",
+   "text": "The Houthis are massing on the Al-Bayda–Abyan front and aircraft have been striking them. A government-aligned politician says the aim is to encircle Aden rather than storm it.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Faris al-Jalal",
+   "outlet": "The New Arab",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "The New Arab",
+     "url": "https://www.newarab.com/news/yemens-war-fronts-expand-houthis-attempt-encircle-aden"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://martinplaut.com/2026/11/22/houthi-advance-on-aden-threatens-9600-mostly-somali-and-ethiopian-in-kharaz-refugee-camp/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-13",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "[[p:Gadi Eisenkot]]'s party and [[p:Likud]] held coalition talks without a deal. Likud wants no Arab parties and Israel to keep 'security zones' in Syria, Lebanon and Gaza; Eisenkot threatens a minority emergency government instead.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AFP (via Manila Times)",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "AFP (via Manila Times)",
+     "url": "https://www.manilatimes.net/2026/11/23/world/americas-emea/eisenkot-netanyahu-parties-resume-coalition-negotiations/2475676"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.timesofisrael.com/liveblog-november-23-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-14",
+   "segment": "Middle East",
+   "country": "West Bank",
+   "text": "Settlers torched homes and cars near Ramallah. Eisenkot called it 'Jewish terrorism' and blamed [[p:Itamar Ben-Gvir]] and [[p:Bezalel Smotrich]].",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Reuters (via Just Security)",
+   "opinion": "",
+   "thread": "West Bank",
+   "links": [
+    {
+     "label": "Reuters (via Just Security)",
+     "url": "https://www.reuters.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-west-bank-2026-11-22/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.timesofisrael.com/liveblog-november-23-2026/"
+    }
+   ],
+   "paywalled": true
+  },
+  {
+   "id": "E-261124-15",
+   "segment": "Middle East",
+   "country": "Gaza",
+   "text": "After Israel's 18 Nov push into central Gaza, drone strikes killed at least seven on 20 Nov. On 21 Nov a strike on a vehicle carrying food killed three; the IDF says they were [[p:Palestinian Islamic Jihad]] members.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Hani Mahmoud",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-16",
+   "segment": "Middle East",
+   "country": "Lebanon / UN",
+   "text": "The [[p:United Nations Security Council|Security Council]] backed [[p:United Nations Interim Force in Lebanon|UNIFIL]] {{note: UN peacekeeping force created in 1978 by Security Council Resolutions 425 and 426 after Israel's invasion of southern Lebanon.}} but named no successor. The US wants an amended [[e:United Nations Security Council Resolution 1701|Resolution 1701]], and France is drafting a new text.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Ephrem Kossaify",
+   "outlet": "Arab News",
+   "opinion": "",
+   "thread": "Lebanon: Hezbollah disarmament and Israeli occupation",
+   "links": [
+    {
+     "label": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/6-weeks-before-unifil-exits-lebanon-security-council-backs-mission-but-no-word-of-a-replacement-3013232"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-19",
+   "segment": "Middle East",
+   "country": "Iraq",
+   "text": "In a reportedly Iran-brokered deal, a joint force of army, police and [[p:Popular Mobilization Forces|PMF]] brigades is replacing [[p:Kata'ib Hezbollah]] at Jurf al-Sakhar. Analysts are split on whether it changes anything.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Rached El-Moctar",
+   "outlet": "Al Jazeera",
+   "opinion": "includes analysts' views",
+   "thread": "Iraq faction disarmament",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-21",
+   "segment": "Middle East",
+   "country": "Turkey",
+   "text": "Courts upheld the cancellation of [[p:Ekrem İmamoğlu]]'s degree, which presidential candidates need, and jailed him again over the 2023 CHP vote. The [[p:Constitutional Court of Turkey|Constitutional Court]] reviews his detention on 26 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Turkish Minute",
+   "opinion": "",
+   "thread": "Turkey fund crisis and opposition crackdown",
+   "links": [
+    {
+     "label": "Turkish Minute",
+     "url": "https://www.turkishminute.com/2026/11/19/turkish-court-upholds-revocation-of-imamoglus-degree-in-a-blow-to-his-presidential-bid/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.turkishminute.com/2026/11/23/turkeys-top-court-to-review-imamoglus-detention-in-corruption-case/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261124-01",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Poland / NATO",
+   "text": "After the [[p:North Atlantic Council]] met over the Russian missiles that hit Poland, Warsaw says NATO is sending an AWACS aircraft. Requests for F-35s and air defence are still under review.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Azat TV",
+   "opinion": "",
+   "thread": "Russian hybrid attacks on Europe",
+   "links": [
+    {
+     "label": "Azat TV",
+     "url": "https://azat.tv/en/nato-deploys-awacs-to-poland-after-missile-crash/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.byteseu.com/2541971/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261124-02",
+   "segment": "EU politics + cross-cutting",
+   "country": "Russia / NATO",
+   "text": "NATO intelligence services believe Russia is ready to launch a nuclear-armed satellite this year, German media report. That would breach the [[e:Outer Space Treaty]] {{note: 1967 treaty, drafted at the UN and signed by the US, UK and Soviet Union, that bans nuclear weapons in orbit.}}.",
+   "tier": 1,
+   "verification": "Single-source",
+   "reporter": "",
+   "outlet": "Reuters",
+   "opinion": "",
+   "thread": "Nuclear arms control",
+   "links": [
+    {
+     "label": "Reuters",
+     "url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    }
+   ],
+   "paywalled": true
+  },
+  {
+   "id": "E-261124-03",
+   "segment": "Africa",
+   "country": "Sudan / Ethiopia",
+   "text": "Drones hit homes and a UN compound in Khartoum. The UN points to the [[p:Rapid Support Forces]]; Sudan's army claims the drones flew from Ethiopia.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Addis Standard (via allAfrica)",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Addis Standard (via allAfrica)",
+     "url": "https://allafrica.com/stories/202611230234.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.arabnews.com/middle-east/drone-strikes-hit-homes-un-premises-in-sudans-capital-3013486"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261124-01",
+   "title": "What next for Iraq's push against militias following Jurf al-Sakhar deal?",
+   "reporter": "Rached El-Moctar",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal",
+   "why": "Explains how Baghdad got [[p:Kata'ib Hezbollah]] to let the state into its stronghold, the reported Iranian role, and why analysts disagree on whether the deal changes anything.",
+   "segment": "Middle East",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261124-02",
+   "title": "Yemen's war fronts expand as Houthis attempt to encircle Aden",
+   "reporter": "Faris al-Jalal",
+   "outlet": "The New Arab",
+   "url": "https://www.newarab.com/news/yemens-war-fronts-expand-houthis-attempt-encircle-aden",
+   "why": "Aden-based reporting on the new Al-Bayda–Abyan front, showing how the [[p:Houthis]] could squeeze Aden from two directions rather than storm it.",
+   "segment": "Middle East",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-24",
+   "text": "Duma third reading of Russia's 2027–29 budget, 24 Nov.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261120-05"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Kazakhstan: government anti-corruption proposals for state companies due to [[p:Kassym-Jomart Tokayev]].",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-09"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Belgium: [[p:Bart De Wever]] reports to the King on the federal budget, 23 Nov, the day of a national union demonstration.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-02"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "Outcome of the extraordinary [[p:North Atlantic Council]] meeting on the Russian missiles that hit Poland: more air defence and jets for the eastern flank?",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-01"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Malaysia: whether Anwar accepts Anthony Loke's resignation, and BN's push for an early general election after Melaka.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261118-03"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Pakistan: Islamabad High Court hearing of [[p:Imran Khan]] and Bushra Bibi's appeals in the £190m Al-Qadir Trust case.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-01"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Sweden: Speaker's round with party leaders and Kristersson's final report, 24 Nov; a third PM vote may follow.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-03"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Moldova's energy state of emergency expires on 24 Nov: extension or not.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-02"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Pakistan: Islamabad High Court hearing on constituency boundaries that decides whether Islamabad's local elections (rescheduled for 20 Dec) go ahead.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-02"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-03"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Venezuela: 24-hour public-sector strike and march on Miraflores over wages and the year-end bonus.",
+   "segment": "The Americas",
+   "watchId": "W-261119-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "segment": "Africa",
+   "watchId": "W-261120-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "France: joint committee on the 2027 social security budget, 26 Nov, when the 50-day deadline expires; 49.3 or ordinance possible.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-04"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Turkey: [[p:Constitutional Court of Turkey|Constitutional Court]] plenary takes up [[p:Ekrem İmamoğlu]]'s application against his pretrial detention, 26 Nov.",
+   "segment": "Middle East",
+   "watchId": "W-261124-01"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Georgia: opposition's nationwide rally in Tbilisi.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-11"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Serbia: Speaker Aleksandar Čupić calls the presidential election (20 or 27 Dec) by 27 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-08"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Taiwan local elections, 28 Nov, amid PLA pressure and Lai's warnings of Chinese interference.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Algeria local (APC/APW) elections, 28 Nov.",
+   "segment": "Africa",
+   "watchId": "W-261120-03"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Kazakhstan: snap maslikhat (local council) elections for 3,447 seats.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-10"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Iran's convoy of 14+ tankers off Kharg Island tries to run the US naval blockade.",
+   "segment": "Middle East",
+   "watchId": "W-261122-06"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Canada–US trade agreement after the restart of talks.",
+   "segment": "The Americas",
+   "watchId": "W-261105-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Spain general election, 29 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Rodrigo Duterte's ICC crimes-against-humanity trial opens in The Hague, 30 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Ecuador local elections (prefects, mayors, councillors, CPCCS), with Noboa campaigning for ADN.",
+   "segment": "The Americas",
+   "watchId": "W-261112-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Europe names its delegation (three to five officials) for the next round of Ukraine peace talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Gagauzia bashkan runoff on 29 Nov: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Apex committee meeting of the Pakistan–Saudi–Turkey [[e:Mecca defence pact|Mecca Joint Defence Agreement]] in Islamabad.",
+   "segment": "Middle East",
+   "watchId": "W-261117-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Maldives: final votes on the Ras Malé real-estate bill and three other government bills, and the opposition MDP's referendum rally.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-08"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Commission formally tables the 22nd Russia sanctions package; Denmark proposes an EU-wide tourist visa ban on Russians.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Possible visit by the French, German and British national security advisers to Moscow at [[p:Yuri Ushakov]]'s invitation.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-03"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Bangladesh: [[p:Sheikh Hasina]]'s stated plan to return from India in December, India's extradition decision and further Awami League lockdowns.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-14"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Israel: whether [[p:Gadi Eisenkot]] brings a minority 'national emergency government' to a Knesset vote if Likud talks fail.",
+   "segment": "Middle East",
+   "watchId": "W-261124-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Saudi Arabia (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "United Arab Emirates (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Qatar (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Kuwait (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Oman",
+   "status": "no sources found"
+  },
+  {
+   "country": "Iran (domestic politics, courts, protests)",
+   "status": "no sources found"
+  },
+  {
+   "country": "Jordan",
+   "status": "quiet"
+  },
+  {
+   "country": "Syria (domestic, SDF integration)",
+   "status": "quiet"
+  },
+  {
+   "country": "Egypt (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "West Bank (Palestinian Authority politics)",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Al Jazeera: Iran / United States",
+   "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Iran / United States",
+   "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News (AFP): Iran / United States / Qatar",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+   "paywalled": false
+  },
+  {
+   "title": "Gulf News: Strait of Hormuz / Oman / UAE",
+   "url": "https://gulfnews.com/amp/story/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-23-2026-1.500757486",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Free Malaysia Today): Yemen",
+   "url": "https://www.freemalaysiatoday.com/category/world/2026/11/24/yemen-officials-say-strike-on-buses-trucks-kills-26",
+   "paywalled": false
+  },
+  {
+   "title": "The New Arab: Yemen",
+   "url": "https://www.newarab.com/news/yemens-war-fronts-expand-houthis-attempt-encircle-aden",
+   "paywalled": false
+  },
+  {
+   "title": "The New Arab: Yemen",
+   "url": "https://martinplaut.com/2026/11/22/houthi-advance-on-aden-threatens-9600-mostly-somali-and-ethiopian-in-kharaz-refugee-camp/",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Manila Times): Israel",
+   "url": "https://www.manilatimes.net/2026/11/23/world/americas-emea/eisenkot-netanyahu-parties-resume-coalition-negotiations/2475676",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Manila Times): Israel",
+   "url": "https://www.timesofisrael.com/liveblog-november-23-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Just Security): West Bank",
+   "url": "https://www.reuters.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-west-bank-2026-11-22/",
+   "paywalled": true
+  },
+  {
+   "title": "Al Jazeera: Gaza",
+   "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Gaza",
+   "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/",
+   "paywalled": false
+  },
+  {
+   "title": "Arab News: Lebanon / UN",
+   "url": "https://www.arabnews.com/middle-east/6-weeks-before-unifil-exits-lebanon-security-council-backs-mission-but-no-word-of-a-replacement-3013232",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Iraq",
+   "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal",
+   "paywalled": false
+  },
+  {
+   "title": "Turkish Minute: Turkey",
+   "url": "https://www.turkishminute.com/2026/11/19/turkish-court-upholds-revocation-of-imamoglus-degree-in-a-blow-to-his-presidential-bid/",
+   "paywalled": false
+  },
+  {
+   "title": "Turkish Minute: Turkey",
+   "url": "https://www.turkishminute.com/2026/11/23/turkeys-top-court-to-review-imamoglus-detention-in-corruption-case/",
+   "paywalled": false
+  },
+  {
+   "title": "Azat TV: Poland / NATO",
+   "url": "https://azat.tv/en/nato-deploys-awacs-to-poland-after-missile-crash/",
+   "paywalled": false
+  },
+  {
+   "title": "Azat TV: Poland / NATO",
+   "url": "https://www.byteseu.com/2541971/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters: Russia / NATO",
+   "url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/",
+   "paywalled": true
+  },
+  {
+   "title": "Reuters: Russia / NATO",
+   "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Addis Standard (via allAfrica): Sudan / Ethiopia",
+   "url": "https://allafrica.com/stories/202611230234.html",
+   "paywalled": false
+  },
+  {
+   "title": "Addis Standard (via allAfrica): Sudan / Ethiopia",
+   "url": "https://www.arabnews.com/middle-east/drone-strikes-hit-homes-un-premises-in-sudans-capital-3013486",
+   "paywalled": false
+  }
+ ]
+}
