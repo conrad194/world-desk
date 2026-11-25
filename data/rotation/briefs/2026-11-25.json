@@ -1,0 +1,712 @@
+{
+ "date": "2026-11-25",
+ "segment": "East & Southeast Asia",
+ "windowFrom": "2026-11-18",
+ "tier1Summary": "Xi's purge reached Shanghai: [[p:Chen Jining]] is under investigation, and Beijing extended part of its export-control truce with Washington. The US, though, is preparing [[e:Section 301 of the Trade Act of 1974|Section 301]] tariffs on China, the EU and 14 others.\n\nTaiwan votes Saturday. Seoul's top court called the [[e:2024 South Korean martial law]] an insurrection, and [[p:Lee Jae Myung]] replaced his security team. Mongolia's president is out. Indonesian police accuse a Jokowi-era police chief of treason. The [[p:International Court of Justice]] found Myanmar responsible for genocide.\n\nElsewhere, a [[p:Houthis|Houthi]] drone hit Riyadh's financial district and Trump says Iran-war funding runs to January.",
+ "segmentItems": [
+  {
+   "id": "E-261125-04",
+   "segment": "East & Southeast Asia",
+   "country": "China",
+   "text": "Party investigators are probing Shanghai chief and Politburo member [[p:Chen Jining]] {{note: Former Tsinghua president and Beijing mayor (2017–2022) who has led Shanghai since 2022.}}, the fourth Politburo member to fall this term; Taiwanese analysts say it upends 2027 Party Congress planning.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AP",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AP",
+     "url": "https://www.wamc.org/2026-11-25/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-05",
+   "segment": "East & Southeast Asia",
+   "country": "China / United States",
+   "text": "Beijing extended to 27 Jan its suspension of the gallium, germanium and antimony export ban on the US. Rare-earth curbs and the 24% tariff stay suspended to 10 Jan.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Xinhua",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Xinhua",
+     "url": "https://english.news.cn/20261124/826a5769e61d4d5aa14d256dbfb9fc20/c.html"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.aa.com.tr/en/asia-pacific/china-extends-suspension-of-some-export-curbs-on-us-for-2-months/4135639"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-08",
+   "segment": "East & Southeast Asia",
+   "country": "Taiwan",
+   "text": "Taiwan votes on 28 Nov in the [[e:2026 Taiwanese local elections]] and a nuclear referendum. A [[p:Taiwan People's Party]] candidate was indicted for allegedly taking Chinese Communist Party-linked money.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Sean Lin",
+   "outlet": "Focus Taiwan",
+   "opinion": "",
+   "thread": "Taiwan Strait",
+   "links": [
+    {
+     "label": "Focus Taiwan",
+     "url": "https://focustaiwan.tw/politics/202611210014"
+    },
+    {
+     "label": "Second source",
+     "url": "https://focustaiwan.tw/politics/202611240024"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-31",
+   "segment": "East & Southeast Asia",
+   "country": "Philippines / China",
+   "text": "Philippine forces counted 48 Chinese vessels in the West Philippine Sea after the ASEAN summit, up from 19. A PLA H-6 bomber flew between [[p:Scarborough Shoal]] and Luzon.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Jing Villamente",
+   "outlet": "Daily Tribune",
+   "opinion": "",
+   "thread": "South China Sea",
+   "links": [
+    {
+     "label": "Daily Tribune",
+     "url": "https://tribune.net.ph/2026/11/24/chinese-vessels-in-wps-surge-to-48-after-asean-summit"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.manilatimes.net/2026/11/25/news/chinese-bomber-spotted-over-west-philippine-sea-afp/2477730"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-16",
+   "segment": "East & Southeast Asia",
+   "country": "South Korea",
+   "text": "South Korea's [[p:Supreme Court of Korea|Supreme Court]] ruled the [[e:2024 South Korean martial law]] an insurrection but ordered a partial retrial for ex-PM [[p:Han Duck-soo]].",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Choi Hye-rin, Kim Jeong-hwa",
+   "outlet": "Kyunghyang Shinmun",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Kyunghyang Shinmun",
+     "url": "https://www.khan.co.kr/en/article/202611191719007/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-18",
+   "segment": "East & Southeast Asia",
+   "country": "South Korea",
+   "text": "[[p:Lee Jae Myung]] replaced his foreign minister, unification minister and spy chief; Korean press reads the new foreign minister as a pro-alliance pick.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Jooheon Kim, Joon Ha Park",
+   "outlet": "NK News",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "NK News",
+     "url": "https://www.nknews.org/2026/11/lee-jae-myung-names-new-unification-foreign-ministers-amid-north-korea-deadlock/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.segye.com/newsView/20261123515177"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-20",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea",
+   "text": "The IAEA's [[p:Rafael Grossi]] says North Korea has extended its Yongbyon enrichment plant, calling it 'extremely worrying'.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-14",
+   "segment": "East & Southeast Asia",
+   "country": "Mongolia",
+   "text": "Mongolia's parliament accepted President [[p:Ukhnaagiin Khürelsükh]]'s resignation over bribery claims he denies; a snap election is due within four months.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Dogyu Lee",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://sg.news.yahoo.com/mongolia-faces-snap-presidential-vote-110000614.html"
+    },
+    {
+     "label": "Second source",
+     "url": "https://n1info.rs/svet/parlament-mongolije-prihvatio-ostavku-predsednika/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-23",
+   "segment": "East & Southeast Asia",
+   "country": "Indonesia",
+   "text": "Indonesian police named ex-police chief [[p:Listyo Sigit Prabowo]], seen as a [[p:Joko Widodo]] loyalist, a treason suspect over the wiretapping of [[p:Prabowo Subianto]]. The new vice-presidential vote is set for 11 Dec.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Rumondang Naibaho",
+   "outlet": "detikNews",
+   "opinion": "",
+   "thread": "Indonesia: Prabowo–Jokowi rift",
+   "links": [
+    {
+     "label": "detikNews",
+     "url": "https://news.detik.com/berita/d-8766834/alur-listyo-sigit-dkk-makar-disiapkan-sebelum-prabowo-jadi-presiden"
+    },
+    {
+     "label": "Second source",
+     "url": "https://asianews.network/indonesian-ex-top-cop-listyo-named-treason-suspect/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-26",
+   "segment": "East & Southeast Asia",
+   "country": "Myanmar",
+   "text": "The [[p:International Court of Justice]] found Myanmar responsible for the [[e:Rohingya genocide]], the first such ruling against a state. The junta says it is rethinking its ties with ASEAN.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "UN News",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168836"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.hrw.org/news/2026/11/03/international-court-of-justice-judgment-in-myanmar-genocide-case"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-22",
+   "segment": "East & Southeast Asia",
+   "country": "Japan",
+   "text": "Japan's opposition will censure Education Minister Seki Yoshihiro over fundraising parties and stall the food tax cut. [[p:Sanae Takaichi]] refuses to fire him.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Kyodo (via Nippon.com)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Kyodo (via Nippon.com)",
+     "url": "https://www.nippon.com/ja/articles/-/57668"
+    },
+    {
+     "label": "Second source",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261119de78697"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261125-01",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "A [[p:Houthis|Houthi]] drone hit Riyadh's financial district, injuring 11. The coalition struck Hodeidah, and [[p:Yahya Saree]] threatened all Saudi Red Sea ports.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/riyadh-s-finance-hub-attacked-saudi-anti-houthi-coalition-says"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-02",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "[[p:Donald Trump]] says the Iran campaign is funded until the end of January. The [[p:Islamic Revolutionary Guard Corps|IRGC]] claims two more tankers hit mines, which has not been confirmed.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The National",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/trump-warns-of-war-funding-fight-as-tanker-attacks-raise-hormuz-tension/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-navy-says-2-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261125-03",
+   "segment": "The Americas",
+   "country": "United States / China / EU",
+   "text": "AP and Bloomberg sources say the USTR will soon put new [[e:Section 301 of the Trade Act of 1974|Section 301]] tariffs on China, the EU and 14 others. Taiwan's stocks fell 4.8%.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Alicia Diaz",
+   "outlet": "Bloomberg (via Transport Topics)",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Bloomberg (via Transport Topics)",
+     "url": "https://www.ttnews.com/articles/us-tariff-hike-china-eu-goods"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.opb.org/article/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261125-01",
+   "title": "陳吉寧落馬 分析：影響21大人事布局 習近平不打算設接班人",
+   "reporter": "Lu Chia-jung (盧佳蓉)",
+   "outlet": "Central News Agency",
+   "url": "https://www.cna.com.tw/news/acn/202611240307.aspx",
+   "why": "Three Taiwanese China specialists explain what [[p:Chen Jining]]'s fall means for the 2027 Party Congress line-up and for the Tsinghua network, and why some read it as Xi not planning a successor. Goes further than the English wires.",
+   "segment": "East & Southeast Asia",
+   "language": "Mandarin"
+  },
+  {
+   "readingId": "RL-261125-02",
+   "title": "Supreme Court partly overturns Han Duck-soo's martial law conviction",
+   "reporter": "Choi Hye-rin, Kim Jeong-hwa",
+   "outlet": "Kyunghyang Shinmun",
+   "url": "https://www.khan.co.kr/en/article/202611191719007/",
+   "why": "Lays out the court's reasoning on why the [[e:2024 South Korean martial law]] was an insurrection but planning alone did not prove intent, and the dissents. It sets the frame for Yoon Suk Yeol's appeal verdict in January.",
+   "segment": "East & Southeast Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-25",
+   "text": "Pakistan: Islamabad High Court hearing of [[p:Imran Khan]] and Bushra Bibi's appeals in the £190m Al-Qadir Trust case.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-01"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Sweden: Speaker's round with party leaders and Kristersson's final report, 24 Nov; a third PM vote may follow.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-03"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Pakistan: Islamabad High Court hearing on constituency boundaries that decides whether Islamabad's local elections (rescheduled for 20 Dec) go ahead.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-02"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-03"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Venezuela: 24-hour public-sector strike and march on Miraflores over wages and the year-end bonus.",
+   "segment": "The Americas",
+   "watchId": "W-261119-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "segment": "Africa",
+   "watchId": "W-261120-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "France: joint committee on the 2027 social security budget, 26 Nov, when the 50-day deadline expires; 49.3 or ordinance possible.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-04"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Turkey: [[p:Constitutional Court of Turkey|Constitutional Court]] plenary takes up [[p:Ekrem İmamoğlu]]'s application against his pretrial detention, 26 Nov.",
+   "segment": "Middle East",
+   "watchId": "W-261124-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Indonesia: police ethics hearing for [[p:Listyo Sigit Prabowo]], which may end in his dismissal, 26 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Hong Kong: first anniversary of the [[e:Wang Fuk Court fire]], 26 Nov; how police treat private memorials and Masses.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-08"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Georgia: opposition's nationwide rally in Tbilisi.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-11"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Serbia: Speaker Aleksandar Čupić calls the presidential election (20 or 27 Dec) by 27 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-08"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Taiwan local elections, 28 Nov, amid PLA pressure and Lai's warnings of Chinese interference.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Algeria local (APC/APW) elections, 28 Nov.",
+   "segment": "Africa",
+   "watchId": "W-261120-03"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Kazakhstan: snap maslikhat (local council) elections for 3,447 seats.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-10"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Iran's convoy of 14+ tankers off Kharg Island tries to run the US naval blockade.",
+   "segment": "Middle East",
+   "watchId": "W-261122-06"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Canada–US trade agreement after the restart of talks.",
+   "segment": "The Americas",
+   "watchId": "W-261105-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Spain general election, 29 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Rodrigo Duterte's ICC crimes-against-humanity trial opens in The Hague, 30 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Ecuador local elections (prefects, mayors, councillors, CPCCS), with Noboa campaigning for ADN.",
+   "segment": "The Americas",
+   "watchId": "W-261112-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Europe names its delegation (three to five officials) for the next round of Ukraine peace talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Gagauzia bashkan runoff on 29 Nov: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Apex committee meeting of the Pakistan–Saudi–Turkey [[e:Mecca defence pact|Mecca Joint Defence Agreement]] in Islamabad.",
+   "segment": "Middle East",
+   "watchId": "W-261117-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Maldives: final votes on the Ras Malé real-estate bill and three other government bills, and the opposition MDP's referendum rally.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-08"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Commission formally tables the 22nd Russia sanctions package; Denmark proposes an EU-wide tourist visa ban on Russians.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Possible visit by the French, German and British national security advisers to Moscow at [[p:Yuri Ushakov]]'s invitation.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-03"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Bangladesh: [[p:Sheikh Hasina]]'s stated plan to return from India in December, India's extradition decision and further Awami League lockdowns.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-14"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Israel: whether [[p:Gadi Eisenkot]] brings a minority 'national emergency government' to a Knesset vote if Likud talks fail.",
+   "segment": "Middle East",
+   "watchId": "W-261124-02"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Estonia's closure of all Russian border crossings takes effect; the government decides whether it is temporary or indefinite.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-02"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Japan: upper-house censure motion against Education Minister Seki Yoshihiro, and whether the opposition boycott stalls the food consumption-tax cut.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-06"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "US: USTR announces results of its Section 301 subsidy probe and new tariffs on China, the EU and 14 others.",
+   "segment": "The Americas",
+   "watchId": "W-261125-07"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Laos",
+   "status": "quiet"
+  },
+  {
+   "country": "Singapore",
+   "status": "quiet"
+  },
+  {
+   "country": "Brunei",
+   "status": "quiet"
+  },
+  {
+   "country": "Cambodia",
+   "status": "quiet"
+  },
+  {
+   "country": "Timor-Leste",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "AP: China",
+   "url": "https://www.wamc.org/2026-11-25/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining",
+   "paywalled": false
+  },
+  {
+   "title": "AP: China",
+   "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining",
+   "paywalled": false
+  },
+  {
+   "title": "Xinhua: China / United States",
+   "url": "https://english.news.cn/20261124/826a5769e61d4d5aa14d256dbfb9fc20/c.html",
+   "paywalled": false
+  },
+  {
+   "title": "Xinhua: China / United States",
+   "url": "https://www.aa.com.tr/en/asia-pacific/china-extends-suspension-of-some-export-curbs-on-us-for-2-months/4135639",
+   "paywalled": false
+  },
+  {
+   "title": "Focus Taiwan: Taiwan",
+   "url": "https://focustaiwan.tw/politics/202611210014",
+   "paywalled": false
+  },
+  {
+   "title": "Focus Taiwan: Taiwan",
+   "url": "https://focustaiwan.tw/politics/202611240024",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Tribune: Philippines / China",
+   "url": "https://tribune.net.ph/2026/11/24/chinese-vessels-in-wps-surge-to-48-after-asean-summit",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Tribune: Philippines / China",
+   "url": "https://www.manilatimes.net/2026/11/25/news/chinese-bomber-spotted-over-west-philippine-sea-afp/2477730",
+   "paywalled": false
+  },
+  {
+   "title": "Kyunghyang Shinmun: South Korea",
+   "url": "https://www.khan.co.kr/en/article/202611191719007/",
+   "paywalled": false
+  },
+  {
+   "title": "Kyunghyang Shinmun: South Korea",
+   "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt",
+   "paywalled": false
+  },
+  {
+   "title": "NK News: South Korea",
+   "url": "https://www.nknews.org/2026/11/lee-jae-myung-names-new-unification-foreign-ministers-amid-north-korea-deadlock/",
+   "paywalled": false
+  },
+  {
+   "title": "NK News: South Korea",
+   "url": "https://www.segye.com/newsView/20261123515177",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: North Korea",
+   "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: North Korea",
+   "url": "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews: Mongolia",
+   "url": "https://sg.news.yahoo.com/mongolia-faces-snap-presidential-vote-110000614.html",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews: Mongolia",
+   "url": "https://n1info.rs/svet/parlament-mongolije-prihvatio-ostavku-predsednika/",
+   "paywalled": false
+  },
+  {
+   "title": "detikNews: Indonesia",
+   "url": "https://news.detik.com/berita/d-8766834/alur-listyo-sigit-dkk-makar-disiapkan-sebelum-prabowo-jadi-presiden",
+   "paywalled": false
+  },
+  {
+   "title": "detikNews: Indonesia",
+   "url": "https://asianews.network/indonesian-ex-top-cop-listyo-named-treason-suspect/",
+   "paywalled": false
+  },
+  {
+   "title": "UN News: Myanmar",
+   "url": "https://news.un.org/en/story/2026/11/1168836",
+   "paywalled": false
+  },
+  {
+   "title": "UN News: Myanmar",
+   "url": "https://www.hrw.org/news/2026/11/03/international-court-of-justice-judgment-in-myanmar-genocide-case",
+   "paywalled": false
+  },
+  {
+   "title": "Kyodo (via Nippon.com): Japan",
+   "url": "https://www.nippon.com/ja/articles/-/57668",
+   "paywalled": false
+  },
+  {
+   "title": "Kyodo (via Nippon.com): Japan",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261119de78697",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Saudi Arabia / Yemen",
+   "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera: Saudi Arabia / Yemen",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/riyadh-s-finance-hub-attacked-saudi-anti-houthi-coalition-says",
+   "paywalled": true
+  },
+  {
+   "title": "The National: Iran / United States",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/trump-warns-of-war-funding-fight-as-tanker-attacks-raise-hormuz-tension/",
+   "paywalled": false
+  },
+  {
+   "title": "The National: Iran / United States",
+   "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-navy-says-2-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz/",
+   "paywalled": false
+  },
+  {
+   "title": "Bloomberg (via Transport Topics): United States / China / EU",
+   "url": "https://www.ttnews.com/articles/us-tariff-hike-china-eu-goods",
+   "paywalled": false
+  },
+  {
+   "title": "Bloomberg (via Transport Topics): United States / China / EU",
+   "url": "https://www.opb.org/article/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/",
+   "paywalled": false
+  }
+ ]
+}
