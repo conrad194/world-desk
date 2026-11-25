@@ -2595,6 +2595,61 @@
    "checkDate": "2026-12-16",
    "happened": "",
    "eventId": "E-261125-37"
+  },
+  {
+   "id": "W-261125-09",
+   "dateAdded": "2026-11-25",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Outcome of the Supreme Court hearing on Umar Khalid's and Sharjeel Imam's renewed bail pleas (Delhi riots UAPA case)",
+   "expected": "Listed Nov 25 before the CJI Surya Kant bench (IANS)",
+   "checkDate": "2026-11-26",
+   "happened": "",
+   "eventId": "E-261125-57"
+  },
+  {
+   "id": "W-261125-10",
+   "dateAdded": "2026-11-25",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Whether the Thiruparankundram petitioners file contempt in the Supreme Court over the lamp not being lit at the pillar, and the Collector's compliance report",
+   "expected": "Petitioner's counsel (ANI, Nov 24); SC Nov 20 order requires a report within three days of the festival",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": "E-261125-49"
+  },
+  {
+   "id": "W-261125-11",
+   "dateAdded": "2026-11-25",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "West Bengal Assembly vote on renaming the state 'Paschim Banga'",
+   "expected": "CM Suvendu Adhikari: tabled Dec 9 (ETV Bharat)",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261125-54"
+  },
+  {
+   "id": "W-261125-12",
+   "dateAdded": "2026-11-25",
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "what": "Army and IAF formal instructions allowing Agniveer marriage in the second term, and any gazette of second-tour terms",
+   "expected": "Tribune sources: being drafted",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": "E-261125-53"
+  },
+  {
+   "id": "W-261125-13",
+   "dateAdded": "2026-11-25",
+   "place": "India",
+   "domain": "Science & space",
+   "what": "Maiden launch of PSLV-N1, the first industry-built PSLV (HAL–L&T), carrying EOS-10",
+   "expected": "ISRO chairman Narayanan: Q1 2027",
+   "checkDate": "2027-03-31",
+   "happened": "",
+   "eventId": "E-261125-56"
   }
  ]
 }

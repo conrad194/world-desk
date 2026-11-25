@@ -2879,6 +2879,30 @@
    "lean": "Centre / business",
    "status": "Watch",
    "dateAdded": "2026-11-25"
+  },
+  {
+   "id": "asianet-newsable",
+   "name": "Asianet Newsable",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "National news carrying ANI wire copy, Tamil Nadu politics",
+   "language": "English",
+   "url": "https://newsable.asianetnews.com",
+   "lean": "Centre-right",
+   "status": "Watch",
+   "dateAdded": "2026-11-25"
+  },
+  {
+   "id": "goodreturns",
+   "name": "Goodreturns",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Markets, IPOs, exchange holidays",
+   "language": "English",
+   "url": "https://www.goodreturns.in",
+   "lean": "Neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-25"
   }
  ]
 }
