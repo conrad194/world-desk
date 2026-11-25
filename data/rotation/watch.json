@@ -877,8 +877,8 @@
    "what": "Malaysia: whether Anwar accepts Anthony Loke's resignation, and BN's push for an early general election after Melaka.",
    "expected": "Anwar says he wants further talks with Loke (The Vibes); BN's Zahid wants an early GE16 (Malay Mail).",
    "checkDate": "2026-11-25",
-   "happened": "",
-   "eventId": ""
+   "happened": "Anwar said on 25 Nov he has not accepted Loke's resignation (Loke is on leave) and that the government has over a year left. [Malay Mail](https://www.malaymail.com/news/malaysia/2026/11/25/anwar-says-loke-still-on-leave-resignation-not-accepted/244698)",
+   "eventId": "E-261125-28"
   },
   {
    "id": "W-261119-01",
@@ -957,7 +957,7 @@
    "what": "Duma third reading of Russia's 2027–29 budget, 24 Nov.",
    "expected": "Scheduled by the State Duma (Interfax).",
    "checkDate": "2026-11-24",
-   "happened": "",
+   "happened": "The Duma passed the 2027–29 budget in third reading on 24 Nov, 396–0 with 37 abstentions; it goes to the Federation Council. [Vedomosti](https://www.vedomosti.ru/economics/news/2026/11/24/1414726-prinyala-proekt-byudzheta)",
    "eventId": ""
   },
   {
@@ -1057,7 +1057,7 @@
    "what": "Kazakhstan: government anti-corruption proposals for state companies due to [[p:Kassym-Jomart Tokayev]].",
    "expected": "Tokayev at the Security Council (Trend).",
    "checkDate": "2026-11-24",
-   "happened": "",
+   "happened": "No public report found by 25 Nov that the government delivered the proposals; on 18 Nov PM Bektenov announced governance steps at Samruk-Kazyna and a new board chief. [Tengrinews](https://tengrinews.kz/kazakhstan_news/bektenov-anonsiroval-naznachenie-novogo-glavyi-samruk-613393/)",
    "eventId": "E-261121-48"
   },
   {
@@ -1127,7 +1127,7 @@
    "what": "Belgium: [[p:Bart De Wever]] reports to the King on the federal budget, 23 Nov, the day of a national union demonstration.",
    "expected": "VRT NWS; Belga.",
    "checkDate": "2026-11-24",
-   "happened": "",
+   "happened": "De Wever reported to the King on 23 Nov without a budget deal and was given another week; the same day's union action day cancelled all flights and drew about 50,000. [TPO](https://tpo.nl/2026/11/23/wever-week-uitstel-belgische-begroting/)",
    "eventId": "E-261122-23"
   },
   {
@@ -1197,7 +1197,7 @@
    "what": "Outcome of the extraordinary [[p:North Atlantic Council]] meeting on the Russian missiles that hit Poland: more air defence and jets for the eastern flank?",
    "expected": "Polish Defence Ministry (Paweł Zalewski), per Rzeczpospolita and RBC-Ukraine",
    "checkDate": "2026-11-24",
-   "happened": "",
+   "happened": "NATO is sending an AWACS aircraft to Poland; Warsaw's F-35 and air-defence requests are still under review and no communiqué was reported. [Azat TV](https://azat.tv/en/nato-deploys-awacs-to-poland-after-missile-crash/)",
    "eventId": "E-261123-21"
   },
   {
@@ -1207,7 +1207,7 @@
    "what": "Moldova's energy state of emergency expires on 24 Nov: extension or not.",
    "expected": "Energy Minister Dorin Junghietu, per TVR Moldova",
    "checkDate": "2026-11-25",
-   "happened": "",
+   "happened": "The government let the emergency lapse and approved a 30-day energy-sector 'state of alert' on 25 Nov instead. [TVR Moldova](https://tvrmoldova.md/article/45404ee73b64782d/guvernul-a-aprobat-instituirea-starii-de-alerta-in-sectorul-energetic-pentru-30-de-zile.html)",
    "eventId": "E-261123-26"
   },
   {
