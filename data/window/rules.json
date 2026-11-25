@@ -959,6 +959,22 @@
    "newsLink": "https://ctmirror.org/2026/11/24/states-sue-housing-urban-development-mixed-status-immigrant-aid/",
    "eventId": "E-261125-11",
    "lastChecked": "2026-11-25"
+  },
+  {
+   "id": "R-261125-02",
+   "dateLogged": "2026-11-25",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "name": "Act of 22 Oct 2026 amending the PIT, CIT and lump-sum tax acts (tax reliefs)",
+   "changes": "Abolishes the internet-cost relief (up to 760 zł/yr) and the business-expansion relief (up to 1m zł/yr); doubles the deduction limit for donations to blood-donor causes; extends the robotisation relief by 10 years.",
+   "affects": "Taxpayers claiming the internet relief, firms using the expansion and robotisation reliefs, donors.",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://ksiegowosc.infor.pl/wiadomosci/7709883,klamka-juz-zapadla-w-sprawie-ulg-podatkowych-na-2027-r-prezydent-nawrocki-podpisal-nowele-ustaw-o-pit-cit-i-ryczalcie.html",
+   "eventId": "E-261125-26",
+   "lastChecked": "2026-11-25"
   }
  ]
 }

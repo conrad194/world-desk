@@ -2855,6 +2855,30 @@
    "lean": "Centre",
    "status": "Watch",
    "dateAdded": "2026-11-25"
+  },
+  {
+   "id": "bank-pl",
+   "name": "BANK.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Banking, macro data releases",
+   "language": "Polish",
+   "url": "https://bank.pl/",
+   "lean": "Centre / business",
+   "status": "Watch",
+   "dateAdded": "2026-11-25"
+  },
+  {
+   "id": "forsal-pl",
+   "name": "Forsal.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "Economy, markets, fuel prices (PAP-based)",
+   "language": "Polish",
+   "url": "https://forsal.pl/",
+   "lean": "Centre / business",
+   "status": "Watch",
+   "dateAdded": "2026-11-25"
   }
  ]
 }

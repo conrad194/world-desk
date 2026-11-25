@@ -2540,6 +2540,28 @@
    "checkDate": "2026-12-03",
    "happened": "",
    "eventId": "E-261125-12"
+  },
+  {
+   "id": "W-261125-04",
+   "dateAdded": "2026-11-25",
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "what": "Government submits the new, stricter crypto-asset market bill",
+   "expected": "Spokesman Szłapka (Nov 24), no date given",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261125-31"
+  },
+  {
+   "id": "W-261125-05",
+   "dateAdded": "2026-11-25",
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "what": "Outcome of the Nov 26 extraordinary European Council on the 2028-2034 MFF and Poland's position on cuts to cohesion and defence",
+   "expected": "Tusk (Bratislava, Nov 23); Costa negotiating box",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261125-25"
   }
  ]
 }
