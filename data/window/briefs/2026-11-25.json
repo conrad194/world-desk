@@ -1,0 +1,1506 @@
+{
+ "date": "2026-11-25",
+ "top5": [
+  {
+   "text": "Senate Republicans signalled openness to a Dec 11 stopgap that funds munitions but cuts off Iran war money (Reported).",
+   "place": "US",
+   "links": [
+    {
+     "label": "The Washington Post (via Yahoo News); The National",
+     "url": "https://www.yahoo.com/news/politics/articles/gop-leaders-signal-openness-cutting-140100010.html"
+    }
+   ]
+  },
+  {
+   "text": "WSJ and Bloomberg report Section 301 tariffs on 16 economies, including the EU and India, are imminent; nothing announced yet.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Seoul Economic Daily; Bombay Samachar (citing WSJ, Bloomberg)",
+     "url": "https://en.sedaily.com/world/2026/11/24/us-overproduction-tariffs-may-land-this-week-with-korea"
+    }
+   ]
+  },
+  {
+   "text": "Poland summoned Russia's ambassador over the Kh-101 missiles; Tusk set red lines on energy costs and defence before Thursday's EU budget summit.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Polsat News / PAP",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/ambasador-rosji-wezwany-do-msz-stawil-sie/"
+    },
+    {
+     "label": "Rzeczpospolita / PAP",
+     "url": "https://www.rp.pl/polityka/art45532351-donald-tusk-ostrzega-przed-rosja-i-apeluje-o-europejska-solidarnosc-z-polska"
+    }
+   ]
+  },
+  {
+   "text": "Kraków's council debates the metro halt at 16:00 today; the 2027 draft budget has 0 zł for it. The S7 link completing the ring road opens Thursday.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "KRKnews",
+     "url": "https://krknews.pl/metro-w-krakowie-budzet-2027-nadzwyczajna-sesja-rady-miasta/"
+    },
+    {
+     "label": "LoveKraków.pl",
+     "url": "https://lovekrakow.pl/domykaja-obwodnice-krakowa-jest-termin-otwarcia"
+    }
+   ]
+  },
+  {
+   "text": "Thiruparankundram's lamp was lit at the customary spot, not the hilltop pillar the Supreme Court allowed; BJP leaders were detained and petitioners plan contempt pleas.",
+   "place": "India",
+   "links": [
+    {
+     "label": "The News Minute",
+     "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-deepam-lit-at-customary-spot-despite-court-orders"
+    },
+    {
+     "label": "Asianet Newsable (ANI)",
+     "url": "https://newsable.asianetnews.com/india/bjp-leaders-detained-as-tension-mounts-at-thiruparankundram-temple-articleshow-95y7r7d"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261125-01",
+    "domain": "Politics & government",
+    "text": "Senate GOP leaders signal openness to a Dec 11 stopgap that funds munitions but cuts off Iran war money, as Democrats finalise Kaine's funding-ban language.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "The Washington Post (via Yahoo News); The National",
+      "url": "https://www.yahoo.com/news/politics/articles/gop-leaders-signal-openness-cutting-140100010.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/24/iran-war-poll-democrats-funding/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-06",
+    "domain": "Trade & tariffs",
+    "text": "WSJ/Bloomberg: USTR is about to announce Section 301 tariffs on 16 economies including China, the EU and India, capped near deal levels for allies.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Seoul Economic Daily; Bombay Samachar (citing WSJ, Bloomberg)",
+      "url": "https://en.sedaily.com/world/2026/11/24/us-overproduction-tariffs-may-land-this-week-with-korea"
+     },
+     {
+      "label": "Second source",
+      "url": "https://english.bombaysamachar.com/international/us-tariffs-india-china-eu-industrial-subsidies/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-03",
+    "domain": "Foreign relations",
+    "text": "Iran threatens an escorted tanker convoy to break the US blockade; reports say a 14-tanker sailing was halted, and Hormuz traffic is down over 40%.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "The National",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-07",
+    "domain": "Technology, AI & cyber",
+    "text": "Coons, Cotton and Warren push chip export-control bills and probes of Huang; AG Blanche won't say whether Huang is under investigation. Hearings Dec 1 and 3.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Nvidia leadership crisis",
+    "links": [
+     {
+      "label": "The National News Desk (KTXS)",
+      "url": "https://ktxs.com/news/nation-world/congress-vows-to-turn-up-the-heat-on-huang-nvidia-china"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.techtimes.com/articles/331408/20261124/nvidias-jensen-huang-face-lawmakers-public-hearings-following-his-reinstatement-ceo.htm"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-08",
+    "domain": "Law, courts & regulation",
+    "text": "The Supreme Court deferred Cook County's mootness bid in the AR-15 ban case until oral argument on Dec 2, keeping the major gun case on track.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/11/supreme-court-defers-decision-on-whether-to-dismiss-major-gun-case/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.supremecourt.gov/orders/courtorders/112426zr_q86b.pdf"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-12",
+    "domain": "Politics & government",
+    "text": "Alaska certified Peltola's Senate win (50.14%), opening recount and contest windows through Dec 3; Sullivan has reportedly conceded.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "2026 US midterms",
+    "links": [
+     {
+      "label": "Democracy Docket",
+      "url": "https://www.democracydocket.com/news-alerts/alaska-certifies-democratic-senate-win-starting-clock-for-next-wave-of-challenges/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://thehill.com/homenews/campaign/6240650-dan-sullivan-concedes-alaska-senate/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-14",
+    "domain": "Law, courts & regulation",
+    "text": "Trump ordered DOJ to seek more federal death sentences and speed executions, escalating his clash with Newsom over 548 California commutations.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Latin Times",
+      "url": "https://www.latintimes.com/trump-doj-death-penalty-child-murder-trafficking-601789"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-16",
+    "domain": "Health, medicine & food safety",
+    "text": "Pennsylvania (9th) and Wisconsin (3rd) reported new measles deaths as CDC's count hit 5,838, the most since 1991.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US measles resurgence",
+    "links": [
+     {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.dhs.wisconsin.gov/news/releases/112426.htm"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-18",
+    "domain": "Infrastructure, transport & housing",
+    "text": "CNN: FAA probe blames an overlooked router setting at an Arkansas site for the nationwide ground stop; final report pending, Duffy and Bedford testify next week.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "CNN (via Local 3 News)",
+      "url": "https://www.local3news.com/regional-national/exclusive-faa-probe-zeroes-in-on-culprit-of-nationwide-ground-stop-but-agency-still-faces/article_79bde6b9-d914-58a9-90cc-3a5d775629ff.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261125-20",
+    "domain": "Foreign relations",
+    "text": "Russia's ambassador was summoned to the Foreign Ministry over the Nov 20 Kh-101 missile incursion and, per reports, handed a strongly worded protest note.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News / PAP",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/ambasador-rosji-wezwany-do-msz-stawil-sie/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-ambasador-rosji-wezwany-do-msz-stawil-sie,nId,23578493"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-25",
+    "domain": "Foreign relations",
+    "text": "Tusk said he would reject an EU 2028-34 budget that raises energy costs or weakens eastern-flank defence, ahead of Thursday's extraordinary summit.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita / PAP",
+      "url": "https://www.rp.pl/polityka/art45532351-donald-tusk-ostrzega-przed-rosja-i-apeluje-o-europejska-solidarnosc-z-polska"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.eska.pl/news/polityka/donald-tusk-w-bratyslawie-przywodcy-dyskutuja-o-unijnych-miliardach-i-bezpieczenstwie-aa-93X9-k2se-wPS4.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-21",
+    "domain": "Economy, business & markets",
+    "text": "October retail sales rose 3.5% y/y in real terms, a touch above forecasts, contrasting with weak industry and construction data.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "BANK.pl",
+      "url": "https://bank.pl/w-pazdzierniku-26-wzrosla-sprzedaz-detaliczna-o-35-r-r-dane-gus/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://forsal.pl/finanse/waluty/artykuly/11406238,ile-kosztuja-euro-dolar-i-frank-kursy-walut-24112026.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-26",
+    "domain": "Economy, business & markets",
+    "text": "Nawrocki signed a tax-relief overhaul abolishing the internet and expansion reliefs from 2027; the separate PIT/CIT rate reform still awaits his decision.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "Infor.pl",
+      "url": "https://ksiegowosc.infor.pl/wiadomosci/7709883,klamka-juz-zapadla-w-sprawie-ulg-podatkowych-na-2027-r-prezydent-nawrocki-podpisal-nowele-ustaw-o-pit-cit-i-ryczalcie.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.gazetaprawna.pl/artykuly-infor-pl/11349904,pit-cit-i-ryczalt-2027-prezydent-karol-nawrocki-podpisal-rewolucje-w.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-28",
+    "domain": "Law, courts & regulation",
+    "text": "Prosecutors received the Tribunal resolutions lifting immunity of TK President Święczkowski and his deputy, clearing the way for summonses and charges.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-przelom-w-sprawie-prezesa-i-wiceprezesa-tk-prokuratura-otrzy,nIdn,1027423"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wiadomosci.wp.pl/swieczkowski-i-sochanski-moga-juz-uslyszec-zarzuty-nowe-ustalenia-7354457647462432a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-31",
+    "domain": "Technology, AI & cyber",
+    "text": "The government will send the President a new, stricter crypto-market bill after his earlier vetoes, spokesman Szłapka said.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "money.pl",
+      "url": "https://www.money.pl/gielda/rzad-sprobuje-dokrecic-srube-rynkowi-kryptowalut-bedzie-ostrzejsza-ustawa-7354475793823776a.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261125-35",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Kraków's council meets at 16:00 today in extraordinary session on the metro halt; the 2027 draft budget has 0 zł for the metro, with spending pushed to 2030-2033.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków metro halt",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/metro-w-krakowie-budzet-2027-nadzwyczajna-sesja-rady-miasta/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/spor-o-metro-w-krakowie-radni-zwoluja-nadzwyczajna-sesje-i-zadaja-wyjasnien-od-prezydenta/187918"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-42",
+    "domain": "Infrastructure, transport & housing",
+    "text": "GDDKiA will open the S7 Mistrzejowice connectors on Thursday 26 Nov, completing Kraków's full ring road.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/domykaja-obwodnice-krakowa-jest-termin-otwarcia"
+     },
+     {
+      "label": "Second source",
+      "url": "https://kk24.info/historyczny-moment-dla-krakowa-w-czwartek-otwarcie-wezla-mistrzejowice-miasto-zyska-pelna-obwodnice/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-38",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors seek the parents of a girl shot at, but not hit, during the 7 Nov Kraków attack, classing it as attempted murder and appealing for footage.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45536421-zamachowiec-w-krakowie-strzelal-do-dziecka-prokuratura-szuka-rodzicow-dziewczynki"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-44",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Kraków's consultation on shrinking the SCT to about 1 km² runs 27 Nov–18 Dec and is open to anyone; the fee-freeze consultation closes 27 Nov.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Kraków Clean Transport Zone (SCT) overhaul",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/w-piatek-ruszaja-konsultacje-w-sprawie-krakowskiej-sct-glosowac-moze-cala-polska"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-47",
+    "domain": "Health, medicine & food safety",
+    "text": "Chrzanów's clinic starts paid lead and cadmium blood tests on 26 Nov after toxins were found in nine Kościelec children; the source is still unknown.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/chrzanow/w-chrzanowie-bedzie-mozna-zbadac-krew-na-obecnosc-olowiu-i-kadmu-przychodnia-odpowiada-na-obawy-mieszkancow/188147"
+     },
+     {
+      "label": "Second source",
+      "url": "https://radiokrakow.pl/wiadomosci/chrzanow/niepokojace-wyniki-badan-dzieci-z-chrzanowa-co-wykazala-kontrola-wios/187986"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-48",
+    "domain": "Environment, energy & disasters",
+    "text": "Tatra county threatens to run horse carts to Morskie Oko's Włosienica itself from 1 December, defying the national park and climate ministry.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/zakopane/konie-wroca-na-pelna-trase-do-morskiego-oka-narasta-konflikt-miedzy-starostwem-a-resortem-klimatu/188148"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/spoleczenstwo/art45538231-nie-tak-sie-umawialismy-starosta-chce-przywrocic-konie-na-calej-trasie-do-morskiego-oka"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261125-49",
+    "domain": "Law, courts & regulation",
+    "text": "Thiruparankundram's Karthigai lamp was lit at its customary spot, not the hilltop pillar the Supreme Court had allowed; petitioners plan to seek contempt action.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Thiruparankundram deepam dispute",
+    "links": [
+     {
+      "label": "The News Minute",
+      "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-deepam-lit-at-customary-spot-despite-court-orders"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-temple-trustees-cite-tradition-after-deepam-lit-at-customary-spot"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-50",
+    "domain": "Politics & government",
+    "text": "Tamil Nadu police detained BJP leaders including state chief Nagendran over Thiruparankundram; BJP says the TVK government defied the Supreme Court, while its allies praise it.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Thiruparankundram deepam dispute",
+    "links": [
+     {
+      "label": "Asianet Newsable (ANI)",
+      "url": "https://newsable.asianetnews.com/india/bjp-leaders-detained-as-tension-mounts-at-thiruparankundram-temple-articleshow-95y7r7d"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-temple-trustees-cite-tradition-after-deepam-lit-at-customary-spot"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-53",
+    "domain": "Defense, security & crime",
+    "text": "The armed forces will let Agniveers marry during their two-year second term. The Navy has issued orders; the Army and IAF are still drafting theirs.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Agnipath and Agniveer retention",
+    "links": [
+     {
+      "label": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/india/agniveers-can-marry-during-second-term-after-policy-tweak/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://organiser.org/2026/11/23/428326/bharat/agniveers-can-marry-during-second-tour-of-duty-after-four-week-training-reports/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-54",
+    "domain": "Politics & government",
+    "text": "West Bengal's BJP government approved renaming the state 'Paschim Banga'; the proposal goes to the Assembly on Dec 9 and then needs Parliament's approval.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/state/west-bengal-will-be-renamed-paschim-banga-proposal-to-be-tabled-in-assembly-in-december-suvendu-adhikari-enn26112305078"
+     },
+     {
+      "label": "Second source",
+      "url": "https://saachibaat.com/politics/todays-top-news-24-november-2026/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-55",
+    "domain": "Health, medicine & food safety",
+    "text": "ICMR's SAMPADA survey finds 56% of Indian women and 42% of young children anaemic, below NFHS-5 figures, though the methods differ.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ThePrint",
+      "url": "https://theprint.in/health/anaemia-incidence-lower-finds-icmr-survey-but-over-half-of-indias-women-still-affected/3107564/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Reports/1795441356_sampadaanaemiafinalpdf20_11_26.pdf"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-56",
+    "domain": "Science & space",
+    "text": "ISRO's chief says the first industry-built PSLV will fly in Q1 2027; he gave no date for the uncrewed Gaganyaan G1 flight.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/india/first-industry-built-pslv-ready-for-launch-in-q1-2027-isro-chief/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.gktoday.in/industry-built-pslv-n1-set-for-launch-in-early-2027/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Weather",
+   "text": "Snow peaks Thursday (IMGW first-degree warning planned for Małopolska); frost down to about -11°C on the night of 28/29 Nov, thaw around 2–3 Dec.",
+   "link": "https://www.polsatnews.pl/wiadomosc/2026-11-24/snieg-i-mroz-z-data-waznosci-wiemy-kiedy-skonczy-sie-atak-zimy/"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Air fine for now (Krasińskiego, 06:00: PM10 21.5, PM2.5 17.8 µg/m³); calm frosty weekend could worsen it.",
+   "link": "https://powietrze.gios.gov.pl/pjp/current/station_details/table/400/3/0"
+  },
+  {
+   "kind": "Transit",
+   "text": "Andrzejki nights: extra night buses 26/27 Nov (611 every 20 min) and new night lines 604 and 618 on 27/28 and 29/30 Nov.",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/w-andrzejkowa-noc-na-krakowskie-ulice-wyjedzie-wiecej-autobusow-sprawdz-zmiany/188107"
+  },
+  {
+   "kind": "Closure",
+   "text": "A4 Modlniczka junction: night resurfacing Wed–Thu after a daytime closure; detour via Różańskiego/Handlowców.",
+   "link": "https://lovekrakow.pl/awaria-wytworni-asfaltu-zjazd-z-obwodnicy-zamkniety-takze-w-dzien"
+  },
+  {
+   "kind": "Event",
+   "text": "Main Square Christmas market opens Fri 27 Nov under heavy security (barriers, plainclothes police); ceremony Sat 12:00.",
+   "link": "https://kk24.info/jarmark-bozonarodzeniowy-w-krakowie-pod-specjalna-ochrona-nawet-20-tysiecy-ludzi-tajniacy-i-betonowe-zapory/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261125-59",
+    "domain": "Defense, security & crime",
+    "text": "Poland's envoy briefed the White House NSC on the Russian missile incursion and again pressed for permanent US troops; there was no public US reply.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/swiat/news-klich-przekazal-informacje-bialemu-domowi-o-naruszeniu-polsk,nIdn,1027502"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261125-60",
+    "domain": "Foreign relations",
+    "text": "Sikorski publicly questioned a reported Pentagon hold-up of 60 Patriot interceptors for Ukraine; the Pentagon did not confirm it.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "Azernews",
+      "url": "https://www.azernews.az/region/268019.html"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261125-01",
+   "name": "Housing and Community Development Act of 1980: Verification of Eligible Status (mixed-status families final rule, RIN 2501-AE16)",
+   "place": "US",
+   "body": "HUD",
+   "stage": "Challenged in court",
+   "changes": "Ends prorated housing assistance: a household loses aid if any member lacks lawful immigration status, and tenants must prove eligible status.",
+   "affects": "Mixed-status families in public housing and voucher programmes (HUD estimates about 20,000 households, advocates say about 78,000 people), plus housing agencies and landlords.",
+   "effectiveDate": "2026-12-14",
+   "commentDeadline": "",
+   "officialLink": "https://public-inspection.federalregister.gov/2026-23003.pdf",
+   "newsLink": "https://ctmirror.org/2026/11/24/states-sue-housing-urban-development-mixed-status-immigrant-aid/"
+  },
+  {
+   "id": "R-261125-02",
+   "name": "Act of 22 Oct 2026 amending the PIT, CIT and lump-sum tax acts (tax reliefs)",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Signed / published",
+   "changes": "Abolishes the internet-cost relief (up to 760 zł/yr) and the business-expansion relief (up to 1m zł/yr); doubles the deduction limit for donations to blood-donor causes; extends the robotisation relief by 10 years.",
+   "affects": "Taxpayers claiming the internet relief, firms using the expansion and robotisation reliefs, donors.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://ksiegowosc.infor.pl/wiadomosci/7709883,klamka-juz-zapadla-w-sprawie-ulg-podatkowych-na-2027-r-prezydent-nawrocki-podpisal-nowele-ustaw-o-pit-cit-i-ryczalcie.html"
+  },
+  {
+   "id": "R-261125-03",
+   "name": "Proposal to rename West Bengal 'Paschim Banga'",
+   "place": "India",
+   "body": "West Bengal Cabinet / Legislative Assembly (then Parliament)",
+   "stage": "Proposed",
+   "changes": "The state would be officially named 'Paschim Banga' in English and all languages.",
+   "affects": "State government, official documents and signage; needs an Act of Parliament.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.etvbharat.com/en/state/west-bengal-will-be-renamed-paschim-banga-proposal-to-be-tabled-in-assembly-in-december-suvendu-adhikari-enn26112305078"
+  }
+ ],
+ "deepDive": {
+  "domain": "Health, medicine & food safety",
+  "title": "Three health counts, three measuring problems",
+  "body": "**Analysis.** Three health stories this week turn on how a number is measured, not just on how big it is.\n\nIn the US, CDC's measles count reached 5,838 confirmed cases as of Nov 19, the most since 1991 and more than double last year's total. Pennsylvania (ninth death) and Wisconsin (third) reported new deaths on Tuesday. Yet CDC lists only six deaths nationwide, without naming states. Reuters links the gap to a switch to NCHS death-certificate data under Secretary Kennedy. That data runs weeks behind state health departments. Until the federal tally catches up, state releases are the better guide ([Al Jazeera](https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak)).\n\nIn India, ICMR's SAMPADA survey found anaemia in 56% of women of reproductive age and 42% of young children. Both figures sit below NFHS-5, which put children at 67%. But SAMPADA tested venous blood on lab analysers, while NFHS used finger-prick tests and different age bands. ThePrint warns that the gap does not prove anaemia is falling. What the survey does show is that iron deficiency explains only about half the cases, which matters for policy built on iron tablets ([ThePrint](https://theprint.in/health/anaemia-incidence-lower-finds-icmr-survey-but-over-half-of-indias-women-still-affected/3107564/)).\n\nNear Kraków, Chrzanów's clinic starts paid lead and cadmium blood tests on Thursday. Toxins were found in nine children from the Kościelec estate. Inspectors found no clear source: tap water was normal and the soil has not yet been tested. The clinic's head says neither Kraków nor Katowice has an NFZ-funded children's toxicology clinic for follow-up ([Radio Kraków](https://radiokrakow.pl/wiadomosci/chrzanow/w-chrzanowie-bedzie-mozna-zbadac-krew-na-obecnosc-olowiu-i-kadmu-przychodnia-odpowiada-na-obawy-mieszkancow/188147)).\n\n**Science note:** ISRO says the first PSLV built by the HAL–L&T consortium should fly in Q1 2027, a test of whether private industry can take over the workhorse rocket. It gave no date for Gaganyaan's uncrewed G1 flight.",
+  "links": [
+   {
+    "label": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak"
+   },
+   {
+    "label": "ThePrint",
+    "url": "https://theprint.in/health/anaemia-incidence-lower-finds-icmr-survey-but-over-half-of-indias-women-still-affected/3107564/"
+   },
+   {
+    "label": "Radio Kraków",
+    "url": "https://radiokrakow.pl/wiadomosci/chrzanow/w-chrzanowie-bedzie-mozna-zbadac-krew-na-obecnosc-olowiu-i-kadmu-przychodnia-odpowiada-na-obawy-mieszkancow/188147"
+   },
+   {
+    "label": "The Tribune",
+    "url": "https://www.tribuneindia.com/news/india/first-industry-built-pslv-ready-for-launch-in-q1-2027-isro-chief/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261125-03",
+   "title": "Metro w Krakowie bez pieniędzy na 2027 rok?",
+   "reporter": "Grzegorz Górski",
+   "outlet": "KRKnews",
+   "url": "https://krknews.pl/metro-w-krakowie-budzet-2027-nadzwyczajna-sesja-rady-miasta/",
+   "why": "Clear budget-line breakdown of what the metro halt means in money terms, ahead of today's extraordinary session.",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261125-05",
+   "title": "Thiruparankundram Deepam lit at customary spot despite court orders",
+   "reporter": "Nithesh Kumar M",
+   "outlet": "The News Minute",
+   "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-deepam-lit-at-customary-spot-despite-court-orders",
+   "why": "A clear on-the-ground account of the HC directions, the ASI pillar report and the security set-up on festival day.",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-25",
+   "text": "US October PCE inflation (consensus 3.8% y/y).",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Kraków extraordinary council session on the metro, 16:00.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Senate deadline for Monetary Policy Council nominations; GUS Q3 labour survey.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-25",
+   "text": "Supreme Court hears Umar Khalid and Sharjeel Imam bail pleas.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 EU budget.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "S7 Mistrzejowice connectors open, completing Kraków's ring road.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Thanksgiving; US markets and federal offices closed.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Approximate deadline for Nawrocki's decisions on PIT/CIT, abortion bills and judges' status act.",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Christmas market opens; SCT fee-freeze consultation closes, zone-shrink consultation opens.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Mahanadi Coalfields shares list.",
+   "place": "India"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Huang's House committee interview; Gomez resignation takes effect.",
+   "place": "US"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Supreme Court argument on AR-15 bans; Kraków council regular session (budget, fares).",
+   "place": "US"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "The Washington Post (via Yahoo News); The National",
+   "url": "https://www.yahoo.com/news/politics/articles/gop-leaders-signal-openness-cutting-140100010.html",
+   "paywalled": false
+  },
+  {
+   "title": "thenationalnews.com",
+   "url": "https://www.thenationalnews.com/news/us/2026/11/24/iran-war-poll-democrats-funding/",
+   "paywalled": false
+  },
+  {
+   "title": "US Treasury",
+   "url": "https://home.treasury.gov/news/press-releases/sb0699",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+   "paywalled": false
+  },
+  {
+   "title": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working",
+   "paywalled": false
+  },
+  {
+   "title": "The Motley Fool (via Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html",
+   "paywalled": false
+  },
+  {
+   "title": "stl.news",
+   "url": "https://www.stl.news/us-stock-market-today-november-24-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Insmed SEC filing (8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm",
+   "paywalled": false
+  },
+  {
+   "title": "raps.org",
+   "url": "https://www.raps.org/resource/recon-sanofi-to-buy-insmed-for-41b-fda-approves-treatments-for-advanced-stomach-cancer-muscular-dystrophy.html",
+   "paywalled": false
+  },
+  {
+   "title": "Seoul Economic Daily; Bombay Samachar (citing WSJ, Bloomberg)",
+   "url": "https://en.sedaily.com/world/2026/11/24/us-overproduction-tariffs-may-land-this-week-with-korea",
+   "paywalled": false
+  },
+  {
+   "title": "english.bombaysamachar.com",
+   "url": "https://english.bombaysamachar.com/international/us-tariffs-india-china-eu-industrial-subsidies/",
+   "paywalled": false
+  },
+  {
+   "title": "The National News Desk (KTXS)",
+   "url": "https://ktxs.com/news/nation-world/congress-vows-to-turn-up-the-heat-on-huang-nvidia-china",
+   "paywalled": false
+  },
+  {
+   "title": "techtimes.com",
+   "url": "https://www.techtimes.com/articles/331408/20261124/nvidias-jensen-huang-face-lawmakers-public-hearings-following-his-reinstatement-ceo.htm",
+   "paywalled": false
+  },
+  {
+   "title": "SCOTUSblog",
+   "url": "https://www.scotusblog.com/2026/11/supreme-court-defers-decision-on-whether-to-dismiss-major-gun-case/",
+   "paywalled": false
+  },
+  {
+   "title": "supremecourt.gov",
+   "url": "https://www.supremecourt.gov/orders/courtorders/112426zr_q86b.pdf",
+   "paywalled": false
+  },
+  {
+   "title": "Newsweek",
+   "url": "https://newsweek.com/trump-ana-reyes-judge-east-potomac-golf-course-block-12764796",
+   "paywalled": false
+  },
+  {
+   "title": "fogolf.com",
+   "url": "https://www.fogolf.com/1463539/judge-continues-to-block-trump-admin-from-cutting-down-trees-at-d-c-golf-course-confirms-shes-still-not-the-lorax/",
+   "paywalled": false
+  },
+  {
+   "title": "WJLA",
+   "url": "https://wjla.com/news/local/appeals-court-allows-virginia-restriction-on-local-ice-cooperation-to-resume",
+   "paywalled": false
+  },
+  {
+   "title": "arlnow.com",
+   "url": "https://www.arlnow.com/2026/11/24/federal-court-upholds-ice-restrictions-in-virginia-backed-by-del-lopez/",
+   "paywalled": false
+  },
+  {
+   "title": "Stateline (via CT Mirror)",
+   "url": "https://ctmirror.org/2026/11/24/states-sue-housing-urban-development-mixed-status-immigrant-aid/",
+   "paywalled": false
+  },
+  {
+   "title": "pbs.org",
+   "url": "https://www.pbs.org/newshour/nation/states-sue-hud-over-a-rule-that-would-end-housing-aid-for-mixed-status-families",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket",
+   "url": "https://www.democracydocket.com/news-alerts/alaska-certifies-democratic-senate-win-starting-clock-for-next-wave-of-challenges/",
+   "paywalled": false
+  },
+  {
+   "title": "thehill.com",
+   "url": "https://thehill.com/homenews/campaign/6240650-dan-sullivan-concedes-alaska-senate/",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via PBS NewsHour)",
+   "url": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
+   "paywalled": false
+  },
+  {
+   "title": "Latin Times",
+   "url": "https://www.latintimes.com/trump-doj-death-penalty-child-murder-trafficking-601789",
+   "paywalled": false
+  },
+  {
+   "title": "whitehouse.gov",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News (Australia)/wires",
+   "url": "https://www.abc.net.au/news/2026-11-25/rudy-giuliani-awarded-the-presidential-medal-of-freedom-/107424212",
+   "paywalled": false
+  },
+  {
+   "title": "athensreview.com",
+   "url": "https://www.athensreview.com/national/ap-news-summary-at-1-58-p-m-est/article_9f13be29-f1cd-59b1-8f3e-ca27ef59756a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak",
+   "paywalled": false
+  },
+  {
+   "title": "dhs.wisconsin.gov",
+   "url": "https://www.dhs.wisconsin.gov/news/releases/112426.htm",
+   "paywalled": false
+  },
+  {
+   "title": "CancerNetwork",
+   "url": "https://www.cancernetwork.com/view/fda-approves-bezuclastinib-plus-sunitinib-for-imatinib-pretreated-gist",
+   "paywalled": false
+  },
+  {
+   "title": "investors.cogentbio.com",
+   "url": "https://investors.cogentbio.com/news-releases/news-release-details/cogent-biosciences-announces-fda-approval-and-launch-ekitnatm",
+   "paywalled": false
+  },
+  {
+   "title": "CNN (via Local 3 News)",
+   "url": "https://www.local3news.com/regional-national/exclusive-faa-probe-zeroes-in-on-culprit-of-nationwide-ground-stop-but-agency-still-faces/article_79bde6b9-d914-58a9-90cc-3a5d775629ff.html",
+   "paywalled": false
+  },
+  {
+   "title": "eFoodAlert",
+   "url": "https://efoodalert.com/2026/11/24/recalls-and-alerts-november-22-24-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "fda.gov",
+   "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/prime-food-processing-llc-issues-safety-warning-regarding-two-uneviscerated-dried-fish-products",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News / PAP",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-24/ambasador-rosji-wezwany-do-msz-stawil-sie/",
+   "paywalled": false
+  },
+  {
+   "title": "wydarzenia.interia.pl",
+   "url": "https://wydarzenia.interia.pl/kraj/news-ambasador-rosji-wezwany-do-msz-stawil-sie,nId,23578493",
+   "paywalled": false
+  },
+  {
+   "title": "BANK.pl",
+   "url": "https://bank.pl/w-pazdzierniku-26-wzrosla-sprzedaz-detaliczna-o-35-r-r-dane-gus/",
+   "paywalled": false
+  },
+  {
+   "title": "forsal.pl",
+   "url": "https://forsal.pl/finanse/waluty/artykuly/11406238,ile-kosztuja-euro-dolar-i-frank-kursy-walut-24112026.html",
+   "paywalled": false
+  },
+  {
+   "title": "Forsal.pl",
+   "url": "https://forsal.pl/kraj/artykuly/11406031,ceny-maksymalne-paliw-25112026-tyle-zaplacimy-za-benzyne-i-olej-napedowy-w-srode.html",
+   "paywalled": false
+  },
+  {
+   "title": "reflex.com.pl",
+   "url": "https://reflex.com.pl/wiadomosci/maksymalne-ceny-paliw-cieklych-na-stacjach-paliw-na-srode-25-listopada-br-pb95-5-84-zl-za-1-l-pb98-6-51-zl-za-1-l-on-7-23-zl-za-1-l",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl",
+   "url": "https://www.money.pl/gospodarka/izabela-leszczyna-kandydatka-do-rpp-ko-zbiera-podpisy-7354521730705408a.html",
+   "paywalled": false
+  },
+  {
+   "title": "rmf24.pl",
+   "url": "https://www.rmf24.pl/fakty/ekonomia/news-oto-kandydat-do-rady-polityki-pienieznej-zglosil-go-w-senaci,nIdn,1027255",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita / PAP",
+   "url": "https://www.rp.pl/polityka/art45532351-donald-tusk-ostrzega-przed-rosja-i-apeluje-o-europejska-solidarnosc-z-polska",
+   "paywalled": false
+  },
+  {
+   "title": "eska.pl",
+   "url": "https://www.eska.pl/news/polityka/donald-tusk-w-bratyslawie-przywodcy-dyskutuja-o-unijnych-miliardach-i-bezpieczenstwie-aa-93X9-k2se-wPS4.html",
+   "paywalled": false
+  },
+  {
+   "title": "Infor.pl",
+   "url": "https://ksiegowosc.infor.pl/wiadomosci/7709883,klamka-juz-zapadla-w-sprawie-ulg-podatkowych-na-2027-r-prezydent-nawrocki-podpisal-nowele-ustaw-o-pit-cit-i-ryczalcie.html",
+   "paywalled": false
+  },
+  {
+   "title": "gazetaprawna.pl",
+   "url": "https://www.gazetaprawna.pl/artykuly-infor-pl/11349904,pit-cit-i-ryczalt-2027-prezydent-karol-nawrocki-podpisal-rewolucje-w.html",
+   "paywalled": false
+  },
+  {
+   "title": "RMF FM",
+   "url": "https://www.rmf.fm/styl-zycia/zdrowie/news,n1027436,popularny-plaster-przeciwbolowy-wraca-do-aptek-gif-wyrazil-zgode.html",
+   "paywalled": false
+  },
+  {
+   "title": "portal.abczdrowie.pl",
+   "url": "https://portal.abczdrowie.pl/najpierw-wycofanie-leku-teraz-zmiana-nowa-decyzja-gif/7354157308360736a",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polska/news-przelom-w-sprawie-prezesa-i-wiceprezesa-tk-prokuratura-otrzy,nIdn,1027423",
+   "paywalled": false
+  },
+  {
+   "title": "wiadomosci.wp.pl",
+   "url": "https://wiadomosci.wp.pl/swieczkowski-i-sochanski-moga-juz-uslyszec-zarzuty-nowe-ustalenia-7354457647462432a",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24; Rzeczpospolita",
+   "url": "https://tvn24.pl/polska/posiedzenie-komitetu-rzadu-do-spraw-bezpieczenstwa-wladyslaw-kosiniak-kamysz-o-tematach-st9354243",
+   "paywalled": true
+  },
+  {
+   "title": "rp.pl",
+   "url": "https://www.rp.pl/wojsko/art45533201-rosyjski-dron-latal-nad-wschodnia-polska-w-poblizu-nie-bylo-samolotow",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita / PAP",
+   "url": "https://www.rp.pl/przestepczosc/art45534971-sad-przedluzyl-areszt-dla-radoslawa-piesiewicza",
+   "paywalled": false
+  },
+  {
+   "title": "rp.pl",
+   "url": "https://rp.pl/prawo-karne/art45535181-byly-agent-cba-uslyszal-zarzuty-w-sprawie-zondacrypto",
+   "paywalled": false
+  },
+  {
+   "title": "money.pl",
+   "url": "https://www.money.pl/gielda/rzad-sprobuje-dokrecic-srube-rynkowi-kryptowalut-bedzie-ostrzejsza-ustawa-7354475793823776a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://polsatnews.pl/wiadomosc/2026-11-24/chwalil-zamach-w-krakowie-i-grozil-nowymi-atakami-zapowiadal-dziesiec-razy-wiecej-ofiar",
+   "paywalled": false
+  },
+  {
+   "title": "Infor.pl",
+   "url": "https://ksiegowosc.infor.pl/7714983,prawie-100-miliardow-zlotych-to-dopiero-poczatek-minister-domanski-zdradza-plan-rzadu-i-stawia-twardy-warunek-prywatnemu-biznesowi.html",
+   "paywalled": false
+  },
+  {
+   "title": "Interia",
+   "url": "https://wydarzenia.interia.pl/kraj/news-minister-zwrocil-sie-do-prezydenta-dzisiaj-podpisalem-pismo,nId,23577938",
+   "paywalled": false
+  },
+  {
+   "title": "tvn24.pl",
+   "url": "https://tvn24.pl/polska/ustawa-o-bezpieczenstwie-w-internecie-minister-cyfryzacji-krzysztof-gawkowski-zwrocilem-sie-do-prezydenta-karola-nawrockiego-st9353908",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/metro-w-krakowie-budzet-2027-nadzwyczajna-sesja-rady-miasta/",
+   "paywalled": false
+  },
+  {
+   "title": "radiokrakow.pl",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/spor-o-metro-w-krakowie-radni-zwoluja-nadzwyczajna-sesje-i-zadaja-wyjasnien-od-prezydenta/187918",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/brakuje-milionow-ale-oszczednosci-oznaczaja-zwolnienia-w-miejskiej-spolce",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://www.rp.pl/przestepczosc/art45536421-zamachowiec-w-krakowie-strzelal-do-dziecka-prokuratura-szuka-rodzicow-dziewczynki",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/gdzie-zostanie-pochowany-sprawca-zamachu-w-krakowie-stanowisko-kurii-sandomierskiej/188150",
+   "paywalled": false
+  },
+  {
+   "title": "kk24.info",
+   "url": "https://kk24.info/nie-pochowaja-go-obok-rodzicow-i-siostry-proboszcz-odmowil-zgody-na-pochowek-sprawcy-tragedii-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/ranna-w-zamachu-w-krakowie-27-latka-moze-wkrotce-wyjsc-ze-szpitala/188117",
+   "paywalled": false
+  },
+  {
+   "title": "CoWKrakowie.pl",
+   "url": "https://cowkrakowie.pl/2026/11/obnizka-czynszu-dla-najemcow-po-zamachu-krakow-podal-warunki",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/domykaja-obwodnice-krakowa-jest-termin-otwarcia",
+   "paywalled": false
+  },
+  {
+   "title": "kk24.info",
+   "url": "https://kk24.info/historyczny-moment-dla-krakowa-w-czwartek-otwarcie-wezla-mistrzejowice-miasto-zyska-pelna-obwodnice/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/awaria-wytworni-asfaltu-zjazd-z-obwodnicy-zamkniety-takze-w-dzien",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/w-piatek-ruszaja-konsultacje-w-sprawie-krakowskiej-sct-glosowac-moze-cala-polska",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/nowy-dyrektor-muzeum-prezydent-krakowa-podjal-decyzje",
+   "paywalled": false
+  },
+  {
+   "title": "kk24.info",
+   "url": "https://kk24.info/zmiana-na-czele-mocak-u-w-krakowie-lukasz-gibala-zdecydowal-kto-pokieruje-muzeum/",
+   "paywalled": false
+  },
+  {
+   "title": "Kurier Krakowski",
+   "url": "https://kk24.info/w-krakowie-powstanie-nowa-wystawa-o-kl-plaszow-jest-wazna-decyzja-w-sprawie-memorialu/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/chrzanow/w-chrzanowie-bedzie-mozna-zbadac-krew-na-obecnosc-olowiu-i-kadmu-przychodnia-odpowiada-na-obawy-mieszkancow/188147",
+   "paywalled": false
+  },
+  {
+   "title": "radiokrakow.pl",
+   "url": "https://radiokrakow.pl/wiadomosci/chrzanow/niepokojace-wyniki-badan-dzieci-z-chrzanowa-co-wykazala-kontrola-wios/187986",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/zakopane/konie-wroca-na-pelna-trase-do-morskiego-oka-narasta-konflikt-miedzy-starostwem-a-resortem-klimatu/188148",
+   "paywalled": false
+  },
+  {
+   "title": "rp.pl",
+   "url": "https://www.rp.pl/spoleczenstwo/art45538231-nie-tak-sie-umawialismy-starosta-chce-przywrocic-konie-na-calej-trasie-do-morskiego-oka",
+   "paywalled": false
+  },
+  {
+   "title": "The News Minute",
+   "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-deepam-lit-at-customary-spot-despite-court-orders",
+   "paywalled": false
+  },
+  {
+   "title": "thenewsminute.com",
+   "url": "https://www.thenewsminute.com/tamil-nadu/thiruparankundram-temple-trustees-cite-tradition-after-deepam-lit-at-customary-spot",
+   "paywalled": false
+  },
+  {
+   "title": "Asianet Newsable (ANI)",
+   "url": "https://newsable.asianetnews.com/india/bjp-leaders-detained-as-tension-mounts-at-thiruparankundram-temple-articleshow-95y7r7d",
+   "paywalled": false
+  },
+  {
+   "title": "Goodreturns",
+   "url": "https://www.goodreturns.in/news/stock-market-holiday-tomorrow-november-24-2026-bse-nse-mcx-shut-on-tuesday-settlement-holiday-impact-1549033.html",
+   "paywalled": false
+  },
+  {
+   "title": "saachibaat.com",
+   "url": "https://saachibaat.com/politics/todays-top-news-24-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://www.businesstoday.in/markets/stocks/story/mahanadi-coalfields-ipo-subscribed-1-52-times-on-final-day-qibs-lead-demand-569138-2026-11-23",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/india/agniveers-can-marry-during-second-term-after-policy-tweak/",
+   "paywalled": false
+  },
+  {
+   "title": "organiser.org",
+   "url": "https://organiser.org/2026/11/23/428326/bharat/agniveers-can-marry-during-second-tour-of-duty-after-four-week-training-reports/",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/state/west-bengal-will-be-renamed-paschim-banga-proposal-to-be-tabled-in-assembly-in-december-suvendu-adhikari-enn26112305078",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint",
+   "url": "https://theprint.in/health/anaemia-incidence-lower-finds-icmr-survey-but-over-half-of-indias-women-still-affected/3107564/",
+   "paywalled": false
+  },
+  {
+   "title": "icmr.gov.in",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Reports/1795441356_sampadaanaemiafinalpdf20_11_26.pdf",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/india/first-industry-built-pslv-ready-for-launch-in-q1-2027-isro-chief/",
+   "paywalled": false
+  },
+  {
+   "title": "gktoday.in",
+   "url": "https://www.gktoday.in/industry-built-pslv-n1-set-for-launch-in-early-2027/",
+   "paywalled": false
+  },
+  {
+   "title": "IANS via Punjab Kesari",
+   "url": "https://english.punjabkesari.com/india/cji-surya-kant-led-bench-to-hear-umar-khalid-sharjeel-imams-bail-pleas-tomorrow",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/india-news/delhi-wakes-to-poor-air-as-aqi-stands-at-242-ncr-cities-fare-worse-126112400079_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/swiat/news-klich-przekazal-informacje-bialemu-domowi-o-naruszeniu-polsk,nIdn,1027502",
+   "paywalled": false
+  },
+  {
+   "title": "foxnews.com",
+   "url": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
+   "paywalled": false
+  },
+  {
+   "title": "Azernews",
+   "url": "https://www.azernews.az/region/268019.html",
+   "paywalled": false
+  }
+ ]
+}
