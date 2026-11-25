@@ -2507,6 +2507,39 @@
    "checkDate": "2027-01-31",
    "happened": "",
    "eventId": "E-261124-30"
+  },
+  {
+   "id": "W-261125-01",
+   "dateAdded": "2026-11-25",
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "what": "USTR announcement of Section 301 overcapacity findings and new tariff rates on 16 economies (China, EU, Japan, South Korea, India, Vietnam and others)",
+   "expected": "WSJ and Bloomberg reported it could come the week of Nov 24",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": "E-261125-06"
+  },
+  {
+   "id": "W-261125-02",
+   "dateAdded": "2026-11-25",
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Court ruling on the states' request to block HUD's mixed-status housing rule before it takes effect Dec 14",
+   "expected": "States filed suit in D. Mass. on Nov 23 (Stateline)",
+   "checkDate": "2026-12-14",
+   "happened": "",
+   "eventId": "E-261125-11"
+  },
+  {
+   "id": "W-261125-03",
+   "dateAdded": "2026-11-25",
+   "place": "US",
+   "domain": "Politics & government",
+   "what": "Any Alaska recount request (due Nov 28) or election contest (due Dec 3) against Peltola's certified Senate win",
+   "expected": "Democracy Docket lists the deadlines after the Nov 23 certification",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261125-12"
   }
  ]
 }

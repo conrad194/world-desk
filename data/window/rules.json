@@ -943,6 +943,22 @@
    "newsLink": "https://www.ibtimes.co.in/delhi-aqi-236-remains-poor-category-caqm-sets-15-20-pollution-reduction-target-2027-908615",
    "eventId": "E-261124-34",
    "lastChecked": "2026-11-24"
+  },
+  {
+   "id": "R-261125-01",
+   "dateLogged": "2026-11-25",
+   "place": "US",
+   "body": "HUD",
+   "name": "Housing and Community Development Act of 1980: Verification of Eligible Status (mixed-status families final rule, RIN 2501-AE16)",
+   "changes": "Ends prorated housing assistance: a household loses aid if any member lacks lawful immigration status, and tenants must prove eligible status.",
+   "affects": "Mixed-status families in public housing and voucher programmes (HUD estimates about 20,000 households, advocates say about 78,000 people), plus housing agencies and landlords.",
+   "stage": "Challenged in court",
+   "commentDeadline": "",
+   "effectiveDate": "2026-12-14",
+   "officialLink": "https://public-inspection.federalregister.gov/2026-23003.pdf",
+   "newsLink": "https://ctmirror.org/2026/11/24/states-sue-housing-urban-development-mixed-status-immigrant-aid/",
+   "eventId": "E-261125-11",
+   "lastChecked": "2026-11-25"
   }
  ]
 }

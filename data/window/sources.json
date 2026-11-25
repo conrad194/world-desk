@@ -2831,6 +2831,30 @@
    "lean": "centre-left",
    "status": "Watch",
    "dateAdded": "2026-11-24"
+  },
+  {
+   "id": "the-national-news-desk-sinclair",
+   "name": "The National News Desk (Sinclair)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Washington politics syndicated to Sinclair local stations",
+   "language": "English",
+   "url": "https://thenationaldesk.com/",
+   "lean": "Centre-right",
+   "status": "Watch",
+   "dateAdded": "2026-11-25"
+  },
+  {
+   "id": "stateline",
+   "name": "Stateline",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "State policy and state–federal lawsuits",
+   "language": "English",
+   "url": "https://stateline.org/",
+   "lean": "Centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-25"
   }
  ]
 }
