@@ -1805,6 +1805,112 @@
    "recallA": "The seizure of the US embassy in Tehran in November 1979, which led Jimmy Carter to freeze Iranian assets in the United States. The Algiers Accords of January 1981 freed the 52 hostages and returned part of the frozen funds, but much of the sanctions architecture remained.",
    "prevQuestion": "Which outside power broke Haftar's siege of Tripoli in 2020, and where did the Russian fighters go afterwards?",
    "prevAnswer": "Turkey, which sent drones, military advisers and Syrian fighters to back the Tripoli government. Haftar's offensive collapsed by June 2020, and Wagner's fighters fell back to the Jufra air base and the area around Sirte, where Russia has stayed ever since."
+  },
+  {
+   "id": "2026-11-25",
+   "date": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "title": "How the Rohingya were written out of Myanmar, and how a small African state took the case to The Hague",
+   "thread": "",
+   "eventIds": [
+    "E-261125-26",
+    "E-261125-27"
+   ],
+   "minutes": 4,
+   "hook": "The [[p:International Court of Justice]] has found Myanmar responsible for the [[e:Rohingya genocide]], the first time it has ruled that a state committed genocide. The violence it judged, in 2017, was the end point of decades in which Myanmar's rulers stripped the Rohingya of citizenship and called them foreigners.",
+   "body": "When the [[p:International Court of Justice]] ruled on 19 November that Myanmar was responsible for genocide against the Rohingya, it closed a case that took seven years. The roots of what it judged go back much further: to a long argument over whether the Rohingya belong in Myanmar at all.\n\nThe Rohingya are a mostly Muslim people of northern Rakhine, the coastal region once ruled by the kingdom of Arakan. Muslims lived there for centuries, but under British rule, after the [[e:First Anglo-Burmese War]] gave Britain the region in 1826, many more arrived from neighbouring Bengal. That mixed history is the core of the dispute. Rohingya see themselves as natives of Arakan; Myanmar's nationalists, and successive governments, call them \"Bengalis\" who came with the colonisers. Violence between Rakhine Buddhists and Muslims during the Second World War hardened the divide.\n\nThe turning point came after [[p:Ne Win]] seized power in 1962 and built a state around Burman Buddhist identity. In 1978 [[e:Operation Dragon King]] {{note: An army-run census and immigration drive launched in Rakhine in February 1978 to register citizens and screen out \"foreigners\".}} sent some 200,000 Rohingya fleeing to Bangladesh; most were later sent back. Then came the decisive blow: the 1982 citizenship law listed the \"national races\" entitled to full citizenship, and the Rohingya were not among them. Most became stateless in the only country they knew, needing permission to travel, marry or study. Another 250,000 fled in 1991–92.\n\nMyanmar's partial opening after 2011 made things worse, not better. Freer speech let anti-Muslim nationalism spread, and the [[e:2012 Rakhine State riots]] drove around 140,000 people, most of them Rohingya, into closed camps. A small armed group, the [[p:Arakan Rohingya Salvation Army]], {{note: Emerged in 2016 under Ata Ullah, a Rohingya born in Pakistan and raised in Saudi Arabia; it first attacked border posts in October 2016.}} attacked police posts in October 2016 and again on 25 August 2017. The army's answer, which it called \"clearance operations\", burned hundreds of villages and killed thousands. More than 700,000 Rohingya escaped to Bangladesh within months, where nearly a million now live in camps around Cox's Bazar.\n\nMyanmar was then led by a civilian government under [[p:Aung San Suu Kyi]], but the army under [[p:Min Aung Hlaing]] ran the operations. In 2018 UN investigators said the generals should be investigated for genocide. In November 2019 The Gambia, a small West African state backed by the [[p:Organisation of Islamic Cooperation]], sued Myanmar under the [[e:Genocide Convention]], {{note: Adopted by the UN General Assembly in December 1948, after the Holocaust; it lets any party take another to the ICJ over disputes about genocide.}} arguing that every party has an interest in preventing genocide. Suu Kyi went to The Hague herself to defend her country. In January 2020 the court ordered Myanmar to protect the Rohingya; a year later Min Aung Hlaing ousted her in the [[e:2021 Myanmar coup d'état]].\n\nThe ruling matters because the court has been very reluctant to find states guilty. In 2007 it held Serbia responsible only for failing to prevent the [[e:Srebrenica massacre]], not for committing genocide. The [[e:Rohingya genocide case]] is the first time it has found a state itself responsible, and the first time a country with no direct stake brought such a case and won.",
+   "timeline": [
+    {
+     "when": "1826",
+     "text": "Britain takes Arakan after the [[e:First Anglo-Burmese War]]; migration from Bengal grows under colonial rule."
+    },
+    {
+     "when": "1978",
+     "text": "[[e:Operation Dragon King]] drives about 200,000 Rohingya into Bangladesh."
+    },
+    {
+     "when": "1982",
+     "text": "A new citizenship law leaves the Rohingya off the list of national races, making most of them stateless."
+    },
+    {
+     "when": "2012",
+     "text": "The [[e:2012 Rakhine State riots]] push about 140,000 people, mostly Rohingya, into camps."
+    },
+    {
+     "when": "Aug 2017",
+     "text": "After [[p:Arakan Rohingya Salvation Army|ARSA]] attacks, army \"clearance operations\" drive more than 700,000 Rohingya into Bangladesh."
+    },
+    {
+     "when": "Nov 2019",
+     "text": "The Gambia sues Myanmar at the ICJ under the [[e:Genocide Convention]]; provisional measures follow in January 2020."
+    },
+    {
+     "when": "Feb 2021",
+     "text": "[[p:Min Aung Hlaing]] seizes power in the [[e:2021 Myanmar coup d'état]]; the junta keeps defending the case."
+    },
+    {
+     "when": "19 Nov 2026",
+     "text": "The ICJ finds Myanmar responsible for genocide and orders prosecutions, guarantees of non-repetition and safe return."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Rohingya and The Gambia",
+     "view": "The Rohingya are an indigenous people of Arakan with centuries of history there. Decades of denied citizenship, restrictions and periodic expulsions culminated in 2017 in killings carried out with intent to destroy the group, which is genocide."
+    },
+    {
+     "side": "Myanmar's military and governments",
+     "view": "The people it calls Bengalis are largely migrants from the colonial era and after, not one of the national races. The 2017 operations were counter-terrorism against [[p:Arakan Rohingya Salvation Army|ARSA]]; abuses, where they happened, are for national courts, and genocidal intent was never shown."
+    },
+    {
+     "side": "Rakhine Buddhist nationalists",
+     "view": "Rakhine Buddhists see themselves as a threatened minority in their own homeland, squeezed between Burman rule and a growing Muslim population next to Bangladesh, and point to wartime and later violence against their own community."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "1982 Citizenship Law",
+     "meaning": "Myanmar's nationality law that grants full citizenship to listed \"national races\" and those who can prove ancestry before 1823; the Rohingya were left off the list."
+    },
+    {
+     "term": "Genocide Convention",
+     "meaning": "The 1948 treaty defining genocide as acts committed with intent to destroy a national, ethnic, racial or religious group, in whole or in part."
+    },
+    {
+     "term": "Obligations erga omnes partes",
+     "meaning": "Duties owed to all parties of a treaty, which is why The Gambia, without being directly harmed, could bring the case."
+    },
+    {
+     "term": "Clearance operations",
+     "meaning": "The Myanmar army's term for its 2016–17 campaigns in northern Rakhine."
+    },
+    {
+     "term": "Cox's Bazar",
+     "meaning": "The Bangladeshi district where nearly a million Rohingya refugees live in camps, including Kutupalong, among the world's largest."
+    }
+   ],
+   "whyItMatters": "The ruling binds Myanmar but the court cannot enforce it; that falls to the UN Security Council, where China and Russia have shielded the junta. Watch whether [[p:Min Aung Hlaing]]'s government answers by pulling away from [[p:ASEAN]], how the ICC's separate case against him moves, and whether the judgment changes anything for the Rohingya in Bangladesh's camps, who still cannot go home safely.",
+   "readMore": [
+    {
+     "title": "A Timeline of Rohingya History (US Holocaust Memorial Museum)",
+     "url": "https://www.ushmm.org/information/exhibitions/online-exhibitions/burmas-path-to-genocide/a-timeline-of-rohingya-history",
+     "why": "Museum timeline tracing the long path from exclusion to mass atrocity."
+    },
+    {
+     "title": "World Court Finds Myanmar Committed Rohingya Genocide (Human Rights Watch)",
+     "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
+     "why": "Explains what the judgment found and ordered."
+    },
+    {
+     "title": "What the ICJ genocide ruling means for the Rohingya people (Al Jazeera)",
+     "url": "https://aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+     "why": "Looks at enforcement and what changes for refugees."
+    }
+   ],
+   "prevQuestion": "What triggered the first US freeze of Iranian assets, and which agreement partly unwound it?",
+   "prevAnswer": "The seizure of the US embassy in Tehran in November 1979, which led Jimmy Carter to freeze Iranian assets in the United States. The Algiers Accords of January 1981 freed the 52 hostages and returned part of the frozen funds, but much of the sanctions architecture remained.",
+   "recallQ": "Why could The Gambia, far from Myanmar and not directly harmed, bring a genocide case against it?",
+   "recallA": "Because the Genocide Convention creates duties owed to all its parties, so any party can take another to the ICJ over a breach. The Gambia, backed by the Organisation of Islamic Cooperation, sued in November 2019, and the court accepted it had standing."
   }
  ]
 }
