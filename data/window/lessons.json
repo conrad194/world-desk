@@ -2431,6 +2431,143 @@
      "why": "Overview of India's 2016 framework, the 4% target and the committee's make-up."
     }
    ]
+  },
+  {
+   "id": "L16",
+   "num": 16,
+   "unit": "How rules get made",
+   "title": "The EU: what Brussels decides vs Warsaw; regulations vs directives",
+   "dateTaught": "2026-11-25",
+   "minutes": 10,
+   "pulledForward": false,
+   "body": "Lesson 15 showed how Warsaw makes rules: the Sejm passes acts, ministers issue regulations under them, and everything is published in Dziennik Ustaw. But a large share of the rules that actually govern Polish shops, farms and phones were not written in Warsaw at all. They were agreed in Brussels, and Poland had a seat at the table. Today's lesson is about that second layer, and why it has no real equivalent in the US or India.\n\n**Pooled sovereignty.** The European Union is not a federation like the US, and not just a treaty club either. Member states have handed some powers to shared institutions while keeping the rest. The treaties sort powers into three groups. **Exclusive competences**, such as trade policy, customs and competition rules for the single market, belong to the EU alone: Poland cannot sign its own trade deal with India or the US. **Shared competences**, such as the internal market, environment, energy and consumer protection, can be regulated by both, but once the EU acts, national law must follow. Everything else stays national: taxes on income, the army, schools, healthcare organisation and most criminal law.\n\n> Poland joined on 1 May 2004 in the [#2004 enlargement of the European Union](https://en.wikipedia.org/wiki/2004_enlargement_of_the_European_Union), after 77% voted yes in the [#2003 Polish European Union membership referendum](https://en.wikipedia.org/wiki/2003_Polish_European_Union_membership_referendum).\n\n**Who decides.** The **European Commission** proposes laws and enforces them; Poland names one of its 27 commissioners. The **Council of the EU**, made up of national ministers, and the directly elected **European Parliament** amend and pass them, usually together. The **European Council** of presidents and prime ministers sets direction and settles the hardest deals, such as the seven-year budget. The **Court of Justice** in Luxembourg has the final word on what EU law means. So when a Polish minister votes in the Council, Warsaw is not being overruled by outsiders: it is one vote among 27, weighted by population, and sometimes it loses.\n\n**Regulations vs directives.** This is the distinction to remember. A **regulation** applies directly in every member state the day it takes effect, with no Polish act needed, much like a US federal statute binds every state. A **directive** sets a goal and a deadline, and each country must **transpose** it into its own law, so in Poland a directive becomes a Sejm act or ministerial regulation in Dziennik Ustaw. In practice the line blurs: even a regulation often needs a national act to name the authority that enforces it and set penalties. That is exactly what the vetoed Polish act implementing the Digital Services Act was for.\n\n**Which law wins?** Since [#Flaminio Costa v E.N.E.L.](https://en.wikipedia.org/wiki/Flaminio_Costa_v_E.N.E.L.) in 1964, the Court of Justice has held that EU law takes precedence over conflicting national law. Poland's Constitution accepts this partly: Article 90 allows powers to be transferred by treaty, and Article 91 gives such law priority over ordinary statutes, but the Constitution itself is treated as supreme. In case K 3/21 in October 2021, the Constitutional Tribunal ruled some treaty provisions unconstitutional as the Court of Justice interpreted them. Supporters saw a defence of sovereignty; the Commission and many lawyers saw a breach of EU law, and the dispute is still not fully settled.\n\n**The comparison.** Neither the US nor India belongs to anything like this. Their closest parallel is internal: the split between Washington and the states, or between New Delhi and the states under the three lists, from Lesson 10. India's Union List gives trade and foreign affairs to the centre, just as the treaties give trade to Brussels. The difference is that the EU's \"centre\" is a body its members created and can, in theory, leave, as [#Brexit](https://en.wikipedia.org/wiki/Brexit) showed.\n\n> The EU's legal roots go back to the [#Treaty of Rome](https://en.wikipedia.org/wiki/Treaty_of_Rome) of 1957; its current shape comes from the [#Maastricht Treaty](https://en.wikipedia.org/wiki/Maastricht_Treaty) (1992) and the [#Treaty of Lisbon](https://en.wikipedia.org/wiki/Treaty_of_Lisbon) (2009).",
+   "comparison": [
+    {
+     "aspect": "Higher layer of law above the national government",
+     "US": "– (no supranational body; the federal level is the top)",
+     "Poland": "European Union: treaties, regulations, directives",
+     "India": "– (no supranational body; SAARC has no lawmaking power)"
+    },
+    {
+     "aspect": "Who sets trade and tariff policy",
+     "US": "Congress, with large powers delegated to the President and USTR (e.g. Section 301)",
+     "Poland": "The EU (exclusive competence); the Commission negotiates for all 27",
+     "India": "The Union government (Union List; states have no say)"
+    },
+    {
+     "aspect": "Law that applies directly everywhere",
+     "US": "Federal statutes and rules (Supremacy Clause)",
+     "Poland": "EU regulations",
+     "India": "Acts of Parliament on Union List subjects"
+    },
+    {
+     "aspect": "Law that sets goals for lower units to implement",
+     "US": "Conditional federal grants to states",
+     "Poland": "EU directives, transposed into Sejm acts",
+     "India": "Centrally sponsored schemes run by states"
+    },
+    {
+     "aspect": "Who settles conflicts between layers",
+     "US": "US Supreme Court",
+     "Poland": "Court of Justice of the EU; Constitutional Tribunal claims the last word on the Constitution",
+     "India": "Supreme Court of India"
+    },
+    {
+     "aspect": "Multi-year budget",
+     "US": "Annual appropriations by Congress",
+     "Poland": "National budget yearly, plus the EU's seven-year Multiannual Financial Framework",
+     "India": "Annual Union Budget; Finance Commission shares revenue every five years"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Competence (kompetencja)",
+     "meaning": "A policy area in which the EU may act: exclusive (EU only), shared, or supporting (national, with EU help)."
+    },
+    {
+     "term": "Regulation (rozporządzenie UE)",
+     "meaning": "EU act binding and directly applicable in all member states, with no national law needed. Not the same as a Polish ministerial rozporządzenie."
+    },
+    {
+     "term": "Directive (dyrektywa)",
+     "meaning": "EU act that sets a result and a deadline; each state chooses how to transpose it into national law."
+    },
+    {
+     "term": "Transposition (transpozycja)",
+     "meaning": "Writing a directive into national law, in Poland usually by an act of the Sejm or a regulation in Dziennik Ustaw."
+    },
+    {
+     "term": "Primacy of EU law",
+     "meaning": "The Court of Justice's principle, set in [#Flaminio Costa v E.N.E.L.](https://en.wikipedia.org/wiki/Flaminio_Costa_v_E.N.E.L.), that EU law prevails over conflicting national law."
+    },
+    {
+     "term": "Multiannual Financial Framework (MFF)",
+     "meaning": "The EU's seven-year budget ceiling, agreed unanimously by national governments with the European Parliament's consent."
+    }
+   ],
+   "example": "The EU's 2021–2027 budget showed the system at its most dramatic. Spending of about €1.8 trillion, including the COVID recovery fund, needed **unanimity** among national leaders. A new **rule-of-law conditionality** regulation let the Commission cut funds to a state that misused EU money through weak courts or corruption. In November 2020 Poland and Hungary vetoed the whole package in protest. The December 2020 [#European Council](https://en.wikipedia.org/wiki/European_Council) found a compromise: the regulation stayed, but would not be used until the Court of Justice ruled on it. The Court upheld it in 2022. Poland's recovery funds were then frozen over judicial reforms until 2024, when the new government of [@Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) committed to changes and the money was released. Historians and politicians in Poland still disagree on whether this was legitimate pressure or overreach.",
+   "inTheNews": "Tusk's red lines before Thursday's extraordinary European Council show the unanimity rule at work: the 2028–2034 budget cannot pass without Poland, so Warsaw has real leverage. Reported US Section 301 tariffs name \"the EU\" as one target because trade is decided in Brussels, not Warsaw, while India negotiates for itself; meanwhile the vetoed Polish act implementing the [#Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act) shows that even a directly applicable regulation needs national enforcement rules.",
+   "newsEvents": [
+    "E-261125-25",
+    "E-261125-06",
+    "E-261125-34"
+   ],
+   "check": [
+    {
+     "q": "Poland wants to cut tariffs on Indian textiles on its own. Why can't it?",
+     "options": [
+      "The Sejm would need a two-thirds majority",
+      "Trade policy is an exclusive EU competence, so only the EU can set tariffs",
+      "India does not trade with individual EU states",
+      "The President of Poland must approve all tariffs"
+     ],
+     "answer": 1,
+     "explain": "Customs and trade policy belong to the EU alone. The Commission negotiates and the EU sets common external tariffs for all 27 members."
+    },
+    {
+     "q": "An EU directive on packaging waste is adopted. What happens in Poland?",
+     "options": [
+      "It applies automatically the next day with no Polish law",
+      "It applies only if the Constitutional Tribunal approves it",
+      "Poland must transpose it into its own law by the deadline, choosing the method",
+      "It is advisory and Poland may ignore it"
+     ],
+     "answer": 2,
+     "explain": "A directive binds the state as to the result but leaves the form to national authorities, so the Sejm or a minister must write it into Polish law. Missing the deadline can lead to Commission infringement action."
+    },
+    {
+     "q": "Why can one member state hold up the EU's seven-year budget?",
+     "options": [
+      "Because the European Parliament votes by country",
+      "Because the MFF needs unanimity among governments in the Council",
+      "Because the Commission needs every commissioner's signature",
+      "Because each state's constitutional court must approve it"
+     ],
+     "answer": 1,
+     "explain": "The treaties require the Council to adopt the MFF unanimously, after the European Parliament consents. That gives each government a veto, as Poland and Hungary used in 2020."
+    }
+   ],
+   "recallQ": "What is the practical difference between an EU regulation and an EU directive, and why did Poland still need a national act to implement the Digital Services Act, which is a regulation?",
+   "recallA": "A regulation applies directly in every member state as soon as it takes effect, while a directive sets a goal that each state must transpose into its own law by a deadline. Even a regulation often leaves states to designate the enforcing authority and set procedures and penalties, so Poland needed an act to make the Digital Services Act enforceable in practice; that is the act President Nawrocki vetoed.",
+   "readMore": [
+    {
+     "title": "Types of EU legislation (European Union)",
+     "url": "https://european-union.europa.eu/institutions-law-budget/law/types-legislation_en",
+     "why": "Official one-page explanation of regulations, directives, decisions, recommendations and opinions."
+    },
+    {
+     "title": "EU long-term budget (Council of the EU)",
+     "url": "https://www.consilium.europa.eu/en/policies/eu-long-term-budget/",
+     "why": "How the MFF is negotiated and adopted, including the 2028–2034 talks behind this week's summit."
+    },
+    {
+     "title": "Constitutional Tribunal judgment K 3/21 (English summary)",
+     "url": "https://trybunal.gov.pl/en/hearings/judgments/art/11662-ocena-zgodnosci-z-konstytucja-rp-wybranych-przepisow-traktatu-o-unii-europejskiej",
+     "why": "The Tribunal's own account of its 2021 ruling on EU treaty provisions and the Polish Constitution."
+    }
+   ],
+   "prevQuestion": "Name one way India's government can influence monetary policy that the US and Polish governments cannot, and explain why Poland's central bank is the hardest of the three to change.",
+   "prevAnswer": "India's central government sets the inflation target, appoints three of the six MPC members and can issue directions to the RBI under section 7 of the RBI Act. Poland's NBP and its monopoly on monetary policy are written into Article 227 of the Constitution, so changing them needs a constitutional amendment rather than an ordinary law."
   }
  ]
 }
