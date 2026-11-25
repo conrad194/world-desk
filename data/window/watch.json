@@ -2562,6 +2562,39 @@
    "checkDate": "2026-11-27",
    "happened": "",
    "eventId": "E-261125-25"
+  },
+  {
+   "id": "W-261125-06",
+   "dateAdded": "2026-11-25",
+   "place": "Kraków",
+   "domain": "Environment, energy & disasters",
+   "what": "Whether Tatra county takes over the Morskie Oko road strip and horse carts run to Włosienica from 1 December, and the TPN/ministry response",
+   "expected": "Starosta Skupień (PAP/Radio Kraków): from 1 Dec if the ministry does not agree",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261125-48"
+  },
+  {
+   "id": "W-261125-07",
+   "dateAdded": "2026-11-25",
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "what": "Source of lead/cadmium/phenol in Chrzanów Kościelec children: soil tests (RDOŚ), the GIOŚ appeal against the WIOŚ findings, and first results of local blood testing",
+   "expected": "Residents' appeal pending at GIOŚ; testing starts 26 Nov (Radio Kraków)",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261125-47"
+  },
+  {
+   "id": "W-261125-08",
+   "dateAdded": "2026-11-25",
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "what": "Whether the 2027 budget raises MPO's winter/summer maintenance funding above 108m zł (173m zł requested)",
+   "expected": "Budget adoption by 31 Dec; debated at December sessions (LoveKraków)",
+   "checkDate": "2026-12-16",
+   "happened": "",
+   "eventId": "E-261125-37"
   }
  ]
 }

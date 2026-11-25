@@ -1427,6 +1427,30 @@
    "language": "Polish",
    "url": "https://www.rp.pl/wojsko/art45533201-rosyjski-dron-latal-nad-wschodnia-polska-w-poblizu-nie-bylo-samolotow",
    "why": "Minute-by-minute reconstruction of the Nov 23 drone incursion and why it was not shot down."
+  },
+  {
+   "id": "RL-261125-03",
+   "dateAdded": "2026-11-25",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "title": "Metro w Krakowie bez pieniędzy na 2027 rok?",
+   "reporter": "Grzegorz Górski",
+   "outlet": "KRKnews",
+   "language": "Polish",
+   "url": "https://krknews.pl/metro-w-krakowie-budzet-2027-nadzwyczajna-sesja-rady-miasta/",
+   "why": "Clear budget-line breakdown of what the metro halt means in money terms, ahead of today's extraordinary session."
+  },
+  {
+   "id": "RL-261125-04",
+   "dateAdded": "2026-11-25",
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "title": "W Chrzanowie będzie można zbadać krew na obecność ołowiu i kadmu",
+   "reporter": "Natalia Feluś",
+   "outlet": "Radio Kraków",
+   "language": "Polish",
+   "url": "https://radiokrakow.pl/wiadomosci/chrzanow/w-chrzanowie-bedzie-mozna-zbadac-krew-na-obecnosc-olowiu-i-kadmu-przychodnia-odpowiada-na-obawy-mieszkancow/188147",
+   "why": "Local reporting on an unresolved contamination scare and the gap in paediatric toxicology care in the region."
   }
  ]
 }
