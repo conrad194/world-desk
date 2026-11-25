@@ -1160,6 +1160,46 @@
    "thread": "Delhi-NCR air pollution season",
    "followsUp": "E-261124-34",
    "notes": ""
+  },
+  {
+   "id": "E-261125-59",
+   "dateLogged": "2026-11-25",
+   "eventDate": "2026-11-24",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "text": "Poland's chargé d'affaires in Washington, Bogdan Klich, formally briefed the White House National Security Council on the Russian Kh-101 cruise missiles that violated Polish airspace on Nov 20. He said he again raised the permanent stationing of US troops in Poland. Deputy Defence Minister Cezary Tomczyk had briefed Pentagon and State Department officials earlier. No on-record US response was reported. WP cites the Polish Defence Ministry as expecting a decision on a new US base in western Poland in early December, with Deputy Minister Sobkowiak-Czarnecka naming Dec 3–4 as the likely date for Trump to review the document.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Piotr Gądek / Paweł Żuchowski",
+   "outlet": "RMF24",
+   "language": "Polish",
+   "link1": "https://www.rmf24.pl/fakty/swiat/news-klich-przekazal-informacje-bialemu-domowi-o-naruszeniu-polsk,nIdn,1027502",
+   "link2": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "Permanent US base in Poland",
+   "followsUp": "E-261124-41",
+   "notes": "Accounts differ on the follow-up drone: Fox dates the drone incursion to Nov 24, while RMF says Monday (Nov 23). WP (Kamila Gurgul) says missile debris fell in Lublin and Podkarpackie regions, and Fox says no weapons were fired at the missiles. The Dec 3–4 review date is a Polish account only. Fox recalls Sikorski's earlier remark about up to 10,000 US troops."
+  },
+  {
+   "id": "E-261125-60",
+   "dateLogged": "2026-11-25",
+   "eventDate": "2026-11-24",
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "text": "Polish Foreign Minister Radosław Sikorski said on X that he hoped a Financial Times report was wrong. The report says the Pentagon has not signed off on delivering 60 Patriot interceptors to Ukraine. According to the FT, the deal had been approved by Defense Secretary Hegseth but was then sent for further review to Michael Duffey, Under Secretary for Acquisition and Sustainment. The Pentagon did not confirm the report, and an official said it is working to speed up transatlantic Patriot cooperation.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Azernews",
+   "language": "English",
+   "link1": "https://www.azernews.az/region/268019.html",
+   "link2": "",
+   "archive": "",
+   "paywalled": "N",
+   "thread": "US–Poland and Ukraine diplomacy",
+   "followsUp": "",
+   "notes": "Read only via Azernews' rewrite of the FT story and Sikorski's post. The original FT piece was not accessed and may be paywalled. Poland itself faces delays in PAC-3 MSE deliveries (Gen. Nowak, Oct 12)."
   }
  ]
 }
