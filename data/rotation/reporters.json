@@ -1273,6 +1273,76 @@
    "trackRecord": "Long-time Beirut judicial and security correspondent for Asharq Al-Awsat",
    "dateAdded": "2026-11-24",
    "status": "Watch"
+  },
+  {
+   "id": "lu-chia-jung",
+   "name": "Lu Chia-jung (盧佳蓉)",
+   "segment": "East & Southeast Asia",
+   "countries": "China, Taiwan",
+   "languages": "Mandarin",
+   "outlets": "Central News Agency (中央社)",
+   "basedIn": "Taipei",
+   "slant": "Taiwan's state news agency; China-desk analysis drawing on Taiwanese academics",
+   "url": "https://www.cna.com.tw/news/acn/202611240307.aspx",
+   "trackRecord": "CNA China-affairs reporter; detailed elite-politics analysis",
+   "dateAdded": "2026-11-25",
+   "status": "Watch"
+  },
+  {
+   "id": "rumondang-naibaho",
+   "name": "Rumondang Naibaho",
+   "segment": "East & Southeast Asia",
+   "countries": "Indonesia",
+   "languages": "Indonesian",
+   "outlets": "detikNews",
+   "basedIn": "Jakarta",
+   "slant": "Mainstream national portal; police and courts beat",
+   "url": "https://news.detik.com/berita/d-8766834/alur-listyo-sigit-dkk-makar-disiapkan-sebelum-prabowo-jadi-presiden",
+   "trackRecord": "Covers law enforcement for detik; detailed account of the Listyo treason case",
+   "dateAdded": "2026-11-25",
+   "status": "Watch"
+  },
+  {
+   "id": "ida-lim",
+   "name": "Ida Lim",
+   "segment": "East & Southeast Asia",
+   "countries": "Malaysia",
+   "languages": "English, Malay",
+   "outlets": "Malay Mail",
+   "basedIn": "Kuala Lumpur",
+   "slant": "Mainstream; politics and courts",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/25/anwar-says-loke-still-on-leave-resignation-not-accepted/244698",
+   "trackRecord": "Long-time Malay Mail politics and courts reporter",
+   "dateAdded": "2026-11-25",
+   "status": "Watch"
+  },
+  {
+   "id": "franco-jose-c-barona",
+   "name": "Franco Jose C. Baroña",
+   "segment": "East & Southeast Asia",
+   "countries": "Philippines, South China Sea",
+   "languages": "English, Filipino",
+   "outlets": "The Manila Times",
+   "basedIn": "Manila",
+   "slant": "Defence and security beat; relies on AFP (armed forces) briefings",
+   "url": "https://www.manilatimes.net/2026/11/25/news/chinese-bomber-spotted-over-west-philippine-sea-afp/2477730",
+   "trackRecord": "Manila Times defence reporter covering West Philippine Sea incidents",
+   "dateAdded": "2026-11-25",
+   "status": "Watch"
+  },
+  {
+   "id": "joon-ha-park",
+   "name": "Joon Ha Park",
+   "segment": "East & Southeast Asia",
+   "countries": "North Korea, South Korea",
+   "languages": "Korean, English",
+   "outlets": "NK News",
+   "basedIn": "Seoul",
+   "slant": "Specialist North Korea outlet; close reading of KCNA",
+   "url": "https://www.nknews.org/2026/11/kim-jong-un-personally-accepts-foreign-ambassadors-credentials-for-first-time/",
+   "trackRecord": "NK News correspondent on North Korean state media and inter-Korean policy",
+   "dateAdded": "2026-11-25",
+   "status": "Watch"
   }
  ]
 }

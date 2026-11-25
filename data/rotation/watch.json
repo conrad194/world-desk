@@ -864,11 +864,11 @@
    "id": "W-261118-02",
    "dateAdded": "2026-11-18",
    "segment": "East & Southeast Asia",
-   "what": "Indonesia: the People's Consultative Assembly elects a new vice president from two candidates nominated by Prabowo.",
-   "expected": "Required by Article 8(2) of the constitution within 60 days of the 12 Nov vacancy (LiCAS.news).",
-   "checkDate": "2027-01-11",
+   "what": "Indonesia: the People's Consultative Assembly elects a new vice president from Prabowo's two nominees, Sugiono and [[p:Andi Amran Sulaiman]]; vote now set for 11 Dec.",
+   "expected": "Required by Article 8(2) of the constitution within 60 days of the 12 Nov vacancy (LiCAS.news). Date moved to 11 Dec (CNN Indonesia, 23–25 Nov).",
+   "checkDate": "2026-12-12",
    "happened": "",
-   "eventId": ""
+   "eventId": "E-261125-24"
   },
   {
    "id": "W-261118-03",
@@ -1279,6 +1279,86 @@
    "checkDate": "2026-12-01",
    "happened": "",
    "eventId": "E-261124-13"
+  },
+  {
+   "id": "W-261125-01",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "Indonesia: police ethics hearing for [[p:Listyo Sigit Prabowo]], which may end in his dismissal, 26 Nov.",
+   "expected": "Indonesian National Police, via ANTARA and detik.",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261125-23"
+  },
+  {
+   "id": "W-261125-02",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "Philippines: [[p:Sara Duterte]]'s impeachment trial resumes 1 Dec; verdict possible 16–18 Dec.",
+   "expected": "Presiding Officer Escudero set the schedule; the Manila Times reports the verdict timing.",
+   "checkDate": "2026-12-19",
+   "happened": "",
+   "eventId": "E-261125-30"
+  },
+  {
+   "id": "W-261125-03",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "Thailand: opposition censure debate against PM [[p:Anutin Charnvirakul]] and 17 ministers, 7–10 Dec, with the no-confidence vote on 11 Dec.",
+   "expected": "The Nation (dates provisional).",
+   "checkDate": "2026-12-12",
+   "happened": "",
+   "eventId": "E-261125-32"
+  },
+  {
+   "id": "W-261125-04",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "Mongolia: parliament sets the date of the snap presidential election, by 20 Dec.",
+   "expected": "PM Uchral (ikon.mn); law requires the election within four months.",
+   "checkDate": "2026-12-21",
+   "happened": "",
+   "eventId": "E-261125-14"
+  },
+  {
+   "id": "W-261125-05",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "South Korea: National Assembly confirmation hearings for foreign minister nominee Lim Woong-soon, unification nominee [[p:Hong Ihk-pyo]] and NIS nominee [[p:Kang Kum-sil]].",
+   "expected": "Korean press expects them in late Nov or early Dec.",
+   "checkDate": "2026-12-08",
+   "happened": "",
+   "eventId": "E-261125-18"
+  },
+  {
+   "id": "W-261125-06",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "Japan: upper-house censure motion against Education Minister Seki Yoshihiro, and whether the opposition boycott stalls the food consumption-tax cut.",
+   "expected": "CDP upper-house figures, per Kyodo.",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261125-22"
+  },
+  {
+   "id": "W-261125-07",
+   "dateAdded": "2026-11-25",
+   "segment": "The Americas",
+   "what": "US: USTR announces results of its Section 301 subsidy probe and new tariffs on China, the EU and 14 others.",
+   "expected": "AP and Bloomberg sources say \"in coming days\".",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": "E-261125-03"
+  },
+  {
+   "id": "W-261125-08",
+   "dateAdded": "2026-11-25",
+   "segment": "East & Southeast Asia",
+   "what": "Hong Kong: first anniversary of the [[e:Wang Fuk Court fire]], 26 Nov; how police treat private memorials and Masses.",
+   "expected": "Government and Catholic diocese announcements.",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261125-11"
   }
  ]
 }
