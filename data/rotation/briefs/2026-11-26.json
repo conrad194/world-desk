@@ -1,0 +1,781 @@
+{
+ "date": "2026-11-26",
+ "segment": "The Americas",
+ "windowFrom": "2026-11-19",
+ "tier1Summary": "Washington opened a new tariff front: [[p:Office of the United States Trade Representative|USTR]] proposed [[e:Section 301 of the Trade Act of 1974|Section 301]] duties of 15–35% on 14 economies, from the EU and Japan to China and Vietnam, plus a 10% tariff on Brazilian aircraft. Canada and Mexico were spared while their own talks drag on. Commerce also shut Chinese firms' cloud access to advanced AI chips, and a jury convicted [[p:Huawei]].\n\nBrazil passed Lula's fiscal adjustment; Argentina's risk premium jumped after a technical recession; Venezuelan police blocked a wage march on Miraflores.\n\nElsewhere, Saudi Arabia says it downed Houthi missiles aimed at Riyadh, Iran claims mines and drone kills in Hormuz, and EU leaders began haggling over the 2028–34 budget.",
+ "segmentItems": [
+  {
+   "id": "E-261126-05",
+   "segment": "The Americas",
+   "country": "United States / China / EU / Japan / India / Vietnam",
+   "text": "[[p:Office of the United States Trade Representative|USTR]] proposed [[e:Section 301 of the Trade Act of 1974|Section 301]] tariffs on 14 economies over 'excess capacity': 15% for the EU, Japan, Korea, Switzerland and Taiwan, 20% for China, 25% for India, 35% for Vietnam. No finding on Mexico or Norway; hearings start 25 Jan, duties January at the earliest.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Thompson Coburn",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Thompson Coburn",
+     "url": "https://www.thompsoncoburn.com/insights/90-november-25-2026-ustr-finds-structural-excess-capacity-practices-in-14-economies-proposes-new-section-301-tariffs-from-15-25/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-06",
+   "segment": "The Americas",
+   "country": "United States / Brazil",
+   "text": "A separate 10% tariff on Brazilian aircraft was proposed. Brasília called it illegal and did not rule out retaliation; [[p:Embraer]] is studying it.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AIN",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "AIN",
+     "url": "https://www.ainonline.com/aviation-news/air-transport/2026-11-25/us-proposes-new-10-tariff-brazilian-aircraft"
+    },
+    {
+     "label": "Second source",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-07",
+   "segment": "The Americas",
+   "country": "Canada / United States",
+   "text": "Canada was spared. [[p:Jamieson Greer]] says talks are stuck on steel, aluminium and autos but a deal must accommodate Ottawa.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Luca Caruso-Moro",
+   "outlet": "CTV News",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "CTV News",
+     "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/25/us-trade-deal-must-accommodate-canada-says-trumps-representative/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-08",
+   "segment": "The Americas",
+   "country": "Mexico / United States",
+   "text": "Mexico got no 301 finding; [[p:Claudia Sheinbaum]] hopes for a steel, aluminium and auto deal in December.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Rio Times",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "Rio Times",
+     "url": "https://riotimesonline.com/mexico-us-section-301-excess-capacity-tariffs-2026"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.thompsoncoburn.com/insights/90-november-25-2026-ustr-finds-structural-excess-capacity-practices-in-14-economies-proposes-new-section-301-tariffs-from-15-25/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-09",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "Commerce's [[p:Bureau of Industry and Security]] closed remote cloud access to advanced AI chips for Chinese firms, tightened licensing for five Southeast Asian states and Brazil, and rescinded the AI Diffusion rule.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Sidley Austin",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Sidley Austin",
+     "url": "https://www.sidley.com/en/insights/newsupdates/2026/11/new-export-controls-on-advanced-chips-close-remote-compute-access-loopholes-five-key-takeaways"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.wilmerhale.com/en/insights/client-alerts/20261117-us-government-restricts-remote-access-to-advanced-ai-chips-and-formally-rescinds-the-ai-diffusion-rule"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-10",
+   "segment": "The Americas",
+   "country": "United States / China",
+   "text": "A Brooklyn jury convicted [[p:Huawei]] {{note: Chinese telecoms company founded in Shenzhen in 1987 by Ren Zhengfei.}} on 10 of 12 counts, including bank fraud and trade-secret theft, in its Iran-business case; it was cleared of racketeering.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "Fox Business",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Fox Business",
+     "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions"
+    },
+    {
+     "label": "Second source",
+     "url": "https://qz.com/huawei-convicted-fraud-trade-secrets-sanctions-trial-112526"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-11",
+   "segment": "The Americas",
+   "country": "United States",
+   "text": "Lawmakers are negotiating limits on the [[e:2026 Iran war|Iran war]] in a funding deal before 11 Dec; House Democrats are split over risking a shutdown.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Yahoo News",
+   "opinion": "",
+   "thread": "US Congress after the 2026 midterms",
+   "links": [
+    {
+     "label": "Yahoo News",
+     "url": "https://www.yahoo.com/news/politics/articles/house-democrats-split-over-risking-110000314.html"
+    },
+    {
+     "label": "Second source",
+     "url": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-12",
+   "segment": "The Americas",
+   "country": "Brazil",
+   "text": "Brazil's Chamber passed [[p:Luiz Inácio Lula da Silva|Lula]]'s fiscal adjustment 353–128, unchanged; it goes to sanction.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Camila Abrão",
+   "outlet": "Gazeta do Povo",
+   "opinion": "",
+   "thread": "Brazil election 2026",
+   "links": [
+    {
+     "label": "Gazeta do Povo",
+     "url": "https://www.gazetadopovo.com.br/economia/camara-aprova-projeto-de-ajuste-fiscal-de-lula/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://boainformacao.com.br/2026/11/camara-aprova-ajuste-fiscal-de-lula-com-353-votos-para-sancao/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-13",
+   "segment": "The Americas",
+   "country": "Venezuela",
+   "text": "Police blocked a wage march on Miraflores; Provea reported at least five injured. [[p:Delcy Rodríguez]] warned faster pay rises would cause hyperinflation.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "El Diario",
+   "opinion": "",
+   "thread": "Venezuela transition",
+   "links": [
+    {
+     "label": "El Diario",
+     "url": "https://eldiario.com/2026/11/24/heridos-marcha-miraflores/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://runrun.es/inicio/626356/pnb-bloqueo-paso-de-manifestantes-a-miraflores-protesta-termino-con-enfrentamientos-y-heridos/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-14",
+   "segment": "The Americas",
+   "country": "Chile",
+   "text": "Chile's Senate passed [[p:José Antonio Kast Adriasola|José Antonio Kast]]'s first budget 44–4, with spending up 1.7%.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "EFE (Infobae)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "EFE (Infobae)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/el-parlamento-chileno-aprueba-los-primeros-presupuestos-generales-de-kast/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://noticiassin.com/mundo/2026/11/25/chile-aprueba-los-primeros-presupuestos-de-kast-con-alza-del-gasto-2177114"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-15",
+   "segment": "The Americas",
+   "country": "Argentina",
+   "text": "Argentina's country risk hit 1,131 points after a technical recession was confirmed; Congress takes up the 2027 budget and scrapping the 2027 primaries. [[p:Javier Milei]] is visiting Paraguay.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Julián Alvez",
+   "outlet": "Infobae",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/25/el-gobierno-busca-mostrar-fortaleza-politica-en-el-congreso-para-aliviar-la-presion-de-los-mercados-financieros/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.infobae.com/politica/2026/11/25/milei-suspendio-su-presencia-en-un-congreso-en-corrientes-y-viaja-a-paraguay/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-16",
+   "segment": "The Americas",
+   "country": "Haiti",
+   "text": "The [[p:Gang Suppression Force]] claims six gang members killed near Croix-des-Bouquets; police report dozens more in Martissant.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Africanews",
+   "opinion": "",
+   "thread": "Haiti gangs and foreign forces",
+   "links": [
+    {
+     "label": "Africanews",
+     "url": "https://www.africanews.com/2026/11/24/haiti-gang-suppression-force-says-it-has-killed-multiple-gang-members/"
+    },
+    {
+     "label": "Second source",
+     "url": "https://haitiantimes.com/2026/11/24/haiti-police-kill-50-gang-members-martissant-operations"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261126-01",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "Saudi forces say they downed two ballistic missiles aimed at Riyadh and a drone near Jeddah overnight, blaming the [[p:Houthis]].",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The New Arab",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "The New Arab",
+     "url": "https://www.newarab.com/news/iran-tightens-grip-over-hormuz-diplomacy-inches-forward"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-25-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-02",
+   "segment": "Middle East",
+   "country": "Iran / United States",
+   "text": "Iran claims it downed US drones over Hormuz and says ships hit mines there. [[p:Jared Kushner]] says all options stay open.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Khaleej Times",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Khaleej Times",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-25-2026"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.newarab.com/news/iran-tightens-grip-over-hormuz-diplomacy-inches-forward"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-03",
+   "segment": "Middle East",
+   "country": "Israel / Gaza",
+   "text": "An Israeli strike killed Gaza's deputy education minister; at least nine died overnight, a third night of strikes despite the ceasefire.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "The New Arab",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "The New Arab",
+     "url": "https://www.newarab.com/news/iran-tightens-grip-over-hormuz-diplomacy-inches-forward"
+    },
+    {
+     "label": "Second source",
+     "url": "https://www.timesofisrael.com/liveblog-november-25-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261126-04",
+   "segment": "EU politics + cross-cutting",
+   "country": "European Union",
+   "text": "EU leaders opened budget talks on [[p:António Costa]]'s 2028–34 proposal and a €45bn Ukraine loan; the Netherlands objects and three states want to opt out of the loan.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+    },
+    {
+     "label": "Second source",
+     "url": "https://piqmarkets.com/story/eu-leaders-open-budget-summit-with-objections-to-costa-s-1-582-trillion-plan"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261126-01",
+   "title": "Câmara aprova projeto de ajuste fiscal de Lula",
+   "reporter": "Camila Abrão",
+   "outlet": "Gazeta do Povo",
+   "url": "https://www.gazetadopovo.com.br/economia/camara-aprova-projeto-de-ajuste-fiscal-de-lula/",
+   "why": "Walks through each procedural vote and what the Senate deal changed (Lei Kandir transfers, the supersalary deadline), and shows the left-wing resistance inside [[p:Workers' Party (Brazil)|PT]]. More detail than any English source.",
+   "segment": "The Americas",
+   "language": "Portuguese"
+  },
+  {
+   "readingId": "RL-261126-02",
+   "title": "El Gobierno busca mostrar fortaleza política en el Congreso para aliviar la presión de los mercados financieros",
+   "reporter": "Julián Alvez",
+   "outlet": "Infobae",
+   "url": "https://www.infobae.com/politica/2026/11/25/el-gobierno-busca-mostrar-fortaleza-politica-en-el-congreso-para-aliviar-la-presion-de-los-mercados-financieros/",
+   "why": "Inside account of [[p:Javier Milei]]'s political team trying to calm markets with a congressional push on the budget and electoral reform, with the figures behind the jump in country risk.",
+   "segment": "The Americas",
+   "language": "Spanish"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-26",
+   "text": "Extraordinary European Council on the 2028–34 MFF negotiating box, 26 Nov, ahead of a target deal at the 17–18 Dec summit.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261025-21"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Pakistan: Islamabad High Court hearing on constituency boundaries that decides whether Islamabad's local elections (rescheduled for 20 Dec) go ahead.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-02"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-03"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "segment": "Africa",
+   "watchId": "W-261120-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "France: joint committee on the 2027 social security budget, 26 Nov, when the 50-day deadline expires; 49.3 or ordinance possible.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-04"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Turkey: [[p:Constitutional Court of Turkey|Constitutional Court]] plenary takes up [[p:Ekrem İmamoğlu]]'s application against his pretrial detention, 26 Nov.",
+   "segment": "Middle East",
+   "watchId": "W-261124-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Indonesia: police ethics hearing for [[p:Listyo Sigit Prabowo]], which may end in his dismissal, 26 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Hong Kong: first anniversary of the [[e:Wang Fuk Court fire]], 26 Nov; how police treat private memorials and Masses.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-08"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Argentina: Senate vote on the electoral reform suspending the 2027 PASO primaries, and the Chamber's 2027 budget session, 26 Nov.",
+   "segment": "The Americas",
+   "watchId": "W-261126-03"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Georgia: opposition's nationwide rally in Tbilisi.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-11"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Serbia: Speaker Aleksandar Čupić calls the presidential election (20 or 27 Dec) by 27 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-08"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Taiwan local elections, 28 Nov, amid PLA pressure and Lai's warnings of Chinese interference.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Algeria local (APC/APW) elections, 28 Nov.",
+   "segment": "Africa",
+   "watchId": "W-261120-03"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Kazakhstan: snap maslikhat (local council) elections for 3,447 seats.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-10"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Iran's convoy of 14+ tankers off Kharg Island tries to run the US naval blockade.",
+   "segment": "Middle East",
+   "watchId": "W-261122-06"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Canada–US trade agreement after the restart of talks.",
+   "segment": "The Americas",
+   "watchId": "W-261105-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Spain general election, 29 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Rodrigo Duterte's ICC crimes-against-humanity trial opens in The Hague, 30 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Ecuador local elections (prefects, mayors, councillors, CPCCS), with Noboa campaigning for ADN.",
+   "segment": "The Americas",
+   "watchId": "W-261112-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Europe names its delegation (three to five officials) for the next round of Ukraine peace talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Gagauzia bashkan runoff on 29 Nov: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Apex committee meeting of the Pakistan–Saudi–Turkey [[e:Mecca defence pact|Mecca Joint Defence Agreement]] in Islamabad.",
+   "segment": "Middle East",
+   "watchId": "W-261117-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Maldives: final votes on the Ras Malé real-estate bill and three other government bills, and the opposition MDP's referendum rally.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-08"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Commission formally tables the 22nd Russia sanctions package; Denmark proposes an EU-wide tourist visa ban on Russians.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Possible visit by the French, German and British national security advisers to Moscow at [[p:Yuri Ushakov]]'s invitation.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-03"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Bangladesh: [[p:Sheikh Hasina]]'s stated plan to return from India in December, India's extradition decision and further Awami League lockdowns.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-14"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Israel: whether [[p:Gadi Eisenkot]] brings a minority 'national emergency government' to a Knesset vote if Likud talks fail.",
+   "segment": "Middle East",
+   "watchId": "W-261124-02"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Sweden: third Riksdag prime-minister vote, on [[p:Ulf Kristersson]], 30 Nov; a fourth failure would force a snap election.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261126-04"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Estonia's closure of all Russian border crossings takes effect; the government decides whether it is temporary or indefinite.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-02"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Japan: upper-house censure motion against Education Minister Seki Yoshihiro, and whether the opposition boycott stalls the food consumption-tax cut.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-06"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Colombia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Peru",
+   "status": "quiet"
+  },
+  {
+   "country": "Bolivia",
+   "status": "quiet"
+  },
+  {
+   "country": "Paraguay (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Uruguay",
+   "status": "no sources found"
+  },
+  {
+   "country": "Mexico (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Cuba (beyond Tier 3)",
+   "status": "quiet"
+  },
+  {
+   "country": "Honduras",
+   "status": "no sources found"
+  },
+  {
+   "country": "Guatemala",
+   "status": "no sources found"
+  },
+  {
+   "country": "Nicaragua",
+   "status": "no sources found"
+  },
+  {
+   "country": "Panama",
+   "status": "no sources found"
+  },
+  {
+   "country": "Costa Rica",
+   "status": "no sources found"
+  },
+  {
+   "country": "El Salvador (domestic)",
+   "status": "no sources found"
+  },
+  {
+   "country": "Dominican Republic",
+   "status": "no sources found"
+  },
+  {
+   "country": "Caribbean states other than Cuba and Haiti",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Thompson Coburn: United States / China / EU / Japan / India / Vietnam",
+   "url": "https://www.thompsoncoburn.com/insights/90-november-25-2026-ustr-finds-structural-excess-capacity-practices-in-14-economies-proposes-new-section-301-tariffs-from-15-25/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States / China / EU / Japan / India / Vietnam",
+   "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/",
+   "paywalled": false
+  },
+  {
+   "title": "AIN: United States / Brazil",
+   "url": "https://www.ainonline.com/aviation-news/air-transport/2026-11-25/us-proposes-new-10-tariff-brazilian-aircraft",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States / Brazil",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+   "paywalled": false
+  },
+  {
+   "title": "CTV News: Canada / United States",
+   "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/25/us-trade-deal-must-accommodate-canada-says-trumps-representative/",
+   "paywalled": false
+  },
+  {
+   "title": "Rio Times: Mexico / United States",
+   "url": "https://riotimesonline.com/mexico-us-section-301-excess-capacity-tariffs-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Sidley Austin: United States",
+   "url": "https://www.sidley.com/en/insights/newsupdates/2026/11/new-export-controls-on-advanced-chips-close-remote-compute-access-loopholes-five-key-takeaways",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States",
+   "url": "https://www.wilmerhale.com/en/insights/client-alerts/20261117-us-government-restricts-remote-access-to-advanced-ai-chips-and-formally-rescinds-the-ai-diffusion-rule",
+   "paywalled": false
+  },
+  {
+   "title": "Fox Business: United States / China",
+   "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States / China",
+   "url": "https://qz.com/huawei-convicted-fraud-trade-secrets-sanctions-trial-112526",
+   "paywalled": false
+  },
+  {
+   "title": "Yahoo News: United States",
+   "url": "https://www.yahoo.com/news/politics/articles/house-democrats-split-over-risking-110000314.html",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: United States",
+   "url": "https://thehill.com/premium/6234918-congress-lame-duck-agenda-thanksgiving-deadlines/",
+   "paywalled": false
+  },
+  {
+   "title": "Gazeta do Povo: Brazil",
+   "url": "https://www.gazetadopovo.com.br/economia/camara-aprova-projeto-de-ajuste-fiscal-de-lula/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Brazil",
+   "url": "https://boainformacao.com.br/2026/11/camara-aprova-ajuste-fiscal-de-lula-com-353-votos-para-sancao/",
+   "paywalled": false
+  },
+  {
+   "title": "El Diario: Venezuela",
+   "url": "https://eldiario.com/2026/11/24/heridos-marcha-miraflores/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Venezuela",
+   "url": "https://runrun.es/inicio/626356/pnb-bloqueo-paso-de-manifestantes-a-miraflores-protesta-termino-con-enfrentamientos-y-heridos/",
+   "paywalled": false
+  },
+  {
+   "title": "EFE (Infobae): Chile",
+   "url": "https://www.infobae.com/america/agencias/2026/11/26/el-parlamento-chileno-aprueba-los-primeros-presupuestos-generales-de-kast/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Chile",
+   "url": "https://noticiassin.com/mundo/2026/11/25/chile-aprueba-los-primeros-presupuestos-de-kast-con-alza-del-gasto-2177114",
+   "paywalled": false
+  },
+  {
+   "title": "Infobae: Argentina",
+   "url": "https://www.infobae.com/politica/2026/11/25/el-gobierno-busca-mostrar-fortaleza-politica-en-el-congreso-para-aliviar-la-presion-de-los-mercados-financieros/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Argentina",
+   "url": "https://www.infobae.com/politica/2026/11/25/milei-suspendio-su-presencia-en-un-congreso-en-corrientes-y-viaja-a-paraguay/",
+   "paywalled": false
+  },
+  {
+   "title": "Africanews: Haiti",
+   "url": "https://www.africanews.com/2026/11/24/haiti-gang-suppression-force-says-it-has-killed-multiple-gang-members/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Haiti",
+   "url": "https://haitiantimes.com/2026/11/24/haiti-police-kill-50-gang-members-martissant-operations",
+   "paywalled": false
+  },
+  {
+   "title": "The New Arab: Saudi Arabia / Yemen",
+   "url": "https://www.newarab.com/news/iran-tightens-grip-over-hormuz-diplomacy-inches-forward",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Saudi Arabia / Yemen",
+   "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-25-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: Israel / Gaza",
+   "url": "https://www.timesofisrael.com/liveblog-november-25-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews: European Union",
+   "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check: European Union",
+   "url": "https://piqmarkets.com/story/eu-leaders-open-budget-summit-with-objections-to-costa-s-1-582-trillion-plan",
+   "paywalled": false
+  }
+ ]
+}
