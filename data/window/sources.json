@@ -2915,6 +2915,18 @@
    "lean": "centre",
    "status": "Watch",
    "dateAdded": "2026-11-26"
+  },
+  {
+   "id": "focuseurope-pl",
+   "name": "FocusEurope.pl",
+   "type": "Outlet",
+   "place": "Poland",
+   "focus": "EU affairs from a Polish angle (budget, Council summits)",
+   "language": "Polish",
+   "url": "https://focuseurope.pl/",
+   "lean": "Centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-26"
   }
  ]
 }

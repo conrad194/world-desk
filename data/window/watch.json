@@ -2683,6 +2683,39 @@
    "checkDate": "2026-12-26",
    "happened": "",
    "eventId": "E-261126-08"
+  },
+  {
+   "id": "W-261126-04",
+   "dateAdded": "2026-11-26",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "what": "Senate vote electing Piątkowski and Leszczyna (or others) to the Monetary Policy Council",
+   "expected": "Senate budget committee chair Kleina / Marshal Kidawa-Błońska: possible at the Dec 16–18 sitting (TVN24)",
+   "checkDate": "2026-12-18",
+   "happened": "",
+   "eventId": "E-261126-17"
+  },
+  {
+   "id": "W-261126-05",
+   "dateAdded": "2026-11-26",
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "what": "Regulation creating a no-fly zone along Poland's eastern border takes effect",
+   "expected": "Deputy Defence Minister Tomczyk: late December or early January",
+   "checkDate": "2027-01-08",
+   "happened": "",
+   "eventId": "E-261126-19"
+  },
+  {
+   "id": "W-261126-06",
+   "dateAdded": "2026-11-26",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "What the PM and finance minister do to restore Constitutional Tribunal funding after the NBP freeze, and whether either TK camp files the court action NBP requested by Nov 27",
+   "expected": "Council of Ministers resolution (Nov 25); NBP's Nov 27 deadline (RMF24)",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": "E-261126-15"
   }
  ]
 }
