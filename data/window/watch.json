@@ -2760,6 +2760,28 @@
    "checkDate": "2026-12-10",
    "happened": "",
    "eventId": "E-261126-29"
+  },
+  {
+   "id": "W-261126-11",
+   "dateAdded": "2026-11-26",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Formation of the three-judge SC bench and the next hearing on Umar Khalid and Sharjeel Imam's bail (and the Najeeb–Gulfisha reference)",
+   "expected": "SC order of Nov 25 referring the matter to the CJI on the administrative side (The Tribune)",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261126-32"
+  },
+  {
+   "id": "W-261126-12",
+   "dateAdded": "2026-11-26",
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "what": "Release of MeitY's AI regulation consultation papers",
+   "expected": "MeitY Secretary S. Krishnan, Nov 25: release 'shortly'",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": "E-261126-37"
   }
  ]
 }

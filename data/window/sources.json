@@ -2927,6 +2927,30 @@
    "lean": "Centre",
    "status": "Watch",
    "dateAdded": "2026-11-26"
+  },
+  {
+   "id": "marketcalls-post-market-reports",
+   "name": "Marketcalls post-market reports",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Daily Nifty/Sensex close data",
+   "language": "English",
+   "url": "https://www.marketcalls.in/",
+   "lean": "data/trading",
+   "status": "Watch",
+   "dateAdded": "2026-11-26"
+  },
+  {
+   "id": "the-wire",
+   "name": "The Wire",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Law, politics, civil liberties",
+   "language": "English",
+   "url": "https://thewire.in/",
+   "lean": "left-liberal",
+   "status": "Watch",
+   "dateAdded": "2026-11-26"
   }
  ]
 }
