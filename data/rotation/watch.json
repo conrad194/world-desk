@@ -1347,8 +1347,8 @@
    "what": "US: USTR announces results of its Section 301 subsidy probe and new tariffs on China, the EU and 14 others.",
    "expected": "AP and Bloomberg sources say \"in coming days\".",
    "checkDate": "2026-12-02",
-   "happened": "",
-   "eventId": "E-261125-03"
+   "happened": "USTR proposed Section 301 tariff ceilings of 15–35% on 14 economies on 24–25 Nov, with no finding on Mexico or Norway; hearings start 25 Jan. [Thompson Coburn](https://www.thompsoncoburn.com/insights/90-november-25-2026-ustr-finds-structural-excess-capacity-practices-in-14-economies-proposes-new-section-301-tariffs-from-15-25/)",
+   "eventId": "E-261126-05"
   },
   {
    "id": "W-261125-08",
@@ -1359,6 +1359,26 @@
    "checkDate": "2026-11-27",
    "happened": "",
    "eventId": "E-261125-11"
+  },
+  {
+   "id": "W-261126-01",
+   "dateAdded": "2026-11-26",
+   "segment": "The Americas",
+   "what": "USTR Section 301 excess-capacity tariffs: comment deadline 5 Jan and hearings from 25 Jan, before any duties take effect.",
+   "expected": "USTR's proposal notice; a senior US official said January at the earliest",
+   "checkDate": "2027-01-25",
+   "happened": "",
+   "eventId": "E-261126-05"
+  },
+  {
+   "id": "W-261126-02",
+   "dateAdded": "2026-11-26",
+   "segment": "The Americas",
+   "what": "Brazil: USTR hearing on the proposed 10% tariff on Brazilian aircraft, and whether Brazil retaliates.",
+   "expected": "USTR (hearing 14 Jan); Brazil's government says retaliation is not ruled out",
+   "checkDate": "2027-01-14",
+   "happened": "",
+   "eventId": "E-261126-06"
   }
  ]
 }
