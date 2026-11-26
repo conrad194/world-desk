@@ -2716,6 +2716,50 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": "E-261126-15"
+  },
+  {
+   "id": "W-261126-07",
+   "dateAdded": "2026-11-26",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Outcome of Mayor Gibała's meeting with Infrastructure Minister Klimczak on metro financing, and whether the government offers a written guarantee",
+   "expected": "Puls Krakowa: meeting on Thu 26 Nov, alongside the Mistrzejowice opening",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261126-27"
+  },
+  {
+   "id": "W-261126-08",
+   "dateAdded": "2026-11-26",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "PiS amendment adding 30m zł for Kraków metro concept and geological work to the 2027 state budget at second reading",
+   "expected": "PiS MP Andrzej Adamczyk (Puls Krakowa; KRKnews)",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261126-27"
+  },
+  {
+   "id": "W-261126-09",
+   "dateAdded": "2026-11-26",
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "what": "Date of the Limanowa recall referendum (mayor Juszkiewicz and council)",
+   "expected": "District election commissioner; possibly late January (Radio Kraków)",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261126-31"
+  },
+  {
+   "id": "W-261126-10",
+   "dateAdded": "2026-11-26",
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "what": "Who runs UKEN after Borek's removal, and the date of the new rector election",
+   "expected": "Not stated in coverage (KRKnews)",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261126-29"
   }
  ]
 }
