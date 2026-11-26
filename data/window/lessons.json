@@ -2568,6 +2568,139 @@
    ],
    "prevQuestion": "Name one way India's government can influence monetary policy that the US and Polish governments cannot, and explain why Poland's central bank is the hardest of the three to change.",
    "prevAnswer": "India's central government sets the inflation target, appoints three of the six MPC members and can issue directions to the RBI under section 7 of the RBI Act. Poland's NBP and its monopoly on monetary policy are written into Article 227 of the Constitution, so changing them needs a constitutional amendment rather than an ordinary law."
+  },
+  {
+   "id": "L17",
+   "num": 17,
+   "unit": "How rules get made",
+   "title": "India: ordinances, gazette notifications, regulators",
+   "dateTaught": "2026-11-26",
+   "minutes": 10,
+   "pulledForward": false,
+   "prevQuestion": "What is the practical difference between an EU regulation and an EU directive, and why did Poland still need a national act to implement the Digital Services Act, which is a regulation?",
+   "prevAnswer": "A regulation applies directly in every member state as soon as it takes effect, while a directive sets a goal that each state must transpose into its own law by a deadline. Even a regulation often leaves states to designate the enforcing authority and set procedures and penalties, so Poland needed an act to make the Digital Services Act enforceable in practice; that is the act President Nawrocki vetoed.",
+   "body": "Lessons 15 and 16 traced how Warsaw and Brussels turn laws into detailed rules. India's machinery looks familiar at first: Parliament passes acts, ministries write rules under them, and everything is published in an official gazette. But India's Constitution adds one tool that neither the US nor peacetime Poland has: the power of the executive to make law on its own, for a limited time, while the legislature is away.\n\n**Ordinances.** Under **Article 123**, when either House of Parliament is not sitting, the President can promulgate an **ordinance** if satisfied that circumstances require immediate action. As Lesson 3 showed, \"the President\" in practice means the Union Cabinet, which advises and binds the President. An ordinance has the same force as an act of Parliament and can cover anything Parliament could legislate on. **Article 213** gives each state's Governor the same power for state subjects. The safeguard is a clock: once Parliament reassembles, the ordinance must be laid before both Houses, and it lapses six weeks later unless Parliament passes a replacement bill. Since Parliament must meet at least every six months, an ordinance can live roughly seven and a half months at most.\n\n> The ordinance power was carried over from the [#Government of India Act 1935](https://en.wikipedia.org/wiki/Government_of_India_Act_1935); [@B. R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) defended keeping it in the Constituent Assembly as a tool for emergencies.\n\n**Abuse and the courts.** Governments have often used ordinances to skip debate, especially when they lacked a majority in the Rajya Sabha. Bihar became the classic case: between 1967 and 1981 it issued 256 ordinances and kept some alive for years by simply reissuing them. In D.C. Wadhwa v State of Bihar (1986) the Supreme Court called this a subversion of democracy, and in Krishna Kumar Singh v State of Bihar (2017) a seven-judge bench went further: repeated re-promulgation, especially without placing ordinances before the legislature, is a fraud on the Constitution, and the President's or Governor's \"satisfaction\" can be reviewed by courts in limited cases. Defenders still argue the tool is needed when urgent action cannot wait for a session.\n\n**Subordinate legislation and the Gazette.** Most Indian rules, as in Poland and the US, come from delegated power. An act lets the government make **rules**, **regulations** or **notifications**, and they take effect when printed in the **Gazette of India** (today published online as the e-Gazette), or a state gazette for state rules. Rules must be laid before Parliament, where each House's Committee on Subordinate Legislation checks they stay within the parent act. Unlike the US, India has no binding notice-and-comment law: a 2014 Pre-Legislative Consultation Policy asks ministries to publish drafts for 30 days, but courts do not enforce it, so consultation varies.\n\n**Regulators.** India also hands rulemaking to statutory regulators created by acts of Parliament: the RBI for banking (Lesson 18), SEBI for securities, TRAI for telecoms, the Competition Commission of India and FSSAI for food safety. Each issues binding regulations within its field, much like the SEC or FCC in the US, or Poland's financial supervisor KNF.\n\n> SEBI was set up in 1988 and given statutory powers in 1992, after the [#1992 Indian stock market scam](https://en.wikipedia.org/wiki/1992_Indian_stock_market_scam) linked to [@Harshad Mehta](https://en.wikipedia.org/wiki/Harshad_Mehta).\n\n**The comparison.** In the US, a president who wants to act fast can issue executive orders, but (as Lesson 14 showed) they cannot create new law, and courts strike them down when they try. Poland's Constitution allows the President to issue regulations with the force of statute only under martial law when the Sejm cannot meet (Article 234). India's ordinance is the only peacetime executive lawmaking power of the three, which is why its limits matter so much.",
+   "comparison": [
+    {
+     "aspect": "Executive lawmaking while the legislature is away",
+     "US": "– (executive orders cannot make new law)",
+     "Poland": "Only under martial law if the Sejm cannot meet: presidential regulations with the force of statute (Art. 234)",
+     "India": "Ordinances by the President (Art. 123) or a Governor (Art. 213), lapsing six weeks after the legislature reassembles"
+    },
+    {
+     "aspect": "Official publication of laws and rules",
+     "US": "Federal Register and Code of Federal Regulations",
+     "Poland": "Dziennik Ustaw (acts, regulations) and Monitor Polski (resolutions, notices)",
+     "India": "Gazette of India (e-Gazette) and state gazettes"
+    },
+    {
+     "aspect": "Detailed rules under a statute",
+     "US": "Agency rules under the [#Administrative Procedure Act](https://en.wikipedia.org/wiki/Administrative_Procedure_Act)",
+     "Poland": "Ministerial regulations (rozporządzenia)",
+     "India": "Rules, regulations and notifications under the parent act"
+    },
+    {
+     "aspect": "Public consultation on draft rules",
+     "US": "Binding notice-and-comment",
+     "Poland": "Required by government procedure, published on the legislation portal",
+     "India": "Pre-Legislative Consultation Policy (2014): 30 days, not enforceable"
+    },
+    {
+     "aspect": "Legislature's check on delegated rules",
+     "US": "[#Congressional Review Act](https://en.wikipedia.org/wiki/Congressional_Review_Act) disapproval resolutions",
+     "Poland": "Constitutional Tribunal review of whether a regulation fits its act",
+     "India": "Rules laid before Parliament; Committees on Subordinate Legislation"
+    },
+    {
+     "aspect": "Independent sector regulators",
+     "US": "SEC, FCC, FTC",
+     "Poland": "KNF, UKE, UOKiK",
+     "India": "SEBI, TRAI, CCI, FSSAI"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Ordinance (adhyadesh)",
+     "meaning": "A temporary law made by the President or a Governor when the legislature is not sitting; it lapses unless the legislature replaces it with an act."
+    },
+    {
+     "term": "Re-promulgation",
+     "meaning": "Reissuing a lapsed ordinance instead of passing a law; the Supreme Court has held repeated re-promulgation a fraud on the Constitution."
+    },
+    {
+     "term": "Gazette of India (Bharat ka Rajpatra)",
+     "meaning": "The official journal in which acts, ordinances, rules and notifications are published and from which they usually take effect."
+    },
+    {
+     "term": "Subordinate (delegated) legislation",
+     "meaning": "Rules made by the executive under powers granted by an act, laid before Parliament for scrutiny."
+    },
+    {
+     "term": "Statutory regulator",
+     "meaning": "A body created by an act of Parliament, such as SEBI or TRAI, with power to issue binding regulations in its sector."
+    }
+   ],
+   "example": "In June 2020, during the pandemic and with Parliament not sitting, the government of [@Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi) issued three ordinances changing how farm produce is sold. When Parliament returned in September, it passed them as the [#2020 Indian agriculture acts](https://en.wikipedia.org/wiki/2020_Indian_agriculture_acts), with the Rajya Sabha approving two of them by a disputed voice vote. Critics said using ordinances first had denied states and farmers any consultation on what is largely a state subject; the government said reform was urgent. The [#2020–2021 Indian farmers' protest](https://en.wikipedia.org/wiki/2020–2021_Indian_farmers'_protest) camped on Delhi's borders for a year, the Supreme Court suspended the laws in January 2021, and in November 2021 Parliament repealed them. The episode shows both the speed an ordinance gives and the political cost of skipping debate.",
+   "inTheNews": "Today's Union Cabinet approval of an ₹11,000 crore equipment-manufacturing scheme is executive action under existing powers that needs no new law. MeitY's AI regulation consultation papers, said to be nearly final, show India's non-binding consultation habit at work, and India marks Constitution Day, the anniversary of the text that created the ordinance power.",
+   "newsEvents": [
+    "E-261126-33",
+    "E-261126-37",
+    "E-261126-39"
+   ],
+   "check": [
+    {
+     "q": "Parliament is in recess and the Cabinet wants an urgent change to an act. What can it do, and what limits apply?",
+     "options": [
+      "Nothing: only Parliament can change an act",
+      "Advise the President to issue an ordinance, which lapses six weeks after Parliament reassembles unless replaced by an act",
+      "Ask the Supreme Court to amend the act",
+      "Issue an executive order that permanently amends the act"
+     ],
+     "answer": 1,
+     "explain": "Article 123 lets the President, on the Cabinet's advice, make an ordinance with the force of law during a recess. It must be laid before Parliament and dies six weeks after reassembly unless Parliament passes a bill."
+    },
+    {
+     "q": "Why did the Supreme Court object to Bihar's practice in D.C. Wadhwa?",
+     "options": [
+      "Bihar issued ordinances on Union List subjects",
+      "Bihar's Governor issued ordinances without the Cabinet's advice",
+      "Bihar kept ordinances alive for years by reissuing them instead of letting the legislature decide",
+      "Bihar failed to publish ordinances in the Gazette"
+     ],
+     "answer": 2,
+     "explain": "An ordinance is meant as a stopgap. Reissuing it again and again replaces the legislature with the executive, which the Court called a subversion of the democratic process."
+    },
+    {
+     "q": "How does consultation on draft rules in India differ from the US?",
+     "options": [
+      "India requires longer comment periods",
+      "In India, consultation under the 2014 policy is not legally enforceable, while US agencies face binding notice-and-comment rules",
+      "India bans public comment on draft rules",
+      "The US has no consultation on federal rules"
+     ],
+     "answer": 1,
+     "explain": "The US Administrative Procedure Act makes notice-and-comment a legal requirement that courts enforce. India's Pre-Legislative Consultation Policy is guidance, so ministries vary in how much they consult."
+    }
+   ],
+   "recallQ": "Why is India's ordinance power unusual compared with the US and Poland, and what two safeguards limit it?",
+   "recallA": "It is the only peacetime power among the three that lets the executive make law with the force of a statute: US executive orders cannot make new law, and Poland allows presidential regulations with statutory force only under martial law. An ordinance must be laid before Parliament and lapses six weeks after it reassembles unless replaced by an act, and the Supreme Court has held repeated re-promulgation to be a fraud on the Constitution.",
+   "readMore": [
+    {
+     "title": "Article 123 of the Constitution of India (Constitution of India project)",
+     "url": "https://www.constitutionofindia.net/articles/article-123-power-of-president-to-promulgate-ordinances-during-recess-of-parliament/",
+     "why": "The text of the ordinance power with its Constituent Assembly debate."
+    },
+    {
+     "title": "All you want to know about the President's power of ordinance making (PRS Legislative Research)",
+     "url": "https://prsindia.org/theprsblog/all-you-want-to-know-about-the-presidents-power-of-ordinance-making?page=171&per-page=1",
+     "why": "A short, neutral explainer on Articles 123 and 213 and the six-week rule."
+    },
+    {
+     "title": "Re-promulgation of ordinances (Supreme Court Observer)",
+     "url": "https://www.scobserver.in/court-case/re-promulgation-of-ordinances",
+     "why": "Summary of the Krishna Kumar Singh case and the Court's limits on reissuing ordinances."
+    }
+   ]
   }
  ]
 }
