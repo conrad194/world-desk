@@ -2903,6 +2903,18 @@
    "lean": "Neutral",
    "status": "Watch",
    "dateAdded": "2026-11-25"
+  },
+  {
+   "id": "the-register",
+   "name": "The Register",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Federal IT and cybersecurity incidents",
+   "language": "English",
+   "url": "https://www.theregister.com/",
+   "lean": "centre",
+   "status": "Watch",
+   "dateAdded": "2026-11-26"
   }
  ]
 }

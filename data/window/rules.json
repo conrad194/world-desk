@@ -991,6 +991,38 @@
    "newsLink": "https://www.etvbharat.com/en/state/west-bengal-will-be-renamed-paschim-banga-proposal-to-be-tabled-in-assembly-in-december-suvendu-adhikari-enn26112305078",
    "eventId": "E-261125-54",
    "lastChecked": "2026-11-25"
+  },
+  {
+   "id": "R-261126-01",
+   "dateLogged": "2026-11-26",
+   "place": "US",
+   "body": "USTR",
+   "name": "Proposed Section 301 actions on structural excess capacity (14 economies)",
+   "changes": "Proposes additional tariffs: China up to 20% (alternative 40%); EU, Japan, Korea, Switzerland and Taiwan up to 15%; Singapore 20%; India 25%; Vietnam 35%; Indonesia, Malaysia, Thailand, Cambodia and Bangladesh 18%. Section 232 goods are excluded for the non-China economies.",
+   "affects": "US importers and the 14 trading partners, including the EU (Poland) and India",
+   "stage": "Open for comment",
+   "commentDeadline": "2027-01-05",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/",
+   "eventId": "E-261126-01",
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "id": "R-261126-02",
+   "dateLogged": "2026-11-26",
+   "place": "US",
+   "body": "DEA",
+   "name": "Proposed Adjustments to the Aggregate Production Quotas for Schedule I and II Controlled Substances (2026, Docket DEA-1568A)",
+   "changes": "Raises 2026 quotas for ADHD stimulants by about 19-40% and for some research psychedelics; fentanyl is flat.",
+   "affects": "Drug manufacturers, ADHD patients facing shortages, and researchers",
+   "stage": "Open for comment",
+   "commentDeadline": "2026-12-28",
+   "effectiveDate": "",
+   "officialLink": "https://www.federalregister.gov/public-inspection/2026-23959/proposed-adjustments-to-the-aggregate-production-quotas-schedule-i-and-ii-controlled-substances-and",
+   "newsLink": "https://casrai.org/news/dea-proposed-adjustments-2026-aggregate-production-quotas-schedule-i-ii-23959",
+   "eventId": "E-261126-10",
+   "lastChecked": "2026-11-26"
   }
  ]
 }
