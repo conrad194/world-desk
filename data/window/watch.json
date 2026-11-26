@@ -2782,6 +2782,17 @@
    "checkDate": "2026-12-31",
    "happened": "",
    "eventId": "E-261126-37"
+  },
+  {
+   "id": "W-261126-13",
+   "dateAdded": "2026-11-26",
+   "place": "US–India",
+   "domain": "Trade & tariffs",
+   "what": "Public hearing and comments on USTR's proposed Section 301 excess-capacity tariffs (India up to 25%, or 17% with a deal; EU 15%), and whether India files comments or closes a deal first",
+   "expected": "rp.pl: tariffs only after a public hearing on Jan 25 (2027); USTR says hearings in January 2027",
+   "checkDate": "2027-01-25",
+   "happened": "",
+   "eventId": "E-261126-41"
   }
  ]
 }

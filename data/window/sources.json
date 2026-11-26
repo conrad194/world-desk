@@ -2951,6 +2951,18 @@
    "lean": "left-liberal",
    "status": "Watch",
    "dateAdded": "2026-11-26"
+  },
+  {
+   "id": "international-trade-insights-sheppard-mullin",
+   "name": "International Trade Insights (Sheppard Mullin)",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "US trade law: Section 301/232 actions, rate tables",
+   "language": "English",
+   "url": "https://www.internationaltradeinsights.com",
+   "lean": "law-firm blog, technical",
+   "status": "Watch",
+   "dateAdded": "2026-11-26"
   }
  ]
 }
