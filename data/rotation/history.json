@@ -1911,6 +1911,103 @@
    "prevAnswer": "The seizure of the US embassy in Tehran in November 1979, which led Jimmy Carter to freeze Iranian assets in the United States. The Algiers Accords of January 1981 freed the 52 hostages and returned part of the frozen funds, but much of the sanctions architecture remained.",
    "recallQ": "Why could The Gambia, far from Myanmar and not directly harmed, bring a genocide case against it?",
    "recallA": "Because the Genocide Convention creates duties owed to all its parties, so any party can take another to the ICJ over a breach. The Gambia, backed by the Organisation of Islamic Cooperation, sued in November 2019, and the court accepted it had standing."
+  },
+  {
+   "id": "2026-11-26",
+   "date": "2026-11-26",
+   "segment": "The Americas",
+   "title": "Section 301: the 1974 trade law Washington uses as a crowbar",
+   "thread": "US tariffs and trade deals",
+   "eventIds": [
+    "E-261126-05",
+    "E-261126-06"
+   ],
+   "minutes": 4,
+   "hook": "The new 15–35% tariffs proposed on 14 economies rest on [[e:Section 301 of the Trade Act of 1974|Section 301]], a law Washington used to pry open Japan's markets in the 1980s and to start its trade war with China in 2018. After the Supreme Court took away the emergency route to tariffs in February, it has become the administration's main weapon.",
+   "body": "On 25 November the [[p:Office of the United States Trade Representative|US trade representative's office]] proposed tariffs of 15 to 35 percent on 14 economies, among them America's closest allies. The legal tool it reached for is half a century old, and its history explains both why Washington chose it and why trading partners distrust it.\n\nSection 301 was written into the [[e:Trade Act of 1974]] {{note: Signed by President Gerald Ford in January 1975, the act also created fast-track trade negotiating authority.}} at a time when Congress felt the postwar trading rules, the [[p:General Agreement on Tariffs and Trade]], were too slow to stop foreign practices hurting American exporters. It lets the president's trade office investigate any foreign policy it judges unreasonable, unjustifiable or discriminatory, and then retaliate with tariffs or other limits. Crucially, Washington itself is investigator, judge and enforcer.\n\nThe law came into its own in the 1980s, when Japan's rise and a soaring trade deficit alarmed Congress. A Section 301 case over Japanese chips led to a 1986 semiconductor agreement, and when Washington decided Tokyo was not honouring it, [[p:Ronald Reagan]] imposed 100 percent tariffs in 1987 on about $300 million of Japanese electronics. In 1988 Congress went further with **Super 301**, which obliged the trade office to name priority countries for action; Japan, Brazil and India were named in 1989. To admirers this was a crowbar that opened closed markets. To its targets it was bullying.\n\nThe creation of the [[p:World Trade Organization]] in 1995 seemed to retire the crowbar. The new body had binding dispute settlement, and the United States promised to take its complaints there instead. When the EU challenged Section 301, a WTO panel in 2000 let it stand mainly because Washington had pledged to use it within WTO rules. For two decades it was rarely used to raise tariffs.\n\nThat changed in 2017, when [[p:Donald Trump]] ordered a Section 301 probe into China's treatment of American technology and intellectual property. Tariffs followed from July 2018 and, through rounds of retaliation, the [[e:China–United States trade war]] came to cover roughly $370 billion of Chinese goods. A WTO panel ruled against the tariffs in 2020, but the US appealed to an appeals body that no longer had enough judges to sit, so the ruling never took effect. The Biden administration kept the tariffs and raised some, notably on Chinese electric vehicles in 2024.\n\nThis year the law moved to centre stage again. On 20 February the Supreme Court ruled 6–3 that the emergency-powers law behind most of Trump's 2025 tariffs did not authorise tariffs at all. The administration bridged the gap with a temporary tariff that the law caps at 150 days, and on 11 March opened Section 301 investigations into \"structural excess capacity\" in 16 economies. Because Section 301 tariffs have survived court challenges and depend on no emergency, they are the sturdiest tool left. This week's proposals, and a separate one on Brazilian aircraft from an earlier Brazil case, are the result.",
+   "timeline": [
+    {
+     "when": "1974",
+     "text": "Congress passes the [[e:Trade Act of 1974]], whose Section 301 lets the president retaliate against unfair foreign trade practices."
+    },
+    {
+     "when": "1987",
+     "text": "[[p:Ronald Reagan]] imposes 100% tariffs on about $300m of Japanese electronics in a semiconductor dispute."
+    },
+    {
+     "when": "1988–89",
+     "text": "\"Super 301\" forces the trade office to name priority countries; Japan, Brazil and India are listed."
+    },
+    {
+     "when": "1995",
+     "text": "The [[p:World Trade Organization]] opens; the US promises to bring disputes there, and Section 301 goes largely quiet."
+    },
+    {
+     "when": "2018",
+     "text": "Section 301 tariffs on Chinese goods launch the [[e:China–United States trade war]]."
+    },
+    {
+     "when": "Feb 2026",
+     "text": "The Supreme Court rules 6–3 that the emergency-powers law does not authorise tariffs."
+    },
+    {
+     "when": "Mar 2026",
+     "text": "USTR opens Section 301 probes into excess manufacturing capacity in 16 economies."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "USTR proposes 15–35% tariffs on 14 economies and a 10% tariff on Brazilian aircraft; hearings start 25 January."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "US administration",
+     "view": "Section 301 is the tool Congress gave the president to answer foreign subsidies and overcapacity that WTO rules have failed to restrain. Its record with Japan and China shows that only the threat of tariffs brings partners to the table."
+    },
+    {
+     "side": "Targeted trading partners (EU, China, Brazil and others)",
+     "view": "It lets one country act as accuser, judge and enforcer, bypassing the WTO system the US helped build. Brasília calls the aircraft tariff illegal, and several partners have threatened to retaliate."
+    },
+    {
+     "side": "US critics (many economists and importers)",
+     "view": "Section 301 tariffs are paid mostly by American firms and consumers, and decades of use have not closed trade deficits. Congress, they argue, has handed too much tariff power to the executive."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Section 301",
+     "meaning": "Part of the [[e:Trade Act of 1974]] that lets the US trade representative investigate foreign practices and impose tariffs or other retaliation."
+    },
+    {
+     "term": "Super 301",
+     "meaning": "A 1988 add-on that required the trade office to name priority countries and practices each year for possible action; it has lapsed and been revived several times."
+    },
+    {
+     "term": "Structural excess capacity",
+     "meaning": "The administration's term for state-driven production beyond what home markets can absorb, which then floods export markets; the basis of the 2026 investigations."
+    },
+    {
+     "term": "Section 122",
+     "meaning": "A provision of the same 1974 act allowing a temporary tariff of up to 15% for at most 150 days to deal with balance-of-payments problems; used as a bridge after the February ruling."
+    }
+   ],
+   "whyItMatters": "Section 301 gives Washington tariffs that courts have upheld and that need no emergency, so it is likely to carry US trade policy for years. Watch the hearings from 25 January, whether the EU, Japan or Brazil retaliate or strike deals first, and whether Canada and Mexico, spared for now, end up in a later round.",
+   "readMore": [
+    {
+     "title": "USTR Initiates Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/ustr-initiates-section-301-investigations-relating-structural-excess-capacity-and-production",
+     "why": "The official announcement of the March 2026 investigations and the 16 economies named."
+    },
+    {
+     "title": "After the Supreme Court Ruling, What Is Next for Trump's Tariffs? (Council on Foreign Relations)",
+     "url": "https://www.cfr.org/articles/after-the-supreme-court-ruling-what-is-next-for-trumps-tariffs",
+     "why": "Explains the February ruling and why the administration turned to Sections 122, 232 and 301."
+    }
+   ],
+   "recallQ": "Why did the Supreme Court's February 2026 ruling make Section 301 more important?",
+   "recallA": "The court held that the emergency-powers law behind most 2025 tariffs did not authorise tariffs. The stopgap Section 122 tariff is capped at 150 days, so the administration turned to Section 301, which needs no emergency and whose tariffs had already survived court challenges, opening probes into 16 economies in March.",
+   "prevQuestion": "Why could The Gambia, far from Myanmar and not directly harmed, bring a genocide case against it?",
+   "prevAnswer": "Because the Genocide Convention creates duties owed to all its parties, so any party can take another to the ICJ over a breach. The Gambia, backed by the Organisation of Islamic Cooperation, sued in November 2019, and the court accepted it had standing."
   }
  ]
 }
