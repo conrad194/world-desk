@@ -1,0 +1,1389 @@
+{
+ "date": "2026-11-26",
+ "top5": [
+  {
+   "text": "USTR proposed Section 301 overcapacity tariffs on 14 economies: 15% on the EU (Poland included), up to 25% on India, 35% on Vietnam. Comments due Jan 5, hearings Jan 25.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Baker McKenzie Global Import Blog",
+     "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+    }
+   ]
+  },
+  {
+   "text": "October core PCE inflation hit 3.3%, the fastest since 2023, all but locking in a Dec 9 Fed rate hike.",
+   "place": "US",
+   "links": [
+    {
+     "label": "Stock Analysis / Capp Notes",
+     "url": "https://stockanalysis.com/news/us-pce-inflation-october-2026/"
+    }
+   ]
+  },
+  {
+   "text": "The Polish government ordered action after the NBP froze the Constitutional Tribunal's payments; Tusk pressed Nawrocki to sign the tax law by about Nov 27.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Prawo.pl",
+     "url": "https://www.prawo.pl/prawnicy-sady/nbp-wstrzymanie-transakcji-trybunalu-konstytucyjnego-uchwala-rady-ministrow,1558625.html"
+    },
+    {
+     "label": "Polsat News",
+     "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/donald-tusk-zaapelowal-do-karola-nawrockiego-chodzi-o-zmiany-w-podatkach/"
+    }
+   ]
+  },
+  {
+   "text": "Gibała kept Kraków's metro halt, setting three conditions for restarting it: a special act, state money or a government agreement.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Puls Krakowa",
+     "url": "https://pulskrakowa.pl/specustawa-umowa-z-rzadem-lub-pieniadze-w-budzecie-panstwa-lukasz-gibala-wskazuje-warunki-powrotu-do-prac-nad-metrem/"
+    }
+   ]
+  },
+  {
+   "text": "India's Supreme Court refused interim bail to Umar Khalid and Sharjeel Imam and sent the UAPA bail conflict to a three-judge bench.",
+   "place": "India",
+   "links": [
+    {
+     "label": "The Tribune; The Wire",
+     "url": "https://www.tribuneindia.com/news/delhi/delhi-riots-sc-issues-notice-to-delhi-police-on-pleas-by-sharjeel-imam-umar-khalid-seeking-bail/"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261126-01",
+    "domain": "Trade & tariffs",
+    "text": "USTR proposed Section 301 overcapacity tariffs on 14 economies, from 15% on the EU and Japan to 35% on Vietnam; hearings start January 25.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US tariffs and trade deals",
+    "links": [
+     {
+      "label": "Baker McKenzie Global Import Blog",
+      "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.nationpress.com/international/india-eu-china-reject-us-overcapacity-charge"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-02",
+    "domain": "Economy, business & markets",
+    "text": "October core PCE inflation hit 3.3%, the fastest since 2023, and Q3 GDP was revised up to 4.3%, cementing a December rate hike.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Stock Analysis / Capp Notes",
+      "url": "https://stockanalysis.com/news/us-pce-inflation-october-2026/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-08",
+    "domain": "Law, courts & regulation",
+    "text": "A second federal judge, Christopher Cooper, blocked Trump's August order narrowing birthright citizenship, saying the president cannot create new exceptions.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "ABC News",
+      "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.ms.now/news/federal-judge-blocks-trumps-latest-birthright-citizenship-executive-order"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-03",
+    "domain": "Economy, business & markets",
+    "text": "An AI sell-off briefly dragged the Nasdaq down 4.6% before a rebound; S&P put Nvidia's credit rating on negative watch.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "Capp Notes 'Closing Look' (Substack)",
+      "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cnbc.com/amp/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-04",
+    "domain": "Technology, AI & cyber",
+    "text": "Treasury's FinCEN took systems offline after hackers got into part of its network, the latest in a string of federal breaches.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Federal cyber breaches 2026",
+    "links": [
+     {
+      "label": "The Register",
+      "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+     },
+     {
+      "label": "Second source",
+      "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261126-14",
+    "domain": "Politics & government",
+    "text": "Tusk publicly urged Nawrocki to sign the PIT threshold/CIT law, warning against a 51st veto; the decision is due by about Nov 27.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/donald-tusk-zaapelowal-do-karola-nawrockiego-chodzi-o-zmiany-w-podatkach/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.money.pl/podatki/5-milionow-obywateli-czeka-tusk-o-ustawie-na-biurku-prezydenta-7354923480201312a.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-15",
+    "domain": "Law, courts & regulation",
+    "text": "The government adopted a resolution ordering the PM and finance minister to act after the NBP froze the Constitutional Tribunal's payments.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Prawo.pl",
+      "url": "https://www.prawo.pl/prawnicy-sady/nbp-wstrzymanie-transakcji-trybunalu-konstytucyjnego-uchwala-rady-ministrow,1558625.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/fakty/polska/news-funkcjonowanie-tk-zagrozone-rzad-reaguje-na-blokade-kont-prz,nIdn,1027700"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-19",
+    "domain": "Defense, security & crime",
+    "text": "Poland plans a narrow no-fly zone on its eastern border from late December or early January to ease shoot-downs, says deputy minister Tomczyk.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Russian missiles and drones over Poland",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/tomczyk-mowil-o-strefie-zakazu-lotow-padla-data/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-26",
+    "domain": "Foreign relations",
+    "text": "Tusk is in Brussels for the EU budget summit, opposing ETS revenue transfers and cuts that hurt cohesion or eastern-flank defence; talks run to Friday.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "FocusEurope.pl",
+      "url": "https://focuseurope.pl/europa/wiadomosci/szczyt-rady-europejskiej-wielkie-rozmowy-o-budzecie-bedzie-przelom"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/premier-przybyl-do-brukseli-na-szczyt-ws-budzetu-i-finansowania-ukrainy,685936.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-16",
+    "domain": "Law, courts & regulation",
+    "text": "Żurek says prosecutors now hold consents to charge TK chief Święczkowski on three counts; Święczkowski took his case to the European Parliament.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/swieczkowski-w-strasburgu-zurek-dziwie-sie/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261126-27",
+    "domain": "Infrastructure, transport & housing",
+    "text": "At the extraordinary council session Gibała kept the metro halt and set three conditions for resuming it: a special act, state budget money or a government agreement.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Kraków metro halt",
+    "links": [
+     {
+      "label": "Puls Krakowa",
+      "url": "https://pulskrakowa.pl/specustawa-umowa-z-rzadem-lub-pieniadze-w-budzecie-panstwa-lukasz-gibala-wskazuje-warunki-powrotu-do-prac-nad-metrem/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krknews.pl/piatkowska-i-jaskowiec-apeluja-do-gibaly-burzliwa-sesja-rady-miasta-o-metrze/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-28",
+    "domain": "Economy, business & markets",
+    "text": "Gibała's order lets Main Square businesses on city land agreements skip or reclaim fees for days the post-attack restrictions shut them; apply by 30 Nov.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/krakow-pomoze-przedsiebiorcom-z-rynku-glownego-ulgi-w-oplatach-po-ataku-z-7-listopada/188202"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.horecatrends.pl/prawo/133/krakow_ulgi_i_zwroty_oplat_dla_przedsiebiorcow_z_rynku_glownego_po_ataku,97010.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-29",
+    "domain": "Society: education, labor, immigration",
+    "text": "UKEN's electors removed rector Piotr Borek 102–40, after the science minister cited labour-law breaches; a court had overturned an earlier ministerial dismissal.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://krknews.pl/piotr-borek-odwolany-z-funkcji-rektora-uken-102-osoby-zaglosowaly-za/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://glos24.pl/piotr-borek-odwolany-z-funkcji-rektora-uken-tym-razem-zdecydowali-elektorzy"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-30",
+    "domain": "Environment, energy & disasters",
+    "text": "TPN rejected Tatra county's plan to restore full-route horse carts to Morskie Oko; from 1 Dec it will close its parking areas to carriage operators.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "zero.pl",
+      "url": "https://zero.pl/news/klotnia-wokol-trasy-nad-morskie-oko-starosta-stawia-ultimatum-tpn-mowi-nie"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rp.pl/spoleczenstwo/art45538231-nie-tak-sie-umawialismy-starosta-chce-przywrocic-konie-na-calej-trasie-do-morskiego-oka"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261126-32",
+    "domain": "Law, courts & regulation",
+    "text": "Supreme Court issued notice on Umar Khalid and Sharjeel Imam's bail pleas, refused interim bail for now, and sought a three-judge bench over conflicting UAPA bail precedents.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Tribune; The Wire",
+      "url": "https://www.tribuneindia.com/news/delhi/delhi-riots-sc-issues-notice-to-delhi-police-on-pleas-by-sharjeel-imam-umar-khalid-seeking-bail/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://m.thewire.in/article/law/supreme-court-on-interim-bail-for-umar-khalid-and-sharjeel-imam-najeeb-cji-surya-kant"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-33",
+    "domain": "Economy, business & markets",
+    "text": "Cabinet cleared an ₹11,000 crore incentive scheme for domestic manufacturing of construction equipment such as tunnel boring machines and excavators.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/industry/news/cabinet-approves-11-000-cr-scheme-for-construction-equipment-manufacturing-126112500797_1.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-34",
+    "domain": "Economy, business & markets",
+    "text": "Sensex jumped 1,502 points and Nifty 1.85% on foreign buying and softer crude; the rupee touched a seven-month high.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "Kotak Neo; Marketcalls",
+      "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-recover-on-fii-buying-and-lower-crude-prices/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.marketcalls.in/futures-and-options/post-market-report-25-november-2026.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-35",
+    "domain": "Politics & government",
+    "text": "Jharkhand Assembly passed a resolution demanding an immediate halt to the SIR of voter rolls; ministers also sought the CEC's removal, and the BJP called it political theatre.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "The Week (PTI)",
+      "url": "https://www.theweek.in/wire-updates/national/2026/11/25/jharkhand-assembly-passes-resolution-seeking-immediate-halt-to-sir.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.socialnews.xyz/2026/11/25/jharkhand-assembly-passes-resolution-against-sir-process-seeks-removal-of-cec/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-36",
+    "domain": "Technology, AI & cyber",
+    "text": "MeitY Secretary said Sarvam AI's hosting of Chinese models like DeepSeek doesn't breach IndiaAI Mission rules, defusing a sovereign-AI controversy.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/sarvam-hosting-china-ai-models-doesn-t-violate-india-ai-mission-meity-secy-126112501187_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "S7 Mistrzejowice interchange (11 ramps) due to open today, 26 Nov, before noon, completing Kraków's ring road (S7–S52).",
+   "link": "https://www.rmf24.pl/regiony/krakow/news-krakow-z-pelna-obwodnica-otwieraja-jeden-z-najwiekszych-tego,nIdn,1027444"
+  },
+  {
+   "kind": "Transit",
+   "text": "Andrzejki night service: bus 611 runs about every 20 min from 23:30 to 2:00 on 26/27 Nov.",
+   "link": "https://krakowportal.pl/andrzejki-2026-w-krakowie-dodatkowe-autobusy-i-tramwaje-nocne/"
+  },
+  {
+   "kind": "Event",
+   "text": "The Christmas market on Rynek Główny opens Fri 27 Nov (about 100 stalls, to 1 Jan).",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/kupcy-szykuja-jarmark-na-krakowskim-rynku-czy-za-rok-zorganizuje-go-samo-miasto/188044"
+  },
+  {
+   "kind": "Event",
+   "text": "SCT consultations: the fee-freeze consultation closes Fri 27 Nov; the consultation on shrinking the zone to about 1 km² opens the same day and runs to 18 Dec.",
+   "link": "https://lovekrakow.pl/w-piatek-ruszaja-konsultacje-w-sprawie-krakowskiej-sct-glosowac-moze-cala-polska"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261126-43",
+    "domain": "Defense, security & crime",
+    "text": "Warsaw now expects Trump's permanent-base decision around the new year at the earliest; Bloomberg says the US may delay it and trim about 5,000 troops in Europe.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Permanent US base in Poland",
+    "links": [
+     {
+      "label": "Rzeczpospolita (PAP) / Polsat News",
+      "url": "https://www.rp.pl/polityka/art45544751-co-ze-stala-baza-wojsk-usa-w-polsce-wskazano-termin-decyzji-bialego-domu"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/kiedy-decyzja-w-sprawie-bazy-usa-w-polsce-wiceminister-wskazal-termin/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261126-42",
+    "domain": "Trade & tariffs",
+    "text": "USTR's Section 301 proposal also puts a 15% tariff on EU goods, Polish exports included, pending a January hearing.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita / RMF24",
+      "url": "https://rp.pl/gospodarka/art45543401-trump-strzela-clami-w-14-glownych-partnerow-handlowych-w-tym-w-ue"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/fakty/ekonomia/news-usa-szykuja-nowe-cla-na-towary-z-ue-i-chin-stawki-do-20-proc,nIdn,1027681"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261126-41",
+    "domain": "Trade & tariffs",
+    "text": "USTR proposed Section 301 'excess capacity' tariffs of up to 25% on Indian goods, or 17% with a trade deal; India denies having excess capacity.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "The Week / Free Press Journal",
+      "url": "https://www.theweek.in/news/biz-tech/2026/11/26/tariff-india-rejects-us-excess-capacity-allegations.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.internationaltradeinsights.com/2026/11/ustr-announces-proposed-section-301-excess-capacity-tariffs-on-fourteen-economies/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261126-01",
+   "name": "Proposed Section 301 actions on structural excess capacity (14 economies)",
+   "place": "US",
+   "body": "USTR",
+   "stage": "Open for comment",
+   "changes": "Proposes additional tariffs: China up to 20% (alternative 40%); EU, Japan, Korea, Switzerland and Taiwan up to 15%; Singapore 20%; India 25%; Vietnam 35%; Indonesia, Malaysia, Thailand, Cambodia and Bangladesh 18%. Section 232 goods are excluded for the non-China economies.",
+   "affects": "US importers and the 14 trading partners, including the EU (Poland) and India",
+   "effectiveDate": "",
+   "commentDeadline": "2027-01-05",
+   "officialLink": "",
+   "newsLink": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"
+  },
+  {
+   "id": "R-261126-02",
+   "name": "Proposed Adjustments to the Aggregate Production Quotas for Schedule I and II Controlled Substances (2026, Docket DEA-1568A)",
+   "place": "US",
+   "body": "DEA",
+   "stage": "Open for comment",
+   "changes": "Raises 2026 quotas for ADHD stimulants by about 19-40% and for some research psychedelics; fentanyl is flat.",
+   "affects": "Drug manufacturers, ADHD patients facing shortages, and researchers",
+   "effectiveDate": "",
+   "commentDeadline": "2026-12-28",
+   "officialLink": "https://www.federalregister.gov/public-inspection/2026-23959/proposed-adjustments-to-the-aggregate-production-quotas-schedule-i-and-ii-controlled-substances-and",
+   "newsLink": "https://casrai.org/news/dea-proposed-adjustments-2026-aggregate-production-quotas-schedule-i-ii-23959"
+  },
+  {
+   "id": "R-261126-03",
+   "name": "Resolution on measures to prevent a crisis linked to the functioning of the Constitutional Tribunal",
+   "place": "Poland",
+   "body": "Council of Ministers",
+   "stage": "In force",
+   "changes": "States that the Tribunal's work is seriously threatened by the NBP's halt of payment orders from its accounts, and tasks the Prime Minister and the Finance and Economy Minister with steps to protect State Treasury interests. In force on adoption.",
+   "affects": "The Constitutional Tribunal, its judges and staff (unpaid salaries), the NBP, the Finance Ministry.",
+   "effectiveDate": "2026-11-25",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.prawo.pl/prawnicy-sady/nbp-wstrzymanie-transakcji-trybunalu-konstytucyjnego-uchwala-rady-ministrow,1558625.html"
+  },
+  {
+   "id": "R-261126-04",
+   "name": "Order on fee relief for Rynek Główny businesses after the 7 Nov attack (zarządzenie)",
+   "place": "Kraków",
+   "body": "Mayor of Kraków (Łukasz Gibała)",
+   "stage": "Signed / published",
+   "changes": "Lets holders of temporary city land-use agreements on Rynek Główny suspend, cancel or get back fees for days restrictions blocked their work: 7–8 Nov automatically, plus days they apply for up to 9 Dec. Agreements can be ended in justified cases.",
+   "affects": "Restaurant gardens, horse-carriage operators, itinerant traders, artistic and advertising activity on the Main Square",
+   "effectiveDate": "2026-11-25",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://radiokrakow.pl/wiadomosci/krakow/krakow-pomoze-przedsiebiorcom-z-rynku-glownego-ulgi-w-oplatach-po-ataku-z-7-listopada/188202"
+  },
+  {
+   "id": "R-261126-05",
+   "name": "Scheme for Enhancement of the Construction & Infrastructure Equipment (CIE) Manufacturing Ecosystem",
+   "place": "India",
+   "body": "Union Cabinet / Ministry of Heavy Industries",
+   "stage": "Passed / final",
+   "changes": "₹11,000 crore over eight years from FY27: sales-linked incentives of 8–13% on incremental sales (2028-29 to 2032-33) plus up to ₹375 crore VGF for a national CIE testing facility.",
+   "affects": "CIE OEMs and component makers (TBMs, excavators, cranes, off-highway trucks).",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.business-standard.com/industry/news/cabinet-approves-11-000-cr-scheme-for-construction-equipment-manufacturing-126112500797_1.html"
+  }
+ ],
+ "deepDive": {
+  "domain": "Technology, AI & cyber",
+  "title": "Federal breaches pile up in Washington; India defines sovereign AI",
+  "body": "**The US government had another bad cyber week.** Coming soon after the NSANet outage, the FBI NCIC breach and a USDA intrusion, two more incidents came out on Nov 24–25. First, an unclassified CIA/ODNI system for open-source analysis was breached. CNN and the NYT report that early signs point to China and possibly an AI-assisted hacking tool (Reported). Officials say classified networks were not touched. Second, Treasury's FinCEN took systems offline after someone got into part of its network (Reported).\n\nThe White House answered with a critical-infrastructure package (Confirmed). Agencies must patch known-exploited flaws within three days, CISA gets about 400 more staff, and the FCC will move against risky foreign-made routers. Whether this changes anything depends on funding. Congress has not yet passed a budget for the year (the stopgap deadline is Dec 11), and CISA has lost staff over the past two years.\n\n**India is working out what 'sovereign AI' means.** MeitY Secretary S. Krishnan said Sarvam AI, a flagship grantee of the IndiaAI Mission, did not break mission rules by offering access to Chinese open-weight models such as DeepSeek on its platform. He also said India's long-promised AI regulation consultation papers are in their final stages. Things to watch in them: liability, content labelling, and whether sovereignty conditions on mission grantees get tighter.\n\nPoland and Kraków had no major new cyber incidents. The Autopay breach still has no published count of affected customers.",
+  "links": [
+   {
+    "label": "CNN (via KIFI): CIA hack",
+    "url": "https://localnews8.com/news/national-world/cnn-national/2026/11/25/cia-hit-by-hack-impacting-unclassified-information-2/"
+   },
+   {
+    "label": "The Register: FinCEN breach",
+    "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+   },
+   {
+    "label": "White House: critical infrastructure",
+    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/"
+   },
+   {
+    "label": "Business Standard: Sarvam and IndiaAI rules",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/sarvam-hosting-china-ai-models-doesn-t-violate-india-ai-mission-meity-secy-126112501187_1.html"
+   },
+   {
+    "label": "The Tribune: AI regulation papers",
+    "url": "https://www.tribuneindia.com/news/ai-models/ai-regulation-papers-in-final-stages-to-be-released-shortly-meity-secretary-at-chariot-1-launch"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261126-01",
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "reporter": "Tim Fernholz",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "why": "A clear guide to the open export-control questions ahead of the Dec 1-3 hearings.",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "language": "English"
+  },
+  {
+   "readingId": "RL-261126-04",
+   "title": "'Not Today': Supreme Court on Interim Bail for Umar Khalid and Sharjeel Imam",
+   "reporter": "",
+   "outlet": "The Wire",
+   "url": "https://m.thewire.in/article/law/supreme-court-on-interim-bail-for-umar-khalid-and-sharjeel-imam-najeeb-cji-surya-kant",
+   "why": "Explains the Najeeb vs Gulfisha Fatima conflict on UAPA bail that now goes to a three-judge bench.",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-26",
+   "text": "Mistrzejowice interchange opening, with Kosiniak-Kamysz and Klimczak; Gibała–Klimczak meeting on metro financing",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-26",
+   "text": "Heavy snow forecast from Thursday afternoon to Friday noon across southern and central Poland (5–20 cm, up to 30 cm in mountains), with possible road and power disruption (TwojaPogoda forecast)",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Mahanadi Coalfields shares list on NSE/BSE after the ₹8,981 crore IPO (1.52x subscribed).",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Christmas market opens on Rynek Główny; SCT fee-freeze consultation closes and the SCT zone-shrink consultation opens",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Extraordinary European Council on the 2028–34 MFF and Ukraine funding due to conclude",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Approximate deadline for President Nawrocki's decisions on the PIT/CIT reform, the two abortion bills and the judges' status act",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Approximate deadline for the Madurai Collector's compliance report to the SC on the Thiruparankundram lamp lighting.",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Congress returns from Thanksgiving recess with the Dec 11 funding deadline looming",
+   "place": "US"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "City Hall Health Office starts; MOCAK director Kuźma takes office; TPN stops winter transport to Morskie Oko and Tatra county plans its own horse carts",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "NATO foreign ministers meet; Poland's further air-defence requests pending",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Jensen Huang's closed-door interview with three House committees; Rep. Jimmy Gomez's resignation takes effect; HUD CoC resubmission window closes",
+   "place": "US"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Regular City Council session (budget, fare resolution, taxes)",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-03",
+   "text": "Huang testifies publicly to Senate Banking; Judge Chutkan's memorial-arch TRO expires",
+   "place": "US"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Baker McKenzie Global Import Blog",
+   "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/",
+   "paywalled": false
+  },
+  {
+   "title": "Baker McKenzie Global Import Blog",
+   "url": "https://www.nationpress.com/international/india-eu-china-reject-us-overcapacity-charge",
+   "paywalled": false
+  },
+  {
+   "title": "Stock Analysis / Capp Notes",
+   "url": "https://stockanalysis.com/news/us-pce-inflation-october-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Stock Analysis / Capp Notes",
+   "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25",
+   "paywalled": false
+  },
+  {
+   "title": "Capp Notes 'Closing Look' (Substack)",
+   "url": "https://www.cnbc.com/amp/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Register",
+   "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+   "paywalled": false
+  },
+  {
+   "title": "The Register",
+   "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
+   "paywalled": false
+  },
+  {
+   "title": "CNN (via KIFI Local News 8)",
+   "url": "https://localnews8.com/news/national-world/cnn-national/2026/11/25/cia-hit-by-hack-impacting-unclassified-information-2/",
+   "paywalled": false
+  },
+  {
+   "title": "CNN (via KIFI Local News 8)",
+   "url": "https://cybernews.com/security/us-government-cyberattacks-treasury-cia-fbi/",
+   "paywalled": false
+  },
+  {
+   "title": "White House",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/",
+   "paywalled": false
+  },
+  {
+   "title": "CNN / Wise Voter",
+   "url": "https://www.cnn.com/2026/11/25/politics/vance-jensen-huang-investigation",
+   "paywalled": false
+  },
+  {
+   "title": "CNN / Wise Voter",
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News",
+   "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919",
+   "paywalled": false
+  },
+  {
+   "title": "ABC News",
+   "url": "https://www.ms.now/news/federal-judge-blocks-trumps-latest-birthright-citizenship-executive-order",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via KFGO)",
+   "url": "https://kfgo.com/2026/11/25/us-cdc-reports-nine-measles-related-deaths-in-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via KFGO)",
+   "url": "https://www.livenowfox.com/news/9-measles-related-deaths-reported-us-though-real-number-may-be-higher",
+   "paywalled": false
+  },
+  {
+   "title": "Federal Register (via CASRAI summary)",
+   "url": "https://www.federalregister.gov/public-inspection/2026-23959/proposed-adjustments-to-the-aggregate-production-quotas-schedule-i-and-ii-controlled-substances-and",
+   "paywalled": false
+  },
+  {
+   "title": "Federal Register (via CASRAI summary)",
+   "url": "https://casrai.org/news/dea-proposed-adjustments-2026-aggregate-production-quotas-schedule-i-ii-23959",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/trump-warns-of-war-funding-fight-as-tanker-attacks-raise-hormuz-tension/",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.iranintl.com/en/202611254651",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket",
+   "url": "https://www.democracydocket.com/news-alerts/peltolas-path-to-senate-seat-clearer-after-sullivan-concedes-but-gop-probes-linger/",
+   "paywalled": false
+  },
+  {
+   "title": "Democracy Docket",
+   "url": "https://www.newsweek.com/dan-sullivan-concedes-alaska-senate-race-while-citing-election-probes-12765980",
+   "paywalled": false
+  },
+  {
+   "title": "White House",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "White House",
+   "url": "https://www.yahoo.com/news/us/articles/trump-florida-thanksgiving-2026-holiday-144226669.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/donald-tusk-zaapelowal-do-karola-nawrockiego-chodzi-o-zmiany-w-podatkach/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.money.pl/podatki/5-milionow-obywateli-czeka-tusk-o-ustawie-na-biurku-prezydenta-7354923480201312a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Prawo.pl",
+   "url": "https://www.prawo.pl/prawnicy-sady/nbp-wstrzymanie-transakcji-trybunalu-konstytucyjnego-uchwala-rady-ministrow,1558625.html",
+   "paywalled": false
+  },
+  {
+   "title": "Prawo.pl",
+   "url": "https://www.rmf24.pl/fakty/polska/news-funkcjonowanie-tk-zagrozone-rzad-reaguje-na-blokade-kont-prz,nIdn,1027700",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/swieczkowski-w-strasburgu-zurek-dziwie-sie/",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/biznes/z-kraju/nowi-czlonkowie-rpp-senat-potwierdza-dwie-kandydatury-st9356636",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://www.bankier.pl/wiadomosc/Izabela-Leszczyna-kandydatka-KO-do-Rady-Polityki-Pienieznej-Grodzki-potwierdza-9234624.html",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/biznes/z-kraju/bezrobocie-w-polsce-nowe-dane-st9356293",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://www.money.pl/gospodarka/bezrobocie-w-polsce-znow-w-gore-nowe-dane-potwierdzaja-problem-7354765746214912a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/tomczyk-mowil-o-strefie-zakazu-lotow-padla-data/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/zestrzeliwac-rakiety-nad-ukraina-sikorski-wyrazil-sie-jasno/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/chetnie-z-nim-porozmawiam-wicepremier-odpowiada-prezydentowi-chelma/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/rosyjscy-oligarchowie-pozwali-polske-zadaja-prawie-pol-miliarda-zlotych/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/samopodpalenie-w-poblizu-palacu-prezydenckiego-trwa-akcja-sluzb/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.gscentre.eu/post/disinformation-in-poland-risk-assessment-25-november-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/posel-ko-wojciech-krol-w-areszcie-zapadla-nowa-decyzja-sadu/",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/ceny-paliw-w-czwartek-ministerstwo-podalo-maksymalne-stawki/",
+   "paywalled": false
+  },
+  {
+   "title": "FocusEurope.pl",
+   "url": "https://focuseurope.pl/europa/wiadomosci/szczyt-rady-europejskiej-wielkie-rozmowy-o-budzecie-bedzie-przelom",
+   "paywalled": false
+  },
+  {
+   "title": "FocusEurope.pl",
+   "url": "https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/premier-przybyl-do-brukseli-na-szczyt-ws-budzetu-i-finansowania-ukrainy,685936.html",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa",
+   "url": "https://pulskrakowa.pl/specustawa-umowa-z-rzadem-lub-pieniadze-w-budzecie-panstwa-lukasz-gibala-wskazuje-warunki-powrotu-do-prac-nad-metrem/",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa",
+   "url": "https://krknews.pl/piatkowska-i-jaskowiec-apeluja-do-gibaly-burzliwa-sesja-rady-miasta-o-metrze/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/krakow-pomoze-przedsiebiorcom-z-rynku-glownego-ulgi-w-oplatach-po-ataku-z-7-listopada/188202",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://www.horecatrends.pl/prawo/133/krakow_ulgi_i_zwroty_oplat_dla_przedsiebiorcow_z_rynku_glownego_po_ataku,97010.html",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/piotr-borek-odwolany-z-funkcji-rektora-uken-102-osoby-zaglosowaly-za/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://glos24.pl/piotr-borek-odwolany-z-funkcji-rektora-uken-tym-razem-zdecydowali-elektorzy",
+   "paywalled": false
+  },
+  {
+   "title": "zero.pl",
+   "url": "https://zero.pl/news/klotnia-wokol-trasy-nad-morskie-oko-starosta-stawia-ultimatum-tpn-mowi-nie",
+   "paywalled": false
+  },
+  {
+   "title": "zero.pl",
+   "url": "https://www.rp.pl/spoleczenstwo/art45538231-nie-tak-sie-umawialismy-starosta-chce-przywrocic-konie-na-calej-trasie-do-morskiego-oka",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/limanowa/czy-mieszkancy-odwolaja-burmistrz-limanowej-zakonczono-weryfikacje-podpisow/188200",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://rdn.pl/483762/podpisy-mieszkancow-zostaly-policzone-w-limanowej-odbedzie-sie-referendum/",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune; The Wire",
+   "url": "https://www.tribuneindia.com/news/delhi/delhi-riots-sc-issues-notice-to-delhi-police-on-pleas-by-sharjeel-imam-umar-khalid-seeking-bail/",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune; The Wire",
+   "url": "https://m.thewire.in/article/law/supreme-court-on-interim-bail-for-umar-khalid-and-sharjeel-imam-najeeb-cji-surya-kant",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/industry/news/cabinet-approves-11-000-cr-scheme-for-construction-equipment-manufacturing-126112500797_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Kotak Neo; Marketcalls",
+   "url": "https://www.kotakneo.com/news/market-news/sensex-nifty-recover-on-fii-buying-and-lower-crude-prices/",
+   "paywalled": false
+  },
+  {
+   "title": "Kotak Neo; Marketcalls",
+   "url": "https://www.marketcalls.in/futures-and-options/post-market-report-25-november-2026.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week (PTI)",
+   "url": "https://www.theweek.in/wire-updates/national/2026/11/25/jharkhand-assembly-passes-resolution-seeking-immediate-halt-to-sir.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week (PTI)",
+   "url": "https://www.socialnews.xyz/2026/11/25/jharkhand-assembly-passes-resolution-against-sir-process-seeks-removal-of-cec/",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/technology/artificial-intelligence/sarvam-hosting-china-ai-models-doesn-t-violate-india-ai-mission-meity-secy-126112501187_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://yourstory.com/2026/11/sarvams-move-to-host-chinese-ai-models-triggers-debate",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune (ANI)",
+   "url": "https://www.tribuneindia.com/news/ai-models/ai-regulation-papers-in-final-stages-to-be-released-shortly-meity-secretary-at-chariot-1-launch",
+   "paywalled": false
+  },
+  {
+   "title": "IANS via SocialNews.XYZ",
+   "url": "https://www.socialnews.xyz/2026/11/25/eam-jaishankar-russian-fm-lavrov-exchanged-views-on-bilateral-global-issues-during-phone-call-mea/",
+   "paywalled": false
+  },
+  {
+   "title": "IANS via SocialNews.XYZ",
+   "url": "https://www.nationpress.com/national/jaishankar-briefs-30-nation-defence-press",
+   "paywalled": false
+  },
+  {
+   "title": "PIB; DD India",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2341449&reg=48&lang=2",
+   "paywalled": false
+  },
+  {
+   "title": "PIB; DD India",
+   "url": "https://ddindia.co.in/2026/11/constitution-day-to-be-observed-across-india-on-november-26/",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard",
+   "url": "https://www.business-standard.com/india-news/18-years-since-26-11-remembering-the-horrors-of-mumbai-terror-attack-126112600124_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week / Free Press Journal",
+   "url": "https://www.theweek.in/news/biz-tech/2026/11/26/tariff-india-rejects-us-excess-capacity-allegations.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week / Free Press Journal",
+   "url": "https://www.internationaltradeinsights.com/2026/11/ustr-announces-proposed-section-301-excess-capacity-tariffs-on-fourteen-economies/",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita / RMF24",
+   "url": "https://rp.pl/gospodarka/art45543401-trump-strzela-clami-w-14-glownych-partnerow-handlowych-w-tym-w-ue",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita / RMF24",
+   "url": "https://www.rmf24.pl/fakty/ekonomia/news-usa-szykuja-nowe-cla-na-towary-z-ue-i-chin-stawki-do-20-proc,nIdn,1027681",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita (PAP) / Polsat News",
+   "url": "https://www.rp.pl/polityka/art45544751-co-ze-stala-baza-wojsk-usa-w-polsce-wskazano-termin-decyzji-bialego-domu",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita (PAP) / Polsat News",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-25/kiedy-decyzja-w-sprawie-bazy-usa-w-polsce-wiceminister-wskazal-termin/",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/kushner-pytany-o-wysylanie-rakiet-do-polski-przez-putina-oto-jak-odpowiedzial-7354994894096480a",
+   "paywalled": false
+  },
+  {
+   "title": "Wirtualna Polska",
+   "url": "https://wiadomosci.wp.pl/dzialo-sie-w-nocy-balistyka-uderzyla-w-kijow-trump-i-rutte-o-rosji-7355056958130272a",
+   "paywalled": false
+  }
+ ]
+}
