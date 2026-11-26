@@ -887,8 +887,8 @@
    "what": "Venezuela: 24-hour public-sector strike and march on Miraflores over wages and the year-end bonus.",
    "expected": "Union leaders, including health-sector leader Pablo Zambrano, per El Diario; set for next week if the government does not respond.",
    "checkDate": "2026-11-27",
-   "happened": "",
-   "eventId": ""
+   "happened": "The strike and march went ahead on 24 Nov; National Police blocked the march short of Miraflores and Provea reported at least five injured. [El Diario](https://eldiario.com/2026/11/24/heridos-marcha-miraflores/)",
+   "eventId": "E-261126-13"
   },
   {
    "id": "W-261119-02",
@@ -907,8 +907,8 @@
    "what": "Brazil: Chamber of Deputies vote on the fiscal adjustment bill after the Senate finishes amendments.",
    "expected": "Government and PT leadership, per O Povo; timing uncertain.",
    "checkDate": "2026-12-04",
-   "happened": "",
-   "eventId": ""
+   "happened": "The Chamber passed the bill 353–128 on 23–24 Nov without changes, sending it to sanction. [Gazeta do Povo](https://www.gazetadopovo.com.br/economia/camara-aprova-projeto-de-ajuste-fiscal-de-lula/)",
+   "eventId": "E-261126-12"
   },
   {
    "id": "W-261120-01",
@@ -1379,6 +1379,26 @@
    "checkDate": "2027-01-14",
    "happened": "",
    "eventId": "E-261126-06"
+  },
+  {
+   "id": "W-261126-03",
+   "dateAdded": "2026-11-26",
+   "segment": "The Americas",
+   "what": "Argentina: Senate vote on the electoral reform suspending the 2027 PASO primaries, and the Chamber's 2027 budget session, 26 Nov.",
+   "expected": "Patricia Bullrich told Bloomberg the votes are there (via Infobae)",
+   "checkDate": "2026-11-27",
+   "happened": "",
+   "eventId": "E-261126-15"
+  },
+  {
+   "id": "W-261126-04",
+   "dateAdded": "2026-11-26",
+   "segment": "EU politics + cross-cutting",
+   "what": "Sweden: third Riksdag prime-minister vote, on [[p:Ulf Kristersson]], 30 Nov; a fourth failure would force a snap election.",
+   "expected": "Speaker Andreas Norlén, per Hurbra",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }

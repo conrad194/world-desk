@@ -1343,6 +1343,34 @@
    "trackRecord": "NK News correspondent on North Korean state media and inter-Korean policy",
    "dateAdded": "2026-11-25",
    "status": "Watch"
+  },
+  {
+   "id": "camila-abrao",
+   "name": "Camila Abrão",
+   "segment": "The Americas",
+   "countries": "Brazil",
+   "languages": "Portuguese",
+   "outlets": "Gazeta do Povo",
+   "basedIn": "Brasília",
+   "slant": "Centre-right paper; straight economic and congressional reporting",
+   "url": "https://www.gazetadopovo.com.br/economia/camara-aprova-projeto-de-ajuste-fiscal-de-lula/",
+   "trackRecord": "Covers fiscal policy and Congress for Gazeta do Povo; detailed vote-by-vote reporting",
+   "dateAdded": "2026-11-26",
+   "status": "Watch"
+  },
+  {
+   "id": "julian-alvez",
+   "name": "Julián Alvez",
+   "segment": "The Americas",
+   "countries": "Argentina",
+   "languages": "Spanish",
+   "outlets": "Infobae",
+   "basedIn": "Buenos Aires",
+   "slant": "Mainstream; well sourced inside the government",
+   "url": "https://www.infobae.com/politica/2026/11/25/el-gobierno-busca-mostrar-fortaleza-politica-en-el-congreso-para-aliviar-la-presion-de-los-mercados-financieros/",
+   "trackRecord": "Infobae political reporter covering Casa Rosada and Milei government strategy",
+   "dateAdded": "2026-11-26",
+   "status": "Watch"
   }
  ]
 }
