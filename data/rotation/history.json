@@ -2008,6 +2008,108 @@
    "recallA": "The court held that the emergency-powers law behind most 2025 tariffs did not authorise tariffs. The stopgap Section 122 tariff is capped at 150 days, so the administration turned to Section 301, which needs no emergency and whose tariffs had already survived court challenges, opening probes into 16 economies in March.",
    "prevQuestion": "Why could The Gambia, far from Myanmar and not directly harmed, bring a genocide case against it?",
    "prevAnswer": "Because the Genocide Convention creates duties owed to all its parties, so any party can take another to the ICJ over a breach. The Gambia, backed by the Organisation of Islamic Cooperation, sued in November 2019, and the court accepted it had standing."
+  },
+  {
+   "id": "2026-11-27",
+   "date": "2026-11-27",
+   "segment": "Africa",
+   "title": "Why Uganda keeps sending its army into Congo",
+   "thread": "Eastern DRC conflict",
+   "eventIds": [
+    "E-261127-12",
+    "E-261127-25"
+   ],
+   "minutes": 4,
+   "hook": "Uganda's army chief [[p:Muhoozi Kainerugaba]] says he ordered troops into eastern Congo and backs the FRN rebels. Uganda has been in Congo before: as an invader in 1998, as an occupier condemned by the world court, and since 2021 as Kinshasa's invited partner.",
+   "body": "When Uganda's army chief says he has ordered troops into eastern Congo, he is describing something Uganda has done, in one form or another, for most of the past thirty years. The story starts in 1996. After the Rwandan genocide, the génocidaires had regrouped in camps in Zaire, and Rwanda and Uganda backed a rebel coalition that marched across the country in the [[e:First Congo War]] and drove out [[p:Mobutu Sese Seko]] in May 1997. They installed [[p:Laurent-Désiré Kabila]]; his son Joseph fought in that campaign.\n\nThe alliance soured within a year. In August 1998 Kabila told his Rwandan backers to leave, and Rwanda and Uganda invaded again, starting the [[e:Second Congo War]], which drew in armies from at least six countries. Uganda sponsored its own rebels, chiefly [[p:Movement for the Liberation of the Congo|Jean-Pierre Bemba's MLC]] {{note: Founded in 1998 in northern Congo by businessman Jean-Pierre Bemba, with Ugandan support.}}, and occupied much of the north-east. The two patrons soon fell out over territory and minerals: their armies fought each other in Kisangani three times, most destructively in the [[e:Six-Day War (2000)|Six-Day War]] of June 2000.\n\nOccupation left deep marks in Ituri, a gold-rich province where Ugandan officers backed and armed rival Hema and Lendu factions. A 2001 UN expert panel accused senior Ugandan officers of plundering gold, timber and coffee. The [[e:Ituri conflict]] killed tens of thousands; when Uganda withdrew in May 2003, a French-led EU force, [[e:Operation Artemis]], had to be flown into Bunia to stop massacres.\n\nKinshasa took Uganda to the International Court of Justice. In December 2005 the court found that Uganda had violated Congo's sovereignty, occupied Ituri and was responsible for abuses and looting. Agreeing on damages took until February 2022, when the court ordered Uganda to pay $325 million in five yearly instalments, far below Congo's claim.\n\nBy then Ugandan soldiers were back, this time invited. The [[p:Allied Democratic Forces]] {{note: Ugandan rebel group formed in the mid-1990s; it moved into Congo's Rwenzori borderlands and later pledged loyalty to Islamic State.}} were blamed for suicide bombings in Kampala in November 2021, and on 30 November Uganda and Congo launched [[e:Operation Shujaa]], a joint campaign that put Ugandan troops in North Kivu and Ituri. Researchers noted that the deployment also guarded roads and trade routes useful to Ugandan business.\n\nThat dual record explains Kinshasa's alarm now. [[p:Muhoozi Kainerugaba]] {{note: Son of President Yoweri Museveni; made Uganda's Chief of Defence Forces in March 2024.}} has long used social media to make statements his government later softens. But his public support for the [[p:Joseph Kabila]]-led FRN, and his description of Rwanda and Uganda as twin countries, echo 1998, when the two neighbours backed rebels against a Kinshasa government they had once supported. Congo has to decide whether Uganda is a partner against the ADF or a patron of its enemies, and history suggests it can be both.",
+   "timeline": [
+    {
+     "when": "1996–97",
+     "text": "Rwanda and Uganda back the rebellion that topples Mobutu in the [[e:First Congo War]]."
+    },
+    {
+     "when": "Aug 1998",
+     "text": "After Laurent Kabila expels his Rwandan allies, Rwanda and Uganda invade again, starting the [[e:Second Congo War]]."
+    },
+    {
+     "when": "Jun 2000",
+     "text": "Ugandan and Rwandan armies fight each other in Kisangani in the [[e:Six-Day War (2000)|Six-Day War]]."
+    },
+    {
+     "when": "May 2003",
+     "text": "Uganda withdraws from Ituri; the EU's [[e:Operation Artemis]] deploys to Bunia to halt massacres."
+    },
+    {
+     "when": "Dec 2005",
+     "text": "The International Court of Justice rules that Uganda violated Congo's sovereignty and looted its resources."
+    },
+    {
+     "when": "Nov 2021",
+     "text": "After bombings in Kampala, Uganda and Congo launch the joint [[e:Operation Shujaa]] against the [[p:Allied Democratic Forces]]."
+    },
+    {
+     "when": "Feb 2022",
+     "text": "The world court sets Uganda's reparations at $325 million, payable over five years."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "[[p:Muhoozi Kainerugaba]] publicly backs the FRN rebels and says he ordered troops into Congo; Kinshasa summons Uganda's envoy."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Uganda's government",
+     "view": "Uganda says it went into Congo to deal with rebels who used a lawless border to attack it, from the 1990s to the [[p:Allied Democratic Forces]] today. It points out that Operation Shujaa was agreed with Kinshasa and has weakened a group linked to Islamic State."
+    },
+    {
+     "side": "Congo's government",
+     "view": "Kinshasa sees a neighbour that invaded, sponsored rebels and looted its resources, which the world court confirmed in 2005. It treats Ugandan backing for armed groups as a repeat of 1998 and wants Kampala to state its official position."
+    },
+    {
+     "side": "Independent researchers",
+     "view": "Many analysts say security and economic interests have always been mixed: Ugandan deployments protected trade routes, gold flows and infrastructure as well as fighting rebels. They disagree on how far Kampala's leaders directed these interests and how far individual officers pursued them."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Ituri",
+     "meaning": "Gold-rich province in north-eastern Congo bordering Uganda, occupied by Ugandan forces from 1998 to 2003 and scene of the [[e:Ituri conflict]]."
+    },
+    {
+     "term": "UPDF",
+     "meaning": "Uganda People's Defence Force, Uganda's army, commanded since 2024 by [[p:Muhoozi Kainerugaba]]."
+    },
+    {
+     "term": "Armed Activities case",
+     "meaning": "Congo's case against Uganda at the International Court of Justice, decided in 2005, with reparations set in 2022."
+    },
+    {
+     "term": "Operation Shujaa",
+     "meaning": "Joint Ugandan–Congolese military campaign against the [[p:Allied Democratic Forces]], begun on 30 November 2021."
+    }
+   ],
+   "whyItMatters": "Kinshasa already faces Rwanda-linked rebels in the Kivus. If Uganda moves from fighting the ADF alongside Congo to backing the FRN, Congo could again face both neighbours, as it did in 1998. Watch whether Kampala's government distances itself from Muhoozi's posts, whether Ugandan troops move beyond Operation Shujaa's zones, and whether Congo questions Uganda's role in that operation.",
+   "readMore": [
+    {
+     "title": "Democratic Republic of the Congo: The Democratic Republic of the Congo (Britannica)",
+     "url": "https://www.britannica.com/place/Democratic-Republic-of-the-Congo/The-Democratic-Republic-of-the-Congo",
+     "why": "A concise overview of the Congo wars since 1996 and the roles of Rwanda and Uganda."
+    },
+    {
+     "title": "UN's top court orders Uganda to pay $325 million to DR Congo (UN News)",
+     "url": "https://news.un.org/en/story/2022/02/1111612",
+     "why": "The 2022 reparations ruling and what Uganda was held responsible for."
+    },
+    {
+     "title": "Uganda's Operation Shujaa in the DRC: Fighting the ADF or Securing Economic Interests? (Congo Research Group / Ebuteli)",
+     "url": "https://cic.nyu.edu/wp-content/uploads/2022/10/report-crg-ebuteli-uganda-operation-shujaa-drc-adf-securing-economic-interests-1.pdf",
+     "why": "A field study of the mixed motives behind Uganda's current deployment."
+    }
+   ],
+   "prevQuestion": "Why did the Supreme Court's February 2026 ruling make Section 301 more important?",
+   "prevAnswer": "The court held that the emergency-powers law behind most 2025 tariffs did not authorise tariffs. The stopgap Section 122 tariff is capped at 150 days, so the administration turned to Section 301, which needs no emergency and whose tariffs had already survived court challenges, opening probes into 16 economies in March.",
+   "recallQ": "Why did Uganda's 1998–2003 occupation of Ituri end up before the International Court of Justice, and what did the court decide?",
+   "recallA": "Congo sued Uganda for invading, occupying Ituri and plundering its resources. In 2005 the court found Uganda had violated Congo's sovereignty and was responsible for abuses and looting; in 2022 it set reparations at $325 million, paid over five years."
   }
  ]
 }
