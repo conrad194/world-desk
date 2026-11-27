@@ -2859,6 +2859,39 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": "E-261127-14"
+  },
+  {
+   "id": "W-261127-07",
+   "dateAdded": "2026-11-27",
+   "place": "Kraków",
+   "domain": "Defense, security & crime",
+   "what": "Toxicology results for the 7 Nov attacker and what the prosecutors' 'foreign thread' is",
+   "expected": "Prosecutor Stasielak (PAP): toxicology in 2-3 weeks",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261127-26"
+  },
+  {
+   "id": "W-261127-08",
+   "dateAdded": "2026-11-27",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Opening of the Mistrzejowice II links to Okulickiego/Petőfiego and reopening of the closed left lane towards Warsaw",
+   "expected": "GDDKiA: by end of 2026",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": "E-261127-22"
+  },
+  {
+   "id": "W-261127-09",
+   "dateAdded": "2026-11-27",
+   "place": "Kraków",
+   "domain": "Infrastructure, transport & housing",
+   "what": "Fate of PiS MP Adamczyk's 30m zł state-budget amendment for Kraków metro preparations at the Sejm second reading",
+   "expected": "Adamczyk (TVN24): to be filed at second reading",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261127-23"
   }
  ]
 }
