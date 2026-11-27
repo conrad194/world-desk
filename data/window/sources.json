@@ -2963,6 +2963,18 @@
    "lean": "law-firm blog, technical",
    "status": "Watch",
    "dateAdded": "2026-11-26"
+  },
+  {
+   "id": "iowa-capital-dispatch",
+   "name": "Iowa Capital Dispatch",
+   "type": "Outlet",
+   "place": "US",
+   "focus": "Iowa state and federal news",
+   "language": "English",
+   "url": "https://iowacapitaldispatch.com",
+   "lean": "Nonprofit (States Newsroom network)",
+   "status": "Watch",
+   "dateAdded": "2026-11-27"
   }
  ]
 }

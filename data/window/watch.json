@@ -2793,6 +2793,28 @@
    "checkDate": "2027-01-25",
    "happened": "",
    "eventId": "E-261126-41"
+  },
+  {
+   "id": "W-261127-01",
+   "dateAdded": "2026-11-27",
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "what": "Ruling on Nidal Hasan's stay motion (hearing Nov 30) and whether the Dec 3 military execution goes ahead",
+   "expected": "Judge Mattivi's hearing schedule (CBS Austin); execution set for Dec 3",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261127-09"
+  },
+  {
+   "id": "W-261127-02",
+   "dateAdded": "2026-11-27",
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "what": "FCC appeal of Judge AliKhan's injunction blocking early review of ABC station licences",
+   "expected": "FCC says the ruling is wrong and it will keep acting (TIME); no appeal filed yet",
+   "checkDate": "2026-12-28",
+   "happened": "",
+   "eventId": "E-261127-01"
   }
  ]
 }
