@@ -1399,6 +1399,46 @@
    "checkDate": "2026-12-01",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261127-01",
+   "dateAdded": "2026-11-27",
+   "segment": "Africa",
+   "what": "Senegal: 2 Dec is the first day President [[p:Bassirou Diomaye Faye]] can legally dissolve the National Assembly, as [[p:Ousmane Sonko]] demands early elections.",
+   "expected": "Sonko, per Senego (26 Nov)",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261127-34"
+  },
+  {
+   "id": "W-261127-02",
+   "dateAdded": "2026-11-27",
+   "segment": "Africa",
+   "what": "Guinea: indirect regional elections on 29 Nov, then senatorial elections on 20 Dec.",
+   "expected": "Doumbouya instructions, per Guinee360",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261127-45"
+  },
+  {
+   "id": "W-261127-03",
+   "dateAdded": "2026-11-27",
+   "segment": "Africa",
+   "what": "Somalia: electoral commission's 30 Nov deadline for party registration, under the government's timetable of a parliamentary vote on 15 Apr and a presidential vote on 15 May 2027.",
+   "expected": "Somalia Today (24 Nov)",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": "E-261127-23"
+  },
+  {
+   "id": "W-261127-04",
+   "dateAdded": "2026-11-27",
+   "segment": "Africa",
+   "what": "Mali: JNIM's 27 Nov deadline for residents to leave Tonka (Timbuktu region), after which it threatens a blockade.",
+   "expected": "RFI, via Leral.net",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261127-36"
   }
  ]
 }

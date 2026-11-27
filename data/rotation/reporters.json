@@ -1371,6 +1371,62 @@
    "trackRecord": "Infobae political reporter covering Casa Rosada and Milei government strategy",
    "dateAdded": "2026-11-26",
    "status": "Watch"
+  },
+  {
+   "id": "claude-sengenya",
+   "name": "Claude Sengenya",
+   "segment": "Africa",
+   "countries": "DR Congo (North Kivu: Lubero, Beni)",
+   "languages": "French",
+   "outlets": "Actualite.cd",
+   "basedIn": "North Kivu (per datelines)",
+   "slant": "Ground-level conflict reporting; debunks social-media claims",
+   "url": "https://actualite.cd/2026/11/26/nord-kivu-le-frn-poursuit-la-conquete-des-pecheries-du-lac-edouard-talihya-est-la",
+   "trackRecord": "Actualite.cd Great Lakes desk; track record not yet verified beyond recent pieces",
+   "dateAdded": "2026-11-27",
+   "status": "Watch"
+  },
+  {
+   "id": "adam-ntwari",
+   "name": "Adam Ntwari",
+   "segment": "Africa",
+   "countries": "DR Congo (South Kivu, Uvira), Burundi",
+   "languages": "French",
+   "outlets": "SOS Médias Burundi",
+   "basedIn": "Uvira (per datelines)",
+   "slant": "Independent exile-run Burundian outlet; critical of Bujumbura",
+   "url": "https://www.sosmediasburundi.org/2026/11/25/sud-kivu-le-frn-reprend-rurambo-et-munanira-les-forces-burundaises-et-congolaises-sous-pression/",
+   "trackRecord": "Covers the Uvira highlands front; track record not yet verified",
+   "dateAdded": "2026-11-27",
+   "status": "Watch"
+  },
+  {
+   "id": "samyr-lukombo",
+   "name": "Samyr Lukombo",
+   "segment": "Africa",
+   "countries": "DR Congo",
+   "languages": "French",
+   "outlets": "Actualite.cd",
+   "basedIn": "Kinshasa",
+   "slant": "Mainstream Congolese political and diplomatic reporting",
+   "url": "https://actualite.cd/2026/11/25/rdc-lambassadeur-ougandais-convoque-une-nouvelle-fois-apres-une-serie-de-messages-du",
+   "trackRecord": "Actualite.cd politics/diplomacy reporter; track record not yet verified",
+   "dateAdded": "2026-11-27",
+   "status": "Watch"
+  },
+  {
+   "id": "chuwang-dungs",
+   "name": "Chuwang Dungs",
+   "segment": "Africa",
+   "countries": "Nigeria (Plateau State)",
+   "languages": "English",
+   "outlets": "Premium Times",
+   "basedIn": "Jos",
+   "slant": "Local conflict reporting",
+   "url": "https://www.premiumtimesng.com/news/top-news/928234-16-die-in-plateau-attacks-mutfwang-orders-security-measures.html",
+   "trackRecord": "Regular Premium Times correspondent on Plateau violence",
+   "dateAdded": "2026-11-27",
+   "status": "Watch"
   }
  ]
 }
