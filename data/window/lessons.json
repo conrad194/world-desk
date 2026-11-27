@@ -2701,6 +2701,131 @@
      "why": "Summary of the Krishna Kumar Singh case and the Court's limits on reissuing ordinances."
     }
    ]
+  },
+  {
+   "id": "L19",
+   "num": 19,
+   "unit": "How rules get made",
+   "title": "Budgets: US appropriations and shutdowns; Poland's budget; India's Union Budget",
+   "dateTaught": "2026-11-27",
+   "minutes": 10,
+   "pulledForward": false,
+   "prevQuestion": "Why is India's ordinance power unusual compared with the US and Poland, and what two safeguards limit it?",
+   "prevAnswer": "It is the only peacetime power among the three that lets the executive make law with the force of a statute: US executive orders cannot make new law, and Poland allows presidential regulations with statutory force only under martial law. An ordinance must be laid before Parliament and lapses six weeks after it reassembles unless replaced by an act, and the Supreme Court has held repeated re-promulgation to be a fraud on the Constitution.",
+   "body": "Every lesson so far has been about who makes rules. This one is about who controls the money, which is where much of the real power sits. All three countries agree on the basic principle, inherited from British parliamentary history: the government may spend only what the legislature approves. Where they differ is in who writes the budget, who can change it, and what happens when it is late.\n\n**The US: Congress holds the purse.** The president sends a budget request each spring, but it is only a proposal. Spending is set by Congress through annual **appropriations** bills, traditionally twelve of them, which must pass both the House and the Senate and be signed (or survive a veto, as Lesson 7 showed). The fiscal year starts on 1 October. When the bills are not ready, Congress passes a **continuing resolution** (CR), a stopgap that keeps money flowing at roughly last year's levels. If neither happens, the **[#Antideficiency Act](https://en.wikipedia.org/wiki/Antideficiency_Act)** forbids agencies to spend money that has not been appropriated, so non-essential work stops: a **shutdown**. Because the Senate filibuster usually means 60 votes are needed, the minority party has leverage, and deadlines turn into standoffs.\n\n> The 1 October fiscal year dates from the [#Congressional Budget and Impoundment Control Act of 1974](https://en.wikipedia.org/wiki/Congressional_Budget_and_Impoundment_Control_Act_of_1974), which also created the Congressional Budget Office.\n\n**Poland: the government writes, the Sejm amends within limits.** Only the Council of Ministers may introduce the budget act (Article 221 of the Constitution), and it must send the draft to the Sejm by 30 September. The Sejm can move money around, but under Article 220 its amendments may not raise the deficit above what the government proposed. The Senate has 20 days to propose changes, which the Sejm can reject. The budget is the one bill the President **cannot veto**: he must sign it within seven days, though he may also refer it to the Constitutional Tribunal (Lesson 8). Crucially, Poland has no shutdown. If the budget act is not in force on 1 January, the government runs on its draft. The pressure point is different: if the Sejm fails to get a budget to the President within four months of receiving the draft, the President may dissolve the Sejm (Article 225).\n\n**India: the Lok Sabha decides, the Rajya Sabha advises.** Article 112 calls the budget the **Annual Financial Statement**, and the Finance Minister presents it to Parliament, now on 1 February for a fiscal year starting 1 April. The Lok Sabha then votes on **demands for grants**, ministry by ministry, and passes an **Appropriation Bill**; taxes come in the **Finance Bill**. Both are money bills, so the Rajya Sabha can only recommend changes within 14 days, and the Lok Sabha may ignore them (Lesson 5). If the full budget cannot pass before April, Parliament grants a **vote on account** to cover a few months. Losing a budget vote would, by convention, mean the government has lost the House's confidence, which is why it rarely comes close.\n\n> The budget date moved from the last day of February to 1 February in 2017 under Finance Minister [@Arun Jaitley](https://en.wikipedia.org/wiki/Arun_Jaitley), who also merged the separate rail budget into it.\n\n**The pattern.** In the two parliamentary systems, the government controls the majority and the budget is the moment that proves it: failure triggers a crisis of confidence or an early election, not a closure of public offices. In the US, separation of powers means a president and Congress can disagree with no mechanism forcing a deal, so the default when time runs out is a stoppage. That design is why Americans know the word shutdown and Poles and Indians mostly do not.",
+   "comparison": [
+    {
+     "aspect": "Who drafts the budget",
+     "US": "President's budget request (a proposal only); Congress writes the appropriations bills",
+     "Poland": "Council of Ministers only (Art. 221), sent to the Sejm by 30 September",
+     "India": "Union Government; the Finance Minister presents the Annual Financial Statement (Art. 112)"
+    },
+    {
+     "aspect": "Fiscal year",
+     "US": "1 October to 30 September",
+     "Poland": "Calendar year",
+     "India": "1 April to 31 March"
+    },
+    {
+     "aspect": "Limits on the legislature's changes",
+     "US": "None formal: Congress can rewrite spending entirely",
+     "Poland": "Sejm amendments may not raise the deficit above the government's draft (Art. 220)",
+     "India": "Lok Sabha can cut or reject demands for grants but cannot raise them; Rajya Sabha only recommends on money bills"
+    },
+    {
+     "aspect": "Head of state's role",
+     "US": "President can veto appropriations bills",
+     "Poland": "President must sign within 7 days; no veto, but may refer it to the Constitutional Tribunal (Art. 224)",
+     "India": "President's recommendation needed to introduce it; assent is a formality"
+    },
+    {
+     "aspect": "If the budget is late",
+     "US": "Continuing resolution, or a shutdown under the [#Antideficiency Act](https://en.wikipedia.org/wiki/Antideficiency_Act)",
+     "Poland": "Government operates on its draft; after 4 months the President may dissolve the Sejm (Art. 225)",
+     "India": "Vote on account covering a few months"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Appropriations",
+     "meaning": "US laws granting agencies legal authority to spend money for a fiscal year; without them, spending must stop."
+    },
+    {
+     "term": "Continuing resolution (CR)",
+     "meaning": "A US stopgap law that extends funding, usually at the previous year's levels, until a set date."
+    },
+    {
+     "term": "Ustawa budżetowa",
+     "meaning": "Poland's annual budget act; only the government may introduce it and the President cannot veto it."
+    },
+    {
+     "term": "Annual Financial Statement",
+     "meaning": "The constitutional name (Art. 112) for India's Union Budget, presented to both Houses of Parliament."
+    },
+    {
+     "term": "Vote on account",
+     "meaning": "An Indian Lok Sabha grant letting the government spend for part of the year before the full budget passes."
+    }
+   ],
+   "example": "The [#2025 United States federal government shutdown](https://en.wikipedia.org/wiki/2025_United_States_federal_government_shutdown) began on 1 October 2025, when Democrats in the Senate withheld the votes needed for a continuing resolution, demanding an extension of health insurance subsidies. It lasted 43 days, the longest in US history, ending on 12 November. Hundreds of thousands of federal employees were furloughed or worked without pay, air traffic was cut at major airports and food aid payments were disrupted. Poland shows the contrast: in January 2025 President [@Andrzej Duda](https://en.wikipedia.org/wiki/Andrzej_Duda), sharply at odds with the government, still had to sign its budget, and could only refer parts of it to the Constitutional Tribunal. The money kept flowing either way. Funding lapses returned in the US in 2026 (see [#2026 United States federal government shutdowns](https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdowns)).",
+   "inTheNews": "EU leaders failed to agree the the 2028–2034 EU budget overnight, with Poland objecting to sending ETS revenue to Brussels; at home, the Sejm is scheduled to pass Poland's 2027 budget act (deficit planned above 281 billion zł) on 4 December, while the current US stopgap funding runs out on 11 December.",
+   "newsEvents": [
+    "E-261127-13"
+   ],
+   "check": [
+    {
+     "q": "Poland's President strongly opposes the government's budget. What can he do?",
+     "options": [
+      "Veto it and send it back to the Sejm",
+      "Refuse to sign it, which shuts down public offices",
+      "Sign it within seven days, and optionally refer it to the Constitutional Tribunal",
+      "Dissolve the Sejm immediately"
+     ],
+     "answer": 2,
+     "explain": "Article 224 requires the President to sign the budget act within seven days; it is the one bill he cannot veto, though he may ask the Tribunal to review it."
+    },
+    {
+     "q": "Why can the US have government shutdowns while Poland and India effectively cannot?",
+     "options": [
+      "The US has no written constitution on spending",
+      "US law forbids spending without appropriations and there is no fallback, while Poland runs on the draft and India uses a vote on account",
+      "Polish and Indian courts approve budgets automatically",
+      "Only the US has a bicameral legislature"
+     ],
+     "answer": 1,
+     "explain": "The Antideficiency Act bars unappropriated spending, and separation of powers means nothing forces a deal. Poland's Constitution lets the government operate on its draft, and India's Lok Sabha grants interim money through a vote on account."
+    },
+    {
+     "q": "India's Rajya Sabha wants to cut defence spending in the Appropriation Bill. What happens?",
+     "options": [
+      "The cut takes effect immediately",
+      "A joint sitting resolves the dispute",
+      "It can only recommend the change within 14 days, and the Lok Sabha may ignore it",
+      "The President decides"
+     ],
+     "answer": 2,
+     "explain": "The Appropriation Bill is a money bill, so under Article 109 the Rajya Sabha can only make recommendations, which the Lok Sabha is free to reject."
+    }
+   ],
+   "recallQ": "What limit does Poland's Constitution place on the Sejm when it amends the government's budget, and what happens if the budget is not in force on 1 January?",
+   "recallA": "Under Article 220, the Sejm's amendments may not raise the deficit above the level in the government's draft. If the budget act is not in force at the start of the year, the government operates on the basis of its draft, so there is no shutdown; if the Sejm fails to deliver a budget within four months, the President may dissolve it.",
+   "readMore": [
+    {
+     "title": "Constitution of Poland, Chapter X: Public Finances (Senate of Poland)",
+     "url": "https://www.senat.gov.pl/en/about-the-senate/konstytucja/chapter-x/",
+     "why": "The official English text of Articles 216–227, including the budget procedure and the President's role."
+    },
+    {
+     "title": "Article 112: Annual Financial Statement (Constitution of India project)",
+     "url": "https://www.constitutionofindia.net/articles/article-112-annual-financial-statement/",
+     "why": "The constitutional basis of India's Union Budget, with the Constituent Assembly debate."
+    },
+    {
+     "title": "Government Shutdowns: Legal Causes in Brief (Congressional Research Service)",
+     "url": "https://www.congress.gov/crs-product/IF13292",
+     "why": "A short, neutral explainer on why a lapse in appropriations forces US agencies to stop work."
+    }
+   ]
   }
  ]
 }
