@@ -1,0 +1,1104 @@
+{
+ "date": "2026-11-27",
+ "segment": "Africa",
+ "windowFrom": "2026-11-20",
+ "tier1Summary": "Africa's conflicts drew in outside powers this week. Ukraine sank a Russian warship at Benghazi in [[p:Khalifa Haftar]]'s east, and Uganda's army chief openly backed the [[p:Joseph Kabila]]-led FRN in eastern Congo, which is still advancing. Sudan rejected Ethiopian mediation as Ethiopian–Tigrayan fighting resumed near Badme. Somalia expelled the UAE ambassador. Guinea-Bissau's junta pushed elections to 2028.\n\nElsewhere, the [[p:European Council]] failed to agree the EU budget or the Ukraine loan. [[p:Volodymyr Zelenskyy]] warned of a mass Russian strike on the grid. Drones killed two Italians in Kuwait, and [[p:Kim Jong Un]] pushed battlefield nuclear weapons.",
+ "segmentItems": [
+  {
+   "id": "E-261127-11",
+   "segment": "Africa",
+   "country": "Libya / Ukraine / Russia",
+   "text": "Ukraine says naval drones sank the Russian corvette Merkury at Benghazi, in [[p:Khalifa Haftar]]'s east; two Libyan sailors died. The east suspects launches from western Libya, which Tripoli denies.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Kamal Tabikha",
+   "outlet": "The National",
+   "opinion": "news and analysis",
+   "thread": "",
+   "links": [
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/26/benghazi-drone-strike-exposes-deep-mistrust-stalling-libyas-unity/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-12",
+   "segment": "Africa",
+   "country": "DR Congo / Uganda",
+   "text": "Uganda's army chief [[p:Muhoozi Kainerugaba]] {{note: Son of President Yoweri Museveni; commander of Uganda's armed forces since 2024.}} publicly backed the FRN rebels and said he ordered troops into Congo; Kinshasa summoned Uganda's envoy.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Samyr Lukombo",
+   "outlet": "Actualite.cd",
+   "opinion": "",
+   "thread": "Eastern DRC conflict",
+   "links": [
+    {
+     "label": "Actualite.cd",
+     "url": "https://actualite.cd/2026/11/25/rdc-lambassadeur-ougandais-convoque-une-nouvelle-fois-apres-une-serie-de-messages-du"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://afreeque.com/fr/news/le-general-ougandais-muhoozi-affirme-avoir-ordonne-une-incursion-en-rdc"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-25",
+   "segment": "Africa",
+   "country": "DR Congo / Burundi",
+   "text": "FRN rebels took Rurambo and Munanira in the Uvira highlands from Congolese and Burundian forces, opening a route to Minembwe.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Adam Ntwari",
+   "outlet": "SOS Médias Burundi",
+   "opinion": "",
+   "thread": "Eastern DRC conflict",
+   "links": [
+    {
+     "label": "SOS Médias Burundi",
+     "url": "https://actualite.cd/2026/11/25/hauts-plateaux-duvira-les-villages-rurambo-et-munanira-passes-sous-controle-des-rebelles"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.sosmediasburundi.org/2026/11/25/sud-kivu-le-frn-reprend-rurambo-et-munanira-les-forces-burundaises-et-congolaises-sous-pression/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-29",
+   "segment": "Africa",
+   "country": "DR Congo",
+   "text": "Ebola has passed 12,021 confirmed cases and 5,904 deaths; fighting in Ituri trapped a response team for two days.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "ECDC",
+   "opinion": "",
+   "thread": "Ebola epidemic 2026",
+   "links": [
+    {
+     "label": "ECDC",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.radiookapi.net/2026/11/27/actualite/sante/ebola-en-ituri-50-millions-usd-de-la-banque-mondiale-pour-appuyer-les"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-14",
+   "segment": "Africa",
+   "country": "Ethiopia / Eritrea",
+   "text": "Trackers report renewed Ethiopian–Tigrayan fighting on the Badme axis, with conflicting accounts of who holds Biyara.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Critical Threats Project",
+   "opinion": "analysis (Critical Threats aggregation)",
+   "thread": "Ethiopia–Tigray war",
+   "links": [
+    {
+     "label": "Critical Threats Project",
+     "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-november-24-2026"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-16",
+   "segment": "Africa",
+   "country": "Sudan / Ethiopia",
+   "text": "Khartoum rejected [[p:Abiy Ahmed]]'s offer to host Sudan peace talks, calling Ethiopia partial; the [[p:Rapid Support Forces]]-aligned government welcomed it.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Ahmed Younes",
+   "outlet": "Asharq Al-Awsat",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/arab-world/5345876-khartoum-rejects-addis-ababa%E2%80%99s-initiative-end-sudan%E2%80%99s-war"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.garoweonline.com/en/news/somalia/ethiopia-offers-to-host-inclusive-dialogue-to-end-sudans-war"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-17",
+   "segment": "Africa",
+   "country": "Sudan",
+   "text": "Drones hit Ed Damazin and Roseires in Blue Nile, killing 14–19 by local counts; the Roseires Dam was reportedly targeted.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Ahmed Younes",
+   "outlet": "Asharq Al-Awsat",
+   "opinion": "",
+   "thread": "Sudan war",
+   "links": [
+    {
+     "label": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/arab-world/5345876-khartoum-rejects-addis-ababa%E2%80%99s-initiative-end-sudan%E2%80%99s-war"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/25/sudan-war-grinds-on-with-rsf-seeking-to-stretch-safs-resources-thin/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-24",
+   "segment": "Africa",
+   "country": "Somalia / UAE",
+   "text": "Somalia expelled the UAE ambassador on 19 Nov; the speaker accused Kenya, Ethiopia and Uganda of colluding with [[p:Al-Shabaab (militant group)|al-Shabaab]], without evidence.",
+   "tier": 2,
+   "verification": "Single-source",
+   "reporter": "",
+   "outlet": "Garowe Online",
+   "opinion": "",
+   "thread": "Somalia constitutional crisis",
+   "links": [
+    {
+     "label": "Garowe Online",
+     "url": "https://www.garoweonline.com/en/news/somalia/somalia-house-speaker-raises-alarm-over-alleged-regional-plot-against-mogadishu"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-22",
+   "segment": "Africa",
+   "country": "Somalia / Uganda",
+   "text": "[[p:Hassan Sheikh Mohamud]] met [[p:Yoweri Museveni]]; reports that he accepted Ugandan mediation with the opposition were denied by his office.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Mohamed Bashir",
+   "outlet": "Somalia Today",
+   "opinion": "",
+   "thread": "Somalia constitutional crisis",
+   "links": [
+    {
+     "label": "Somalia Today",
+     "url": "https://somaliatoday.com/politics/exclusive-somalia-denies-uganda-will-mediate-election-dispute-2026-11-24/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-accepts-museveni-mediated-election-dialogue/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-39",
+   "segment": "Africa",
+   "country": "Mauritania / Western Sahara",
+   "text": "Mauritania reportedly detained 14–20 [[p:Polisario Front|Polisario]] fighters who crossed its border; Nouakchott is silent.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Ouardani Issa",
+   "outlet": "Yabiladi",
+   "opinion": "",
+   "thread": "Western Sahara after MINURSO",
+   "links": [
+    {
+     "label": "Yabiladi",
+     "url": "https://en.yabiladi.com/articles/details/208413/mauritanian-army-detains-polisario-fighters.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.hespress.com/149725-mauritania-seizes-weapons-from-polisario-fighters-after-reported-border-incursion.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-13",
+   "segment": "Africa",
+   "country": "Guinea-Bissau",
+   "text": "The junta moved elections from 6 Dec to 26 Nov 2028, citing a new 65-seat electoral map.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Morgan Dossou",
+   "outlet": "AfricActu",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AfricActu",
+     "url": "https://www.africactu.com/politique/guinee-bissau-elections-reportees-2028/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://tchadinfos.com/2026/11/26/guinee-bissau-un-an-apres-le-coup-detat-la-transition-militaire-dans-limpasse/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-34",
+   "segment": "Africa",
+   "country": "Senegal",
+   "text": "[[p:Ousmane Sonko]] demanded President [[p:Bassirou Diomaye Faye]] dissolve parliament on 2 Dec, the first legal date, and hold elections in 2027.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Mouhamed Diouf",
+   "outlet": "Senego",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Senego",
+     "url": "https://senego.com/sonko-defie-diomaye-quil-ait-le-courage-daller-aux-elections_2028471.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.leral.net/Ousmane-Sonko-Si-j-avais-les-pleins-pouvoirs-je-dissoudrais-l-Assemblee-le-2-decembre_a412290.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-35",
+   "segment": "Africa",
+   "country": "Niger",
+   "text": "An attack on a National Guard post at Sanam, Tillabéri, killed 13 soldiers.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Hamza Harouna Adamou",
+   "outlet": "ANP (Niger state agency)",
+   "opinion": "",
+   "thread": "Sahel jihadist insurgency and junta rule",
+   "links": [
+    {
+     "label": "ANP (Niger state agency)",
+     "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://kuwaittimes.com/article/54475/world/armed-men-kill-13-national-guard-members-in-western-niger/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-38",
+   "segment": "Africa",
+   "country": "Burkina Faso / Guinea / Mali",
+   "text": "Guinea's expulsion of over 76,000 Burkinabè gold miners split the [[p:Alliance of Sahel States]]: Mali backed Conakry.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "DW (via AllAfrica)",
+   "opinion": "partly analysis",
+   "thread": "Sahel jihadist insurgency and junta rule",
+   "links": [
+    {
+     "label": "DW (via AllAfrica)",
+     "url": "https://fr.allafrica.com/stories/202611240304.html"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.africaradio.com/actualite-117428-plus-de-68-000-burkinabe-rapatries-de-guinee-depuis-le-debut-des-operations-contre-l-orpaillage-illegal"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-42",
+   "segment": "Africa",
+   "country": "South Africa",
+   "text": "An ANC–[[p:ActionSA]]–EFF bloc re-elected Nasiphi Moya mayor of Tshwane; Johannesburg and Ekurhuleni vote on 27 Nov.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Reitumetse Pilane, Lunga Simelane",
+   "outlet": "Daily Maverick",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Daily Maverick",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-26-actionsa-takes-tshwane-mayor-as-coalitions-with-anc-set-to-sweep-gp-metros/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.citizen.co.za/news/south-africa/politics/anc-city-of-tshwane-council-speaker-position/"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261127-01",
+   "segment": "EU politics + cross-cutting",
+   "country": "European Union",
+   "text": "The [[p:European Council]] ended without a 2028–34 budget deal; the budget and €45bn Ukraine loan move to 17–18 Dec.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Jorge Liboreiro, Luca Bertuzzi",
+   "outlet": "Euronews",
+   "opinion": "",
+   "thread": "EU budget 2028–34",
+   "links": [
+    {
+     "label": "Euronews",
+     "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-04",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Russia / United States",
+   "text": "[[p:Volodymyr Zelenskyy]] warned of an imminent mass strike on the grid; [[p:Jared Kushner]] says talks are deadlocked on territory.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Samya Kullab, Elise Morton",
+   "outlet": "AP (via PBS)",
+   "opinion": "",
+   "thread": "Russia–Ukraine peace talks",
+   "links": [
+    {
+     "label": "AP (via PBS)",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://meduza.io/en/feature/2026/11/26/jared-kushner-says-putin-has-shown-restraint-in-ukraine-and-promised-not-to-use-nuclear-weapons"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-05",
+   "segment": "Russia–Ukraine & European security",
+   "country": "Ukraine / Estonia",
+   "text": "Russia launched 155 drones overnight, cutting power in six regions; NATO jets scrambled over Estonia.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Oksana Martsun",
+   "outlet": "Kyiv Post",
+   "opinion": "",
+   "thread": "Russia–Ukraine front line and long-range strikes",
+   "links": [
+    {
+     "label": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/91387"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://en.interfax.com.ua/news/general/1243228.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-02",
+   "segment": "Middle East",
+   "country": "Kuwait / Iran / Italy",
+   "text": "Drones killed two Italian [[p:Rheinmetall]] technicians in Kuwait; Kuwait blames Iran, which denies it.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Yomna Ehab, Elwely Elwelly, Angelo Amante",
+   "outlet": "Reuters (via Internazionale)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Reuters (via Internazionale)",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/two-italians-killed-in-iranian-drone-attack-in-kuwait-italy-says"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-06",
+   "segment": "Middle East",
+   "country": "Saudi Arabia / Yemen",
+   "text": "A [[p:Houthis|Houthi]] strike hit Saudi Arabia's Jazan refinery, killing a worker; the coalition claims 50 targets hit in Yemen.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Anadolu (via The Express Tribune)",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Anadolu (via The Express Tribune)",
+     "url": "https://tribune.com.pk/story/2642615/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-03",
+   "segment": "Middle East",
+   "country": "Israel",
+   "text": "[[p:Gadi Eisenkot]] signed up the Democrats, reaching 36 of 61 seats needed.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AFP (via Arab News)",
+   "opinion": "",
+   "thread": "Israeli election 2026",
+   "links": [
+    {
+     "label": "AFP (via Arab News)",
+     "url": "https://www.arabnews.com/middle-east/israels-eisenkot-and-left-wing-party-agree-coalition-deal-3014123"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.timesofisrael.com/liveblog-november-26-2026/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-07",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea",
+   "text": "[[p:Kim Jong Un]] toured nuclear-materials plants and called battlefield nuclear weapons urgent.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AP (via KPBS)",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "AP (via KPBS)",
+     "url": "https://www.kpbs.org/news/international/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-08",
+   "segment": "East & Southeast Asia",
+   "country": "North Korea / Russia",
+   "text": "Ukrainian intelligence claims North Korea has paused military aid to Russia; unconfirmed.",
+   "tier": 1,
+   "verification": "Claimed",
+   "reporter": "",
+   "outlet": "Kyiv Independent",
+   "opinion": "",
+   "thread": "Korean peninsula tensions",
+   "links": [
+    {
+     "label": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-09",
+   "segment": "East & Southeast Asia",
+   "country": "Japan / China",
+   "text": "Chinese coast guard ships approached a Japanese fishing boat near the Senkakus.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "",
+   "outlet": "AFP (via Taipei Times)",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "AFP (via Taipei Times)",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868473"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://english.news.cn/20261127/c5f5d44a109543a5b61b2c707acc8285/c.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261127-10",
+   "segment": "The Americas",
+   "country": "United States / China / Brazil / EU",
+   "text": "China and Brazil threatened responses to the proposed US [[e:Section 301 of the Trade Act of 1974|Section 301]] tariffs.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Zhang Chenxu, Zhong Nan, Lia Zhu",
+   "outlet": "China Daily (via Asia News Network)",
+   "opinion": "",
+   "thread": "US tariffs and trade deals",
+   "links": [
+    {
+     "label": "China Daily (via Asia News Network)",
+     "url": "https://asianews.network/china-opposes-proposed-us-tariffs/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/26/brasil-rejeita-tarifa-eua-avioes-acucar-cobra-promessa"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261127-01",
+   "title": "Nord-Kivu : le FRN poursuit la conquête des pêcheries du lac Edouard, Talihya est la quatrième",
+   "reporter": "Claude Sengenya",
+   "outlet": "Actualite.cd",
+   "url": "https://actualite.cd/2026/11/26/nord-kivu-le-frn-poursuit-la-conquete-des-pecheries-du-lac-edouard-talihya-est-la",
+   "why": "Ground-level sourcing on the FRN's push along Lake Edward, with the economics behind it: cut customs fees and coffee trade diverted to Uganda. It also debunks false social-media claims.",
+   "segment": "Africa",
+   "language": "French"
+  },
+  {
+   "readingId": "RL-261127-02",
+   "title": "Benghazi drone strike exposes deep mistrust stalling Libya's unity",
+   "reporter": "Kamal Tabikha",
+   "outlet": "The National",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/26/benghazi-drone-strike-exposes-deep-mistrust-stalling-libyas-unity/",
+   "why": "Explains how Ukraine's strike on a Russian warship in [[p:Khalifa Haftar]]'s east feeds east–west suspicion and stalls reunification talks. Mixes reporting and analysis.",
+   "segment": "Africa",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-27",
+   "text": "Armenia: publication of the draft new constitution, Azerbaijan's condition for signing the peace treaty.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261107-03"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "South Africa: new councils elect mayors in Johannesburg, Tshwane and Ekurhuleni, where an ANC–ActionSA–MK–EFF bloc may shut out the DA.",
+   "segment": "Africa",
+   "watchId": "W-261120-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "France: joint committee on the 2027 social security budget, 26 Nov, when the 50-day deadline expires; 49.3 or ordinance possible.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-04"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Turkey: [[p:Constitutional Court of Turkey|Constitutional Court]] plenary takes up [[p:Ekrem İmamoğlu]]'s application against his pretrial detention, 26 Nov.",
+   "segment": "Middle East",
+   "watchId": "W-261124-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Indonesia: police ethics hearing for [[p:Listyo Sigit Prabowo]], which may end in his dismissal, 26 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-01"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Hong Kong: first anniversary of the [[e:Wang Fuk Court fire]], 26 Nov; how police treat private memorials and Masses.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-08"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "Argentina: Senate vote on the electoral reform suspending the 2027 PASO primaries, and the Chamber's 2027 budget session, 26 Nov.",
+   "segment": "The Americas",
+   "watchId": "W-261126-03"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Georgia: opposition's nationwide rally in Tbilisi.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-11"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Serbia: Speaker Aleksandar Čupić calls the presidential election (20 or 27 Dec) by 27 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-08"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Taiwan local elections, 28 Nov, amid PLA pressure and Lai's warnings of Chinese interference.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-02"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Algeria local (APC/APW) elections, 28 Nov.",
+   "segment": "Africa",
+   "watchId": "W-261120-03"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Kazakhstan: snap maslikhat (local council) elections for 3,447 seats.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-10"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Iran's convoy of 14+ tankers off Kharg Island tries to run the US naval blockade.",
+   "segment": "Middle East",
+   "watchId": "W-261122-06"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Canada–US trade agreement after the restart of talks.",
+   "segment": "The Americas",
+   "watchId": "W-261105-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Spain general election, 29 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Rodrigo Duterte's ICC crimes-against-humanity trial opens in The Hague, 30 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Ecuador local elections (prefects, mayors, councillors, CPCCS), with Noboa campaigning for ADN.",
+   "segment": "The Americas",
+   "watchId": "W-261112-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Europe names its delegation (three to five officials) for the next round of Ukraine peace talks.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261115-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Gagauzia bashkan runoff on 29 Nov: [[p:Alexandr Stoianoglo]] against the Socialists' Fiodor Gagauz.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Apex committee meeting of the Pakistan–Saudi–Turkey [[e:Mecca defence pact|Mecca Joint Defence Agreement]] in Islamabad.",
+   "segment": "Middle East",
+   "watchId": "W-261117-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Maldives: final votes on the Ras Malé real-estate bill and three other government bills, and the opposition MDP's referendum rally.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-08"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Commission formally tables the 22nd Russia sanctions package; Denmark proposes an EU-wide tourist visa ban on Russians.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261122-01"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Possible visit by the French, German and British national security advisers to Moscow at [[p:Yuri Ushakov]]'s invitation.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261123-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Guinea: indirect regional elections on 29 Nov, then senatorial elections on 20 Dec.",
+   "segment": "Africa",
+   "watchId": "W-261127-02"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Mali: JNIM's 27 Nov deadline for residents to leave Tonka (Timbuktu region), after which it threatens a blockade.",
+   "segment": "Africa",
+   "watchId": "W-261127-04"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Bangladesh: [[p:Sheikh Hasina]]'s stated plan to return from India in December, India's extradition decision and further Awami League lockdowns.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-14"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Israel: whether [[p:Gadi Eisenkot]] brings a minority 'national emergency government' to a Knesset vote if Likud talks fail.",
+   "segment": "Middle East",
+   "watchId": "W-261124-02"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Sweden: third Riksdag prime-minister vote, on [[p:Ulf Kristersson]], 30 Nov; a fourth failure would force a snap election.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261126-04"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Somalia: electoral commission's 30 Nov deadline for party registration, under the government's timetable of a parliamentary vote on 15 Apr and a presidential vote on 15 May 2027.",
+   "segment": "Africa",
+   "watchId": "W-261127-03"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Estonia's closure of all Russian border crossings takes effect; the government decides whether it is temporary or indefinite.",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261116-02"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Japan: upper-house censure motion against Education Minister Seki Yoshihiro, and whether the opposition boycott stalls the food consumption-tax cut.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261125-06"
+  },
+  {
+   "date": "2026-12-03",
+   "text": "Senegal: 2 Dec is the first day President [[p:Bassirou Diomaye Faye]] can legally dissolve the National Assembly, as [[p:Ousmane Sonko]] demands early elections.",
+   "segment": "Africa",
+   "watchId": "W-261127-01"
+  },
+  {
+   "date": "2026-12-04",
+   "text": "Pentagon recommendation on US force posture in Europe (possible drawdown of 25,000–40,000).",
+   "segment": "Russia–Ukraine & European security",
+   "watchId": "W-261026-05"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Eritrea (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Djibouti",
+   "status": "quiet"
+  },
+  {
+   "country": "Rwanda",
+   "status": "quiet"
+  },
+  {
+   "country": "Burundi (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Chad",
+   "status": "quiet"
+  },
+  {
+   "country": "Uganda (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Egypt",
+   "status": "quiet"
+  },
+  {
+   "country": "Morocco",
+   "status": "quiet"
+  },
+  {
+   "country": "Côte d'Ivoire",
+   "status": "quiet"
+  },
+  {
+   "country": "Benin",
+   "status": "quiet"
+  },
+  {
+   "country": "Ghana",
+   "status": "quiet"
+  },
+  {
+   "country": "Malawi",
+   "status": "quiet"
+  },
+  {
+   "country": "Madagascar",
+   "status": "quiet"
+  },
+  {
+   "country": "Burkina Faso (domestic)",
+   "status": "quiet"
+  },
+  {
+   "country": "Central African Republic",
+   "status": "no sources found"
+  },
+  {
+   "country": "Sierra Leone",
+   "status": "no sources found"
+  },
+  {
+   "country": "Liberia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Zambia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Angola",
+   "status": "no sources found"
+  },
+  {
+   "country": "Namibia",
+   "status": "no sources found"
+  },
+  {
+   "country": "Botswana",
+   "status": "no sources found"
+  }
+ ],
+ "sources": [
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/26/benghazi-drone-strike-exposes-deep-mistrust-stalling-libyas-unity/",
+   "paywalled": false
+  },
+  {
+   "title": "foxnews.com",
+   "url": "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya",
+   "paywalled": false
+  },
+  {
+   "title": "Actualite.cd",
+   "url": "https://actualite.cd/2026/11/25/rdc-lambassadeur-ougandais-convoque-une-nouvelle-fois-apres-une-serie-de-messages-du",
+   "paywalled": false
+  },
+  {
+   "title": "afreeque.com",
+   "url": "https://afreeque.com/fr/news/le-general-ougandais-muhoozi-affirme-avoir-ordonne-une-incursion-en-rdc",
+   "paywalled": false
+  },
+  {
+   "title": "SOS Médias Burundi",
+   "url": "https://actualite.cd/2026/11/25/hauts-plateaux-duvira-les-villages-rurambo-et-munanira-passes-sous-controle-des-rebelles",
+   "paywalled": false
+  },
+  {
+   "title": "sosmediasburundi.org",
+   "url": "https://www.sosmediasburundi.org/2026/11/25/sud-kivu-le-frn-reprend-rurambo-et-munanira-les-forces-burundaises-et-congolaises-sous-pression/",
+   "paywalled": false
+  },
+  {
+   "title": "ECDC",
+   "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026",
+   "paywalled": false
+  },
+  {
+   "title": "radiookapi.net",
+   "url": "https://www.radiookapi.net/2026/11/27/actualite/sante/ebola-en-ituri-50-millions-usd-de-la-banque-mondiale-pour-appuyer-les",
+   "paywalled": false
+  },
+  {
+   "title": "Critical Threats Project",
+   "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-november-24-2026",
+   "paywalled": false
+  },
+  {
+   "title": "Asharq Al-Awsat",
+   "url": "https://english.aawsat.com/arab-world/5345876-khartoum-rejects-addis-ababa%E2%80%99s-initiative-end-sudan%E2%80%99s-war",
+   "paywalled": false
+  },
+  {
+   "title": "garoweonline.com",
+   "url": "https://www.garoweonline.com/en/news/somalia/ethiopia-offers-to-host-inclusive-dialogue-to-end-sudans-war",
+   "paywalled": false
+  },
+  {
+   "title": "thenationalnews.com",
+   "url": "https://www.thenationalnews.com/news/mena/2026/11/25/sudan-war-grinds-on-with-rsf-seeking-to-stretch-safs-resources-thin/",
+   "paywalled": false
+  },
+  {
+   "title": "Garowe Online",
+   "url": "https://www.garoweonline.com/en/news/somalia/somalia-house-speaker-raises-alarm-over-alleged-regional-plot-against-mogadishu",
+   "paywalled": false
+  },
+  {
+   "title": "Somalia Today",
+   "url": "https://somaliatoday.com/politics/exclusive-somalia-denies-uganda-will-mediate-election-dispute-2026-11-24/",
+   "paywalled": false
+  },
+  {
+   "title": "somaliguardian.com",
+   "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-accepts-museveni-mediated-election-dialogue/",
+   "paywalled": false
+  },
+  {
+   "title": "Yabiladi",
+   "url": "https://en.yabiladi.com/articles/details/208413/mauritanian-army-detains-polisario-fighters.html",
+   "paywalled": false
+  },
+  {
+   "title": "en.hespress.com",
+   "url": "https://en.hespress.com/149725-mauritania-seizes-weapons-from-polisario-fighters-after-reported-border-incursion.html",
+   "paywalled": false
+  },
+  {
+   "title": "AfricActu",
+   "url": "https://www.africactu.com/politique/guinee-bissau-elections-reportees-2028/",
+   "paywalled": false
+  },
+  {
+   "title": "tchadinfos.com",
+   "url": "https://tchadinfos.com/2026/11/26/guinee-bissau-un-an-apres-le-coup-detat-la-transition-militaire-dans-limpasse/",
+   "paywalled": false
+  },
+  {
+   "title": "Senego",
+   "url": "https://senego.com/sonko-defie-diomaye-quil-ait-le-courage-daller-aux-elections_2028471.html",
+   "paywalled": false
+  },
+  {
+   "title": "leral.net",
+   "url": "https://www.leral.net/Ousmane-Sonko-Si-j-avais-les-pleins-pouvoirs-je-dissoudrais-l-Assemblee-le-2-decembre_a412290.html",
+   "paywalled": false
+  },
+  {
+   "title": "ANP (Niger state agency)",
+   "url": "https://anp.ne/sanam-tillaberi-une-attaque-terroriste-contre-la-garde-nationale-fait-13-morts-et-plusieurs-assaillants-neutralises/",
+   "paywalled": false
+  },
+  {
+   "title": "kuwaittimes.com",
+   "url": "https://kuwaittimes.com/article/54475/world/armed-men-kill-13-national-guard-members-in-western-niger/",
+   "paywalled": false
+  },
+  {
+   "title": "DW (via AllAfrica)",
+   "url": "https://fr.allafrica.com/stories/202611240304.html",
+   "paywalled": false
+  },
+  {
+   "title": "africaradio.com",
+   "url": "https://www.africaradio.com/actualite-117428-plus-de-68-000-burkinabe-rapatries-de-guinee-depuis-le-debut-des-operations-contre-l-orpaillage-illegal",
+   "paywalled": false
+  },
+  {
+   "title": "Daily Maverick",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-26-actionsa-takes-tshwane-mayor-as-coalitions-with-anc-set-to-sweep-gp-metros/",
+   "paywalled": false
+  },
+  {
+   "title": "citizen.co.za",
+   "url": "https://www.citizen.co.za/news/south-africa/politics/anc-city-of-tshwane-council-speaker-position/",
+   "paywalled": false
+  },
+  {
+   "title": "Euronews",
+   "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
+   "paywalled": false
+  },
+  {
+   "title": "en.politis.com.cy",
+   "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via PBS)",
+   "url": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid",
+   "paywalled": false
+  },
+  {
+   "title": "meduza.io",
+   "url": "https://meduza.io/en/feature/2026/11/26/jared-kushner-says-putin-has-shown-restraint-in-ukraine-and-promised-not-to-use-nuclear-weapons",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Post",
+   "url": "https://www.kyivpost.com/post/91387",
+   "paywalled": false
+  },
+  {
+   "title": "en.interfax.com.ua",
+   "url": "https://en.interfax.com.ua/news/general/1243228.html",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via Internazionale)",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/two-italians-killed-in-iranian-drone-attack-in-kuwait-italy-says",
+   "paywalled": false
+  },
+  {
+   "title": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+   "paywalled": false
+  },
+  {
+   "title": "Anadolu (via The Express Tribune)",
+   "url": "https://tribune.com.pk/story/2642615/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen",
+   "paywalled": false
+  },
+  {
+   "title": "thenationalnews.com",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Arab News)",
+   "url": "https://www.arabnews.com/middle-east/israels-eisenkot-and-left-wing-party-agree-coalition-deal-3014123",
+   "paywalled": false
+  },
+  {
+   "title": "timesofisrael.com",
+   "url": "https://www.timesofisrael.com/liveblog-november-26-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via KPBS)",
+   "url": "https://www.kpbs.org/news/international/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+   "paywalled": false
+  },
+  {
+   "title": "Kyiv Independent",
+   "url": "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/",
+   "paywalled": false
+  },
+  {
+   "title": "AFP (via Taipei Times)",
+   "url": "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868473",
+   "paywalled": false
+  },
+  {
+   "title": "english.news.cn",
+   "url": "https://english.news.cn/20261127/c5f5d44a109543a5b61b2c707acc8285/c.html",
+   "paywalled": false
+  },
+  {
+   "title": "China Daily (via Asia News Network)",
+   "url": "https://asianews.network/china-opposes-proposed-us-tariffs/",
+   "paywalled": false
+  },
+  {
+   "title": "tvsimbrasil.com.br",
+   "url": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/26/brasil-rejeita-tarifa-eua-avioes-acucar-cobra-promessa",
+   "paywalled": false
+  }
+ ]
+}
