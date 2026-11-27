@@ -2969,6 +2969,28 @@
    "checkDate": "2027-03-31",
    "happened": "",
    "eventId": "E-261127-44"
+  },
+  {
+   "id": "W-261127-17",
+   "dateAdded": "2026-11-27",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "Delivery of Poland's 13th and 14th F-35A by the end of 2026",
+   "expected": "Polish Defence Ministry (Radio Łódź, Nov 26): 14 aircraft in Poland by end-2026",
+   "checkDate": "2026-12-31",
+   "happened": "",
+   "eventId": "E-261127-56"
+  },
+  {
+   "id": "W-261127-18",
+   "dateAdded": "2026-11-27",
+   "place": "US–Poland",
+   "domain": "Defense, security & crime",
+   "what": "First joint projects (drones, counter-drone) announced under the new US–Poland defence RDT&E agreement",
+   "expected": "Gen. Marcin Górka / MON (Notes from Poland, Nov 24); no date given",
+   "checkDate": "2027-02-28",
+   "happened": "",
+   "eventId": "E-261127-55"
   }
  ]
 }
