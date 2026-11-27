@@ -399,6 +399,14 @@
    "domain": "Technology, AI & cyber",
    "status": "Active",
    "summary": "A run of incidents against US federal systems in late 2026, including the NSANet outage, the FBI NCIC hack, USDA, CIA/ODNI and FinCEN breaches, plus the White House response and leadership changes at ONCD and NSA."
+  },
+  {
+   "id": "eu-2028-2034-budget-talks",
+   "name": "EU 2028–2034 budget talks",
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "Active",
+   "summary": "Negotiations on the EU's 2028–34 multiannual financial framework and Poland's fight against cuts to cohesion and farm funds and to the ETS revenue split, plus Ukraine financing."
   }
  ]
 }

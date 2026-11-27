@@ -2815,6 +2815,50 @@
    "checkDate": "2026-12-28",
    "happened": "",
    "eventId": "E-261127-01"
+  },
+  {
+   "id": "W-261127-03",
+   "dateAdded": "2026-11-27",
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "what": "December European Council resumes talks on the 2028–34 MFF and the €45bn Ukraine loan for 2027",
+   "expected": "Costa (Nov 27): leaders return in December",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261127-13"
+  },
+  {
+   "id": "W-261127-04",
+   "dateAdded": "2026-11-27",
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "what": "G20 decision on Poland's permanent membership at the Miami summit",
+   "expected": "Interia sources: vote possible Dec 14–15",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261127-16"
+  },
+  {
+   "id": "W-261127-05",
+   "dateAdded": "2026-11-27",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Whether Warsaw city hall appeals the court ruling on the Tribunal protest camp, and the PiS rally at the Tribunal on Sunday Nov 29",
+   "expected": "Court gave the city 24 hours to appeal; Kaczyński called the rally for 15:00 Sunday",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261127-17"
+  },
+  {
+   "id": "W-261127-06",
+   "dateAdded": "2026-11-27",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "If the abortion bill is vetoed, Sejm Marshal Czarzasty asks the Constitutional Tribunal for an interpretation",
+   "expected": "Czarzasty (Nov 26)",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": "E-261127-14"
   }
  ]
 }
