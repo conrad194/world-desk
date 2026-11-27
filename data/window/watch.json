@@ -2892,6 +2892,83 @@
    "checkDate": "2026-12-10",
    "happened": "",
    "eventId": "E-261127-23"
+  },
+  {
+   "id": "W-261127-10",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Union Cabinet decision on the revised delimitation/women's quota amendment, its introduction in Lok Sabha, and whether it gets two-thirds in both Houses",
+   "expected": "Rijiju: sittings Nov 30–Dec 3; PTI sources: Cabinet Nov 27",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261127-35"
+  },
+  {
+   "id": "W-261127-11",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Bombay HC interim order on Tata Trusts' suits against Chandrasekaran's reappointment, and whether the casting vote is used at the Nov 30 Tata Sons board",
+   "expected": "Justice Abhay Ahuja listed it for Nov 27 (LawBeat)",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261127-40"
+  },
+  {
+   "id": "W-261127-12",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "SC order on the Thiruparankundram contempt pleas (notice to officials? fresh lamp date?)",
+   "expected": "Listed Nov 27 (The Hindu via BozokMedia)",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261127-38"
+  },
+  {
+   "id": "W-261127-13",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Economy, business & markets",
+   "what": "Official Q2 FY27 (July–Sept) GDP estimate vs ~7.6% consensus",
+   "expected": "MoSPI release Nov 30",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": "E-261127-48"
+  },
+  {
+   "id": "W-261127-14",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Tripura civic poll results (268 seats, 16 ULBs)",
+   "expected": "Counting Dec 3 (Tripura SEC via PTI)",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261127-47"
+  },
+  {
+   "id": "W-261127-15",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "Delhi HC hearing on Saurav Das's plea against the travel bar/LOC",
+   "expected": "Justice Amit Mahajan listed it for Dec 9",
+   "checkDate": "2026-12-09",
+   "happened": "",
+   "eventId": "E-261127-42"
+  },
+  {
+   "id": "W-261127-16",
+   "dateAdded": "2026-11-27",
+   "place": "India",
+   "domain": "Health, medicine & food safety",
+   "what": "FSSAI draft and final front-of-pack nutrition labelling regulations",
+   "expected": "FSSAI timeline accepted by the SC: about four months",
+   "checkDate": "2027-03-31",
+   "happened": "",
+   "eventId": "E-261127-44"
   }
  ]
 }

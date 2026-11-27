@@ -2975,6 +2975,18 @@
    "lean": "Nonprofit (States Newsroom network)",
    "status": "Watch",
    "dateAdded": "2026-11-27"
+  },
+  {
+   "id": "lawchakra",
+   "name": "LawChakra",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Supreme Court and High Court reporting",
+   "language": "English",
+   "url": "https://lawchakra.in",
+   "lean": "Neutral/legal",
+   "status": "Watch",
+   "dateAdded": "2026-11-27"
   }
  ]
 }

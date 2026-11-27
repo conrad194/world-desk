@@ -1071,6 +1071,38 @@
    "newsLink": "https://www.business-standard.com/industry/news/cabinet-approves-11-000-cr-scheme-for-construction-equipment-manufacturing-126112500797_1.html",
    "eventId": "E-261126-33",
    "lastChecked": "2026-11-26"
+  },
+  {
+   "id": "R-261127-01",
+   "dateLogged": "2026-11-27",
+   "place": "India",
+   "body": "Union Government / Parliament",
+   "name": "Constitution (131st Amendment) Bill and Delimitation Bill, 2026 (revised women's reservation package)",
+   "changes": "Raises the Lok Sabha cap from 550 to 850 seats, restores population-proportional seat allocation, and lets the one-third women's quota start after delimitation on the 2011 Census instead of waiting for a new Census.",
+   "affects": "All voters and states; shifts seats between states; brings women's reservation into the 2029 Lok Sabha election.",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.business-standard.com/india-news/delimitation-bill-what-it-proposes-for-lok-sabha-and-women-s-quota-rollout-126112700215_1.html",
+   "eventId": "E-261127-35",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "id": "R-261127-02",
+   "dateLogged": "2026-11-27",
+   "place": "India",
+   "body": "FSSAI",
+   "name": "Front-of-pack nutrition labelling (FoPNL) regulations",
+   "changes": "Packaged foods would carry a front-of-pack nutrition graphic; FSSAI to draft and finalise rules in about four months under SC supervision.",
+   "affects": "Packaged-food makers and consumers",
+   "stage": "Proposed",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://theprint.in/india/timeline-proposed-by-fssai-for-bringing-fopnl-regulations-into-force-reasonable-sc/3110111/",
+   "eventId": "E-261127-44",
+   "lastChecked": "2026-11-27"
   }
  ]
 }
