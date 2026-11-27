@@ -1,0 +1,1323 @@
+{
+ "date": "2026-11-27",
+ "top5": [
+  {
+   "text": "EU leaders ended their budget summit early Friday with no 2028–34 deal; 24 states backed a €45bn Ukraine loan for 2027. Poland objects to sending ETS revenue to Brussels. Talks resume in December.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/fundusze-europejskie/art45551131-wciaz-nie-ma-porozumienia-w-sprawie-budzetu-ue"
+    }
+   ]
+  },
+  {
+   "text": "Deadline day: no decision yet from President Nawrocki on the PIT/CIT reform, the two abortion bills or the judges' status act.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/prawo-w-polsce/art45547111-ustawa-aborcyjna-czarzasty-jesli-prezydent-ja-zawetuje-poprosze-tk-o-wykladnie"
+    }
+   ]
+  },
+  {
+   "text": "India recalled Parliament for Nov 30–Dec 3, reportedly to retry the delimitation-linked women's quota amendment that failed in April.",
+   "place": "India",
+   "links": [
+    {
+     "label": "ETV Bharat / Business Standard (PTI) / The Week",
+     "url": "https://www.etvbharat.com/en/bharat/govt-to-convene-special-session-of-parliament-from-november-30-to-december-3-rijiju-enn26112607445"
+    }
+   ]
+  },
+  {
+   "text": "Goyal says the India–US trade deal is 'close to culmination', two days after USTR proposed 25% tariffs (17% with a deal).",
+   "place": "US–India",
+   "links": [
+    {
+     "label": "PTI via Business Standard",
+     "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html"
+    }
+   ]
+  },
+  {
+   "text": "Kraków's ring road is complete after the Mistrzejowice connectors opened, but ministers offered no money for the paused metro.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "Interia Motoryzacja",
+     "url": "https://motoryzacja.interia.pl/polskie-drogi/news-wezel-mistrzejowice-otwarty-krakow-ma-juz-pelna-obwodnice,nId,23579386"
+    },
+    {
+     "label": "TVN24",
+     "url": "https://tvn24.pl/krakow/metro-w-krakowie-na-razie-musi-poczekac-miasto-chce-rzadowych-gwarancji-st9358082"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261127-01",
+    "domain": "Law, courts & regulation",
+    "text": "A federal judge blocked the FCC's early review of ABC's station licences, finding the probe likely retaliation for Kimmel jokes; the FCC called the ruling wrong.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "TIME",
+      "url": "https://time.com/article/2026/11/26/fcc-abc-disney-broadcast-license-early-review-judge-injunction/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-03",
+    "domain": "Law, courts & regulation",
+    "text": "A Brooklyn jury convicted Huawei on 10 of 12 counts, including fraud, trade-secret theft conspiracy and Iran sanctions violations; sentencing is in September 2027.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Fox Business",
+      "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cnn.com/2026/11/24/china/china-huawei-iran-conviction-intl-hnk"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-05",
+    "domain": "Technology, AI & cyber",
+    "text": "The Washington Post reports Pentagon leaders discussed using the Defense Production Act to press Nvidia's board to bring back Huang; the Pentagon denies it.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Nvidia leadership crisis",
+    "links": [
+     {
+      "label": "The Washington Post",
+      "url": "https://www.yahoo.com/news/politics/articles/hegseth-pentagon-officials-floated-using-043331833.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-06",
+    "domain": "Environment, energy & disasters",
+    "text": "Thanksgiving storms cut power to 900,000+ customers, triggered emergencies in New Jersey and New York and pushed the Macy's parade to Saturday.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "AP via Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
+     },
+     {
+      "label": "Second source",
+      "url": "https://nj.gov/governor/news/2026/approved/20261125a.shtml"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261127-13",
+    "domain": "Foreign relations",
+    "text": "EU leaders ended the budget summit early Friday without a 2028–34 deal; most opposed further cuts, 24 states backed a €45bn Ukraine loan for 2027, and talks resume in December.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "EU 2028–2034 budget talks",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/fundusze-europejskie/art45551131-wciaz-nie-ma-porozumienia-w-sprawie-budzetu-ue"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wiadomosci.wp.pl/costa-nie-ma-porozumienia-ws-nowego-budzetu-ue-7355352792639648a"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-14",
+    "domain": "Politics & government",
+    "text": "Czarzasty says he will ask the Tribunal for an interpretation if Nawrocki vetoes the abortion bill; no presidential decision on abortion, judges or PIT/CIT bills found by Friday morning, the deadline.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland abortion law",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://www.rp.pl/prawo-w-polsce/art45547111-ustawa-aborcyjna-czarzasty-jesli-prezydent-ja-zawetuje-poprosze-tk-o-wykladnie"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.pit.pl/aktualnosci/prezydent-ma-czas-tylko-do-jutra-chodzi-o-nowe-progi-podatkowe-dla-milionow-polakow"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-17",
+    "domain": "Law, courts & regulation",
+    "text": "A Warsaw court overturned the city's refusal to extend the pro-PiS protest camp at the Constitutional Tribunal; Kaczyński called a rally there for Sunday; the city may appeal.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/co-dalej-z-protestem-pod-trybunalem-konstytucyjnym-jest-decyzja-sadu/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-sad-uchylil-decyzje-warszawskiego-ratusza-jaroslaw-kaczynski,nId,23579759"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-18",
+    "domain": "Law, courts & regulation",
+    "text": "Korwin-Piotrowska says Święczkowski and Sochański cannot appeal the lifting of their immunity; the government will pay Tribunal bills via a BGK account while NBP's freeze continues.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/nowy-komunikat-korwin-piotrowskiej-zazalenie-nie-przysluguje/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-swieczkowski-uderza-w-glapinskiego-popelnia-olbrzymi-blad,nId,23577914"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-19",
+    "domain": "Politics & government",
+    "text": "Konfederacja is notifying prosecutors about Interior Minister Kierwiński after TVN24+ found most of his 2023 campaign money came from people tied to state firms; he has not commented.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-minister-kierwinski-w-cieniu-powaznych-podejrzen-113-osob-z-,nIdn,1027842"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wiadomosci.wp.pl/czarne-chmury-nad-kierwinskim-konfederacja-zawiadamia-prokurature-7355284510931040a"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261127-22",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Kraków's expressway ring road is complete: the S7/S52 Mistrzejowice connectors opened on 26 Nov, with a closed lane towards Warsaw and finishing works until end-2026.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Interia Motoryzacja",
+      "url": "https://motoryzacja.interia.pl/polskie-drogi/news-wezel-mistrzejowice-otwarty-krakow-ma-juz-pelna-obwodnice,nId,23579386"
+     },
+     {
+      "label": "Second source",
+      "url": "https://lovekrakow.pl/to-juz-krakow-ma-pelna-obwodnice-kierowcy-pojechali-nowa-trasa"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-23",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Government ministers voiced support for a Kraków metro at the ring-road opening but offered no money or written guarantee; Gibała keeps the metro on hold.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków metro halt",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/krakow/metro-w-krakowie-na-razie-musi-poczekac-miasto-chce-rzadowych-gwarancji-st9358082"
+     },
+     {
+      "label": "Second source",
+      "url": "https://lovekrakow.pl/lukasz-gibala-o-metrze-i-obwodnicy-jedno-i-drugie-jest-nam-potrzebne"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-24",
+    "domain": "Environment, energy & disasters",
+    "text": "IMGW warns of up to 20 cm of snow in Kraków until 18:00 Friday; MPO has 218 machines out, three bus lines are shortened, and -12°C frost is forecast for Sunday.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/malopolska/malopolske-czekaja-intensywne-opady-sniegu-drogowcy-zapewniaja-ze-sa-gotowi/188239"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.pl/aktualnosci/347521,29,komunikat,uwaga_na_intensywne_opady_sniegu__ostrzezenie_dla_krakowa.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-26",
+    "domain": "Defense, security & crime",
+    "text": "Prosecutors have questioned about 250 witnesses to the Kraków attack and are checking a 'foreign thread'; motive still unknown, toxicology due in 2-3 weeks.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "KRKnews (PAP)",
+      "url": "https://krknews.pl/nowe-informacje-po-zamachu-w-krakowie-sledczy-przesluchuja-swiadkow/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-nowe-ustalenia-w-sprawie-strzelaniny-na-rynku-glownym-w-krak,nIdn,1026985"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261127-35",
+    "domain": "Politics & government",
+    "text": "The government recalled Parliament for Nov 30–Dec 3, reportedly to retry the delimitation-linked women's quota amendment that failed in April; the opposition says it is a defection-fuelled grab for two-thirds.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Delimitation and women's reservation amendment",
+    "links": [
+     {
+      "label": "ETV Bharat / Business Standard (PTI) / The Week",
+      "url": "https://www.etvbharat.com/en/bharat/govt-to-convene-special-session-of-parliament-from-november-30-to-december-3-rijiju-enn26112607445"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.theweek.in/news/india/2026/11/26/parliament-special-session-november-opposition.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-38",
+    "domain": "Law, courts & regulation",
+    "text": "TN told the SC the Thiruparankundram pillar lamp wasn't lit because temple trustees refused; the Collector apologised and contempt pleas targeting officials and CM Vijay's role are listed Nov 27.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Thiruparankundram deepam dispute",
+    "links": [
+     {
+      "label": "LawChakra / Bar & Bench / The Hindu (via BozokMedia)",
+      "url": "https://www.barandbench.com/news/litigation/thiruparankundram-contempt-plea-in-supreme-court-seeks-disclosure-of-cm-vijays-role-in-non-compliance-with-lamp-lighting-order"
+     },
+     {
+      "label": "Second source",
+      "url": "https://lawchakra.in/supreme-court/thiruparankundram-contempt/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-40",
+    "domain": "Economy, business & markets",
+    "text": "Tata Trusts sued in the Bombay HC to void Chandrasekaran's third term as Tata Sons chairman, seeking ₹65 crore and a bar on casting votes; hearing Nov 27.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LawBeat / Outlook / Bloomberg",
+      "url": "https://lawbeat.in/news-updates/tata-trusts-vs-tata-sons-challenge-to-n-chandrasekarans-reappointment-as-executive-chairman-reaches-bombay-high-court-1655316"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.outlookindia.com/national/tata-trusts-challenge-chandrasekaran-third-term-tata-sons-chairman-bombay-hc-65-crore"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-39",
+    "domain": "Politics & government",
+    "text": "The EC told 27 states and UTs to cross-check voter rolls against SIR data during the summary revision, with signed Form 8 required for any correction.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "Opposition vs Election Commission over SIR",
+    "links": [
+     {
+      "label": "The Federal",
+      "url": "https://thefederal.com/category/news/ec-asks-27-states-uts-to-verify-voter-roll-entries-against-sir-data-during-ssr-264121"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-44",
+    "domain": "Health, medicine & food safety",
+    "text": "The Supreme Court accepted FSSAI's roughly four-month timeline to finalise front-of-pack nutrition labels on packaged food and warned against further delay.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "PTI (via ThePrint)",
+      "url": "https://theprint.in/india/timeline-proposed-by-fssai-for-bringing-fopnl-regulations-into-force-reasonable-sc/3110111/"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Weather",
+   "text": "IMGW level-1 heavy-snow warning until 18:00 today (Fri): 10-15 cm, locally 20 cm. Then hard frost: about -8°C Sat, down to about -12°C Sun night; expect ice.",
+   "link": "https://krakow.pl/aktualnosci/347521,29,komunikat,uwaga_na_intensywne_opady_sniegu__ostrzezenie_dla_krakowa.html"
+  },
+  {
+   "kind": "Transit",
+   "text": "Snow: MPK shortened bus lines 245, 215 and 214 on Thursday; allow extra time. Report icy streets or pavements to the MPO dispatch, 24h: 12 646 23 61.",
+   "link": "https://radiokrakow.pl/wiadomosci/malopolska/malopolske-czekaja-intensywne-opady-sniegu-drogowcy-zapewniaja-ze-sa-gotowi/188239"
+  },
+  {
+   "kind": "Transit",
+   "text": "Ring road complete: the S7/S52 Mistrzejowice connectors are open, but the left lane towards Warsaw (Nowa Huta–Mistrzejowice) is closed and temporary traffic rules apply.",
+   "link": "https://motoryzacja.interia.pl/polskie-drogi/news-wezel-mistrzejowice-otwarty-krakow-ma-juz-pelna-obwodnice,nId,23579386"
+  },
+  {
+   "kind": "Transit",
+   "text": "From Sat 5 Dec: trams 1, 3, 8, 20 every 10 min on Saturdays and holidays (about 10:00-19:00); line 78 more frequent.",
+   "link": "https://lovekrakow.pl/tramwaje-beda-kursowac-czesciej-zmiany-od-grudnia"
+  },
+  {
+   "kind": "Closure",
+   "text": "New restrictions at the P+R Bronowice site and on ul. Balicka from Mon 30 Nov (unverified; check ZDMK).",
+   "link": "https://krknews.pl/nowe-utrudnienia-przy-budowie-pr-bronowice-zmiany-od-30-listopada/"
+  },
+  {
+   "kind": "Event",
+   "text": "Christmas market on Rynek Główny opens today (Sun–Thu 9:00–22:00, Fri–Sat to 23:00); official opening Sat 28 Nov 12:00 with Trebunie-Tutki. 20% food discount with Karta Krakowska.",
+   "link": "https://krakowportal.pl/weekend-krakow-27-29-listopada-2026/"
+  },
+  {
+   "kind": "Air quality",
+   "text": "No air readings retrieved this run; weekend frost and calm air tend to raise PM10.",
+   "link": "https://powietrze.malopolska.pl/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261127-55",
+    "domain": "Defense, security & crime",
+    "text": "Poland and the US sign a defence R&D and testing agreement at the Pentagon after 17 years of talks, with joint drone and counter-drone work planned.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Notes from Poland",
+      "url": "https://notesfrompoland.com/2026/11/24/poland-and-us-sign-defence-technology-cooperation-agreement/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://deon24.com/2026/11/26/polska-i-usa-podpisaly-przelomowa-umowe-wojskowa-koniec-17-lat-negocjacji/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-57",
+    "domain": "Foreign relations",
+    "text": "Trump says he told Putin to pull back 'military aggression' in Europe; Polish outlets note Washington still hasn't commented on the airspace violations.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US–Poland and Ukraine diplomacy",
+    "links": [
+     {
+      "label": "WP Wiadomości; TVN24 (PAP)",
+      "url": "https://wiadomosci.wp.pl/trump-mowilem-putinowi-zeby-zaprzestal-wszelkiej-agresji-w-europie-7355223305136288a"
+     },
+     {
+      "label": "Second source",
+      "url": "https://tvn24.pl/swiat/donald-trump-zaapelowal-do-wladimira-putina-o-zaprzestanie-agresji-w-europie-st9359509"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261127-50",
+    "domain": "Trade & tariffs",
+    "text": "Goyal says the India–US trade deal is 'close to culmination' and the path to finalising it is taking shape, two days after USTR's 25%/17% Section 301 proposal; no date given.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "PTI via Business Standard",
+      "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://english.metrovaartha.com/news/national/india-us-trade-deal-is-close-to-culmination-goyal"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261127-52",
+    "domain": "Society: education, labor, immigration",
+    "text": "MEA says 1,700 Indians have been deported from the US so far in 2026 and India cooperates on returns; 2025 saw 3,567, a 16-year high.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/immigration/1-700-indians-deported-by-us-in-2026-3-000-offered-for-voluntary-exit-126112600121_1.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.dnaindia.com/world/report-mea-responds-after-us-deports-1700-indians-says-india-opposes-illegal-migration-3224636"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261127-01",
+   "name": "Constitution (131st Amendment) Bill and Delimitation Bill, 2026 (revised women's reservation package)",
+   "place": "India",
+   "body": "Union Government / Parliament",
+   "stage": "Proposed",
+   "changes": "Raises the Lok Sabha cap from 550 to 850 seats, restores population-proportional seat allocation, and lets the one-third women's quota start after delimitation on the 2011 Census instead of waiting for a new Census.",
+   "affects": "All voters and states; shifts seats between states; brings women's reservation into the 2029 Lok Sabha election.",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.business-standard.com/india-news/delimitation-bill-what-it-proposes-for-lok-sabha-and-women-s-quota-rollout-126112700215_1.html"
+  },
+  {
+   "id": "R-261127-02",
+   "name": "Front-of-pack nutrition labelling (FoPNL) regulations",
+   "place": "India",
+   "body": "FSSAI",
+   "stage": "Proposed",
+   "changes": "Packaged foods would carry a front-of-pack nutrition graphic; FSSAI to draft and finalise rules in about four months under SC supervision.",
+   "affects": "Packaged-food makers and consumers",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://theprint.in/india/timeline-proposed-by-fssai-for-bringing-fopnl-regulations-into-force-reasonable-sc/3110111/"
+  }
+ ],
+ "deepDive": {
+  "domain": "Foreign relations",
+  "title": "Three relationships in one week: Poland builds ties, India waits, and Warsaw and Delhi move slowly",
+  "body": "**US–Poland: defence ties deepen while political messages diverge.** This week brought solid defence deliverables. Deputy minister Cezary Tomczyk signed a [defence R&D agreement](https://notesfrompoland.com/2026/11/24/poland-and-us-sign-defence-technology-cooperation-agreement/) at the Pentagon after 17 years of talks, on Nov 19 the State Department told him it would support Polish efforts on the base and Tomahawk purchase, and two more F-35s reached Łask. The headline item has slipped, though. Deputy minister Zalewski now expects the White House decision on permanently stationing US troops around the turn of the year, not in early December. The two governments have also differed openly. Tusk called the Nov 20 Kh-101 incursion a provocation and said he does not always share the US reading. Klich briefed the NSC, but no US statement on the incursion followed. Trump told Putin to stop 'aggression' in Europe without naming Poland.\n\n**US–India: the relationship turns on the trade deal.** USTR's proposal of 25% on Indian goods, or 17% with a deal, has made the deal the centre of the relationship. On Nov 27 Goyal said it was 'close to culmination', and exporters want it done before the January hearings. The defence and Quad agenda has been quiet since Manila. Friction points remain: Nikhil Gupta's sentencing, summonses for NSA Doval in the Pannun civil suit, 1,700 deportations so far this year, and H-1B pressures such as IBM's relocate-or-leave choice. **Analysis:** the 17% offer gives both sides a reason to announce something at the G20 in Florida (Dec 14–15), but no bilateral meeting has been confirmed.\n\n**Poland–India: plenty announced, little delivered.** Tusk's October visit promised a Defence Industry Dialogue and a classified-information agreement 'soon'. The agreement is still unsigned, and its watch date is Nov 30. WB Group's planned drone investment has not been confirmed. **Analysis:** without that agreement, defence co-production cannot get past talks. This week's visible link was cultural: a large Polish programme at IFFI in Goa.",
+  "links": [
+   {
+    "label": "Notes from Poland: US–Poland defence R&D agreement",
+    "url": "https://notesfrompoland.com/2026/11/24/poland-and-us-sign-defence-technology-cooperation-agreement/"
+   },
+   {
+    "label": "Defence24/PAP: base decision later than assumed",
+    "url": "https://defence24.pl/polityka-obronna/stala-baza-usa-w-polsce-decyzja-pozniej-niz-zakladano"
+   },
+   {
+    "label": "WP: Trump says he told Putin to stop aggression in Europe",
+    "url": "https://wiadomosci.wp.pl/trump-mowilem-putinowi-zeby-zaprzestal-wszelkiej-agresji-w-europie-7355223305136288a"
+   },
+   {
+    "label": "Business Standard/PTI: Goyal says deal close to culmination",
+    "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html"
+   },
+   {
+    "label": "Business Standard: 1,700 Indians deported from US in 2026",
+    "url": "https://www.business-standard.com/immigration/1-700-indians-deported-by-us-in-2026-3-000-offered-for-voluntary-exit-126112600121_1.html"
+   },
+   {
+    "label": "Indian Masterminds: India–Poland Defence Industry Dialogue (Oct 22)",
+    "url": "https://indianmasterminds.com/news/india-poland-defence-industry-dialogue-245059/"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261127-02",
+   "title": "Polska nie zgadza się na unijny budżet. Negocjacje mogą potrwać",
+   "reporter": "",
+   "outlet": "Interia Biznes",
+   "url": "https://biznes.interia.pl/finanse/news-polska-nie-zgadza-sie-na-unijny-budzet-negocjacje-moga-potrw,nId,23579201",
+   "why": "EU affairs minister Niemczycki sets out what Poland will and will not accept in the MFF, and why a deal could slip into 2027.",
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261127-04",
+   "title": "Delimitation Bill: What it proposes for Lok Sabha and women's quota rollout",
+   "reporter": "Vrinda Goel",
+   "outlet": "Business Standard",
+   "url": "https://www.business-standard.com/india-news/delimitation-bill-what-it-proposes-for-lok-sabha-and-women-s-quota-rollout-126112700215_1.html",
+   "why": "Clear explainer of what the 131st Amendment does and why it failed in April, ahead of the Nov 30 sitting.",
+   "place": "India",
+   "domain": "Politics & government",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-27",
+   "text": "Union Cabinet meets 1 pm on delimitation/women's quota bill; INDIA bloc meets 4:30 pm; BJP national office-bearers meet Nov 27–28",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "SC hears Thiruparankundram contempt pleas; Bombay HC hears Tata Trusts' suits",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "PiS rally at the Constitutional Tribunal in Warsaw (15:00), called by Kaczyński",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Congress returns from Thanksgiving recess (Dec 11 funding deadline); hearing in Kansas on Nidal Hasan's stay request",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Operation Horyzont mandate and CHARLIE rail alert expire unless extended; last day to publish the PIT/CIT law for it to apply in 2027",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Lok Sabha reconvenes for special sitting (Rajya Sabha Dec 2, ends ~Dec 3); Q2 GDP data; Tata Sons board meeting",
+   "place": "India"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Jensen Huang's closed-door House interview (per Axios); Rep. Jimmy Gomez's resignation takes effect; HUD Continuum of Care resubmission window closes",
+   "place": "US"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "City Hall Health Office launches; Grzegorz Kuźma takes over MOCAK; Tatra county's planned horse carts to Włosienica",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "City Council session (budget, fares druk 1587, taxes on the agenda per earlier watch items)",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-03",
+   "text": "Scheduled military execution of Nidal Hasan; Huang's public Senate Banking testimony; Chutkan memorial-arch TRO expires",
+   "place": "US"
+  },
+  {
+   "date": "2026-12-04",
+   "text": "RBI MPC decision; Ladakh LAHDC polls",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Politics & government",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Health, medicine & food safety",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "TIME – FCC/ABC injunction",
+   "url": "https://time.com/article/2026/11/26/fcc-abc-disney-broadcast-license-early-review-judge-injunction/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS News – Abrego Garcia arrives in Spain",
+   "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+   "paywalled": false
+  },
+  {
+   "title": "Fox Business – Huawei convicted",
+   "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
+   "paywalled": false
+  },
+  {
+   "title": "Washington Post via Yahoo – DPA and Nvidia",
+   "url": "https://www.yahoo.com/news/politics/articles/hegseth-pentagon-officials-floated-using-043331833.html",
+   "paywalled": false
+  },
+  {
+   "title": "AP via Al Jazeera – Thanksgiving storms",
+   "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us",
+   "paywalled": false
+  },
+  {
+   "title": "Iowa Capital Dispatch – lead azide detonation",
+   "url": "https://iowacapitaldispatch.com/2026/11/25/developing-army-detonates-degraded-lead-azide-in-middletown/",
+   "paywalled": false
+  },
+  {
+   "title": "CBS Austin – Hasan hearing",
+   "url": "https://cbsaustin.com/news/local/federal-judge-sets-hearing-on-fort-hood-gunmans-request-to-halt-execution",
+   "paywalled": false
+  },
+  {
+   "title": "White House presidential actions",
+   "url": "https://www.whitehouse.gov/presidential-actions/",
+   "paywalled": false
+  },
+  {
+   "title": "The Hub – Greer on Canada",
+   "url": "https://thehub.ca/2026/11/26/greer-signals-room-for-canada-in-any-change-to-u-s-auto-and-steel-tariffs",
+   "paywalled": false
+  },
+  {
+   "title": "Newsweek – Pentagon fact sheet on Canada",
+   "url": "https://www.newsweek.com/hegseths-pentagon-blasts-canada-secret-memo-12760983",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita – Wciąż nie ma porozumienia w sprawie budżetu UE",
+   "url": "https://www.rp.pl/fundusze-europejskie/art45551131-wciaz-nie-ma-porozumienia-w-sprawie-budzetu-ue",
+   "paywalled": false
+  },
+  {
+   "title": "WP – Costa: Nie ma porozumienia ws. nowego budżetu UE",
+   "url": "https://wiadomosci.wp.pl/costa-nie-ma-porozumienia-ws-nowego-budzetu-ue-7355352792639648a",
+   "paywalled": false
+  },
+  {
+   "title": "WP – Tusk's post from Brussels",
+   "url": "https://wiadomosci.wp.pl/kosztowny-blad-mocny-wpis-tuska-z-brukseli-7355253334956192a",
+   "paywalled": false
+  },
+  {
+   "title": "EU Alive – summit ends without deal",
+   "url": "https://eualive.net/eu-leaders-end-marathon-summit-without-budget-deal-pushing-crunch-talks-to-december/",
+   "paywalled": false
+  },
+  {
+   "title": "Manager Plus – Budżet UE bez porozumienia",
+   "url": "https://managerplus.pl/budzet-ue-2028-2034-szczyt-pozyczka-ukraina-88967",
+   "paywalled": false
+  },
+  {
+   "title": "Interia – Niemczycki on EU budget",
+   "url": "https://biznes.interia.pl/finanse/news-polska-nie-zgadza-sie-na-unijny-budzet-negocjacje-moga-potrw,nId,23579201",
+   "paywalled": false
+  },
+  {
+   "title": "rp.pl – Czarzasty on abortion veto",
+   "url": "https://www.rp.pl/prawo-w-polsce/art45547111-ustawa-aborcyjna-czarzasty-jesli-prezydent-ja-zawetuje-poprosze-tk-o-wykladnie",
+   "paywalled": false
+  },
+  {
+   "title": "pit.pl – President's deadline",
+   "url": "https://www.pit.pl/aktualnosci/prezydent-ma-czas-tylko-do-jutra-chodzi-o-nowe-progi-podatkowe-dla-milionow-polakow",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Nawrocki in Chile",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/karol-nawrocki-w-chile-padly-wazne-zapowiedzi/",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 – Nawrocki meets Milei",
+   "url": "https://tvn24.pl/swiat/argentyna-karol-nawrocki-spotkal-sie-z-javierem-mileiem-rozmowy-o-gospodarce-i-bezpieczenstwie-energetycznym-st9355649",
+   "paywalled": false
+  },
+  {
+   "title": "Interia – Russia's plan on Poland in G20",
+   "url": "https://wydarzenia.interia.pl/zagranica/news-rosja-ma-nowy-plan-by-zaszkodzic-polsce-chce-wykorzystac-dwa,nId,23579175",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – court on TK protest",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/co-dalej-z-protestem-pod-trybunalem-konstytucyjnym-jest-decyzja-sadu/",
+   "paywalled": false
+  },
+  {
+   "title": "WP – overnight roundup Nov 27",
+   "url": "https://wiadomosci.wp.pl/dzialo-sie-w-nocy-decyzja-sadu-ws-protestu-przed-tk-pogodowy-armagedon-w-usa-7355402694051936a",
+   "paywalled": false
+  },
+  {
+   "title": "Polsat News – Korwin-Piotrowska communiqué",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-26/nowy-komunikat-korwin-piotrowskiej-zazalenie-nie-przysluguje/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 – Kierwiński donors",
+   "url": "https://www.rmf24.pl/fakty/polska/news-minister-kierwinski-w-cieniu-powaznych-podejrzen-113-osob-z-,nIdn,1027842",
+   "paywalled": false
+  },
+  {
+   "title": "Dziennik.pl – IMGW snow warnings Nov 27",
+   "url": "https://pogoda.dziennik.pl/aktualnosci/artykuly/11407264,pogoda-na-piatek-27-listopada-imgw-ostrzega-przed-opadami-sniegu-na-poludniu-polski.html",
+   "paywalled": false
+  },
+  {
+   "title": "Forsal – fuel caps Nov 27",
+   "url": "https://forsal.pl/kraj/artykuly/11407066,ceny-maksymalne-paliw-27112026-tyle-zaplacimy-za-benzyne-i-olej-napedowy-w-piatek.html",
+   "paywalled": false
+  },
+  {
+   "title": "Interia: Węzeł Mistrzejowice otwarty",
+   "url": "https://motoryzacja.interia.pl/polskie-drogi/news-wezel-mistrzejowice-otwarty-krakow-ma-juz-pelna-obwodnice,nId,23579386",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków: To już! Kraków ma pełną obwodnicę",
+   "url": "https://lovekrakow.pl/to-juz-krakow-ma-pelna-obwodnice-kierowcy-pojechali-nowa-trasa",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków: Gibała o metrze i obwodnicy",
+   "url": "https://lovekrakow.pl/lukasz-gibala-o-metrze-i-obwodnicy-jedno-i-drugie-jest-nam-potrzebne",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24: Metro w Krakowie na razie musi poczekać",
+   "url": "https://tvn24.pl/krakow/metro-w-krakowie-na-razie-musi-poczekac-miasto-chce-rzadowych-gwarancji-st9358082",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa: Metro na wzór obwodnicy",
+   "url": "https://pulskrakowa.pl/metro-na-wzor-obwodnicy-lukasz-gibala-chce-polaczyc-sily-miasta-i-rzadu/",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl: Uwaga na intensywne opady śniegu",
+   "url": "https://krakow.pl/aktualnosci/347521,29,komunikat,uwaga_na_intensywne_opady_sniegu__ostrzezenie_dla_krakowa.html",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków: Małopolskę czekają intensywne opady śniegu",
+   "url": "https://radiokrakow.pl/wiadomosci/malopolska/malopolske-czekaja-intensywne-opady-sniegu-drogowcy-zapewniaja-ze-sa-gotowi/188239",
+   "paywalled": false
+  },
+  {
+   "title": "Puls Krakowa: Nawet 20 cm śniegu, później silny mróz",
+   "url": "https://pulskrakowa.pl/nawet-20-cm-sniegu-pozniej-silny-mroz-imgw-ostrzega-mieszkancow-krakowa/",
+   "paywalled": false
+  },
+  {
+   "title": "KR24: Akcja z radioaktywnym materiałem w szpitalu",
+   "url": "https://kr24.pl/krakow/tak-skonczyla-sie-akcja-z-radioaktywnym-materialem-w-szpitalu-pacjenci-odetchneli-z-ulga/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews: Nowe informacje po zamachu w Krakowie",
+   "url": "https://krknews.pl/nowe-informacje-po-zamachu-w-krakowie-sledczy-przesluchuja-swiadkow/",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews: SCT konsultacje",
+   "url": "https://krknews.pl/konsultacje-sct-w-krakowie/",
+   "paywalled": false
+  },
+  {
+   "title": "Kraków Portal: Weekend 27-29 listopada",
+   "url": "https://krakowportal.pl/weekend-krakow-27-29-listopada-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków: Tramwaje będą kursować częściej",
+   "url": "https://lovekrakow.pl/tramwaje-beda-kursowac-czesciej-zmiany-od-grudnia",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat: special session Nov 30–Dec 3",
+   "url": "https://www.etvbharat.com/en/bharat/govt-to-convene-special-session-of-parliament-from-november-30-to-december-3-rijiju-enn26112607445",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard (PTI): special sitting",
+   "url": "https://www.business-standard.com/india-news/govt-proposes-special-parliament-session-to-be-held-from-nov-30-to-dec-2-126112601284_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Week: opposition on special session",
+   "url": "https://www.theweek.in/news/india/2026/11/26/parliament-special-session-november-opposition.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Federal: Congress on special session",
+   "url": "https://thefederal.com/category/news/parliamentt-special-session-congress-slams-modi-shah-delimitation-264214",
+   "paywalled": false
+  },
+  {
+   "title": "Aaj Tak live: special session",
+   "url": "https://www.aajtak.in/india/politics/story/special-parliament-session-live-updates-union-cabinet-meeting-delimitation-bill-women-quota-ntcpkb-rpti-2707314-2026-11-27",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: Mahanadi listing",
+   "url": "https://www.business-standard.com/amp/markets/news/coal-india-unit-mahanadi-coalfields-share-price-lists-at-2-discount-to-ipo-price-126112700213_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Kotak Neo closing bell Nov 26",
+   "url": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-manage-to-close-higher-despite-paring-early-gains/",
+   "paywalled": false
+  },
+  {
+   "title": "LawChakra: Thiruparankundram SC",
+   "url": "https://lawchakra.in/supreme-court/thiruparankundram-contempt/",
+   "paywalled": false
+  },
+  {
+   "title": "Bar & Bench: contempt plea",
+   "url": "https://www.barandbench.com/news/litigation/thiruparankundram-contempt-plea-in-supreme-court-seeks-disclosure-of-cm-vijays-role-in-non-compliance-with-lamp-lighting-order",
+   "paywalled": false
+  },
+  {
+   "title": "The Federal: EC SSR letter",
+   "url": "https://thefederal.com/category/news/ec-asks-27-states-uts-to-verify-voter-roll-entries-against-sir-data-during-ssr-264121",
+   "paywalled": false
+  },
+  {
+   "title": "LawBeat: Tata Trusts suits",
+   "url": "https://lawbeat.in/news-updates/tata-trusts-vs-tata-sons-challenge-to-n-chandrasekarans-reappointment-as-executive-chairman-reaches-bombay-high-court-1655316",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat: SP manifesto",
+   "url": "https://www.etvbharat.com/en/bharat/akhilesh-yadav-releases-sp-manifesto-for-2027-up-polls-enn26112606186",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw: Saurav Das LOC",
+   "url": "https://www.livelaw.in/high-court/delhi-high-court/saurav-das-loc-passport-discrepancies-citizenship-560069",
+   "paywalled": false
+  },
+  {
+   "title": "ThePrint (PTI): FSSAI FoPNL",
+   "url": "https://theprint.in/india/timeline-proposed-by-fssai-for-bringing-fopnl-regulations-into-force-reasonable-sc/3110111/",
+   "paywalled": false
+  },
+  {
+   "title": "Times Now Navbharat live Nov 27",
+   "url": "https://www.timesnowhindi.com/india/aaj-ki-taza-khabar-27-november-2026-hindi-news-latest-breaking-news-or-mukhya-samachar-up-elections-liveblog-156572548",
+   "paywalled": false
+  },
+  {
+   "title": "Aaj Tak live Nov 26",
+   "url": "https://www.aajtak.in/breakingnews/story/breaking-news-aajtak-in-hindi-26-november-2026-ntc-rmxk-2706129-2026-11-26",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: Goyal on India–US deal",
+   "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nears-completion-piyush-goyal-amid-fresh-tariff-threat-126112700246_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "IBC24 (PTI-Bhasha): exporters on US deal",
+   "url": "https://www.ibc24.in/business/a-trade-agreement-with-the-us-should-be-finalized-and-the-17-percent-tariff-will-give-an-advantage-over-competitors-exporters-3843882.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: 1,700 Indians deported",
+   "url": "https://www.business-standard.com/immigration/1-700-indians-deported-by-us-in-2026-3-000-offered-for-voluntary-exit-126112600121_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: IBM visa sponsorship",
+   "url": "https://www.business-standard.com/immigration/ibm-ends-us-visa-sponsorship-india-workers-face-80-pay-cut-or-job-loss-126112600191_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Business Standard: Khanna on H-1B delays",
+   "url": "https://www.business-standard.com/immigration/h-1b-visa-delays-leave-skilled-workers-stranded-abroad-says-us-congressman-126112600907_1.html",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland: defence R&D agreement",
+   "url": "https://notesfrompoland.com/2026/11/24/poland-and-us-sign-defence-technology-cooperation-agreement/",
+   "paywalled": false
+  },
+  {
+   "title": "MILMAG: Tomczyk in Washington",
+   "url": "https://milmag.pl/en/polish-deputy-defence-minister-cezary-tomczyk-visits-us-for-talks-on-permanent-military-base-tomahawk-missiles-and-f-35s/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Łódź: F-35s in Łask",
+   "url": "https://radiolodz.pl/kolejne-dwa-mysliwce-f-35-dotarly-do-lasku,691454/",
+   "paywalled": false
+  },
+  {
+   "title": "WP: Trump on Putin and Europe",
+   "url": "https://wiadomosci.wp.pl/trump-mowilem-putinowi-zeby-zaprzestal-wszelkiej-agresji-w-europie-7355223305136288a",
+   "paywalled": false
+  },
+  {
+   "title": "Defence24: base decision timing",
+   "url": "https://defence24.pl/polityka-obronna/stala-baza-usa-w-polsce-decyzja-pozniej-niz-zakladano",
+   "paywalled": false
+  },
+  {
+   "title": "Poland.us: 15% EU tariff proposal",
+   "url": "https://poland.us/usa-clo-15-proc-towary-ue-sekcja-301/",
+   "paywalled": false
+  }
+ ]
+}
