@@ -1499,6 +1499,36 @@
    "checkDate": "2026-12-02",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261128-07",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "India: special sitting of Parliament (Lok Sabha from 30 Nov, Rajya Sabha from 2 Dec) on the constitutional amendment tying women's reservation to delimitation; it needs a two-thirds majority.",
+   "expected": "Parliamentary Affairs Minister Kiren Rijiju says the bill will be introduced on 30 Nov; Lok Sabha bulletins list sittings until 3 Dec (Outlook).",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-08",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "Sri Lanka: one-day island-wide sick-leave strike by teachers and principals, backed by the GMOA, over pay left out of the 2027 budget.",
+   "expected": "Teachers and Principals Trade Union Alliance (Lanka Leader); GMOA central committee (Newswire).",
+   "checkDate": "2026-11-30",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-09",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "India: Supreme Court contempt hearing on the Thiruparankundram Deepathoon case, including the Tamil Nadu Chief Secretary's affidavit.",
+   "expected": "Supreme Court bench of Justices Aravind Kumar and V.M. Pancholi listed the matter for 15 Dec (Supreme Court Observer).",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
