@@ -3024,6 +3024,17 @@
    "checkDate": "2026-12-03",
    "happened": "",
    "eventId": "E-261128-19"
+  },
+  {
+   "id": "W-261128-04",
+   "dateAdded": "2026-11-28",
+   "place": "Kraków",
+   "domain": "Health, medicine & food safety",
+   "what": "How the iodine-131 capsule ended up in municipal waste at Rydygier hospital, and whether sanepid or the nuclear regulator (PAA) opens proceedings",
+   "expected": "PSP/sanepid reporting (LoveKraków)",
+   "checkDate": "2026-12-05",
+   "happened": "",
+   "eventId": "E-261128-27"
   }
  ]
 }

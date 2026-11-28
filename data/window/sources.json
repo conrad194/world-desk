@@ -2987,6 +2987,18 @@
    "lean": "Neutral/legal",
    "status": "Watch",
    "dateAdded": "2026-11-27"
+  },
+  {
+   "id": "krakow-net-pl",
+   "name": "Krakow.net.pl",
+   "type": "Outlet",
+   "place": "Kraków",
+   "focus": "Local news aggregator, often rewriting Onet, krakow.pl and MPK releases",
+   "language": "Polish",
+   "url": "https://krakow.net.pl/",
+   "lean": "unclear, aggregator",
+   "status": "Watch",
+   "dateAdded": "2026-11-28"
   }
  ]
 }
