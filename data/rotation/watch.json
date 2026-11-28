@@ -1439,6 +1439,36 @@
    "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261127-36"
+  },
+  {
+   "id": "W-261128-01",
+   "dateAdded": "2026-11-28",
+   "segment": "Middle East",
+   "what": "Baghdad–Erbil meeting under the head of the Supreme Judicial Council on federal control of the Kurdistan Region's border crossings and oilfields",
+   "expected": "Scheduled for 1 Dec in Baghdad, per Al Jazeera (AFP/Reuters)",
+   "checkDate": "2026-12-01",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-02",
+   "dateAdded": "2026-11-28",
+   "segment": "EU politics + cross-cutting",
+   "what": "OPEC ministers meet on 2027 production targets amid the Hormuz disruption",
+   "expected": "Al Jazeera reports the ministerial meeting for Sunday",
+   "checkDate": "2026-11-29",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-03",
+   "dateAdded": "2026-11-28",
+   "segment": "East & Southeast Asia",
+   "what": "Taiwan Central Election Commission formally announces elected candidates from the 28 Nov local elections",
+   "expected": "Central Election Commission schedule (per Wikipedia)",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
