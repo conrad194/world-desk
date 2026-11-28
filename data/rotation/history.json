@@ -2110,6 +2110,107 @@
    "prevAnswer": "The court held that the emergency-powers law behind most 2025 tariffs did not authorise tariffs. The stopgap Section 122 tariff is capped at 150 days, so the administration turned to Section 301, which needs no emergency and whose tariffs had already survived court challenges, opening probes into 16 economies in March.",
    "recallQ": "Why did Uganda's 1998–2003 occupation of Ituri end up before the International Court of Justice, and what did the court decide?",
    "recallA": "Congo sued Uganda for invading, occupying Ituri and plundering its resources. In 2005 the court found Uganda had violated Congo's sovereignty and was responsible for abuses and looting; in 2022 it set reparations at $325 million, paid over five years."
+  },
+  {
+   "id": "2026-11-28",
+   "date": "2026-11-28",
+   "segment": "South & Central Asia",
+   "title": "Why a line in Armenia's constitution stands between it and peace with Azerbaijan",
+   "thread": "Armenia–Azerbaijan peace process",
+   "eventIds": [
+    "E-261128-34"
+   ],
+   "minutes": 4,
+   "hook": "[[p:Nikol Pashinyan]]'s draft constitution drops its reference to Armenia's 1990 Declaration of Independence, the condition Azerbaijan set for signing their peace treaty. That reference carries a 1989 vote to unite Nagorno-Karabakh with Armenia, which is why Baku treats it as a territorial claim.",
+   "body": "Armenia's constitution says little about Nagorno-Karabakh directly. The dispute sits in one line of its preamble, which grounds the state in \"the fundamental principles of Armenian statehood\" set out in the 1990 Declaration of Independence. To see why Baku cares about that line, you have to go back to the last years of the Soviet Union.\n\nIn 1923 the Bolsheviks drew Nagorno-Karabakh, a mountain district with an Armenian majority, as an autonomous region inside Soviet Azerbaijan. Armenians resented the arrangement for decades, but under Moscow's rule it stayed frozen. Gorbachev's reforms thawed it. In February 1988 the regional council voted to ask for transfer to Soviet Armenia, and mass rallies in Yerevan became the [[p:Karabakh movement]] {{note: A mass movement launched in Yerevan in February 1988; its leaders' committee later formed the Pan-Armenian National Movement under Levon Ter-Petrosyan.}}. Days later came the [[e:Sumgait pogrom]] against Armenians in an Azerbaijani industrial town, and the conflict turned violent on both sides, with expulsions of Armenians from Azerbaijan and Azerbaijanis from Armenia.\n\nOn **1 December 1989** the parliament of Soviet Armenia and Karabakh's Armenian council passed a joint resolution proclaiming the region's \"reunification\" with Armenia. Moscow annulled it, but it became a founding text. When Armenia's new parliament, led by [[p:Levon Ter-Petrosyan]], adopted its [[e:Declaration of Independence|Declaration of State Sovereignty of Armenia]] on 23 August 1990, the preamble cited that joint decision. The declaration also called for international recognition of the 1915 genocide and referred to Western Armenia, the eastern Anatolian lands now in Turkey.\n\nThe [[e:First Nagorno-Karabakh War]] followed independence. By the May 1994 ceasefire, Armenian forces held Karabakh and seven surrounding Azerbaijani districts, and hundreds of thousands of Azerbaijanis had been displaced. Armenia's 1995 constitution tied itself to the 1990 declaration in its preamble, and the 2005 and 2015 revisions kept that wording. For Armenians it was a statement of national origins; for Azerbaijan it was a standing territorial claim written into the supreme law.\n\nThe balance of power then reversed. Azerbaijan retook most of the territory in the [[e:Second Nagorno-Karabakh War]] of 2020, and in September 2023 a one-day [[e:2023 Azerbaijani offensive in Nagorno-Karabakh|offensive]] ended the breakaway [[p:Republic of Artsakh]]; almost the entire Armenian population, more than 100,000 people, fled to Armenia. [[p:Nikol Pashinyan]] has since recognised Karabakh as part of Azerbaijan and argues Armenia needs a new constitution without the old preamble.\n\nBaku has kept the preamble on its list of conditions. In 2024 Armenia's Constitutional Court cleared the rules for border demarcation and played down the preamble's legal force, but Azerbaijan said only a new text would do. The two sides finished negotiating a peace treaty in March 2025 and initialled it at the White House in August, but [[p:Ilham Aliyev]] says he will not sign until the constitution changes. Pashinyan's draft is meant to meet that demand; whether he can get it to a referendum is a separate fight.",
+   "timeline": [
+    {
+     "when": "1923",
+     "text": "Soviet authorities create the Nagorno-Karabakh Autonomous Oblast, an Armenian-majority region inside Soviet Azerbaijan."
+    },
+    {
+     "when": "Feb 1988",
+     "text": "Karabakh's regional council asks to join Soviet Armenia; the [[p:Karabakh movement]] fills Yerevan's squares and violence follows."
+    },
+    {
+     "when": "1 Dec 1989",
+     "text": "Soviet Armenia's parliament and Karabakh's Armenian council jointly proclaim the region's \"reunification\" with Armenia."
+    },
+    {
+     "when": "23 Aug 1990",
+     "text": "Armenia's [[e:Declaration of State Sovereignty of Armenia|Declaration of Independence]] cites the 1989 joint decision in its preamble."
+    },
+    {
+     "when": "1995",
+     "text": "Armenia's first post-Soviet constitution grounds itself in the 1990 declaration; later revisions keep the reference."
+    },
+    {
+     "when": "Sep 2023",
+     "text": "An Azerbaijani [[e:2023 Azerbaijani offensive in Nagorno-Karabakh|offensive]] ends the breakaway republic; more than 100,000 Armenians flee."
+    },
+    {
+     "when": "Aug 2025",
+     "text": "Pashinyan and [[p:Ilham Aliyev]] initial the agreed peace treaty at the White House; Baku makes signing conditional on a new Armenian constitution."
+    },
+    {
+     "when": "Nov 2026",
+     "text": "Pashinyan publishes a draft constitution without the preamble reference, but lacks the 70 votes needed to call a referendum."
+    }
+   ],
+   "perspectives": [
+    {
+     "side": "Azerbaijan",
+     "view": "Baku sees the preamble as a legal claim to its territory that a future Armenian government could revive. It argues that a treaty signed while the claim stays in the constitution would mean nothing, so the text must go first."
+    },
+    {
+     "side": "Armenian government",
+     "view": "Pashinyan's government says Armenia has no territorial claims and has recognised Azerbaijan's borders, but accepts that a new constitution fit for an independent, peaceful state should not lean on Soviet-era documents."
+    },
+    {
+     "side": "Armenian opposition",
+     "view": "Opposition parties see the 1990 declaration as the founding act of the Armenian state and of the Karabakh cause. They call dropping it a humiliating concession made under pressure, with no guarantee Baku will not ask for more."
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Declaration of Independence (1990)",
+     "meaning": "Adopted on 23 August 1990, it began Armenia's break from the USSR. Its preamble cites the 1989 Karabakh reunification decision; independence itself followed a referendum in September 1991."
+    },
+    {
+     "term": "Preamble",
+     "meaning": "The opening statement of a constitution. Armenia's grounds the state in the principles of the 1990 declaration, which is how the Karabakh reference reaches the constitution."
+    },
+    {
+     "term": "Artsakh",
+     "meaning": "The Armenian name for Nagorno-Karabakh, and the name of the unrecognised [[p:Republic of Artsakh]] that existed from 1991 until it dissolved after the 2023 offensive."
+    },
+    {
+     "term": "Constitutional referendum",
+     "meaning": "In Armenia a new constitution must be approved by voters, and putting it to a vote needs 70 of the 105 MPs."
+    }
+   ],
+   "whyItMatters": "The treaty text is agreed, so the constitution is now the main legal obstacle to a signed peace. Pashinyan's [[p:Civil Contract (Armenia)|Civil Contract]] has 64 seats and needs six more to call the referendum. Watch whether any opposition MPs cross over, whether Baku adds new conditions, and whether voters, many of them displaced from Karabakh, would approve the change.",
+   "readMore": [
+    {
+     "title": "Nagorno-Karabakh",
+     "url": "https://www.britannica.com/place/Nagorno-Karabakh",
+     "why": "A concise encyclopedia history of the region from the Soviet era to the 2023 offensive."
+    },
+    {
+     "title": "Reunification of Armenia and Nagorno-Karabakh (1989)",
+     "url": "https://soviethistory.msu.edu/1991/karabakh-wars/karabakh-wars-texts/reunification-of-armenia-and-nagorno-karabakh/",
+     "why": "Michigan State University's Soviet history project, with the text of the 1989 joint resolution at the heart of the dispute."
+    },
+    {
+     "title": "Armenia's Catch-22",
+     "url": "https://verfassungsblog.de/armenias-catch-22/",
+     "why": "A constitutional-law analysis of the preamble problem and the 2024 Constitutional Court ruling."
+    }
+   ],
+   "prevQuestion": "Why did Uganda's 1998–2003 occupation of Ituri end up before the International Court of Justice, and what did the court decide?",
+   "prevAnswer": "Congo sued Uganda for invading, occupying Ituri and plundering its resources. In 2005 the court found Uganda had violated Congo's sovereignty and was responsible for abuses and looting; in 2022 it set reparations at $325 million, paid over five years.",
+   "recallQ": "What did the joint resolution of 1 December 1989 declare, and why did it end up in Armenia's constitution?",
+   "recallA": "Soviet Armenia's parliament and Nagorno-Karabakh's Armenian council jointly proclaimed Karabakh's reunification with Armenia. Armenia's 1990 Declaration of Independence cited it in its preamble, and the 1995 constitution grounded itself in that declaration, which is why Azerbaijan treats the constitution as carrying a territorial claim."
   }
  ]
 }
