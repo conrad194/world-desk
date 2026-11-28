@@ -2826,6 +2826,128 @@
      "why": "A short, neutral explainer on why a lapse in appropriations forces US agencies to stop work."
     }
    ]
+  },
+  {
+   "id": "L20",
+   "num": 20,
+   "unit": "US history",
+   "title": "Founding and the Constitution",
+   "dateTaught": "2026-11-28",
+   "minutes": 10,
+   "pulledForward": false,
+   "prevQuestion": "What limit does Poland's Constitution place on the Sejm when it amends the government's budget, and what happens if the budget is not in force on 1 January?",
+   "prevAnswer": "Under Article 220, the Sejm's amendments may not raise the deficit above the level in the government's draft. If the budget act is not in force at the start of the year, the government operates on the basis of its draft, so there is no shutdown; if the Sejm fails to deliver a budget within four months, the President may dissolve it.",
+   "body": "Unit 3 turns from how the three systems work to why they work that way. The best place to start is the oldest of the three constitutions, because the US document was written to fix a specific failure, and that failure explains much of what Lessons 1 to 19 described.\n\nAfter the [#American Revolutionary War](https://en.wikipedia.org/wiki/American_Revolutionary_War), the thirteen states were bound by the [#Articles of Confederation](https://en.wikipedia.org/wiki/Articles_of_Confederation). Congress had one chamber, one vote per state, no president and no national courts. It could not tax: it could only ask the states for money, and they often refused. Changing the Articles needed every state to agree. When indebted farmers in Massachusetts rose up in [#Shays's Rebellion](https://en.wikipedia.org/wiki/Shays's_Rebellion) in 1786–87, Congress had no army or money to respond, and many leaders concluded that the system itself had to be replaced.\n\n**The Convention of 1787.** Delegates met in Philadelphia, officially to revise the Articles but in practice to write something new. [@James Madison](https://en.wikipedia.org/wiki/James_Madison) arrived with the **Virginia Plan**: a strong national government with a legislature where seats followed population. Small states wanted equal votes. The [#Connecticut Compromise](https://en.wikipedia.org/wiki/Connecticut_Compromise), associated with [@Roger Sherman](https://en.wikipedia.org/wiki/Roger_Sherman), split the difference: a House of Representatives apportioned by population and a Senate with two seats per state. That is why, as Lesson 5 showed, the US Senate is so much stronger than Poland's Senate or India's Rajya Sabha: it was the price of union, not an afterthought.\n\n> The [#Constitutional Convention (United States)](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)) sat in Philadelphia from May to September 1787, with [@George Washington](https://en.wikipedia.org/wiki/George_Washington) presiding.\n\nA second bargain was darker. Southern states wanted enslaved people counted for House seats; northern states did not. The [#Three-fifths Compromise](https://en.wikipedia.org/wiki/Three-fifths_Compromise) counted three of every five enslaved people. It gave slaveholding states extra power in Congress and the Electoral College for decades, a flaw Lesson 21 will pick up.\n\n**Design against tyranny.** The framers feared both a king and a runaway majority, so they divided power twice: across three branches (with the veto and override from Lesson 7 as one check) and between the national government and the states (Lesson 10). Amendment was made deliberately hard, needing two-thirds of Congress and three-quarters of the states (Lesson 2). Ratification was fiercely contested. Supporters made their case in The Federalist essays by Madison, [@Alexander Hamilton](https://en.wikipedia.org/wiki/Alexander_Hamilton) and John Jay; opponents won a promise of the [#United States Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights), ratified in 1791.\n\n**The comparison.** The US text is short, about 4,500 words in the original, and has lasted since 1789 with 27 amendments, so courts fill in much of the detail. Poland's current constitution dates only from 1997, but Poles look back to the [#Constitution of 3 May 1791](https://en.wikipedia.org/wiki/Constitution_of_3_May_1791), adopted four years after Philadelphia and often called Europe's first modern written national constitution; some historians give that title to earlier documents such as Corsica's of 1755. India's Constituent Assembly, with [@B. R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) chairing the drafting committee, produced one of the longest constitutions in the world, deliberately detailed because its authors wanted to settle questions the US left to judges.\n\n> India's Constitution was adopted on 26 November 1949, now marked as Constitution Day, and took effect on 26 January 1950, Republic Day.\n\nOne clause from 1787 shapes today's news. The US Constitution requires a census every ten years and redistributes House seats among the states after each one, so representation tracks population automatically, though the total has been held at 435 since the [#Reapportionment Act of 1929](https://en.wikipedia.org/wiki/Reapportionment_Act_of_1929). India chose the opposite path in 1976 and froze each state's share of Lok Sabha seats. That is the freeze its government now proposes to extend.",
+   "comparison": [
+    {
+     "aspect": "Founding document in force",
+     "US": "Constitution of 1787, in force since 1789",
+     "Poland": "Constitution of 2 April 1997",
+     "India": "Constitution adopted 1949, in force 26 January 1950"
+    },
+    {
+     "aspect": "Who wrote it",
+     "US": "55 delegates at the [#Constitutional Convention (United States)](https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)), meeting in secret",
+     "Poland": "National Assembly (Sejm and Senate together), then approved by referendum in 1997",
+     "India": "Constituent Assembly; drafting committee chaired by [@B. R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar)"
+    },
+    {
+     "aspect": "Historic predecessor",
+     "US": "[#Articles of Confederation](https://en.wikipedia.org/wiki/Articles_of_Confederation) (1781–89)",
+     "Poland": "[#Constitution of 3 May 1791](https://en.wikipedia.org/wiki/Constitution_of_3_May_1791)",
+     "India": "Government of India Act 1935, much of which the Assembly adapted"
+    },
+    {
+     "aspect": "Length and style",
+     "US": "Short and general; courts fill gaps",
+     "Poland": "Medium length, 243 articles",
+     "India": "Very long and detailed, with hundreds of articles and many schedules"
+    },
+    {
+     "aspect": "How seats follow population",
+     "US": "House reapportioned after every census; total fixed at 435",
+     "Poland": "Seats per constituency set by the Electoral Code from population",
+     "India": "State shares of Lok Sabha seats frozen since the [#Forty-second Amendment of the Constitution of India](https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India) (1976)"
+    }
+   ],
+   "keyTerms": [
+    {
+     "term": "Articles of Confederation",
+     "meaning": "The first US national charter (1781–89): a one-chamber Congress with no power to tax and no executive."
+    },
+    {
+     "term": "Connecticut (Great) Compromise",
+     "meaning": "The 1787 deal giving the House seats by population and the Senate two seats per state."
+    },
+    {
+     "term": "Ratification",
+     "meaning": "Formal approval of a constitution or amendment; the US Constitution needed 9 of 13 state conventions."
+    },
+    {
+     "term": "Apportionment",
+     "meaning": "Dividing legislative seats among states by population. India's version is delimitation (parisimana)."
+    },
+    {
+     "term": "Konstytucja 3 Maja",
+     "meaning": "The Polish–Lithuanian Commonwealth's constitution of 3 May 1791, adopted shortly before the [#Partitions of Poland](https://en.wikipedia.org/wiki/Partitions_of_Poland) and still celebrated as a national holiday."
+    }
+   ],
+   "example": "Shays's Rebellion shows why the Articles failed. In 1786, farmers in western Massachusetts, squeezed by state taxes payable in scarce hard money and by foreclosures, closed courts to stop debt cases. Congress under the Articles could not raise troops or money to help. Massachusetts had to rely on an army paid for by private Boston merchants, which scattered the rebels near the Springfield armory in early 1787. To figures like [@George Washington](https://en.wikipedia.org/wiki/George_Washington) and [@James Madison](https://en.wikipedia.org/wiki/James_Madison), the episode proved that a national government unable to tax or keep order could not hold the union together. The alarm it caused helped persuade states to send delegates to Philadelphia that May. The Constitution's answers include Congress's power to tax, a national executive able to enforce the law, and a guarantee that the United States will protect each state against domestic violence.",
+   "inTheNews": "India's Cabinet has cleared a delimitation bill that would add 50% more Lok Sabha seats for every state while keeping each state's share frozen until 2051. The US Constitution instead reallocates House seats after every census. Poland's President Nawrocki also vetoed the PIT/CIT reform, a use of the kind of executive check the US framers built into their own system.",
+   "newsEvents": [
+    "E-261128-36",
+    "E-261128-37",
+    "E-261128-13"
+   ],
+   "check": [
+    {
+     "q": "What was the core weakness of the Articles of Confederation that the 1787 Constitution was designed to fix?",
+     "options": [
+      "Congress had too many members",
+      "The national government could not tax or enforce its laws",
+      "The president had too much power",
+      "The Supreme Court could strike down state laws"
+     ],
+     "answer": 1,
+     "explain": "Under the Articles, Congress could only request money from the states and had no executive to enforce laws. The Constitution gave Congress the power to tax and created a president."
+    },
+    {
+     "q": "Why does every US state, large or small, have two senators?",
+     "options": [
+      "The Bill of Rights requires it",
+      "It was the compromise that won small states' support for a population-based House",
+      "The Supreme Court ordered it in the 1800s",
+      "It copies the British House of Lords"
+     ],
+     "answer": 1,
+     "explain": "The Connecticut Compromise paired a House apportioned by population with equal state representation in the Senate. That is why the US Senate is far stronger than Poland's Senate or India's Rajya Sabha."
+    },
+    {
+     "q": "How does the US approach to seats and population differ from India's since 1976?",
+     "options": [
+      "The US froze House seats per state in 1789",
+      "The US reallocates House seats after each census, while India froze state shares of Lok Sabha seats",
+      "Both countries reallocate seats every ten years",
+      "India uses a fixed two seats per state"
+     ],
+     "answer": 1,
+     "explain": "Article I ties House seats to the decennial census, so shares shift as people move. India froze each state's share in 1976, a freeze its current bill would keep until 2051 while enlarging the house."
+    }
+   ],
+   "recallQ": "Name the two big compromises of the 1787 Convention and explain how each still shapes US politics today.",
+   "recallA": "The Connecticut Compromise gave the House seats by population and the Senate two per state, which is why small states hold outsized power in the Senate and the Electoral College. The Three-fifths Compromise counted enslaved people as three-fifths of a person for apportionment, boosting slave states' power until the 14th Amendment ended it after the Civil War.",
+   "readMore": [
+    {
+     "title": "The Constitution of the United States: A Transcription",
+     "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+     "why": "The full text from the National Archives, including Article I's census clause."
+    },
+    {
+     "title": "Constitutional Convention (Britannica)",
+     "url": "https://www.britannica.com/event/Constitutional-Convention",
+     "why": "A concise account of the delegates, the plans and the compromises."
+    }
+   ]
   }
  ]
 }
