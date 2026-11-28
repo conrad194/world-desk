@@ -2999,6 +2999,42 @@
    "lean": "unclear, aggregator",
    "status": "Watch",
    "dateAdded": "2026-11-28"
+  },
+  {
+   "id": "bar-bench",
+   "name": "Bar & Bench",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Courts and legal news",
+   "language": "English",
+   "url": "https://www.barandbench.com/",
+   "lean": "specialist legal, neutral",
+   "status": "Watch",
+   "dateAdded": "2026-11-28"
+  },
+  {
+   "id": "newslaundry",
+   "name": "Newslaundry",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "Politics, media, labour; reader-funded",
+   "language": "English",
+   "url": "https://www.newslaundry.com/",
+   "lean": "independent, often government-critical",
+   "status": "Watch",
+   "dateAdded": "2026-11-28"
+  },
+  {
+   "id": "daily-excelsior",
+   "name": "Daily Excelsior",
+   "type": "Outlet",
+   "place": "India",
+   "focus": "J&K regional daily; carries PTI national copy",
+   "language": "English",
+   "url": "https://www.dailyexcelsior.com/",
+   "lean": "centrist, regional",
+   "status": "Watch",
+   "dateAdded": "2026-11-28"
   }
  ]
 }

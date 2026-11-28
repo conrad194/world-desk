@@ -3035,6 +3035,50 @@
    "checkDate": "2026-12-05",
    "happened": "",
    "eventId": "E-261128-27"
+  },
+  {
+   "id": "W-261128-05",
+   "dateAdded": "2026-11-28",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "what": "SC contempt hearing on Thiruparankundram with the TN Chief Secretary appearing in person and his affidavit on official communications; whether the lamp was lit peacefully on Nov 28",
+   "expected": "Supreme Court order of Nov 27 (The Federal)",
+   "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": "E-261128-39"
+  },
+  {
+   "id": "W-261128-06",
+   "dateAdded": "2026-11-28",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "ECI decision on the Trinamool Congress name/symbol dispute after written submissions (about Dec 11 and Dec 18), and the West Bengal Speaker's choice of a new Leader of Opposition within 10 days",
+   "expected": "ECI hearing of Nov 27; Calcutta HC order (The Week)",
+   "checkDate": "2026-12-18",
+   "happened": "",
+   "eventId": "E-261128-43"
+  },
+  {
+   "id": "W-261128-07",
+   "dateAdded": "2026-11-28",
+   "place": "India",
+   "domain": "Society: education, labor, immigration",
+   "what": "Whether Delhi Police allow CITU's Dec 1–3 Ramlila Maidan-to-Parliament march, and the turnout",
+   "expected": "CITU (Newslaundry)",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261128-47"
+  },
+  {
+   "id": "W-261128-08",
+   "dateAdded": "2026-11-28",
+   "place": "India",
+   "domain": "Politics & government",
+   "what": "Outcome of the Leh peace-bond proceedings against Sonam Wangchuk (his reply was due Nov 28)",
+   "expected": "Leh ADM notice (Tribune)",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": "E-261128-42"
   }
  ]
 }

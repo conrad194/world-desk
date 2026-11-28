@@ -1135,6 +1135,22 @@
    "newsLink": "https://www.infor.pl/prawo/nowosci-prawne/7717546,weto-karola-nawrockiego-kluczowe-zmiany-w-podatkach-i-oplacie-cukrowej-zablokowane.html",
    "eventId": "E-261128-15",
    "lastChecked": "2026-11-28"
+  },
+  {
+   "id": "R-261128-03",
+   "dateLogged": "2026-11-28",
+   "place": "India",
+   "body": "Ministry of Home Affairs",
+   "name": "Amendment to the Citizenship Rules, 2009 (digital citizenship certificates)",
+   "changes": "People granted Indian citizenship by registration or naturalisation now get a digitally signed certificate by default. A paper copy is issued only if they ask for one.",
+   "affects": "New citizens by registration or naturalisation, including CAA applicants, and the zonal registration authorities",
+   "stage": "In force",
+   "commentDeadline": "",
+   "effectiveDate": "2026-11-27",
+   "officialLink": "",
+   "newsLink": "https://www.airnews.in/articles/5511e45062-home-ministry-shifts-citizenship-certificates-to-digital-format-under-amended-2009-rules?feed=india",
+   "eventId": "E-261128-44",
+   "lastChecked": "2026-11-28"
   }
  ]
 }
