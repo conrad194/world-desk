@@ -1,0 +1,588 @@
+{
+ "date": "2026-11-28",
+ "segment": "South & Central Asia",
+ "windowFrom": "2026-11-21",
+ "tier1Summary": "Armenia's [[p:Nikol Pashinyan]] published a draft constitution that meets Azerbaijan's main condition for a peace treaty, but he lacks the votes to put it to a referendum. Pakistan hosted its defence pact partners Saudi Arabia and Turkey and is still relaying US–Iran messages; Baloch militant attacks continued. [[p:Sheikh Hasina]] set 16 Dec for her return to Bangladesh, India's Cabinet backed a bill to enlarge the Lok Sabha, and Tajikistan began leaving the [[p:International Criminal Court]].\n\nElsewhere, the US disabled another ship off Iran, Italy says the drone that killed two Italians in Kuwait was Iranian-made, Baghdad moved on Kurdish border crossings with Trump's backing, and early Taiwan results favoured the KMT in Taipei.",
+ "segmentItems": [
+  {
+   "id": "E-261128-34",
+   "segment": "South & Central Asia",
+   "country": "Armenia / Azerbaijan",
+   "text": "[[p:Nikol Pashinyan]] published a draft constitution that drops the preamble's reference to the 1990 Declaration of Independence, Azerbaijan's condition for signing the peace treaty. Calling a referendum needs 70 of 105 MPs; his [[p:Civil Contract (Armenia)|Civil Contract]] has 64, and the opposition rejects the draft as a concession to Baku.",
+   "tier": 1,
+   "verification": "Confirmed",
+   "reporter": "Avet Demourian, Yuras Karmanau",
+   "outlet": "Associated Press (via News4JAX)",
+   "opinion": "",
+   "thread": "Armenia–Azerbaijan peace process",
+   "links": [
+    {
+     "label": "Associated Press (via News4JAX)",
+     "url": "https://www.news4jax.com/news/world/2026/11/23/armenian-prime-minister-proposes-new-constitution-in-bid-for-peace-with-azerbaijan/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://jam-news.net/not-tailored-to-one-person-pashinyan-on-armenias-new-constitution-and-its-controversial-provisions/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-25",
+   "segment": "South & Central Asia",
+   "country": "Bangladesh / India",
+   "text": "A spokesperson for [[p:Sheikh Hasina]] said she will return from India on 16 Dec and asked the [[p:Tarique Rahman]] government to arrange her flight. Dhaka will keep seeking her extradition.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Julhas Alam",
+   "outlet": "Associated Press (via ABC News)",
+   "opinion": "",
+   "thread": "Bangladesh unrest and Hasina's return",
+   "links": [
+    {
+     "label": "Associated Press (via ABC News)",
+     "url": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://m.thewire.in/article/south-asia/sheikh-hasina-plans-to-return-to-bangladesh-on-december-16"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-09",
+   "segment": "South & Central Asia",
+   "country": "Pakistan / Saudi Arabia / Turkey",
+   "text": "Pakistan hosted the second strategic committee meeting of the Pakistan–Saudi–Turkey defence pact. Ministers, including army chief [[p:Asim Munir]], condemned Houthi attacks on Saudi Arabia but announced no new military steps; AP says Turkey completed ratification the same day.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Munir Ahmed",
+   "outlet": "Associated Press",
+   "opinion": "",
+   "thread": "Saudi–Houthi war",
+   "links": [
+    {
+     "label": "Associated Press",
+     "url": "https://www.ksat.com/news/world/2026/11/27/pakistan-set-to-host-talks-with-saudi-arabia-and-turkey-under-trilateral-defense-pact/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.bernama.com/en/world/news.php?id=2640638"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-10",
+   "segment": "South & Central Asia",
+   "country": "Pakistan / Iran / United States",
+   "text": "Iran's foreign minister [[p:Abbas Araghchi]] said Pakistani and Qatari mediators are still relaying US–Iran proposals, but Hormuz stays shut until the blockade and the war end and sanctions are eased.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Uroosa Jadoon",
+   "outlet": "Arab News Pakistan",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Arab News Pakistan",
+     "url": "https://www.arabnews.pk/pakistan/iran-says-pakistan-qatar-still-relaying-proposals-to-us-as-hormuz-dispute-persists-3008212"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-07",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "The [[p:Islamabad High Court]] heard [[p:Imran Khan]]'s defence in the £190m appeals, reserved its ruling on live-streaming them and adjourned without a date.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Shahid Rao",
+   "outlet": "The Nation",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Nation",
+     "url": "https://www.nation.com.pk/26-Nov-2026/ihc-reserves-verdict-live-streaming-imran-appeals-pound-190m-case"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://minutemirror.com.pk/ihc-resumes-appeals-against-imran-bushra-in-190m-case-665546/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-11",
+   "segment": "South & Central Asia",
+   "country": "Pakistan",
+   "text": "The [[p:Balochistan Liberation Army]] claims it killed 20 security personnel in Nushki and Mastung on 21–22 Nov; Pakistan has not commented. The army says it killed 12 militants in the province from 20 to 23 Nov.",
+   "tier": 2,
+   "verification": "Claimed",
+   "reporter": "Ahmad Mansoor",
+   "outlet": "24NewsHD / IANS",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "24NewsHD / IANS",
+     "url": "https://www.24newshd.tv/26-Nov-2026/12-indian-sponsored-terrorists-slain-string-balochistan-operations"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://telanganatoday.com/20-pakistani-personnel-killed-in-series-of-attacks-across-balochistan-claims-bla"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-21",
+   "segment": "South & Central Asia",
+   "country": "India",
+   "text": "India's Cabinet approved a constitutional amendment that ties women's reservation to delimitation, enlarging every state's [[p:Lok Sabha]] seats by 50% and freezing each state's share until 2051. A special sitting of Parliament opens on 30 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "Shvetank Maurya (curator)",
+   "outlet": "Outlook India",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Outlook India",
+     "url": "https://www.outlookindia.com/national/women-reservation-delimitation-cabinet-50-percent-lok-sabha-seat-increase-2051"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.hindustantimes.com/india-news/no-question-hour-zero-hour-lok-sabha-rajya-sabha-share-details-of-special-parliament-sitting-101795714198643.html"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-29",
+   "segment": "South & Central Asia",
+   "country": "Bangladesh / India",
+   "text": "The Bangladesh–India Ganges committee met in Dhaka without a mandate to discuss renewal; the treaty expires on 12 Dec and India has set no date for talks.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Staff Correspondent",
+   "outlet": "The Daily Star",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "The Daily Star",
+     "url": "https://www.thedailystar.net/news/bangladesh/news/ganges-water-sharing-routine-meets-delhi-mum-over-new-treaty-talks-4330906"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425823/ganges-treaty-renewal-in-limbo-as-deadline-nears"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-36",
+   "segment": "South & Central Asia",
+   "country": "Georgia",
+   "text": "Georgia's [[p:Constitutional Court of Georgia|Constitutional Court]] expelled [[p:Nika Gvaramia]] from the hearing on banning five opposition parties in a case that resumes on 30 Nov.",
+   "tier": 2,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "JAMnews",
+   "opinion": "",
+   "thread": "Georgia democratic backsliding",
+   "links": [
+    {
+     "label": "JAMnews",
+     "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-25-27-november-2026/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://georgiatoday.ge/opposition-ban-case-deepens-as-court-hearings-become-increasingly-contentious/"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-44",
+   "segment": "South & Central Asia",
+   "country": "Tajikistan",
+   "text": "Tajikistan told the UN it is leaving the [[p:International Criminal Court]], on the day [[p:Emomali Rahmon]] hosted Putin, who faces an ICC warrant.",
+   "tier": 2,
+   "verification": "Confirmed",
+   "reporter": "Caolán Magee",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://theins.press/en/news/299927"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "tier1Check": [
+  {
+   "id": "E-261128-01",
+   "segment": "East & Southeast Asia",
+   "country": "Taiwan",
+   "text": "In early counting from Taiwan's [[e:2026 Taiwanese local elections|local elections]], Reuters had Taipei mayor [[p:Chiang Wan-an]] of the [[p:Kuomintang]] ahead; the DPP led narrowly in Taichung. China sent 33 aircraft and eight warships around Taiwan before the vote. Results were not yet final.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "Ben Blanchard, Yimou Lee",
+   "outlet": "Reuters (via ThePrint)",
+   "opinion": "",
+   "thread": "Taiwan Strait",
+   "links": [
+    {
+     "label": "Reuters (via ThePrint)",
+     "url": "https://theprint.in/world/taipei-mayor-leads-vote-count-in-key-taiwan-local-elections/3111721/"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://focustaiwan.tw/politics/202611285002"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-02",
+   "segment": "Middle East",
+   "country": "Iran",
+   "text": "[[p:United States Central Command|US Central Command]] says it disabled a Palau-flagged ship trying to run the blockade of Iranian ports. The [[p:Islamic Revolutionary Guard Corps|IRGC]] claims a tanker hit a mine; Iran's navy chief vowed to break the blockade.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "AP (via The Korea Times)",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "AP (via The Korea Times)",
+     "url": "https://www.koreatimes.co.kr/world/20261128/us-military-says-it-disabled-another-ship-attempting-to-breach-iran-blockade"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-03",
+   "segment": "Middle East",
+   "country": "Kuwait",
+   "text": "Italy's [[p:Antonio Tajani]] says Kuwaiti investigators found the drone that killed two Italians was Iranian-made. Iran denies launching it and offered to join an inquiry.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Middle East Eye",
+   "opinion": "",
+   "thread": "US–Iran war and Hormuz",
+   "links": [
+    {
+     "label": "Middle East Eye",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-killed-two-italians-kuwait-was-iranian-made-says-italys-foreign"
+    },
+    {
+     "label": "Cross-check",
+     "url": "https://bdnews24.com/world/btfqyv091x"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-04",
+   "segment": "Middle East",
+   "country": "Iraq",
+   "text": "[[p:Donald Trump]] backed Baghdad's move to put the Kurdistan Region's border crossings and oilfields under federal control. The [[p:Kurdistan Regional Government]] calls it unconstitutional but says it wants no clashes.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera (with AFP, Reuters)",
+   "opinion": "",
+   "thread": "Iraq faction disarmament",
+   "links": [
+    {
+     "label": "Al Jazeera (with AFP, Reuters)",
+     "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown"
+    }
+   ],
+   "paywalled": false
+  },
+  {
+   "id": "E-261128-05",
+   "segment": "Middle East",
+   "country": "Palestine",
+   "text": "[[p:Médecins Sans Frontières|MSF]] says an Israeli strike hit its Gaza City clinic and killed two staff; Israel says they were Hamas members and has given no evidence.",
+   "tier": 1,
+   "verification": "Reported",
+   "reporter": "",
+   "outlet": "Al Jazeera",
+   "opinion": "",
+   "thread": "Gaza ceasefire and Board of Peace plan",
+   "links": [
+    {
+     "label": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+    }
+   ],
+   "paywalled": false
+  }
+ ],
+ "readInFull": [
+  {
+   "readingId": "RL-261128-01",
+   "title": "How the Taliban Use the Law to Take Land: A Legal Scholar Reads the Omid Sabz Rulings",
+   "reporter": "Farzad Sharif (interview)",
+   "outlet": "KabulNow / Etilaatroz",
+   "url": "https://kabulnow.com/2026/11/how-the-taliban-use-the-law-to-take-land-a-legal-scholar-reads-the-omid-sabz-rulings/",
+   "why": "It explains, with document-level detail, how Taliban courts are using existing land law to take over a mostly Hazara Kabul township of about 80,000 people.",
+   "segment": "South & Central Asia",
+   "language": "English (from Persian)"
+  },
+  {
+   "readingId": "RL-261128-02",
+   "title": "Ganges water sharing: Routine meets on, Delhi mum over new treaty talks",
+   "reporter": "Staff Correspondent",
+   "outlet": "The Daily Star",
+   "url": "https://www.thedailystar.net/news/bangladesh/news/ganges-water-sharing-routine-meets-delhi-mum-over-new-treaty-talks-4330906",
+   "why": "A clear account of where the Ganges treaty stands three weeks before it expires: what the joint committee can and cannot do, Dhaka's push for a guarantee clause and India's silence.",
+   "segment": "South & Central Asia",
+   "language": "English"
+  }
+ ],
+ "watchThisWeek": [
+  {
+   "date": "2026-11-30",
+   "text": "India: special sitting of Parliament on the delimitation and women's reservation amendment (Lok Sabha from 30 Nov).",
+   "segment": "South & Central Asia",
+   "watchId": "W-261128-07"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Georgia: [[p:Constitutional Court of Georgia|Constitutional Court]] resumes the case on banning five opposition parties.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261114-03"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Kazakhstan: snap local council (maslikhat) elections for 3,447 seats.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-10"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Sri Lanka: one-day sick-leave strike by teachers and principals, backed by the doctors' union.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261128-08"
+  },
+  {
+   "date": "2026-12-03",
+   "text": "Armenia–Russia: Eurasian Economic Union board on Russia's trade curbs (1 Dec), then Pashinyan meets Putin in Moscow (3 Dec).",
+   "segment": "South & Central Asia",
+   "watchId": "W-261128-10"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Qatar's Mohammed Al-Khulaifi visits Kabul and Islamabad to revive Pakistan–Taliban mediation.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261128-06"
+  },
+  {
+   "date": "2026-12-04",
+   "text": "Pakistan: next IHC hearing on [[p:Imran Khan]]'s £190m appeals.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261128-05"
+  },
+  {
+   "date": "2026-12-05",
+   "text": "Azerbaijan: final vote on NGO re-registration amendments.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-12"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Bangladesh: Hasina's planned 16 Dec return and India's response to the extradition request.",
+   "segment": "South & Central Asia",
+   "watchId": "W-261121-14"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Spain general election, 29 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261108-05"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "[[p:Rodrigo Duterte]]'s ICC trial opens in The Hague, 30 Nov.",
+   "segment": "East & Southeast Asia",
+   "watchId": "W-261111-03"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Sweden: third Riksdag vote on [[p:Ulf Kristersson]] as PM, 30 Nov.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261126-04"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "OPEC ministers meet on 2027 output targets amid the Hormuz disruption.",
+   "segment": "EU politics + cross-cutting",
+   "watchId": "W-261128-02"
+  }
+ ],
+ "gaps": [
+  {
+   "country": "Bhutan",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Associated Press (via News4JAX) — Armenia / Azerbaijan",
+   "url": "https://www.news4jax.com/news/world/2026/11/23/armenian-prime-minister-proposes-new-constitution-in-bid-for-peace-with-azerbaijan/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Armenia / Azerbaijan",
+   "url": "https://jam-news.net/not-tailored-to-one-person-pashinyan-on-armenias-new-constitution-and-its-controversial-provisions/",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press (via ABC News) — Bangladesh / India",
+   "url": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Bangladesh / India",
+   "url": "https://m.thewire.in/article/south-asia/sheikh-hasina-plans-to-return-to-bangladesh-on-december-16",
+   "paywalled": false
+  },
+  {
+   "title": "Associated Press — Pakistan / Saudi Arabia / Turkey",
+   "url": "https://www.ksat.com/news/world/2026/11/27/pakistan-set-to-host-talks-with-saudi-arabia-and-turkey-under-trilateral-defense-pact/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Pakistan / Saudi Arabia / Turkey",
+   "url": "https://www.bernama.com/en/world/news.php?id=2640638",
+   "paywalled": false
+  },
+  {
+   "title": "Arab News Pakistan — Pakistan / Iran / United States",
+   "url": "https://www.arabnews.pk/pakistan/iran-says-pakistan-qatar-still-relaying-proposals-to-us-as-hormuz-dispute-persists-3008212",
+   "paywalled": false
+  },
+  {
+   "title": "The Nation — Pakistan",
+   "url": "https://www.nation.com.pk/26-Nov-2026/ihc-reserves-verdict-live-streaming-imran-appeals-pound-190m-case",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Pakistan",
+   "url": "https://minutemirror.com.pk/ihc-resumes-appeals-against-imran-bushra-in-190m-case-665546/",
+   "paywalled": false
+  },
+  {
+   "title": "24NewsHD / IANS — Pakistan",
+   "url": "https://www.24newshd.tv/26-Nov-2026/12-indian-sponsored-terrorists-slain-string-balochistan-operations",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Pakistan",
+   "url": "https://telanganatoday.com/20-pakistani-personnel-killed-in-series-of-attacks-across-balochistan-claims-bla",
+   "paywalled": false
+  },
+  {
+   "title": "Outlook India — India",
+   "url": "https://www.outlookindia.com/national/women-reservation-delimitation-cabinet-50-percent-lok-sabha-seat-increase-2051",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — India",
+   "url": "https://www.hindustantimes.com/india-news/no-question-hour-zero-hour-lok-sabha-rajya-sabha-share-details-of-special-parliament-sitting-101795714198643.html",
+   "paywalled": false
+  },
+  {
+   "title": "The Daily Star — Bangladesh / India",
+   "url": "https://www.thedailystar.net/news/bangladesh/news/ganges-water-sharing-routine-meets-delhi-mum-over-new-treaty-talks-4330906",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Bangladesh / India",
+   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425823/ganges-treaty-renewal-in-limbo-as-deadline-nears",
+   "paywalled": false
+  },
+  {
+   "title": "JAMnews — Georgia",
+   "url": "https://jam-news.net/news-in-azerbaijan-armenia-georgia-25-27-november-2026/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Georgia",
+   "url": "https://georgiatoday.ge/opposition-ban-case-deepens-as-court-hearings-become-increasingly-contentious/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera — Tajikistan",
+   "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Tajikistan",
+   "url": "https://theins.press/en/news/299927",
+   "paywalled": false
+  },
+  {
+   "title": "Reuters (via ThePrint) — Taiwan",
+   "url": "https://theprint.in/world/taipei-mayor-leads-vote-count-in-key-taiwan-local-elections/3111721/",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Taiwan",
+   "url": "https://focustaiwan.tw/politics/202611285002",
+   "paywalled": false
+  },
+  {
+   "title": "AP (via The Korea Times) — Iran",
+   "url": "https://www.koreatimes.co.kr/world/20261128/us-military-says-it-disabled-another-ship-attempting-to-breach-iran-blockade",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Iran",
+   "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade",
+   "paywalled": false
+  },
+  {
+   "title": "Middle East Eye — Kuwait",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-killed-two-italians-kuwait-was-iranian-made-says-italys-foreign",
+   "paywalled": false
+  },
+  {
+   "title": "Cross-check — Kuwait",
+   "url": "https://bdnews24.com/world/btfqyv091x",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera (with AFP, Reuters) — Iraq",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera — Palestine",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff",
+   "paywalled": false
+  }
+ ]
+}
