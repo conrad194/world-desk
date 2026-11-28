@@ -1,0 +1,1394 @@
+{
+ "date": "2026-11-28",
+ "top5": [
+  {
+   "text": "Nawrocki vetoed the PIT/CIT reform on deadline day, so 2027 taxes stay as they are unless the Sejm finds a 3/5 majority. He also vetoed a higher sugar fee.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "TVN24",
+     "url": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-zawetowal-ustawe-podnoszaca-progi-podatkowe-st9356538"
+    }
+   ]
+  },
+  {
+   "text": "Decisions on the abortion bills and the judges' status act are still pending; MPs say the abortion deadline is Monday.",
+   "place": "Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://www.rp.pl/prawo-w-polsce/art45547111-ustawa-aborcyjna-czarzasty-jesli-prezydent-ja-zawetuje-poprosze-tk-o-wykladnie"
+    }
+   ]
+  },
+  {
+   "text": "India's Cabinet reportedly cleared a revised delimitation bill: 50% more Lok Sabha seats for every state, shares frozen until 2051. It goes to the Nov 30 sitting.",
+   "place": "India",
+   "links": [
+    {
+     "label": "Scroll",
+     "url": "https://scroll.in/latest/1097370/cabinet-clears-delimitation-bill-with-50-seat-increase-for-all-states-freeze-till-2051-reports"
+    }
+   ]
+  },
+  {
+   "text": "Poland signed a five-year deal for Palantir's Maven AI battlefield system despite calls for a security audit.",
+   "place": "US–Poland",
+   "links": [
+    {
+     "label": "Rzeczpospolita",
+     "url": "https://radar.rp.pl/wojsko-polskie/art45554521-miliard-zlotych-dla-giganta-z-usa-polska-armia-podpisala-umowe-z-palantirem"
+    }
+   ]
+  },
+  {
+   "text": "Kraków opens its SCT shrink consultation (to 18 Dec) and the Christmas market under tight security; hard frost tonight.",
+   "place": "Kraków",
+   "links": [
+    {
+     "label": "krakow.pl",
+     "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__konsultacje_spoleczne.html"
+    }
+   ]
+  }
+ ],
+ "places": {
+  "US": [
+   {
+    "id": "E-261128-03",
+    "domain": "Technology, AI & cyber",
+    "text": "Reuters: hackers breached the Air Force's Cloud One platform, which hosts payroll, munitions tracking and air-defence radar software; Cyber Command is assessing the damage.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Federal cyber breaches 2026",
+    "links": [
+     {
+      "label": "Military.com",
+      "url": "https://www.military.com/us-air-force-computing-platform-breached-by-hackers-report"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.forbes.com/sites/saradorn/2026/11/27/air-forces-cloud-one-platform-hacked-report-says/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-04",
+    "domain": "Foreign relations",
+    "text": "Trump publicly backed Iraqi PM al-Zaidi's push to take control of Kurdish oilfields and borders and disarm militias, which fits the US pressure campaign on Iran.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US–Iran war and negotiations",
+    "links": [
+     {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/27/trump-backs-iraqs-al-zaidi-in-fight-against-oil-smuggling/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-05",
+    "domain": "Foreign relations",
+    "text": "Trump defended his friendship with Putin, said Putin is welcome at the Dec 14–15 Miami G20, and played down Russian and Chinese help to Iran; Zelensky called the friendship 'strange'.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/nov/27/trump-defends-putin-friendship-that-zelenskyy-call/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.rte.ie/news/2026/1127/1600845-trump-putin-ukraine/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-06",
+    "domain": "Health, medicine & food safety",
+    "text": "Measles keeps spreading: Minnesota has its most cases since 1990, Wisconsin passed 918 cases with three deaths this month, and Ohio reached 400.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US measles resurgence",
+    "links": [
+     {
+      "label": "MPR News",
+      "url": "https://www.mprnews.org/story/2026/11/27/measles-cases-continue-increase-minnesota-three-deaths-wisconsin"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.yahoo.com/news/us/articles/ohio-measles-cases-week-nearly-150249831.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-01",
+    "domain": "Economy, business & markets",
+    "text": "Stocks surged in Friday's shortened session (S&P 500 +1.6%, Nasdaq +2.3%), capping their best week in months; Anthropic climbed back above its IPO price.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "US economy and markets",
+    "links": [
+     {
+      "label": "JBizNews",
+      "url": "https://jbiznews.com/u-s-stocks-close-sharply-higher-in-shortened-black-friday-session-and-post-big-weekly-gains-dow-jones-industrial-average-up-1-18-sp-500-up-1-60-nasdaq-composite-up-2-31/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-08",
+    "domain": "Infrastructure, transport & housing",
+    "text": "Power and air travel were recovering after the Thanksgiving storm, but hundreds of thousands were still without power on Friday and the busiest return-travel days are still ahead.",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "",
+    "links": [
+     {
+      "label": "The Traveler",
+      "url": "https://www.thetraveler.org/thanksgiving-noreaster-disrupts-travel-as-east-coast-begins-cleanup/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thetraveler.org/duffy-thanksgiving-flight-delays-largely-weather-driven-so-far/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland": [
+   {
+    "id": "E-261128-13",
+    "domain": "Politics & government",
+    "text": "Nawrocki vetoed the PIT/CIT reform (130,000 zł threshold, 22% CIT for big firms, lower ryczałt limit), so current tax rules stay for 2027 unless the Sejm overrides with 3/5.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "TVN24",
+      "url": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-zawetowal-ustawe-podnoszaca-progi-podatkowe-st9356538"
+     },
+     {
+      "label": "Second source",
+      "url": "https://notesfrompoland.com/2026/11/27/president-vetoes-polish-governments-middle-class-tax-cuts/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-17",
+    "domain": "Defense, security & crime",
+    "text": "Tusk extended the BRAVO/BRAVO-CRP alert nationwide and CHARLIE on the railways to Feb 28, 2027.",
+    "tier": 1,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-co-dalej-z-obowiazywaniem-stopni-alarmowych-w-polsce-tusk-zd,nIdn,1028020"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.nakolei.pl/charlie-na-kolei-przedluzony-do-28-lutego/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-14",
+    "domain": "Health, medicine & food safety",
+    "text": "Nawrocki vetoed a sugar-fee increase for the second time; the Health Ministry says the NFZ loses about 1.3bn zł a year.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "President–government conflict in Poland",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/fakty/polska/news-prezydent-nawrocki-drugi-raz-zawetowal-ustawe-o-tej-podwyzce,nIdn,1027990"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/resort-reaguje-na-weto-wskazano-na-profilaktyke-i-leczenie-polakow/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-15",
+    "domain": "Economy, business & markets",
+    "text": "Nawrocki signed laws raising family-foundation tax to 19%, changing tax reliefs, and creating 4.8bn zł of aid for energy-intensive industry.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland 2027 tax reform",
+    "links": [
+     {
+      "label": "Infor.pl",
+      "url": "https://www.infor.pl/prawo/nowosci-prawne/7717546,weto-karola-nawrockiego-kluczowe-zmiany-w-podatkach-i-oplacie-cukrowej-zablokowane.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.money.pl/finanse/weto-ws-progow-pit-ale-podpis-pod-inna-wazna-ustawa-co-oznaczaja-decyzje-nawrockiego-7355543506782368a.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-16",
+    "domain": "Politics & government",
+    "text": "Prosecutors released international expert findings that the 2010 Smolensk crash was an accident with no evidence of an explosion; PiS called it manipulation.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Notes from Poland",
+      "url": "https://notesfrompoland.com/2026/11/27/poland-releases-international-expert-findings-confirming-smolensk-air-disaster-was-an-accident/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.tvp.info/96749233/przeglad-najwazniejszych-wydarzen-piatku-27-listopada"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-18",
+    "domain": "Law, courts & regulation",
+    "text": "The Tribunal's disciplinary court, made up of government-backed judges, suspended Święczkowski as president for 12 months; he calls the ruling void.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Notes from Poland",
+      "url": "https://notesfrompoland.com/2026/11/27/disputed-polish-constitutional-court-announces-12-month-suspension-of-chief-justice/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://wydarzenia.interia.pl/kraj/news-donald-tusk-z-decyzja-ws-finansowania-tk-wydal-dyspozycje,nId,23579361"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-19",
+    "domain": "Law, courts & regulation",
+    "text": "Warsaw is appealing the ruling that let the Tribunal protest camp stay; Kaczyński called a rally there for Sunday Nov 29 at 15:00.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Poland Constitutional Tribunal crisis",
+    "links": [
+     {
+      "label": "Radio ESKA Warszawa",
+      "url": "https://warszawa.eska.pl/protest-przed-trybunalem-konstytucyjnym-w-warszawie-ratusz-sklada-zazalenie-aa-UCKe-LQ5U-cdth.html"
+     },
+     {
+      "label": "Second source",
+      "url": "https://polityka.se.pl/wiadomosci/zapadla-decyzja-sadu-ws-miasteczka-pod-tk-kaczynski-zabral-glos-aa-8BZd-HSap-XhQv.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-21",
+    "domain": "Society: education, labor, immigration",
+    "text": "Żabka franchisees allege a misleading model with VAT debts of up to 1.2m zł; a crime notice and labour-inspection referral have been filed, and Żabka rejects the claims.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "TVN24 Biznes",
+      "url": "https://tvn24.pl/biznes/z-kraju/spor-franczyzobiorcow-z-zabka-zarzuty-dotycza-vat-zadluzenia-i-rozliczen-spolka-odpowiada-st9361649"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Kraków": [
+   {
+    "id": "E-261128-31",
+    "domain": "Environment, energy & disasters",
+    "text": "Consultation on shrinking the SCT to about 1 km² of the centre runs from 27 Nov to 18 Dec, with four public meetings; the fee-freeze consultation closed on 27 Nov.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Clean Transport Zone (SCT) overhaul",
+    "links": [
+     {
+      "label": "krakow.pl",
+      "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__konsultacje_spoleczne.html"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-30",
+    "domain": "Politics & government",
+    "text": "The 2 Dec council agenda has first readings of the 2027 budget and financial forecast and the second reading of the 20/40-minute ticket fare resolution.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków city finances and the 2027 budget",
+    "links": [
+     {
+      "label": "KRKnews",
+      "url": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krknews.pl/67-sesja-rady-miasta-krakowa-pod-znakiem-przyszlorocznego-budzetu-i-wieloletniej-prognozy-finansowej/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-28",
+    "domain": "Infrastructure, transport & housing",
+    "text": "PESA has started building Kraków's 65 new trams; MPK expects the first in mid-2027 and says the first 30 will let it retire all high-floor trams.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków transit and fares",
+    "links": [
+     {
+      "label": "LoveKraków.pl",
+      "url": "https://lovekrakow.pl/nowe-tramwaje-przyjada-juz-w-2027-roku-mpk-zapowiada-koniec-wysokiej-podlogi"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.net.pl/komunikacja/budowa-nowych-tramwajow-dla-krakowa/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-29",
+    "domain": "Culture, media & sport",
+    "text": "The Main Square Christmas market opened with barriers, extra guards, cameras and patrols after the 7 Nov attack; a residents' group objects to trading until 23:00 at weekends.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/jarmark-bozonarodzeniowy-na-rynku-glownym-szczegolne-srodki-bezpieczenstwa/188304"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krknews.pl/rusza-jarmark-bozonarodzeniowy-na-rynku-glownym-nie-wszyscy-sie-ciesza/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-24",
+    "domain": "Defense, security & crime",
+    "text": "The parents of the girl shot at on ul. Grodzka during the 7 Nov attack have come forward to prosecutors, who treat it as attempted murder and have granted the family victim status.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Kraków Main Square shooting",
+    "links": [
+     {
+      "label": "RMF24",
+      "url": "https://www.rmf24.pl/regiony/krakow/news-zamach-w-krakowie-rodzice-dziecka-z-nagrania-na-ul-grodzkiej,nIdn,1028033"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.net.pl/wiadomosci/zamach-w-krakowie-rodzice-dziecka-z-ul-grodzkiej-w-prokuraturze-2/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-26",
+    "domain": "Defense, security & crime",
+    "text": "Kraków will give the city police 200,000 zł for bulletproof vests and rescue kits, Mayor Gibała announced, after reports that officers in the 7 Nov attack wore private vests.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Gibała's first months as Kraków mayor",
+    "links": [
+     {
+      "label": "KR24.pl",
+      "url": "https://kr24.pl/krakow/200-tys-zl-dla-krakowskiej-policji-miasto-sfinansuje-zakup-kamizelek-i-zestawow-ratowniczych/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.net.pl/wiadomosci/krakow-przekaze-200-tys-zl-na-policje-prezydent-wskazal-cel-2/"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-32",
+    "domain": "Environment, energy & disasters",
+    "text": "Kraków is appealing the voivode's permit for UKEN's shooting range in Bronowice, citing over 270 trees to be felled and the decision's immediate enforceability.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Kurier Krakowski",
+      "url": "https://kk24.info/ponad-270-drzew-do-wycinki-pod-strzelnice-w-bronowicach-krakow-chce-uchylenia-decyzji-wojewody/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://krakow.net.pl/dzielnice/miasto-odwoluje-sie-od-decyzji-wojewody-inwestycja-ul-rydla/"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "India": [
+   {
+    "id": "E-261128-36",
+    "domain": "Politics & government",
+    "text": "The Cabinet reportedly cleared a revised delimitation and women's quota amendment: a uniform 50% rise in Lok Sabha seats, with state shares frozen until 2051, before the Nov 30 special sitting.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Delimitation and women's reservation amendment",
+    "links": [
+     {
+      "label": "Scroll",
+      "url": "https://scroll.in/latest/1097370/cabinet-clears-delimitation-bill-with-50-seat-increase-for-all-states-freeze-till-2051-reports"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.newsgram.com/parliament/2026/11/27/cabinet-revised-delimitation-bill-special-session"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-37",
+    "domain": "Politics & government",
+    "text": "The NCP(SP) says it will back the delimitation bill and Congress calls that 'unfortunate'. Kharge has called opposition floor leaders, including the DMK, AAP and BJD, to plan for the special sitting.",
+    "tier": 1,
+    "verification": "Reported",
+    "thread": "Delimitation and women's reservation amendment",
+    "links": [
+     {
+      "label": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com/nation/politics/congress-slams-ncp-sp-for-supporting-delimitation-bill-2008740"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.thedailyjagran.com/india/news/india-bloc-intensifies-unity-efforts-amid-ncp-sp-support-to-delimitation-dmk-aap-and-bjd-invited-at-kharges-meeting-10337947"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-39",
+    "domain": "Law, courts & regulation",
+    "text": "The Supreme Court suspended the Thiruparankundram temple trustees, appointed two ex-judges as receivers, ordered the lamp lit on Nov 28 under CRPF guard, and issued contempt notices to top Tamil Nadu officials.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Thiruparankundram deepam dispute",
+    "links": [
+     {
+      "label": "Bar & Bench",
+      "url": "https://www.barandbench.com/news/litigation/supreme-court-slams-tn-for-not-lighting-lamp-at-thiruparankundram-suspends-temple-trustees-orders-lighting-of-lamp-on-nov-28"
+     },
+     {
+      "label": "Second source",
+      "url": "https://thefederal.com/category/news/thiruparankundram-deepathoon-row-what-the-supreme-court-said-in-its-order-264289"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-40",
+    "domain": "Economy, business & markets",
+    "text": "The Bombay HC denied the Tata Trusts interim relief against Chandrasekaran's third term and let the Nov 30 Tata Sons board meeting proceed, subject to final orders. The next hearing is Jan 18.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "LiveLaw",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-tata-sons-board-meeting-interim-relief-tata-trusts-560342"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.livelawbiz.com/company-law/high-court/bombay-high-court-denies-interim-relief-to-tata-trusts-allows-november-30-tata-sons-board-meeting-560330"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-41",
+    "domain": "Economy, business & markets",
+    "text": "The Sensex fell 989 points and the Nifty closed at 25,607 as Brent neared $98. Forex reserves dropped $4.44bn to a 16-week low of $700.9bn.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "India oil shock and markets",
+    "links": [
+     {
+      "label": "Business Today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bt-closing-bell-sensex-plunges-989-pts-nifty-ends-at-25607-what-fridays-market-fall-reflects-569980-2026-11-27"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.tribuneindia.com/news/business/indias-forex-reserves-fall-to-16-week-low-of-usd-700-90-billion-as-gold-reserves-decline"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-42",
+    "domain": "Politics & government",
+    "text": "Leh authorities are seeking a peace bond from Sonam Wangchuk before the Dec 4 hill council polls. He refuses to sign and must reply by Nov 28.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "Ladakh statehood protests and council polls",
+    "links": [
+     {
+      "label": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/j-k/ladakh-poll-wangchuk-summoned-by-authorities-asked-why-he-shouldnt-be-made-to-sign-peace-bond/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.etvbharat.com/en/bharat/ahead-of-lahdc-polls-leh-administration-seeks-peace-bond-from-wangchuk-over-protest-calls-enn26112608458"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-48",
+    "domain": "Environment, energy & disasters",
+    "text": "Cold wave and dense fog hit north India. Delhi's AQI briefly hit 393 overnight before settling at a 'poor' 220, and November has had no 'severe' days so far.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "Delhi-NCR air pollution season",
+    "links": [
+     {
+      "label": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/bharat/cold-wave-alert-in-rajasthan-dense-fog-to-affect-north-india-rain-likely-in-southern-states-enn26112701046"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.ibtimes.co.in/delhi-aqi-today-november-27-air-quality-improves-220-after-overnight-spike-393-check-highest-908719"
+     }
+    ],
+    "paywalled": false
+   },
+   {
+    "id": "E-261128-45",
+    "domain": "Health, medicine & food safety",
+    "text": "FSSAI sanctioned prosecution of Bisleri after coliform bacteria were found in a West Bengal packaged water sample. A nationwide packaged-water testing drive is under way.",
+    "tier": 2,
+    "verification": "Reported",
+    "thread": "",
+    "links": [
+     {
+      "label": "Indian Opinion",
+      "url": "https://indianopinion.org/fssai-sanctions-prosecution-against-bisleri-over-west-bengal-water-sample/"
+     },
+     {
+      "label": "Second source",
+      "url": "https://www.cnbctv18.com/business/companies/fssai-sanctions-prosecution-against-bisleri-in-fresh-case-bacteria-found-in-bengal-sample-20043460.htm"
+     }
+    ],
+    "paywalled": false
+   }
+  ]
+ },
+ "city": [
+  {
+   "kind": "Transit",
+   "text": "Andrzejki night service: on Fri/Sat night (27–28 Nov) and Sun/Mon night (29–30 Nov), extra night buses 604 and 618 run hourly (about 23:30–2:00), 605 and 664 every 15 min, and 611 more often; trams 62 and 69 use larger vehicles. No reinforcement was announced for Sat/Sun night.",
+   "link": "https://krakowportal.pl/andrzejki-2026-w-krakowie-dodatkowe-autobusy-i-tramwaje-nocne/"
+  },
+  {
+   "kind": "Closure",
+   "text": "The Ruszcza tunnel (ul. Za Górą works) is closed until Sat 28 Nov 23:00, and bus 160 is detoured. Check the ZTP notice for the route.",
+   "link": "https://ikc.pl/krakow-tunel-w-ruszczy-zamkniety-linia-160-pojedzie-inaczej/"
+  },
+  {
+   "kind": "Air quality",
+   "text": "Air is good after the snowfall: Kraków's overall AQI was 36 at 05:00 Saturday (PM2.5 AQI 36, PM10 AQI 10, unverified GIOŚ/WIOŚ data). No smog alert was found.",
+   "link": "https://aqicn.org/city/krakow/uk/"
+  },
+  {
+   "kind": "Weather",
+   "text": "The IMGW heavy-snow warning for Kraków expired on Fri 27 Nov at 18:00, after 10–15 cm of snow. No frost warning was found, but IMGW expects Saturday night to be one of the coldest of the autumn, about -8°C in Kraków and down to about -12°C on Sunday morning, so expect icy pavements.",
+   "link": "https://pulskrakowa.pl/nawet-20-cm-sniegu-pozniej-silny-mroz-imgw-ostrzega-mieszkancow-krakowa/"
+  },
+  {
+   "kind": "Event",
+   "text": "Christmas market official opening Sat 28 Nov at 12:00 on Rynek Główny with Trebunie-Tutki. Open daily to 22:00 (Fri/Sat to 23:00), with barriers and extra patrols in place. Karta Krakowska holders get 20% off food.",
+   "link": "https://radiokrakow.pl/wiadomosci/krakow/jarmark-bozonarodzeniowy-na-rynku-glownym-szczegolne-srodki-bezpieczenstwa/188304"
+  },
+  {
+   "kind": "Event",
+   "text": "Weekend: the Christmas Fair of Unique Things on Rynek Podgórski (Sat–Sun 11:00–20:00, free, about 90 stalls); a model railway show at NCK; Wisła v Motor Lublin at 20:15 on Saturday.",
+   "link": "https://krakowportal.pl/weekend-krakow-27-29-listopada-2026/"
+  }
+ ],
+ "relations": {
+  "US–Poland": [
+   {
+    "id": "E-261128-51",
+    "domain": "Defense, security & crime",
+    "text": "Poland signed a five-year deal, worth about 1bn zł, for Palantir's Maven AI battlefield system ('Saturn'); Gawkowski and Panoptykon had asked for a security audit first.",
+    "tier": 2,
+    "verification": "Confirmed",
+    "thread": "",
+    "links": [
+     {
+      "label": "Rzeczpospolita",
+      "url": "https://radar.rp.pl/wojsko-polskie/art45554521-miliard-zlotych-dla-giganta-z-usa-polska-armia-podpisala-umowe-z-palantirem"
+     },
+     {
+      "label": "Second source",
+      "url": "https://oko.press/na-zywo/na-zywo-relacja/mon-podpisal-umowe-z-palantirem"
+     }
+    ],
+    "paywalled": true
+   }
+  ],
+  "US–India": [
+   {
+    "id": "E-261128-52",
+    "domain": "Trade & tariffs",
+    "text": "India is reportedly drafting a formal rebuttal to USTR's proposed Section 301 tariffs and wants any deal to keep it ahead of Asian rivals (single source, unnamed officials).",
+    "tier": 2,
+    "verification": "Single-source",
+    "thread": "India–US trade deal",
+    "links": [
+     {
+      "label": "airnews.in",
+      "url": "https://www.airnews.in/articles/30a7e79e80-piyush-goyal-pushes-us-trade-deal-as-washington-threatens-25-tariffs-on-90b-exports"
+     }
+    ],
+    "paywalled": false
+   }
+  ],
+  "Poland–India": [],
+  "US–Poland–India": []
+ },
+ "rules": [
+  {
+   "id": "R-261105-01",
+   "name": "Bill amending PIT and CIT (2027 tax reform, resubmitted)",
+   "place": "Poland",
+   "body": "Sejm / Senate / President",
+   "stage": "Struck down / withdrawn",
+   "changes": "Vetoed on Nov 27. Would have added a 24% PIT band (130–150k zł), 22% CIT for firms with revenue above €50m, a 5% solidarity levy and a lower ryczałt limit. Current rules stay for 2027 unless the Sejm overrides (3/5 needed).",
+   "affects": "Higher earners, the largest companies and the self-employed on the lump-sum tax.",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html"
+  },
+  {
+   "id": "R-261128-01",
+   "name": "Amendment on taxation of family foundations (print 3148)",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "stage": "Signed / published",
+   "changes": "Raises tax on benefits paid out by family foundations and on hidden profits from 15% to 19%. Limits the CIT rental exemption to long-term housing. Assets put in from 2027 must be held two years to keep sale proceeds tax-exempt. Unrepaid loans to founders count as hidden profit. Until end-2027, property can be returned to founders tax-free.",
+   "affects": "Owners and beneficiaries of family foundations (wealthy families, family businesses)",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/finanse/weto-ws-progow-pit-ale-podpis-pod-inna-wazna-ustawa-co-oznaczaja-decyzje-nawrockiego-7355543506782368a.html"
+  },
+  {
+   "id": "R-261128-02",
+   "name": "Act on support for energy-intensive sectors (print 3159)",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "stage": "Signed / published",
+   "changes": "Creates a 4.8bn zł aid programme for companies hit by high electricity prices.",
+   "affects": "Energy-intensive industrial firms (steel, chemicals, etc.)",
+   "effectiveDate": "",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.infor.pl/prawo/nowosci-prawne/7717546,weto-karola-nawrockiego-kluczowe-zmiany-w-podatkach-i-oplacie-cukrowej-zablokowane.html"
+  },
+  {
+   "id": "R-261128-03",
+   "name": "Amendment to the Citizenship Rules, 2009 (digital citizenship certificates)",
+   "place": "India",
+   "body": "Ministry of Home Affairs",
+   "stage": "In force",
+   "changes": "People granted Indian citizenship by registration or naturalisation now get a digitally signed certificate by default. A paper copy is issued only if they ask for one.",
+   "affects": "New citizens by registration or naturalisation, including CAA applicants, and the zonal registration authorities",
+   "effectiveDate": "2026-11-27",
+   "commentDeadline": "",
+   "officialLink": "",
+   "newsLink": "https://www.airnews.in/articles/5511e45062-home-ministry-shifts-citizenship-certificates-to-digital-format-under-amended-2009-rules?feed=india"
+  },
+  {
+   "id": "R-261106-06",
+   "name": "Draft resolution freezing Clean Transport Zone (SCT) entry fees for 2027-2028",
+   "place": "Kraków",
+   "body": "Rada Miasta Krakowa (mayor's draft)",
+   "stage": "Proposed",
+   "changes": "Keeps SCT entry fees at 100 zł a month, 2.50 zł an hour or 5 zł a day through 2027-2028, instead of the scheduled rise to 250 zł a month in 2027 and 500 zł in 2028. Zone area, emission rules and exemptions stay the same.",
+   "affects": "Drivers of non-compliant cars entering the SCT, and Kraków residents who pay for entry",
+   "effectiveDate": "2027-01-01",
+   "commentDeadline": "2026-11-27",
+   "officialLink": "https://krakow.pl/aktualnosci/344065,1912,komunikat,stawki_oplat_w_sct_bez_podwyzek_do_konca_2028_r___wkrotce_konsultacje.html",
+   "newsLink": "https://cowkrakowie.pl/2026/11/oplaty-za-wjazd-do-sct-w-krakowie-miasto-pyta-mieszkancow-o-zdanie"
+  }
+ ],
+ "deepDive": {
+  "domain": "Environment, energy & disasters",
+  "title": "Kraków's clean-air zone, take two: a smaller SCT and cheaper entry",
+  "body": "Kraków is rewriting its Clean Transport Zone (SCT) in two steps, and both moved this week. On 27 Nov the city closed consultation on a draft that would **freeze entry fees** for non-compliant cars at 100 zł a month (or 5 zł a day) through 2028, instead of letting them rise to 250 zł in 2027 and 500 zł in 2028. The same day it opened consultation on a second draft that would **shrink the zone** from almost the whole city to roughly 1 km² of the centre. That runs to 18 Dec, with four public meetings starting 3 Dec in Nowa Huta ([krakow.pl](https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__ruszaja_konsultacje.html)).\n\nThe fee freeze is not on the 2 Dec council agenda, so a vote will come later. Together the two drafts would turn the SCT from a citywide rule into a small central zone with lower charges; how much that changes exhaust levels outside the centre is the question the consultation is meant to test. A separate draft for a local referendum (SCT, short-term rentals, carriages) is still pending.\n\nTransit is the other half of the bargain. PESA has started building Kraków's 65 new low-floor trams; MPK expects the first in mid-2027 and says the first 30 will retire every high-floor tram ([LoveKraków](https://lovekrakow.pl/nowe-tramwaje-przyjada-juz-w-2027-roku-mpk-zapowiada-koniec-wysokiej)). The ring road completed on 26 Nov should pull some through-traffic out of the city, while the metro stays on hold without state money.\n\nFor context, winter is when air matters most. Saturday morning's readings were good after fresh snow, but calm frosty nights are when PM10 builds. Delhi, at the other end of this brief, logged a 'poor' AQI of 220 on Friday after an overnight spike, with no 'severe' days so far this November.\n\n**What to watch:** consultation turnout, whether the council votes the fee freeze before 1 Jan, and the 2 Dec budget reading.",
+  "links": [
+   {
+    "label": "krakow.pl SCT consultation",
+    "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__ruszaja_konsultacje.html"
+   },
+   {
+    "label": "LoveKraków: new trams",
+    "url": "https://lovekrakow.pl/nowe-tramwaje-przyjada-juz-w-2027-roku-mpk-zapowiada-koniec-wysokiej"
+   }
+  ]
+ },
+ "readInFull": [
+  {
+   "readingId": "RL-261128-02",
+   "title": "Rewolucja podatkowa rządu. Jest decyzja prezydenta",
+   "reporter": "Malwina Gadawa",
+   "outlet": "money.pl",
+   "url": "https://www.money.pl/gospodarka/rewolucja-podatkowa-rzadu-jest-decyzja-prezydenta-7355451242670240a.html",
+   "why": "Clear explanation of what the vetoed PIT/CIT/ryczałt law contained, the President's reasoning and the dispute over how many taxpayers would benefit.",
+   "place": "Poland",
+   "domain": "Economy, business & markets",
+   "language": "Polish"
+  },
+  {
+   "readingId": "RL-261128-04",
+   "title": "Supreme Court slams TN for not lighting lamp at Thiruparankundram; suspends temple trustees, orders lighting of lamp on Nov 28",
+   "reporter": "S N Thyagarajan",
+   "outlet": "Bar & Bench",
+   "url": "https://www.barandbench.com/news/litigation/supreme-court-slams-tn-for-not-lighting-lamp-at-thiruparankundram-suspends-temple-trustees-orders-lighting-of-lamp-on-nov-28",
+   "why": "A detailed courtroom account of an unusual order in which the SC took over a temple's administration and issued contempt notices to a state's top officials.",
+   "place": "India",
+   "domain": "Law, courts & regulation",
+   "language": "English"
+  }
+ ],
+ "comingUp": [
+  {
+   "date": "2026-11-28",
+   "text": "100th Macy's Thanksgiving Day Parade, postponed from Thursday, starts 8:30 a.m. ET in New York.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Official opening of the Main Square Christmas market at 12:00 (Trebunie-Tutki); Wisła Kraków v Motor Lublin at 20:15 (Reymonta).",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-28",
+   "text": "Karthigai lamp to be lit at the Thiruparankundram deepathoon around 6 pm IST under SC-appointed receivers and CRPF security; Danish FM Rasmussen meets Jaishankar; INDIA bloc floor leaders meet at Kharge's home",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "NASA/Northrop Grumman CRS-25 Cygnus XL cargo launch to the ISS on a Falcon 9 from Cape Canaveral, 10:47 a.m. EST (60% favourable weather; backup Nov 30).",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "PiS rally at the Constitutional Tribunal in Warsaw, 15:00, called by Jarosław Kaczyński",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Legia Warszawa v Wieczysta Kraków, 17:30 (Ekstraklasa).",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Supreme Court opens its December argument session: Crowther v. Board of Regents (Title IX) and Wassily v. Blanche (asylum/green-card eligibility); Khaya v. Cook County (AR-15 ban) follows Dec 2.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Congress returns from Thanksgiving recess with 11 days to the Dec 11 funding deadline. Iran-war funding curbs are the main sticking point.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Federal court hearing in Kansas on Nidal Hasan's motion to stay his Dec 3 military execution.",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Cyber Monday: Adobe forecasts a record $15.1bn in US online spending. Teamsters plan Amazon protests in Los Angeles and Chicago (Gadget Review via Yahoo, single source).",
+   "place": "US"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Reported deadline for President Nawrocki's decision on the two abortion bills; Operation Horyzont mandate expires",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Christmas fair on Mały Rynek opens (to 3 Jan); Korona Kielce v Cracovia, 19:00; Morskie Oko carriage contracts expire.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Lok Sabha special sitting opens, with the revised delimitation/women's quota amendment expected; Q2 FY27 GDP data; Tata Sons board meeting",
+   "place": "India"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Check date for signing of the Poland–India classified-information agreement (W-261026-31)",
+   "place": "Poland–India"
+  },
+  {
+   "date": "2026-11-30",
+   "text": "Reported deadline for Nawrocki's decision on the judges' status act (unconfirmed)",
+   "place": "Poland"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "Jensen Huang's closed-door transcribed interview with three House committees. Public Senate Banking hearing on Dec 3.",
+   "place": "US"
+  },
+  {
+   "date": "2026-12-01",
+   "text": "CITU's three-day workers' march to Parliament begins (to Dec 3)",
+   "place": "India"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "City Council session 67: first readings of the 2027 budget and WPF, second reading of the fare resolution (druk 1587), Piaski Nowe local plan vote.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-02",
+   "text": "Rajya Sabha reconvenes; both Houses due to end the sitting on Dec 3",
+   "place": "India"
+  },
+  {
+   "date": "2026-12-03",
+   "text": "First SCT boundaries consultation meeting, ARTzona, os. Górali 4, Nowa Huta, 17:00–19:00.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-04",
+   "text": "Ladakh LAHDC hill council polls (counting Dec 6); RBI MPC decision",
+   "place": "India"
+  },
+  {
+   "date": "2026-12-04",
+   "text": "Trump speaks at the Reagan National Defense Forum in Simi Valley; Defence24 earlier linked the date unofficially to a decision on a permanent US base in Poland, though Polish officials now say turn of the year",
+   "place": "US–Poland"
+  },
+  {
+   "date": "2026-12-05",
+   "text": "Trams 1, 3, 8, 20 (and line 78) run every 10 minutes on Saturdays and holidays from today.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-07",
+   "text": "Deadline for councillors' amendments to the 2027 budget.",
+   "place": "Kraków"
+  },
+  {
+   "date": "2026-12-14",
+   "text": "G20 leaders' summit at Trump National Doral, Miami (Dec 14–15); Poland is invited; a possible Modi–Trump bilateral is being watched",
+   "place": "US–India"
+  },
+  {
+   "date": "2026-12-15",
+   "text": "SC Thiruparankundram contempt hearing; TN Chief Secretary to appear in person",
+   "place": "India"
+  }
+ ],
+ "gaps": [
+  {
+   "place": "US",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "no sources found"
+  },
+  {
+   "place": "Poland",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Law, courts & regulation",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "Kraków",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "India",
+   "domain": "Infrastructure, transport & housing",
+   "status": "no sources found"
+  },
+  {
+   "place": "India",
+   "domain": "Culture, media & sport",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Technology, AI & cyber",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–India",
+   "domain": "Science & space",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Society: education, labor, immigration",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland",
+   "domain": "Environment, energy & disasters",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Defense, security & crime",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Trade & tariffs",
+   "status": "quiet"
+  },
+  {
+   "place": "Poland–India",
+   "domain": "Economy, business & markets",
+   "status": "quiet"
+  },
+  {
+   "place": "US–Poland–India",
+   "domain": "Foreign relations",
+   "status": "quiet"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Military.com",
+   "url": "https://www.military.com/us-air-force-computing-platform-breached-by-hackers-report",
+   "paywalled": false
+  },
+  {
+   "title": "Forbes (both citing Reuters)",
+   "url": "https://www.forbes.com/sites/saradorn/2026/11/27/air-forces-cloud-one-platform-hacked-report-says/",
+   "paywalled": false
+  },
+  {
+   "title": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown",
+   "paywalled": false
+  },
+  {
+   "title": "The National",
+   "url": "https://www.thenationalnews.com/news/us/2026/11/27/trump-backs-iraqs-al-zaidi-in-fight-against-oil-smuggling/",
+   "paywalled": false
+  },
+  {
+   "title": "The Spokesman-Review",
+   "url": "https://www.spokesman.com/stories/2026/nov/27/trump-defends-putin-friendship-that-zelenskyy-call/",
+   "paywalled": false
+  },
+  {
+   "title": "RTÉ",
+   "url": "https://www.rte.ie/news/2026/1127/1600845-trump-putin-ukraine/",
+   "paywalled": false
+  },
+  {
+   "title": "MPR News",
+   "url": "https://www.mprnews.org/story/2026/11/27/measles-cases-continue-increase-minnesota-three-deaths-wisconsin",
+   "paywalled": false
+  },
+  {
+   "title": "Columbus Dispatch via Yahoo",
+   "url": "https://www.yahoo.com/news/us/articles/ohio-measles-cases-week-nearly-150249831.html",
+   "paywalled": false
+  },
+  {
+   "title": "JBizNews",
+   "url": "https://jbiznews.com/u-s-stocks-close-sharply-higher-in-shortened-black-friday-session-and-post-big-weekly-gains-dow-jones-industrial-average-up-1-18-sp-500-up-1-60-nasdaq-composite-up-2-31/",
+   "paywalled": false
+  },
+  {
+   "title": "The Motley Fool",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/",
+   "paywalled": false
+  },
+  {
+   "title": "The Traveler",
+   "url": "https://www.thetraveler.org/thanksgiving-noreaster-disrupts-travel-as-east-coast-begins-cleanup/",
+   "paywalled": false
+  },
+  {
+   "title": "The Traveler",
+   "url": "https://www.thetraveler.org/duffy-thanksgiving-flight-delays-largely-weather-driven-so-far/",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-zawetowal-ustawe-podnoszaca-progi-podatkowe-st9356538",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24",
+   "url": "https://notesfrompoland.com/2026/11/27/president-vetoes-polish-governments-middle-class-tax-cuts/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polska/news-co-dalej-z-obowiazywaniem-stopni-alarmowych-w-polsce-tusk-zd,nIdn,1028020",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.nakolei.pl/charlie-na-kolei-przedluzony-do-28-lutego/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/fakty/polska/news-prezydent-nawrocki-drugi-raz-zawetowal-ustawe-o-tej-podwyzce,nIdn,1027990",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.polsatnews.pl/wiadomosc/2026-11-27/resort-reaguje-na-weto-wskazano-na-profilaktyke-i-leczenie-polakow/",
+   "paywalled": false
+  },
+  {
+   "title": "Infor.pl",
+   "url": "https://www.infor.pl/prawo/nowosci-prawne/7717546,weto-karola-nawrockiego-kluczowe-zmiany-w-podatkach-i-oplacie-cukrowej-zablokowane.html",
+   "paywalled": false
+  },
+  {
+   "title": "Infor.pl",
+   "url": "https://www.money.pl/finanse/weto-ws-progow-pit-ale-podpis-pod-inna-wazna-ustawa-co-oznaczaja-decyzje-nawrockiego-7355543506782368a.html",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland",
+   "url": "https://notesfrompoland.com/2026/11/27/poland-releases-international-expert-findings-confirming-smolensk-air-disaster-was-an-accident/",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland",
+   "url": "https://www.tvp.info/96749233/przeglad-najwazniejszych-wydarzen-piatku-27-listopada",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland",
+   "url": "https://notesfrompoland.com/2026/11/27/disputed-polish-constitutional-court-announces-12-month-suspension-of-chief-justice/",
+   "paywalled": false
+  },
+  {
+   "title": "Notes from Poland",
+   "url": "https://wydarzenia.interia.pl/kraj/news-donald-tusk-z-decyzja-ws-finansowania-tk-wydal-dyspozycje,nId,23579361",
+   "paywalled": false
+  },
+  {
+   "title": "Radio ESKA Warszawa",
+   "url": "https://warszawa.eska.pl/protest-przed-trybunalem-konstytucyjnym-w-warszawie-ratusz-sklada-zazalenie-aa-UCKe-LQ5U-cdth.html",
+   "paywalled": false
+  },
+  {
+   "title": "Radio ESKA Warszawa",
+   "url": "https://polityka.se.pl/wiadomosci/zapadla-decyzja-sadu-ws-miasteczka-pod-tk-kaczynski-zabral-glos-aa-8BZd-HSap-XhQv.html",
+   "paywalled": false
+  },
+  {
+   "title": "TVN24 Biznes",
+   "url": "https://tvn24.pl/biznes/z-kraju/spor-franczyzobiorcow-z-zabka-zarzuty-dotycza-vat-zadluzenia-i-rozliczen-spolka-odpowiada-st9361649",
+   "paywalled": false
+  },
+  {
+   "title": "krakow.pl",
+   "url": "https://krakow.pl/strefa_czystego_transportu_w_krakowie/346864,2353,komunikat,jakie_granice_i_zasady_strefy_czystego_transportu__konsultacje_spoleczne.html",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://www.bip.krakow.pl/?dok_id=192166&sub=porzadek_obrad",
+   "paywalled": false
+  },
+  {
+   "title": "KRKnews",
+   "url": "https://krknews.pl/67-sesja-rady-miasta-krakowa-pod-znakiem-przyszlorocznego-budzetu-i-wieloletniej-prognozy-finansowej/",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://lovekrakow.pl/nowe-tramwaje-przyjada-juz-w-2027-roku-mpk-zapowiada-koniec-wysokiej-podlogi",
+   "paywalled": false
+  },
+  {
+   "title": "LoveKraków.pl",
+   "url": "https://krakow.net.pl/komunikacja/budowa-nowych-tramwajow-dla-krakowa/",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków",
+   "url": "https://radiokrakow.pl/wiadomosci/krakow/jarmark-bozonarodzeniowy-na-rynku-glownym-szczegolne-srodki-bezpieczenstwa/188304",
+   "paywalled": false
+  },
+  {
+   "title": "Radio Kraków (IAR)",
+   "url": "https://krknews.pl/rusza-jarmark-bozonarodzeniowy-na-rynku-glownym-nie-wszyscy-sie-ciesza/",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24",
+   "url": "https://www.rmf24.pl/regiony/krakow/news-zamach-w-krakowie-rodzice-dziecka-z-nagrania-na-ul-grodzkiej,nIdn,1028033",
+   "paywalled": false
+  },
+  {
+   "title": "RMF24 (citing PAP)",
+   "url": "https://krakow.net.pl/wiadomosci/zamach-w-krakowie-rodzice-dziecka-z-ul-grodzkiej-w-prokuraturze-2/",
+   "paywalled": false
+  },
+  {
+   "title": "KR24.pl",
+   "url": "https://kr24.pl/krakow/200-tys-zl-dla-krakowskiej-policji-miasto-sfinansuje-zakup-kamizelek-i-zestawow-ratowniczych/",
+   "paywalled": false
+  },
+  {
+   "title": "KR24.pl",
+   "url": "https://krakow.net.pl/wiadomosci/krakow-przekaze-200-tys-zl-na-policje-prezydent-wskazal-cel-2/",
+   "paywalled": false
+  },
+  {
+   "title": "Kurier Krakowski",
+   "url": "https://kk24.info/ponad-270-drzew-do-wycinki-pod-strzelnice-w-bronowicach-krakow-chce-uchylenia-decyzji-wojewody/",
+   "paywalled": false
+  },
+  {
+   "title": "Kurier Krakowski (kk24.info)",
+   "url": "https://krakow.net.pl/dzielnice/miasto-odwoluje-sie-od-decyzji-wojewody-inwestycja-ul-rydla/",
+   "paywalled": false
+  },
+  {
+   "title": "Scroll",
+   "url": "https://scroll.in/latest/1097370/cabinet-clears-delimitation-bill-with-50-seat-increase-for-all-states-freeze-till-2051-reports",
+   "paywalled": false
+  },
+  {
+   "title": "Scroll (citing IE, TOI, The Hindu)",
+   "url": "https://www.newsgram.com/parliament/2026/11/27/cabinet-revised-delimitation-bill-special-session",
+   "paywalled": false
+  },
+  {
+   "title": "Deccan Chronicle",
+   "url": "https://www.deccanchronicle.com/nation/politics/congress-slams-ncp-sp-for-supporting-delimitation-bill-2008740",
+   "paywalled": false
+  },
+  {
+   "title": "Deccan Chronicle",
+   "url": "https://www.thedailyjagran.com/india/news/india-bloc-intensifies-unity-efforts-amid-ncp-sp-support-to-delimitation-dmk-aap-and-bjd-invited-at-kharges-meeting-10337947",
+   "paywalled": false
+  },
+  {
+   "title": "Bar & Bench",
+   "url": "https://www.barandbench.com/news/litigation/supreme-court-slams-tn-for-not-lighting-lamp-at-thiruparankundram-suspends-temple-trustees-orders-lighting-of-lamp-on-nov-28",
+   "paywalled": false
+  },
+  {
+   "title": "Bar & Bench",
+   "url": "https://thefederal.com/category/news/thiruparankundram-deepathoon-row-what-the-supreme-court-said-in-its-order-264289",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw",
+   "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-tata-sons-board-meeting-interim-relief-tata-trusts-560342",
+   "paywalled": false
+  },
+  {
+   "title": "LiveLaw",
+   "url": "https://www.livelawbiz.com/company-law/high-court/bombay-high-court-denies-interim-relief-to-tata-trusts-allows-november-30-tata-sons-board-meeting-560330",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://www.businesstoday.in/markets/stocks/story/bt-closing-bell-sensex-plunges-989-pts-nifty-ends-at-25607-what-fridays-market-fall-reflects-569980-2026-11-27",
+   "paywalled": false
+  },
+  {
+   "title": "Business Today",
+   "url": "https://www.tribuneindia.com/news/business/indias-forex-reserves-fall-to-16-week-low-of-usd-700-90-billion-as-gold-reserves-decline",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune",
+   "url": "https://www.tribuneindia.com/news/j-k/ladakh-poll-wangchuk-summoned-by-authorities-asked-why-he-shouldnt-be-made-to-sign-peace-bond/",
+   "paywalled": false
+  },
+  {
+   "title": "The Tribune",
+   "url": "https://www.etvbharat.com/en/bharat/ahead-of-lahdc-polls-leh-administration-seeks-peace-bond-from-wangchuk-over-protest-calls-enn26112608458",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/bharat/cold-wave-alert-in-rajasthan-dense-fog-to-affect-north-india-rain-likely-in-southern-states-enn26112701046",
+   "paywalled": false
+  },
+  {
+   "title": "ETV Bharat",
+   "url": "https://www.ibtimes.co.in/delhi-aqi-today-november-27-air-quality-improves-220-after-overnight-spike-393-check-highest-908719",
+   "paywalled": false
+  },
+  {
+   "title": "Indian Opinion",
+   "url": "https://indianopinion.org/fssai-sanctions-prosecution-against-bisleri-over-west-bengal-water-sample/",
+   "paywalled": false
+  },
+  {
+   "title": "Indian Opinion (summarising CNBC-TV18, TOI, India Today)",
+   "url": "https://www.cnbctv18.com/business/companies/fssai-sanctions-prosecution-against-bisleri-in-fresh-case-bacteria-found-in-bengal-sample-20043460.htm",
+   "paywalled": false
+  },
+  {
+   "title": "Rzeczpospolita",
+   "url": "https://radar.rp.pl/wojsko-polskie/art45554521-miliard-zlotych-dla-giganta-z-usa-polska-armia-podpisala-umowe-z-palantirem",
+   "paywalled": true
+  },
+  {
+   "title": "Rzeczpospolita (Radar)",
+   "url": "https://oko.press/na-zywo/na-zywo-relacja/mon-podpisal-umowe-z-palantirem",
+   "paywalled": true
+  },
+  {
+   "title": "airnews.in",
+   "url": "https://www.airnews.in/articles/30a7e79e80-piyush-goyal-pushes-us-trade-deal-as-washington-threatens-25-tariffs-on-90b-exports",
+   "paywalled": false
+  }
+ ]
+}
