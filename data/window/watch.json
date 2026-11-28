@@ -2991,6 +2991,17 @@
    "checkDate": "2027-02-28",
    "happened": "",
    "eventId": "E-261127-55"
+  },
+  {
+   "id": "W-261128-01",
+   "dateAdded": "2026-11-28",
+   "place": "US",
+   "domain": "Technology, AI & cyber",
+   "what": "Official confirmation and scope of the Air Force Cloud One breach (data taken? attribution?), Cyber Command assessment, and any congressional response",
+   "expected": "Reuters sources; Cyber Command assessing damage",
+   "checkDate": "2026-12-07",
+   "happened": "",
+   "eventId": "E-261128-03"
   }
  ]
 }
