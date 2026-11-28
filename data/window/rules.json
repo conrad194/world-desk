@@ -1103,6 +1103,38 @@
    "newsLink": "https://theprint.in/india/timeline-proposed-by-fssai-for-bringing-fopnl-regulations-into-force-reasonable-sc/3110111/",
    "eventId": "E-261127-44",
    "lastChecked": "2026-11-27"
+  },
+  {
+   "id": "R-261128-01",
+   "dateLogged": "2026-11-28",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "name": "Amendment on taxation of family foundations (print 3148)",
+   "changes": "Raises tax on benefits paid out by family foundations and on hidden profits from 15% to 19%. Limits the CIT rental exemption to long-term housing. Assets put in from 2027 must be held two years to keep sale proceeds tax-exempt. Unrepaid loans to founders count as hidden profit. Until end-2027, property can be returned to founders tax-free.",
+   "affects": "Owners and beneficiaries of family foundations (wealthy families, family businesses)",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "2027-01-01",
+   "officialLink": "",
+   "newsLink": "https://www.money.pl/finanse/weto-ws-progow-pit-ale-podpis-pod-inna-wazna-ustawa-co-oznaczaja-decyzje-nawrockiego-7355543506782368a.html",
+   "eventId": "E-261128-15",
+   "lastChecked": "2026-11-28"
+  },
+  {
+   "id": "R-261128-02",
+   "dateLogged": "2026-11-28",
+   "place": "Poland",
+   "body": "Sejm / President",
+   "name": "Act on support for energy-intensive sectors (print 3159)",
+   "changes": "Creates a 4.8bn zł aid programme for companies hit by high electricity prices.",
+   "affects": "Energy-intensive industrial firms (steel, chemicals, etc.)",
+   "stage": "Signed / published",
+   "commentDeadline": "",
+   "effectiveDate": "",
+   "officialLink": "",
+   "newsLink": "https://www.infor.pl/prawo/nowosci-prawne/7717546,weto-karola-nawrockiego-kluczowe-zmiany-w-podatkach-i-oplacie-cukrowej-zablokowane.html",
+   "eventId": "E-261128-15",
+   "lastChecked": "2026-11-28"
   }
  ]
 }

@@ -3002,6 +3002,28 @@
    "checkDate": "2026-12-07",
    "happened": "",
    "eventId": "E-261128-03"
+  },
+  {
+   "id": "W-261128-02",
+   "dateAdded": "2026-11-28",
+   "place": "Poland",
+   "domain": "Politics & government",
+   "what": "Sejm vote on overriding the PIT/CIT veto, or the government's 'plan B' (a new tax bill), after the Nov 27 veto",
+   "expected": "Domański and KO say there is a plan B; experts (egospodarka, finwire) expect the override to fail by about 30 votes",
+   "checkDate": "2026-12-10",
+   "happened": "",
+   "eventId": "E-261128-13"
+  },
+  {
+   "id": "W-261128-03",
+   "dateAdded": "2026-11-28",
+   "place": "Poland",
+   "domain": "Law, courts & regulation",
+   "what": "Court of Appeal ruling on Warsaw city hall's complaint over the Tribunal protest camp (assembly notified Nov 30–Jan 5)",
+   "expected": "Warsaw city hall (Trzaskowski) filed the complaint on Nov 27",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": "E-261128-19"
   }
  ]
 }
