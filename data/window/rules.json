@@ -24,13 +24,13 @@
    "name": "Exchange pre-eligibility verification (Working Families Tax Cut Act implementation)",
    "changes": "Exchanges must verify eligibility before enrollment, and premium tax credits and cost-sharing reductions are generally withheld while data matches are unresolved.",
    "affects": "ACA marketplace enrollees and Exchanges.",
-   "stage": "Open for comment",
+   "stage": "Proposed",
    "commentDeadline": "2026-11-26",
    "effectiveDate": "",
    "officialLink": "https://www.alston.com/en/insights/publications/2026/10/health-care-week-in-review-october-23-2026",
    "newsLink": "",
    "eventId": "E-261027-10",
-   "lastChecked": "2026-11-24"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261026-03",
@@ -94,7 +94,7 @@
    "officialLink": "",
    "newsLink": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Przerwanie-ciazy-ze-wzgledu-na-wady-plodu-Teraz-wszystko-w-rekach-prezydenta,290971,14.html",
    "eventId": "E-261106-16",
-   "lastChecked": "2026-11-24"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261026-07",
@@ -142,7 +142,7 @@
    "officialLink": "https://www.bip.krakow.pl/_inc/rada/show_pdfdoc.php?id=146628",
    "newsLink": "https://www.mjakmalopolska.pl/artykul/10236,krakow-przywroci-bilet-20-minutowy-lukasz-gibala-zapowiada-zmiany-od-2027-roku",
    "eventId": "E-261119-29",
-   "lastChecked": "2026-11-24"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261026-10",
@@ -232,13 +232,13 @@
    "name": "Bill amending PIT and CIT (2027 tax reform, resubmitted)",
    "changes": "Passed by the Sejm on Nov 5 (236–207) and by the Senate on Nov 6 without amendments (63–31–1). It adds a 24% PIT band for income of 130–150k zł and keeps 32% above that, sets 22% CIT for firms with revenue above €50m, raises the solidarity levy to 5% and cuts the lump-sum (ryczałt) limit to €250k. It awaits the President's signature (21 days) and must be published by end-November to apply in 2027.",
    "affects": "Higher earners, the largest companies and the self-employed on the lump-sum tax.",
-   "stage": "Passed / final",
+   "stage": "Struck down / withdrawn",
    "commentDeadline": "",
    "effectiveDate": "2027-01-01",
    "officialLink": "",
    "newsLink": "https://www.money.pl/podatki/zmiany-w-podatkach-senat-zdecydowal-teraz-czas-na-ruch-prezydenta-7348086529518048a.html",
    "eventId": "E-261106-17",
-   "lastChecked": "2026-11-24"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261105-02",
@@ -318,7 +318,7 @@
    "officialLink": "",
    "newsLink": "https://wydarzenia.interia.pl/kraj/news-senat-zdecydowal-ws-ustawy-praworzadnosciowej-chodzi-o-tzw-n,nId,23570104",
    "eventId": "E-261106-18",
-   "lastChecked": "2026-11-24"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261106-04",
@@ -360,13 +360,13 @@
    "name": "Draft resolution freezing Clean Transport Zone (SCT) entry fees for 2027-2028",
    "changes": "Keeps SCT entry fees at 100 zł a month, 2.50 zł an hour or 5 zł a day through 2027-2028, instead of the scheduled rise to 250 zł a month in 2027 and 500 zł in 2028. Zone area, emission rules and exemptions stay the same.",
    "affects": "Drivers of non-compliant cars entering the SCT, and Kraków residents who pay for entry",
-   "stage": "Open for comment",
+   "stage": "Proposed",
    "commentDeadline": "2026-11-27",
    "effectiveDate": "2027-01-01",
    "officialLink": "https://krakow.pl/aktualnosci/344065,1912,komunikat,stawki_oplat_w_sct_bez_podwyzek_do_konca_2028_r___wkrotce_konsultacje.html",
    "newsLink": "https://cowkrakowie.pl/2026/11/oplaty-za-wjazd-do-sct-w-krakowie-miasto-pyta-mieszkancow-o-zdanie",
    "eventId": "E-261119-31",
-   "lastChecked": "2026-11-26"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261106-07",
@@ -974,7 +974,7 @@
    "officialLink": "",
    "newsLink": "https://ksiegowosc.infor.pl/wiadomosci/7709883,klamka-juz-zapadla-w-sprawie-ulg-podatkowych-na-2027-r-prezydent-nawrocki-podpisal-nowele-ustaw-o-pit-cit-i-ryczalcie.html",
    "eventId": "E-261125-26",
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261125-03",
@@ -1086,7 +1086,7 @@
    "officialLink": "",
    "newsLink": "https://www.business-standard.com/india-news/delimitation-bill-what-it-proposes-for-lok-sabha-and-women-s-quota-rollout-126112700215_1.html",
    "eventId": "E-261127-35",
-   "lastChecked": "2026-11-27"
+   "lastChecked": "2026-11-28"
   },
   {
    "id": "R-261127-02",
