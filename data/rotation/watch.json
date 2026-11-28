@@ -736,7 +736,7 @@
    "segment": "South & Central Asia",
    "what": "Georgia: [[p:Constitutional Court of Georgia|Constitutional Court]] ruling on the suit to ban five opposition parties.",
    "expected": "No date set; the court planned hearings through 13 Nov (DFWatch). Opposition leader Nika Gvaramia expects a ban. Update: the court has until 24 June 2027 to rule; hearings continued on 17–18 Nov (JAMnews).",
-   "checkDate": "2026-12-05",
+   "checkDate": "2026-11-30",
    "happened": "",
    "eventId": "E-261121-42"
   },
@@ -1527,6 +1527,26 @@
    "what": "India: Supreme Court contempt hearing on the Thiruparankundram Deepathoon case, including the Tamil Nadu Chief Secretary's affidavit.",
    "expected": "Supreme Court bench of Justices Aravind Kumar and V.M. Pancholi listed the matter for 15 Dec (Supreme Court Observer).",
    "checkDate": "2026-12-15",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-10",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "Armenia–Russia: Eurasian Economic Union board review of Russia's restrictions on Armenian goods (1 Dec), followed by Pashinyan's Moscow visit and meeting with Putin (3 Dec).",
+   "expected": "Economy Minister Gevorg Papoyan and Pashinyan's office (JAMnews).",
+   "checkDate": "2026-12-03",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-11",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "Armenia–Azerbaijan: planned early-December visit to Azerbaijan by Armenian Security Council Secretary Armen Grigoryan, and parliamentary moves on a referendum on the draft constitution.",
+   "expected": "Grigoryan (JAMnews, 27 Nov).",
+   "checkDate": "2026-12-10",
    "happened": "",
    "eventId": ""
   }
