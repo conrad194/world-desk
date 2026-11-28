@@ -1469,6 +1469,36 @@
    "checkDate": "2026-12-04",
    "happened": "",
    "eventId": ""
+  },
+  {
+   "id": "W-261128-04",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "Pakistan: whether governor's rule and the emergency in Khyber Pakhtunkhwa are extended when the first two-month term ends.",
+   "expected": "ARY News, citing government sources, says the term ends 11 Dec and a two-month extension needs a joint sitting of Parliament.",
+   "checkDate": "2026-12-11",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-05",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "Pakistan: next IHC hearing on Imran Khan's and Bushra Bibi's £190m appeals, and the ruling on live-streaming them.",
+   "expected": "The IHC bench adjourned the case to next week without a date (The Nation, Minute Mirror).",
+   "checkDate": "2026-12-04",
+   "happened": "",
+   "eventId": ""
+  },
+  {
+   "id": "W-261128-06",
+   "dateAdded": "2026-11-28",
+   "segment": "South & Central Asia",
+   "what": "Pakistan–Afghanistan: visit by Qatar's Mohammed Al-Khulaifi to Kabul and Islamabad to revive mediation.",
+   "expected": "Sources quoted by Afghanistan International (via The Kabul Tribune) expect him from 28 Nov; Qatar has not confirmed.",
+   "checkDate": "2026-12-02",
+   "happened": "",
+   "eventId": ""
   }
  ]
 }
